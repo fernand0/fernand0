@@ -161,18 +161,18 @@ if __name__ == "__main__":
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
-    tils = fetch_tils()
-    tils_md = "\n".join(
-        [
-            "* [{title}]({url}) - {created_at}".format(
-                title=til["title"],
-                url=til["url"],
-                created_at=til["created_utc"].split("T")[0],
-            )
-            for til in tils
-        ]
-    )
-    rewritten = replace_chunk(rewritten, "tils", tils_md)
+    #tils = fetch_tils()
+    #tils_md = "\n".join(
+    #    [
+    #        "* [{title}]({url}) - {created_at}".format(
+    #            title=til["title"],
+    #            url=til["url"],
+    #            created_at=til["created_utc"].split("T")[0],
+    #        )
+    #        for til in tils
+    #    ]
+    #)
+    #rewritten = replace_chunk(rewritten, "tils", tils_md)
 
     blogs = fetch_blog_entries()#[:5]
     entries_md = "" 
