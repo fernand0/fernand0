@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm testing auto-update of my profile inspired by [Simon Willison](https://simonwillison.net/) published at: [Building a self-updating profile README for GitHub](Building a self-updating profile README for GitHub).
+I'm testing auto-update of my profile inspired by [Simon Willison](https://simonwillison.net/) published at: [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).
+
 Some work needs to be done.
 
 <!--
