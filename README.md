@@ -67,9 +67,12 @@ More on [simonwillison.net](https://simonwillison.net/)
 -->
 </td><td valign="top">
 
-### Twitter (Will it work?)
-<!-- tils starts -->
-<a class="twitter-timeline" href="https://twitter.com/fernand0?ref_src=twsrc%5Etfw">Tweets by fernand0</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+### Twitter 
+
+You can follow me at Twitter [@fernand0](https://twitter.com/fernand0)
+
+Will I be able to insert my tweets? We'll see.
+
 <!--
 * [How to deploy a folder with a Dockerfile to Cloud Run](https://github.com/simonw/til/blob/master/cloudrun/ship-dockerfile-to-cloud-run.md) - 2020-08-05
 * [SQLite BLOB literals](https://github.com/simonw/til/blob/master/sqlite/blob-literals.md) - 2020-07-29
