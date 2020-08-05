@@ -13,7 +13,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 <!-- recent_releases starts -->
 
 
-## repositoriesContributedTo
+#### repositoriesContributedTo
 * [errbot](https://github.com/errbotio/errbot/projects),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-07-30
 * [Notes](https://github.com/jgbarah/Notes/projects),  Some random notes about several topics- 2020-07-20
 * [python-linkedin](https://github.com/ozgur/python-linkedin/projects),  Python interface to the LinkedIn API- 2019-12-08
@@ -21,7 +21,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 * [buffpy](https://github.com/vtemian/buffpy/projects),  Simple to use python library for Buffer App- 2019-09-02
 * [err-guess-a-number](https://github.com/errbotio/err-guess-a-number/projects),  Example plugin for a simple Flow.- 2016-04-04
 
-## repositories
+#### repositories
 * [fernand0](https://github.com/fernand0/fernand0/projects),  Testing README - 2020-08-05
 * [scripts](https://github.com/fernand0/scripts/projects),  Programitas cortos que utilizo para teclear menos en la terminal.- 2020-08-04
 * [suculentas](https://github.com/fernand0/suculentas/projects),  Página web sobre suculentas- 2020-08-04
@@ -38,7 +38,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 <!-- blog starts -->
 
 
-## fernand0@GitHub
+#### fernand0@GitHub
 * [Los procedimientos almacenados y los sistemas](http://fernand0.github.io/procedimientos-almacenados/) - Mon, 03 Aug 2020 14:02:01 +0000
 * [Machine Learning para elegir un método de compresión](http://fernand0.github.io/machine-learning-compresion/) - Mon, 27 Jul 2020 14:02:01 +0000
 * [Make y makefiles siguen siendo herramientas de actualidad](http://fernand0.github.io/makefile-lenguaje-desarrollo/) - Sun, 19 Jul 2020 14:02:01 +0000
@@ -50,7 +50,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 * [Estructura interna de Git cuando se usan sus instrucciones](http://fernand0.github.io/funcionamiento-git-interno/) - Fri, 03 Apr 2020 14:02:01 +0000
 * [Números aleatorios desde el espacio](http://fernand0.github.io/numeros-aletaorios-espacio/) - Fri, 27 Mar 2020 14:05:01 +0000
 
-## Reflexiones e Irreflexiones
+#### Reflexiones e Irreflexiones
 * [La amabilidad y las organizaciones.](http://fernand0.blogalia.com//historias/78239) - Mon, 03 Aug 2020 17:28:47 +0200
 * [Tecnolog&#237;a tranquila: principios para dise&#241;os menos agresivos](http://fernand0.blogalia.com//historias/78232) - Mon, 27 Jul 2020 17:33:09 +0200
 * [La voracidad de Amazon](http://fernand0.blogalia.com//historias/78229) - Sun, 19 Jul 2020 17:54:02 +0200
