@@ -149,7 +149,7 @@ if __name__ == "__main__":
     releases = fetch_repos(TOKEN)
     md = ""
     for name in releases.keys():
-        md = md+"\n\n"+"## "+name
+        md = md+"\n\n"+"#### "+name
         releases[name].sort(key=lambda r: r["pushed_at"], reverse=True)
         print(releases[name])
         md = md+"\n"+"\n".join(
@@ -177,7 +177,7 @@ if __name__ == "__main__":
     blogs = fetch_blog_entries()#[:5]
     entries_md = "" 
     for blog in blogs:
-        entries_md = entries_md + "\n\n" + "## " + blog
+        entries_md = entries_md + "\n\n" + "#### " + blog
         for entry in blogs[blog]:
             entries_md = entries_md+"\n" + "* [{}]({}) - {}".format(entry['title'],entry['url'],entry['published'])
     rewritten = replace_chunk(rewritten, "blog", entries_md)
