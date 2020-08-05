@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm testing auto-update of my profile inspired by [Simon Willison](https://simonwillison.net/) published at: [Building a self-updating profile README for GitHub](Building a self-updating profile README for GitHub).
+Some work needs to be done.
+
 <!--
 Currently working on [Datasette](https://datasette.readthedocs.io/) and associated projects. Read [my blog](https://simonwillison.net/) or [follow @simonw on Twitter](https://twitter.com/simonw).
 --> 
@@ -64,8 +67,9 @@ More on [simonwillison.net](https://simonwillison.net/)
 -->
 </td><td valign="top">
 
-### TIL
+### Twitter (Will it work?)
 <!-- tils starts -->
+<a class="twitter-timeline" href="https://twitter.com/fernand0?ref_src=twsrc%5Etfw">Tweets by fernand0</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <!--
 * [How to deploy a folder with a Dockerfile to Cloud Run](https://github.com/simonw/til/blob/master/cloudrun/ship-dockerfile-to-cloud-run.md) - 2020-08-05
 * [SQLite BLOB literals](https://github.com/simonw/til/blob/master/sqlite/blob-literals.md) - 2020-07-29
