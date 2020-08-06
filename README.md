@@ -1,5 +1,11 @@
 ### Hi there 👋 ¡Hola!
 
+<a href="mailto:ftricas@unizar.es" title="e-mail"><i class="svg-icon email"></i></a> 
+<a href="https://www.linkedin.com/in/fernand0" title="My LinkedIn//Mi LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a href="https://www.twitter.com/fernand0" title="My Twitter//Mi Twitter"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></i></a> 
+<a href="https://mastodon.social/@fernand0" title="My Mastodon//Mi Mastodon"><img src="https://img.shields.io/static/v1?label=Mastodon&message=Social&color=blue" height=25></i></a> 
+<a href="https://flickr.com/fernand0"><img src="https://img.shields.io/static/v1?label=Flickr&message=Images&color=blue" height=25></a>
+<a href="https://dev.to/fernand0"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 
 ### Recent Contributions
 <!-- recent_releases starts -->
@@ -24,9 +30,9 @@
 * [elmundoesimperfecto](https://github.com/fernand0/elmundoesimperfecto/projects),  My version of PubWichFork as a backup- 2020-01-01
 <!-- recent_releases ends -->
 
-### On my blog
-<!-- blog starts -->
+### On my blog (in Spanish)
 
+<!-- blog starts -->
 
 #### fernand0@GitHub
 * [Los procedimientos almacenados y los sistemas](http://fernand0.github.io/procedimientos-almacenados/) - 2020-08-03
@@ -52,9 +58,6 @@
 * [Noticias falsas, verdaderas y lo que hacemos con ellas en redes sociales](http://fernand0.blogalia.com//historias/78166) - 2020-04-13
 * [La &#191;muerte? del LMS](http://fernand0.blogalia.com//historias/78161) - 2020-04-07
 <!-- blog ends -->
-<!--
-More on [simonwillison.net](https://simonwillison.net/)
--->
 
 ### Twitter 
 
@@ -66,22 +69,6 @@ I'm testing auto-update of my profile inspired by [Simon Willison](https://simon
 
 Some work needs to be done.
 
-<!--
-* [How to deploy a folder with a Dockerfile to Cloud Run](https://github.com/simonw/til/blob/master/cloudrun/ship-dockerfile-to-cloud-run.md) - 2020-08-05
-* [SQLite BLOB literals](https://github.com/simonw/til/blob/master/sqlite/blob-literals.md) - 2020-07-29
-* [PostgreSQL full-text search in the Django Admin](https://github.com/simonw/til/blob/master/django/postgresql-full-text-search-admin.md) - 2020-07-25
-* [Implementing a "copy to clipboard" button](https://github.com/simonw/til/blob/master/javascript/copy-button.md) - 2020-07-23
-* [Updating a Markdown table of contents with a GitHub Action](https://github.com/simonw/til/blob/master/github-actions/markdown-table-of-contents.md) - 2020-07-22
--->
-<!-- tils ends -->
-<!--
-More on [til.simonwillison.net](https://til.simonwillison.net/)
--->
-
-<!--
-<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
-
--->
 <!--
 **fernand0/fernand0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
