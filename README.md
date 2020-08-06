@@ -11,7 +11,7 @@
 <!-- recent_releases starts -->
 
 
-#### repositoriesContributedTo
+## repositoriesContributedTo
 * [errbot](https://github.com/errbotio/errbot/projects),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-07-30
 * [Notes](https://github.com/jgbarah/Notes/projects),  Some random notes about several topics- 2020-07-20
 * [python-linkedin](https://github.com/ozgur/python-linkedin/projects),  Python interface to the LinkedIn API- 2019-12-08
@@ -19,7 +19,7 @@
 * [buffpy](https://github.com/vtemian/buffpy/projects),  Simple to use python library for Buffer App- 2019-09-02
 * [err-guess-a-number](https://github.com/errbotio/err-guess-a-number/projects),  Example plugin for a simple Flow.- 2016-04-04
 
-#### repositories
+## repositories
 * [scripts](https://github.com/fernand0/scripts/projects),  Programitas cortos que utilizo para teclear menos en la terminal.- 2020-08-06
 * [err-buffer](https://github.com/fernand0/err-buffer/projects),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-08-06
 * [fernand0](https://github.com/fernand0/fernand0/projects),  Testing README - 2020-08-06
@@ -36,7 +36,7 @@
 <!-- blog starts -->
 
 
-#### [fernand0@GitHub](https://fernand0.github.io/)
+## [fernand0@GitHub](https://fernand0.github.io/)
 * [Los procedimientos almacenados y los sistemas](http://fernand0.github.io/procedimientos-almacenados/) - 2020-08-03
 * [Machine Learning para elegir un método de compresión](http://fernand0.github.io/machine-learning-compresion/) - 2020-07-27
 * [Make y makefiles siguen siendo herramientas de actualidad](http://fernand0.github.io/makefile-lenguaje-desarrollo/) - 2020-07-19
@@ -48,7 +48,7 @@
 * [Estructura interna de Git cuando se usan sus instrucciones](http://fernand0.github.io/funcionamiento-git-interno/) - 2020-04-03
 * [Números aleatorios desde el espacio](http://fernand0.github.io/numeros-aletaorios-espacio/) - 2020-03-27
 
-#### [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [La amabilidad y las organizaciones.](http://fernand0.blogalia.com//historias/78239) - 2020-08-03
 * [Tecnolog&#237;a tranquila: principios para dise&#241;os menos agresivos](http://fernand0.blogalia.com//historias/78232) - 2020-07-27
 * [La voracidad de Amazon](http://fernand0.blogalia.com//historias/78229) - 2020-07-19
