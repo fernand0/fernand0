@@ -7,6 +7,8 @@ import pathlib
 import re
 import os
 
+from dateutil.parser import parse
+
 # Quick and dirty modification inspired by https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 
 root = pathlib.Path(__file__).parent.resolve()
@@ -131,7 +133,6 @@ def fetch_blog_entries():
         result[entry] = []
         for blogEntry in entries[entry]:
             timePublished=blogEntry["published"]
-            from dateutil.parser import parse
             timeParsed = parse(timePublished)
             timePublished = "{}-{:02}-{:02}".format(timeParsed.year,
                     timeParsed.month, timeParsed.day)
