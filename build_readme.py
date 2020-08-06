@@ -168,7 +168,7 @@ if __name__ == "__main__":
     blogs = fetch_blog_entries(myBlogs)#[:5]
     entries_md = "" 
     for blog in blogs:
-        entries_md = entries_md + "\n\n" + "#### " + "[{}]({1.scheme}://{1.netloc}/)".format(blog,urlsplit(url))
+        entries_md = entries_md + "\n\n" + "#### " + "[{}]({1.scheme}://{1.netloc}/)".format(blog,urlsplit(myBlogs[blog]))
         for entry in blogs[blog]:
             entries_md = entries_md+"\n" + "* [{}]({}) - {}".format(entry['title'],entry['url'],entry['published'])
     rewritten = replace_chunk(rewritten, "blog", entries_md)
