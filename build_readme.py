@@ -130,10 +130,15 @@ def fetch_blog_entries():
     for entry in entries.keys():
         result[entry] = []
         for blogEntry in entries[entry]:
+            timePublished=blogEntry["published"]
+            from dateutil.parser import parse
+            timeParsed = parse(timePublished)
+            timePublished = "{}-{:02}-{:02}".format(timeParsed.year,
+                    timeParsed.month, timeParsed.day)
             result[entry].append({
                 "title": blogEntry["title"],
                 "url": blogEntry["link"].split("#")[0],
-                "published": blogEntry["published"].split("T")[0],
+                "published": timePublished,
             }
             )
         for resu in result:
@@ -160,19 +165,6 @@ if __name__ == "__main__":
         )
     readme_contents = readme.open().read()
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
-
-    #tils = fetch_tils()
-    #tils_md = "\n".join(
-    #    [
-    #        "* [{title}]({url}) - {created_at}".format(
-    #            title=til["title"],
-    #            url=til["url"],
-    #            created_at=til["created_utc"].split("T")[0],
-    #        )
-    #        for til in tils
-    #    ]
-    #)
-    #rewritten = replace_chunk(rewritten, "tils", tils_md)
 
     blogs = fetch_blog_entries()#[:5]
     entries_md = "" 
