@@ -7,7 +7,7 @@
 <a href="https://flickr.com/fernand0"><img src="https://img.shields.io/static/v1?label=Flickr&message=Images&color=blue" height=25></a>
 <a href="https://dev.to/fernand0"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 
-### Recent Contributions
+# Recent Contributions
 <!-- recent_releases starts -->
 
 #### repositoriesContributedTo
@@ -30,7 +30,7 @@
 * [elmundoesimperfecto](https://github.com/fernand0/elmundoesimperfecto/projects),  My version of PubWichFork as a backup- 2020-01-01
 <!-- recent_releases ends -->
 
-### On my blog (in Spanish)
+# On my blog (in Spanish)
 
 <!-- blog starts -->
 
