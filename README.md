@@ -1,18 +1,13 @@
 ### Hi there 👋
 
-I'm testing auto-update of my profile inspired by [Simon Willison](https://simonwillison.net/) published at: [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).
-
-Some work needs to be done.
-
 <!--
 Currently working on [Datasette](https://datasette.readthedocs.io/) and associated projects. Read [my blog](https://simonwillison.net/) or [follow @simonw on Twitter](https://twitter.com/simonw).
 --> 
 
 <table><tr><td valign="top">
 
-### Recent releases
+### Recent Contributions
 <!-- recent_releases starts -->
-
 
 #### repositoriesContributedTo
 * [errbot](https://github.com/errbotio/errbot/projects),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-07-30
@@ -66,13 +61,16 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 <!--
 More on [simonwillison.net](https://simonwillison.net/)
 -->
-</td><td valign="top">
 
 ### Twitter 
 
 You can follow me at Twitter [@fernand0](https://twitter.com/fernand0)
 
 Will I be able to insert my tweets? We'll see.
+
+I'm testing auto-update of my profile inspired by [Simon Willison](https://simonwillison.net/) published at: [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).
+
+Some work needs to be done.
 
 <!--
 * [How to deploy a folder with a Dockerfile to Cloud Run](https://github.com/simonw/til/blob/master/cloudrun/ship-dockerfile-to-cloud-run.md) - 2020-08-05
