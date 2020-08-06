@@ -69,6 +69,8 @@ Will I be able to insert my tweets? We'll see.
 
 I'm testing auto-update of my profile inspired by [Simon Willison](https://simonwillison.net/) published at: [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).
 
+The icons have been inspired by [Michael Hoffmann](https://www.mokkapps.de/).
+
 Some work needs to be done.
 
 <!--
