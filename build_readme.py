@@ -37,7 +37,7 @@ query MyQuery {
         }
       }
     }
-    repositories(last: 10, orderBy: {field: UPDATED_AT, direction: ASC}) {
+    repositories(last: 10, orderBy: {field: UPDATED_AT, direction: ASC}, privacy: PUBLIC) {
       edges {
         node {
           name
