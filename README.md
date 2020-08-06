@@ -1,13 +1,8 @@
-### Hi there 👋
-
-<!--
-Currently working on [Datasette](https://datasette.readthedocs.io/) and associated projects. Read [my blog](https://simonwillison.net/) or [follow @simonw on Twitter](https://twitter.com/simonw).
---> 
+### Hi there 👋 ¡Hola!
 
 
 ### Recent Contributions
 <!-- recent_releases starts -->
-
 
 #### repositoriesContributedTo
 * [errbot](https://github.com/errbotio/errbot/projects),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-07-30
