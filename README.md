@@ -21,9 +21,9 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0/projects),  Testing README - 2020-08-10
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io/projects),  This is for my blog. A fork of the wonderful Jekyll project.- 2020-08-10
 * [scripts](https://github.com/fernand0/scripts/projects),  Programitas cortos que utilizo para teclear menos en la terminal.- 2020-08-09
 * [err-buffer](https://github.com/fernand0/err-buffer/projects),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-08-09
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io/projects),  This is for my blog. A fork of the wonderful Jekyll project.- 2020-08-06
 * [err-camera](https://github.com/fernand0/err-camera/projects),  Errbot plugin to take pictures with a webcam.- 2020-03-14
 * [err-forward](https://github.com/fernand0/err-forward/projects),  ErrBot plugin for forwarding messages- 2020-02-03
 * [err-social](https://github.com/fernand0/err-social/projects),  Posting in some social networks from errbot- 2020-01-17
@@ -37,6 +37,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Sobre el método usado para generar ficheros .zip](http://fernand0.github.io/zip-compresion/) - 2020-08-10
 * [Automatización de lo que se ve en el perfil de GitHub](http://fernand0.github.io/perfil-automatico-github/) - 2020-08-06
 * [Los procedimientos almacenados y los sistemas](http://fernand0.github.io/procedimientos-almacenados/) - 2020-08-03
 * [Machine Learning para elegir un método de compresión](http://fernand0.github.io/machine-learning-compresion/) - 2020-07-27
@@ -46,9 +47,9 @@
 * [¿Te interesan los navegadores web? Una lista de recursos](http://fernand0.github.io/recursos-sobre-navegadores/) - 2020-04-29
 * [OAuth 2.0 y OpenId. Autorización e identidad entre servicios.](http://fernand0.github.io/guia-ilustrada-oauth/) - 2020-04-17
 * [Estructura y funcionamiento de Unix](http://fernand0.github.io/funcionamiento-unix/) - 2020-04-12
-* [Estructura interna de Git cuando se usan sus instrucciones](http://fernand0.github.io/funcionamiento-git-interno/) - 2020-04-03
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [La tecnolog&#237;a, con cuidado, pero sin dejar de usarla](http://fernand0.blogalia.com//historias/78241) - 2020-08-10
 * [La amabilidad y las organizaciones.](http://fernand0.blogalia.com//historias/78239) - 2020-08-03
 * [Tecnolog&#237;a tranquila: principios para dise&#241;os menos agresivos](http://fernand0.blogalia.com//historias/78232) - 2020-07-27
 * [La voracidad de Amazon](http://fernand0.blogalia.com//historias/78229) - 2020-07-19
@@ -58,7 +59,6 @@
 * [&#191;Una web sin enlaces?](http://fernand0.blogalia.com//historias/78177) - 2020-05-01
 * [Aprendizaje: empaqu&#233;telo usted mismo](http://fernand0.blogalia.com//historias/78171) - 2020-04-23
 * [Noticias falsas, verdaderas y lo que hacemos con ellas en redes sociales](http://fernand0.blogalia.com//historias/78166) - 2020-04-13
-* [La &#191;muerte? del LMS](http://fernand0.blogalia.com//historias/78161) - 2020-04-07
 <!-- blog ends -->
 
 ### Twitter 
