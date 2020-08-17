@@ -21,11 +21,11 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0/projects),  Testing README - 2020-08-17
+* [err-buffer](https://github.com/fernand0/err-buffer/projects),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-08-17
 * [scripts](https://github.com/fernand0/scripts/projects),  Programitas cortos que utilizo para teclear menos en la terminal.- 2020-08-16
-* [err-buffer](https://github.com/fernand0/err-buffer/projects),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-08-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io/projects),  This is for my blog. A fork of the wonderful Jekyll project.- 2020-08-10
 * [err-camera](https://github.com/fernand0/err-camera/projects),  Errbot plugin to take pictures with a webcam.- 2020-03-14
-* [err-forward](https://github.com/fernand0/err-forward/projects),  ErrBot plugin for forwarding messages- 2020-02-03
+* [err-forward](https://github.com/fernand0/err-forward/projects),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2020-02-03
 * [err-social](https://github.com/fernand0/err-social/projects),  Posting in some social networks from errbot- 2020-01-17
 * [archivo](https://github.com/fernand0/archivo/projects),  Archivo de mis blogs, para reutilizar según convenga....- 2020-01-02
 * [elmundoesimperfecto](https://github.com/fernand0/elmundoesimperfecto/projects),  My version of PubWichFork as a backup- 2020-01-01
