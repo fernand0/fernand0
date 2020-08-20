@@ -16,7 +16,6 @@
 * [Notes](https://github.com/jgbarah/Notes/projects),  Some random notes about several topics- 2020-07-20
 * [python-linkedin](https://github.com/ozgur/python-linkedin/projects),  Python interface to the LinkedIn API- 2019-12-08
 * [python-linkedin-v2](https://github.com/HootsuiteLabs/python-linkedin-v2/projects),  Python interface to the LinkedIn API - V2- 2019-12-08
-* [buffpy](https://github.com/vtemian/buffpy/projects),  Simple to use python library for Buffer App- 2019-09-02
 * [err-guess-a-number](https://github.com/errbotio/err-guess-a-number/projects),  Example plugin for a simple Flow.- 2016-04-04
 
 ## repositories
