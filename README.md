@@ -12,7 +12,7 @@
 
 
 ## repositoriesContributedTo
-* [errbot](https://github.com/errbotio/errbot/projects),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-07-30
+* [errbot](https://github.com/errbotio/errbot/projects),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-08-23
 * [Notes](https://github.com/jgbarah/Notes/projects),  Some random notes about several topics- 2020-07-20
 * [python-linkedin](https://github.com/ozgur/python-linkedin/projects),  Python interface to the LinkedIn API- 2019-12-08
 * [python-linkedin-v2](https://github.com/HootsuiteLabs/python-linkedin-v2/projects),  Python interface to the LinkedIn API - V2- 2019-12-08
