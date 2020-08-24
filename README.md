@@ -11,7 +11,14 @@
 <!-- recent_releases starts -->
 
 
-## My repositories
+## repositoriesContributedTo
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-08-23
+* [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2020-07-20
+* [python-linkedin](https://github.com/ozgur/python-linkedin),  Python interface to the LinkedIn API- 2019-12-08
+* [python-linkedin-v2](https://github.com/HootsuiteLabs/python-linkedin-v2),  Python interface to the LinkedIn API - V2- 2019-12-08
+* [err-guess-a-number](https://github.com/errbotio/err-guess-a-number),  Example plugin for a simple Flow.- 2016-04-04
+
+## repositories
 * [fernand0](https://github.com/fernand0/fernand0),  Testing README - 2020-08-24
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-08-23
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2020-08-23
