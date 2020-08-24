@@ -10,7 +10,6 @@
 # Recent Contributions
 <!-- recent_releases starts -->
 
-
 ## repositoriesContributedTo
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-08-23
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2020-07-20
@@ -29,13 +28,6 @@
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2020-01-02
 * [elmundoesimperfecto](https://github.com/fernand0/elmundoesimperfecto),  My version of PubWichFork as a backup- 2020-01-01
 <!-- recent_releases ends -->
-
-## Other repositories
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-08-23
-* [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2020-07-20
-* [python-linkedin](https://github.com/ozgur/python-linkedin),  Python interface to the LinkedIn API- 2019-12-08
-* [python-linkedin-v2](https://github.com/HootsuiteLabs/python-linkedin-v2),  Python interface to the LinkedIn API - V2- 2019-12-08
-* [err-guess-a-number](https://github.com/errbotio/err-guess-a-number),  Example plugin for a simple Flow.- 2016-04-04
 
 # On my blog (in Spanish)
 
