@@ -36,7 +36,7 @@ query MyQuery {
         node {
           name
           description
-          projectsUrl
+          url
           pushedAt
         }
       }
@@ -46,7 +46,7 @@ query MyQuery {
         node {
           name
           description
-          projectsUrl
+          url
           owner {
             login
           }
