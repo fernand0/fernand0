@@ -85,7 +85,7 @@ def fetch_repos(oauth_token):
                         "repo": repo["node"]["name"],
                         "description": repo["node"]["description"],
                         "pushed_at": repo["node"]["pushedAt"].split("T")[0],
-                        "url": repo["node"]["projectsUrl"]
+                        "url": repo["node"]["url"]
                     }
                 )
         releases["repositories"]=[]
@@ -98,7 +98,7 @@ def fetch_repos(oauth_token):
                         "repo": repo["node"]["name"],
                         "description": repo["node"]["description"],
                         "pushed_at": repo["node"]["pushedAt"].split("T")[0],
-                        "url": repo["node"]["projectsUrl"]
+                        "url": repo["node"]["url"]
                     }
                 )
         has_next_page = False
