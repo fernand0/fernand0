@@ -19,7 +19,7 @@
 * [err-guess-a-number](https://github.com/errbotio/err-guess-a-number/projects),  Example plugin for a simple Flow.- 2016-04-04
 
 ## repositories
-* [fernand0](https://github.com/fernand0/fernand0/projects),  Testing README - 2020-08-23
+* [fernand0](https://github.com/fernand0/fernand0/projects),  Testing README - 2020-08-24
 * [err-buffer](https://github.com/fernand0/err-buffer/projects),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-08-23
 * [scripts](https://github.com/fernand0/scripts/projects),  Programitas cortos que utilizo para teclear menos en la terminal.- 2020-08-23
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io/projects),  This is for my blog. A fork of the wonderful Jekyll project.- 2020-08-20
