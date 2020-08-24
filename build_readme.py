@@ -31,16 +31,6 @@ def make_query(after_cursor=None):
     return """
 query MyQuery {
   user(login: "fernand0") {
-    repositoriesContributedTo(last: 20, orderBy: {field: PUSHED_AT, direction: DESC}) {
-      edges {
-        node {
-          name
-          description
-          url
-          pushedAt
-        }
-      }
-    }
     repositories(last: 10, orderBy: {field: UPDATED_AT, direction: ASC}, privacy: PUBLIC) {
       edges {
         node {
@@ -54,6 +44,17 @@ query MyQuery {
         }
       }
     }
+    repositoriesContributedTo(last: 20, orderBy: {field: PUSHED_AT, direction: DESC}) {
+      edges {
+        node {
+          name
+          description
+          url
+          pushedAt
+        }
+      }
+    }
+
   }
 }
 """.replace(
