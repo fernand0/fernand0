@@ -68,43 +68,40 @@ def fetch_repos(oauth_token):
     has_next_page = True
     after_cursor = None
 
-    while has_next_page:
-        data = client.execute(
-            query=make_query(after_cursor),
-            headers={"Authorization": "Bearer {}".format(oauth_token)},
-        )
-        print()
-        print(json.dumps(data, indent=4))
-        print()
-        releases["repositoriesContributedTo"]=[]
-        for repo in data["data"]["user"]["repositoriesContributedTo"]["edges"]:
-            if repo["node"]["name"] not in repo_names:
-                repos.append(repo)
-                repo_names.add(repo["node"]["name"])
-                releases["repositoriesContributedTo"].append(
-                    {
-                        "repo": repo["node"]["name"],
-                        "description": repo["node"]["description"],
-                        "pushed_at": repo["node"]["pushedAt"].split("T")[0],
-                        "url": repo["node"]["url"]
-                    }
-                )
-        releases["repositories"]=[]
-        for repo in data["data"]["user"]["repositories"]["edges"]:
-            if repo["node"]["name"] not in repo_names:
-                repos.append(repo)
-                repo_names.add(repo["node"]["name"])
-                releases["repositories"].append(
-                    {
-                        "repo": repo["node"]["name"],
-                        "description": repo["node"]["description"],
-                        "pushed_at": repo["node"]["pushedAt"].split("T")[0],
-                        "url": repo["node"]["url"]
-                    }
-                )
-        has_next_page = False
-        #has_next_page = data["data"]["user"]["hasNextPage"]
-        #after_cursor = data["data"]["use"]["repositoriesContributedTo"]["pageInfo"]["endCursor"]
+    #while has_next_page:
+    data = client.execute(
+        query=make_query(after_cursor),
+        headers={"Authorization": "Bearer {}".format(oauth_token)},
+    )
+    releases["repositories"]=[]
+    for repo in data["data"]["user"]["repositories"]["edges"]:
+        if repo["node"]["name"] not in repo_names:
+            repos.append(repo)
+            repo_names.add(repo["node"]["name"])
+            releases["repositories"].append(
+                {
+                    "repo": repo["node"]["name"],
+                    "description": repo["node"]["description"],
+                    "pushed_at": repo["node"]["pushedAt"].split("T")[0],
+                    "url": repo["node"]["url"]
+                }
+            )
+    releases["repositoriesContributedTo"]=[]
+    for repo in data["data"]["user"]["repositoriesContributedTo"]["edges"]:
+        if repo["node"]["name"] not in repo_names:
+            repos.append(repo)
+            repo_names.add(repo["node"]["name"])
+            releases["repositoriesContributedTo"].append(
+                {
+                    "repo": repo["node"]["name"],
+                    "description": repo["node"]["description"],
+                    "pushed_at": repo["node"]["pushedAt"].split("T")[0],
+                    "url": repo["node"]["url"]
+                }
+            )
+    #    has_next_page = False
+    #    #has_next_page = data["data"]["user"]["hasNextPage"]
+    #    #after_cursor = data["data"]["use"]["repositoriesContributedTo"]["pageInfo"]["endCursor"]
     return releases
 
 #def fetch_tweets():
