@@ -13,10 +13,10 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0),  Testing README - 2020-08-25
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  This is for my blog. A fork of the wonderful Jekyll project.- 2020-08-25
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2020-08-24
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-08-24
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2020-08-24
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  This is for my blog. A fork of the wonderful Jekyll project.- 2020-08-20
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2020-04-06
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2020-03-14
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2020-02-03
@@ -24,7 +24,7 @@
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2020-01-02
 
 ## repositoriesContributedTo
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-08-24
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-08-26
 * [python-linkedin](https://github.com/ozgur/python-linkedin),  Python interface to the LinkedIn API- 2019-12-08
 * [python-linkedin-v2](https://github.com/HootsuiteLabs/python-linkedin-v2),  Python interface to the LinkedIn API - V2- 2019-12-08
 * [err-guess-a-number](https://github.com/errbotio/err-guess-a-number),  Example plugin for a simple Flow.- 2016-04-04
@@ -36,6 +36,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Equipos distribuidos y desarrollo](http://fernand0.github.io/equipos-distribuidos/) - 2020-08-25
 * [Proyecto de OWASP sobre seguridad de APIs](http://fernand0.github.io/seguridad-apis/) - 2020-08-20
 * [Sobre el método usado para generar ficheros .zip](http://fernand0.github.io/zip-compresion/) - 2020-08-10
 * [Automatización de lo que se ve en el perfil de GitHub](http://fernand0.github.io/perfil-automatico-github/) - 2020-08-06
@@ -45,9 +46,9 @@
 * [Teoría de la probabilidad y gestión de sistemas](http://fernand0.github.io/probabilidades-y-programacion-sistemas/) - 2020-07-10
 * [Modelo de Seguridad en programas informáticos de la OWASP](http://fernand0.github.io/owasp-modelos-madurez/) - 2020-06-29
 * [¿Te interesan los navegadores web? Una lista de recursos](http://fernand0.github.io/recursos-sobre-navegadores/) - 2020-04-29
-* [OAuth 2.0 y OpenId. Autorización e identidad entre servicios.](http://fernand0.github.io/guia-ilustrada-oauth/) - 2020-04-17
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Los datos de localizaci&#243;n de las personas, su recopilaci&#243;n y por qu&#233; debe preocuparnos](http://fernand0.blogalia.com//historias/78246) - 2020-08-25
 * [El trabajo del investigador ... &#191;De 9 a 5?](http://fernand0.blogalia.com//historias/78244) - 2020-08-20
 * [La tecnolog&#237;a, con cuidado, pero sin dejar de usarla](http://fernand0.blogalia.com//historias/78241) - 2020-08-10
 * [La amabilidad y las organizaciones.](http://fernand0.blogalia.com//historias/78239) - 2020-08-03
@@ -57,7 +58,6 @@
 * [Sobre la mediocridad y el miedo a cambiar](http://fernand0.blogalia.com//historias/78221) - 2020-06-29
 * [Mi relaci&#243;n con el gol de Nayim](http://fernand0.blogalia.com//historias/78183) - 2020-05-14
 * [&#191;Una web sin enlaces?](http://fernand0.blogalia.com//historias/78177) - 2020-05-01
-* [Aprendizaje: empaqu&#233;telo usted mismo](http://fernand0.blogalia.com//historias/78171) - 2020-04-23
 <!-- blog ends -->
 
 ### Twitter 
