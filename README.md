@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [fernand0](https://github.com/fernand0/fernand0),  Testing README - 2020-08-26
+* [fernand0](https://github.com/fernand0/fernand0),  Testing README - 2020-08-27
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2020-08-26
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2020-08-26
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  This is for my blog. A fork of the wonderful Jekyll project.- 2020-08-25
@@ -36,16 +36,6 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
-* [Equipos distribuidos y desarrollo](http://fernand0.github.io/equipos-distribuidos/) - 2020-08-25
-* [Proyecto de OWASP sobre seguridad de APIs](http://fernand0.github.io/seguridad-apis/) - 2020-08-20
-* [Sobre el método usado para generar ficheros .zip](http://fernand0.github.io/zip-compresion/) - 2020-08-10
-* [Automatización de lo que se ve en el perfil de GitHub](http://fernand0.github.io/perfil-automatico-github/) - 2020-08-06
-* [Los procedimientos almacenados y los sistemas](http://fernand0.github.io/procedimientos-almacenados/) - 2020-08-03
-* [Machine Learning para elegir un método de compresión](http://fernand0.github.io/machine-learning-compresion/) - 2020-07-27
-* [Make y makefiles siguen siendo herramientas de actualidad](http://fernand0.github.io/makefile-lenguaje-desarrollo/) - 2020-07-19
-* [Teoría de la probabilidad y gestión de sistemas](http://fernand0.github.io/probabilidades-y-programacion-sistemas/) - 2020-07-10
-* [Modelo de Seguridad en programas informáticos de la OWASP](http://fernand0.github.io/owasp-modelos-madurez/) - 2020-06-29
-* [¿Te interesan los navegadores web? Una lista de recursos](http://fernand0.github.io/recursos-sobre-navegadores/) - 2020-04-29
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Los datos de localizaci&#243;n de las personas, su recopilaci&#243;n y por qu&#233; debe preocuparnos](http://fernand0.blogalia.com//historias/78246) - 2020-08-25
