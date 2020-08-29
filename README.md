@@ -1,4 +1,4 @@
-### Hi there 👋 ¡Hola!
+### Hi there -- ¡Hola!
 
 <a href="mailto:ftricas@unizar.es" title="e-mail"><i class="svg-icon email"></i></a> 
 <a href="https://www.linkedin.com/in/fernand0" title="My LinkedIn//Mi LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
