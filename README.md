@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [fernand0](https://github.com/fernand0/fernand0),  Testing README - 2020-09-01
+* [fernand0](https://github.com/fernand0/fernand0),  Testing README - 2020-09-03
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  This is for my blog. A fork of the wonderful Jekyll project.- 2020-08-31
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-08-30
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2020-08-29
