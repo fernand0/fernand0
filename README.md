@@ -13,9 +13,9 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0),  Testing README - 2020-09-30
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2020-09-30
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2020-09-29
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-09-26
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2020-09-21
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2020-08-29
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2020-08-26
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2020-03-14
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Programando criptografía](http://fernand0.github.io/criptografia-casera/) - 2020-09-30
 * [Gestores de contraseñas y seguridad](http://fernand0.github.io/gestores-claves-vulnerables/) - 2020-09-21
 * [Filtros de Bloom y optimización fallida](http://fernand0.github.io/filtros-bloom-inconvenientes/) - 2020-08-31
 * [Equipos distribuidos y desarrollo](http://fernand0.github.io/equipos-distribuidos/) - 2020-08-25
@@ -47,7 +48,6 @@
 * [Los procedimientos almacenados y los sistemas](http://fernand0.github.io/procedimientos-almacenados/) - 2020-08-03
 * [Machine Learning para elegir un método de compresión](http://fernand0.github.io/machine-learning-compresion/) - 2020-07-27
 * [Make y makefiles siguen siendo herramientas de actualidad](http://fernand0.github.io/makefile-lenguaje-desarrollo/) - 2020-07-19
-* [Teoría de la probabilidad y gestión de sistemas](http://fernand0.github.io/probabilidades-y-programacion-sistemas/) - 2020-07-10
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [&#191;C&#243;mo nos enga&#241;an los malos?](http://fernand0.blogalia.com//historias/78264) - 2020-09-29
