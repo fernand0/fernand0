@@ -24,8 +24,8 @@
 * [elmundoesimperfecto](https://github.com/fernand0/elmundoesimperfecto),  My version of PubWichFork as a backup- 2020-01-01
 
 ## repositoriesContributedTo
+* [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2020-10-01
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-09-28
-* [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2020-09-10
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2020-09-02
 * [python-linkedin](https://github.com/ozgur/python-linkedin),  Python interface to the LinkedIn API- 2019-12-08
 * [python-linkedin-v2](https://github.com/HootsuiteLabs/python-linkedin-v2),  Python interface to the LinkedIn API - V2- 2019-12-08
