@@ -50,16 +50,6 @@
 * [Machine Learning para elegir un método de compresión](http://fernand0.github.io/machine-learning-compresion/) - 2020-07-27
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
-* [El correo como herramienta de colaboraci&#243;n (todav&#237;a) fundamental](http://fernand0.blogalia.com//historias/78267) - 2020-10-07
-* [&#191;C&#243;mo nos enga&#241;an los malos?](http://fernand0.blogalia.com//historias/78264) - 2020-09-29
-* [&#191;Existe el derecho al olvido? &#191;Es posible?](http://fernand0.blogalia.com//historias/78260) - 2020-09-21
-* [Motivos para trabajar en un blog de investigador (y, para el caso, de muchas otras ocupaciones)](http://fernand0.blogalia.com//historias/78249) - 2020-08-31
-* [Los datos de localizaci&#243;n de las personas, su recopilaci&#243;n y por qu&#233; debe preocuparnos](http://fernand0.blogalia.com//historias/78246) - 2020-08-25
-* [El trabajo del investigador ... &#191;De 9 a 5?](http://fernand0.blogalia.com//historias/78244) - 2020-08-20
-* [La tecnolog&#237;a, con cuidado, pero sin dejar de usarla](http://fernand0.blogalia.com//historias/78241) - 2020-08-10
-* [La amabilidad y las organizaciones.](http://fernand0.blogalia.com//historias/78239) - 2020-08-03
-* [Tecnolog&#237;a tranquila: principios para dise&#241;os menos agresivos](http://fernand0.blogalia.com//historias/78232) - 2020-07-27
-* [La voracidad de Amazon](http://fernand0.blogalia.com//historias/78229) - 2020-07-19
 <!-- blog ends -->
 
 ### Twitter 
