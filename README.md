@@ -24,7 +24,7 @@
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2020-01-02
 
 ## repositoriesContributedTo
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-10-24
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-10-25
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2020-10-10
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2020-09-02
 * [python-linkedin](https://github.com/ozgur/python-linkedin),  Python interface to the LinkedIn API- 2019-12-08
