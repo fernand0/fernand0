@@ -64,7 +64,7 @@
 
 ### Twitter 
 
-You can follow me at Twitter [@fernand0](https://twitter.com/fernand0)
+You can follow me at Twitter [@fernand0](https://twitter.com/fernand0) and also at [@makingfernand0](https://twitter.com/fernand0). Better the first one.
 
 Will I be able to insert my tweets? We'll see.
 
