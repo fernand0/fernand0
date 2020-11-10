@@ -12,19 +12,19 @@
 
 
 ## repositories
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2020-11-09
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2020-11-09
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2020-11-08
-* [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2020-11-08
+* [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2020-11-09
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2020-11-09
+* [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-11-09
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2020-11-06
-* [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-11-05
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2020-11-03
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2020-08-29
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2020-03-14
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2020-01-17
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2020-01-02
 
 ## repositoriesContributedTo
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-11-04
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-11-09
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2020-10-10
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2020-09-02
 * [python-linkedin](https://github.com/ozgur/python-linkedin),  Python interface to the LinkedIn API- 2019-12-08
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Esquema del sistema de ficheros en un sistema Linux](http://fernand0.github.io/ficheros-linux/) - 2020-11-09
 * [Si quieres tener la información correcta en el avión, apaga y vuelve a encender](http://fernand0.github.io/apagar-y-volver-a-encender/) - 2020-11-02
 * [Algoritmos de diferencias y git](http://fernand0.github.io/algoritmos-diff-git/) - 2020-10-26
 * [Pruebas y verificación de programas](http://fernand0.github.io/arreglar-un-programa/) - 2020-10-20
@@ -47,9 +48,9 @@
 * [Gestores de contraseñas y seguridad](http://fernand0.github.io/gestores-claves-vulnerables/) - 2020-09-21
 * [Filtros de Bloom y optimización fallida](http://fernand0.github.io/filtros-bloom-inconvenientes/) - 2020-08-31
 * [Equipos distribuidos y desarrollo](http://fernand0.github.io/equipos-distribuidos/) - 2020-08-25
-* [Proyecto de OWASP sobre seguridad de APIs](http://fernand0.github.io/seguridad-apis/) - 2020-08-20
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Las tecnolog&#237;as y los actos m&#225;s &#237;ntimos y familiares.](http://fernand0.blogalia.com//historias/78290) - 2020-11-09
 * [&#191;Volveremos a darnos la mano? El saludo en los tiempos de pandemia.](http://fernand0.blogalia.com//historias/78288) - 2020-11-02
 * [Seguimiento, vigilancia y pandemia, &#191;hasta d&#243;nde habr&#225; que llegar?](http://fernand0.blogalia.com//historias/78284) - 2020-10-26
 * [Tareas de seguridad que podemos hacer en oto&#241;o.](http://fernand0.blogalia.com//historias/78279) - 2020-10-20
@@ -59,7 +60,6 @@
 * [&#191;Existe el derecho al olvido? &#191;Es posible?](http://fernand0.blogalia.com//historias/78260) - 2020-09-21
 * [Motivos para trabajar en un blog de investigador (y, para el caso, de muchas otras ocupaciones)](http://fernand0.blogalia.com//historias/78249) - 2020-08-31
 * [Los datos de localizaci&#243;n de las personas, su recopilaci&#243;n y por qu&#233; debe preocuparnos](http://fernand0.blogalia.com//historias/78246) - 2020-08-25
-* [El trabajo del investigador ... &#191;De 9 a 5?](http://fernand0.blogalia.com//historias/78244) - 2020-08-20
 <!-- blog ends -->
 
 ### Twitter 
