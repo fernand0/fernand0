@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2020-11-14
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2020-11-15
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2020-11-13
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2020-11-10
@@ -24,6 +24,7 @@
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2020-01-17
 
 ## repositoriesContributedTo
+* [err-backend-discord](https://github.com/gbin/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-11-09
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2020-10-10
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2020-09-02
