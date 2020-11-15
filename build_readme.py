@@ -87,6 +87,7 @@ def fetch_repos(oauth_token):
                 }
             )
     releases["repositoriesContributedTo"]=[]
+    repo_names = set()
     for repo in data["data"]["user"]["repositoriesContributedTo"]["edges"]:
         if repo["node"]["name"] not in repo_names:
             repos.append(repo)
@@ -99,22 +100,7 @@ def fetch_repos(oauth_token):
                     "url": repo["node"]["url"]
                 }
             )
-    #    has_next_page = False
-    #    #has_next_page = data["data"]["user"]["hasNextPage"]
-    #    #after_cursor = data["data"]["use"]["repositoriesContributedTo"]["pageInfo"]["endCursor"]
     return releases
-
-#def fetch_tweets():
-#    import moduleTwitter
-#    tw = moduleTwitter.moduleTwitter()
-#
-#    tw.setClient('fernand0')
-#
-#    print("Testing posts")
-#    tw.setPosts()
-#    for i, tweet in enumerate(tw.getPosts()):
-#        print("{}) {}".format(i,tweet))
-#        #print("@%s: %s" %(tweet[2], tweet[0]))
 
 def fetch_blog_entries(blogs):
 
