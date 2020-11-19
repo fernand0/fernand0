@@ -12,8 +12,8 @@
 
 
 ## repositories
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2020-11-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2020-11-18
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2020-11-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2020-11-16
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2020-11-15
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
