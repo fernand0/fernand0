@@ -13,9 +13,9 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2020-11-23
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2020-11-23
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2020-11-23
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-11-22
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2020-11-22
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2020-11-16
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2020-11-15
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2020-11-10
@@ -39,6 +39,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Dropbox, Python y la comprobación de tipos](http://fernand0.github.io/dropbox-python-comprobacion-tipos/) - 2020-11-23
 * [Análisis de amenazas de un sistema de cifrado entre extremos para videoconferencia](http://fernand0.github.io/zoom-y-la-seguridad/) - 2020-11-16
 * [Esquema del sistema de ficheros en un sistema Linux](http://fernand0.github.io/ficheros-linux/) - 2020-11-09
 * [Si quieres tener la información correcta en el avión, apaga y vuelve a encender](http://fernand0.github.io/apagar-y-volver-a-encender/) - 2020-11-02
@@ -48,9 +49,9 @@
 * [Programación y coste en tiempo y en memoria](http://fernand0.github.io/mejorando-codigo-python/) - 2020-10-07
 * [Programando criptografía](http://fernand0.github.io/criptografia-casera/) - 2020-09-30
 * [Gestores de contraseñas y seguridad](http://fernand0.github.io/gestores-claves-vulnerables/) - 2020-09-21
-* [Filtros de Bloom y optimización fallida](http://fernand0.github.io/filtros-bloom-inconvenientes/) - 2020-08-31
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Google Docs como herramienta de activismo](http://fernand0.blogalia.com//historias/78297) - 2020-11-23
 * [Los podcasts. Abierto y cerrado. Gratis y de pago.](http://fernand0.blogalia.com//historias/78293) - 2020-11-16
 * [Las tecnolog&#237;as y los actos m&#225;s &#237;ntimos y familiares.](http://fernand0.blogalia.com//historias/78290) - 2020-11-09
 * [&#191;Volveremos a darnos la mano? El saludo en los tiempos de pandemia.](http://fernand0.blogalia.com//historias/78288) - 2020-11-02
@@ -60,7 +61,6 @@
 * [El correo como herramienta de colaboraci&#243;n (todav&#237;a) fundamental](http://fernand0.blogalia.com//historias/78267) - 2020-10-07
 * [&#191;C&#243;mo nos enga&#241;an los malos?](http://fernand0.blogalia.com//historias/78264) - 2020-09-29
 * [&#191;Existe el derecho al olvido? &#191;Es posible?](http://fernand0.blogalia.com//historias/78260) - 2020-09-21
-* [Motivos para trabajar en un blog de investigador (y, para el caso, de muchas otras ocupaciones)](http://fernand0.blogalia.com//historias/78249) - 2020-08-31
 <!-- blog ends -->
 
 ### Twitter 
