@@ -13,10 +13,10 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2020-11-30
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2020-11-30
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2020-11-28
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-11-28
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2020-11-24
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2020-11-23
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2020-11-15
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2020-11-10
@@ -39,6 +39,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [En esLibre, hablando de mi chatbot como gestor de información personal](http://fernand0.github.io/en-Eslibre-chatbot/) - 2020-11-30
 * [Dropbox, Python y la comprobación de tipos](http://fernand0.github.io/dropbox-python-comprobacion-tipos/) - 2020-11-23
 * [Análisis de amenazas de un sistema de cifrado entre extremos para videoconferencia](http://fernand0.github.io/zoom-y-la-seguridad/) - 2020-11-16
 * [Esquema del sistema de ficheros en un sistema Linux](http://fernand0.github.io/ficheros-linux/) - 2020-11-09
@@ -48,9 +49,9 @@
 * [Vulnerabilidades frecuentes en 'smart contracts'](http://fernand0.github.io/vulnerabilidades-smart-contracts/) - 2020-10-13
 * [Programación y coste en tiempo y en memoria](http://fernand0.github.io/mejorando-codigo-python/) - 2020-10-07
 * [Programando criptografía](http://fernand0.github.io/criptografia-casera/) - 2020-09-30
-* [Gestores de contraseñas y seguridad](http://fernand0.github.io/gestores-claves-vulnerables/) - 2020-09-21
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Rapidez, cosas que nos gustar&#225; hacer y que haremos mejor.](http://fernand0.blogalia.com//historias/78300) - 2020-11-30
 * [Google Docs como herramienta de activismo](http://fernand0.blogalia.com//historias/78297) - 2020-11-23
 * [Los podcasts. Abierto y cerrado. Gratis y de pago.](http://fernand0.blogalia.com//historias/78293) - 2020-11-16
 * [Las tecnolog&#237;as y los actos m&#225;s &#237;ntimos y familiares.](http://fernand0.blogalia.com//historias/78290) - 2020-11-09
@@ -60,7 +61,6 @@
 * [M&#243;viles, j&#243;venes y ni&#241;os: aprender a usarlos en lugar de prohibirlos](http://fernand0.blogalia.com//historias/78273) - 2020-10-13
 * [El correo como herramienta de colaboraci&#243;n (todav&#237;a) fundamental](http://fernand0.blogalia.com//historias/78267) - 2020-10-07
 * [&#191;C&#243;mo nos enga&#241;an los malos?](http://fernand0.blogalia.com//historias/78264) - 2020-09-29
-* [&#191;Existe el derecho al olvido? &#191;Es posible?](http://fernand0.blogalia.com//historias/78260) - 2020-09-21
 <!-- blog ends -->
 
 ### Twitter 
