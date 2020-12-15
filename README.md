@@ -13,10 +13,10 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2020-12-14
+* [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-12-14
+* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2020-12-14
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2020-12-14
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2020-12-13
-* [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-12-11
-* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2020-12-06
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2020-11-30
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2020-11-24
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2020-11-10
@@ -24,7 +24,7 @@
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2020-01-17
 
 ## repositoriesContributedTo
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-12-09
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-12-15
 * [err-backend-discord](https://github.com/gbin/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2020-10-10
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2020-09-02
@@ -37,6 +37,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Zoom, seguridad, comodidad y campañas de 'información'](http://fernand0.github.io/odio-a-zoom/) - 2020-12-14
 * [En esLibre, hablando de mi chatbot como gestor de información personal](http://fernand0.github.io/en-Eslibre-chatbot/) - 2020-11-30
 * [Dropbox, Python y la comprobación de tipos](http://fernand0.github.io/dropbox-python-comprobacion-tipos/) - 2020-11-23
 * [Análisis de amenazas de un sistema de cifrado entre extremos para videoconferencia](http://fernand0.github.io/zoom-y-la-seguridad/) - 2020-11-16
@@ -46,9 +47,9 @@
 * [Pruebas y verificación de programas](http://fernand0.github.io/arreglar-un-programa/) - 2020-10-20
 * [Vulnerabilidades frecuentes en 'smart contracts'](http://fernand0.github.io/vulnerabilidades-smart-contracts/) - 2020-10-13
 * [Programación y coste en tiempo y en memoria](http://fernand0.github.io/mejorando-codigo-python/) - 2020-10-07
-* [Programando criptografía](http://fernand0.github.io/criptografia-casera/) - 2020-09-30
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Eficiencia, regulaciones y nuestras necesidades para sobrevivir](http://fernand0.blogalia.com//historias/78302) - 2020-12-14
 * [Rapidez, cosas que nos gustar&#225; hacer y que haremos mejor.](http://fernand0.blogalia.com//historias/78300) - 2020-11-30
 * [Google Docs como herramienta de activismo](http://fernand0.blogalia.com//historias/78297) - 2020-11-23
 * [Los podcasts. Abierto y cerrado. Gratis y de pago.](http://fernand0.blogalia.com//historias/78293) - 2020-11-16
@@ -58,7 +59,6 @@
 * [Tareas de seguridad que podemos hacer en oto&#241;o.](http://fernand0.blogalia.com//historias/78279) - 2020-10-20
 * [M&#243;viles, j&#243;venes y ni&#241;os: aprender a usarlos en lugar de prohibirlos](http://fernand0.blogalia.com//historias/78273) - 2020-10-13
 * [El correo como herramienta de colaboraci&#243;n (todav&#237;a) fundamental](http://fernand0.blogalia.com//historias/78267) - 2020-10-07
-* [&#191;C&#243;mo nos enga&#241;an los malos?](http://fernand0.blogalia.com//historias/78264) - 2020-09-29
 <!-- blog ends -->
 
 ### Twitter 
