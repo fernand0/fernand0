@@ -13,8 +13,8 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2020-12-28
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2020-12-27
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2020-12-21
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2020-12-28
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2020-12-28
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2020-12-18
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-12-14
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2020-11-24
@@ -37,7 +37,8 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
-* [Técnicas novedosas de exfiltración de información: la vibración de los ventiladores](http://fernand0.github.io/robo-informacion-vibraciones/) - 2020-12-22
+* [Promoción del UTF-8](http://fernand0.github.io/utf8/) - 2020-12-28
+* [Técnicas novedosas de exfiltración de información: la vibración de los ventiladores](http://fernand0.github.io/robo-informacion-vibraciones/) - 2020-12-21
 * [Zoom, seguridad, comodidad y campañas de 'información'](http://fernand0.github.io/odio-a-zoom/) - 2020-12-14
 * [En esLibre, hablando de mi chatbot como gestor de información personal](http://fernand0.github.io/en-Eslibre-chatbot/) - 2020-11-30
 * [Dropbox, Python y la comprobación de tipos](http://fernand0.github.io/dropbox-python-comprobacion-tipos/) - 2020-11-23
@@ -46,9 +47,9 @@
 * [Si quieres tener la información correcta en el avión, apaga y vuelve a encender](http://fernand0.github.io/apagar-y-volver-a-encender/) - 2020-11-02
 * [Algoritmos de diferencias y git](http://fernand0.github.io/algoritmos-diff-git/) - 2020-10-26
 * [Pruebas y verificación de programas](http://fernand0.github.io/arreglar-un-programa/) - 2020-10-20
-* [Vulnerabilidades frecuentes en 'smart contracts'](http://fernand0.github.io/vulnerabilidades-smart-contracts/) - 2020-10-13
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Y si Facebook desapareciera ... &#191;Qu&#233; pasar&#237;a?](http://fernand0.blogalia.com//historias/78308) - 2020-12-28
 * [Verdades y mentiras. Pago, intereses e informaci&#243;n.](http://fernand0.blogalia.com//historias/78307) - 2020-12-21
 * [Eficiencia, regulaciones y nuestras necesidades para sobrevivir](http://fernand0.blogalia.com//historias/78302) - 2020-12-14
 * [Rapidez, cosas que nos gustar&#225; hacer y que haremos mejor.](http://fernand0.blogalia.com//historias/78300) - 2020-11-30
@@ -58,7 +59,6 @@
 * [&#191;Volveremos a darnos la mano? El saludo en los tiempos de pandemia.](http://fernand0.blogalia.com//historias/78288) - 2020-11-02
 * [Seguimiento, vigilancia y pandemia, &#191;hasta d&#243;nde habr&#225; que llegar?](http://fernand0.blogalia.com//historias/78284) - 2020-10-26
 * [Tareas de seguridad que podemos hacer en oto&#241;o.](http://fernand0.blogalia.com//historias/78279) - 2020-10-20
-* [M&#243;viles, j&#243;venes y ni&#241;os: aprender a usarlos en lugar de prohibirlos](http://fernand0.blogalia.com//historias/78273) - 2020-10-13
 <!-- blog ends -->
 
 ### Twitter 
