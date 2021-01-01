@@ -24,7 +24,7 @@
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2020-01-17
 
 ## repositoriesContributedTo
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-12-24
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2020-12-31
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2020-12-17
 * [err-backend-discord](https://github.com/gbin/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2020-09-02
@@ -49,6 +49,7 @@
 * [Pruebas y verificación de programas](http://fernand0.github.io/arreglar-un-programa/) - 2020-10-20
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Resumen de mi 2020](http://fernand0.blogalia.com//historias/78310) - 2020-12-31
 * [Y si Facebook desapareciera ... &#191;Qu&#233; pasar&#237;a?](http://fernand0.blogalia.com//historias/78308) - 2020-12-28
 * [Verdades y mentiras. Pago, intereses e informaci&#243;n.](http://fernand0.blogalia.com//historias/78307) - 2020-12-21
 * [Eficiencia, regulaciones y nuestras necesidades para sobrevivir](http://fernand0.blogalia.com//historias/78302) - 2020-12-14
@@ -58,7 +59,6 @@
 * [Las tecnolog&#237;as y los actos m&#225;s &#237;ntimos y familiares.](http://fernand0.blogalia.com//historias/78290) - 2020-11-09
 * [&#191;Volveremos a darnos la mano? El saludo en los tiempos de pandemia.](http://fernand0.blogalia.com//historias/78288) - 2020-11-02
 * [Seguimiento, vigilancia y pandemia, &#191;hasta d&#243;nde habr&#225; que llegar?](http://fernand0.blogalia.com//historias/78284) - 2020-10-26
-* [Tareas de seguridad que podemos hacer en oto&#241;o.](http://fernand0.blogalia.com//historias/78279) - 2020-10-20
 <!-- blog ends -->
 
 ### Twitter 
