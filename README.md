@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-01-11
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-01-12
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2021-01-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-01-11
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-01-11
