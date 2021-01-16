@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-01-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-01-16
 * [elmundoesimperfecto](https://github.com/fernand0/elmundoesimperfecto),  My version of PubWichFork as a backup- 2021-01-15
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-01-15
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2021-01-13
