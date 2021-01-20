@@ -12,8 +12,8 @@
 
 
 ## repositories
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-01-20
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-01-19
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-01-17
 * [mitra_router](https://github.com/fernand0/mitra_router),  Small script to restart Movistar ES Mitrastar routers- 2021-01-16
 * [elmundoesimperfecto](https://github.com/fernand0/elmundoesimperfecto),  My version of PubWichFork as a backup- 2021-01-15
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-01-15
