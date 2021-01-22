@@ -13,7 +13,7 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-01-21
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-01-20
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-01-21
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-01-20
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-01-19
 * [mitra_router](https://github.com/fernand0/mitra_router),  Small script to restart Movistar ES Mitrastar routers- 2021-01-16
@@ -24,7 +24,7 @@
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2020-12-14
 
 ## repositoriesContributedTo
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-01-19
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-01-22
 * [err-backend-discord](https://github.com/gbin/err-backend-discord),  Backend for Discord for Errbot - 2021-01-14
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2020-12-17
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2020-09-02
