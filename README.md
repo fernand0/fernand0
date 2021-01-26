@@ -13,11 +13,11 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-01-25
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-01-25
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-01-23
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2021-01-23
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2021-01-22
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-01-21
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-01-19
 * [mitra_router](https://github.com/fernand0/mitra_router),  Small script to restart Movistar ES Mitrastar routers- 2021-01-16
 * [elmundoesimperfecto](https://github.com/fernand0/elmundoesimperfecto),  My version of PubWichFork as a backup- 2021-01-15
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2021-01-13
@@ -36,6 +36,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Lecciones aprendidas en la aplicación de un modelo de madurez en la seguridad de los programas](http://fernand0.github.io/owasp-samm/) - 2021-01-25
 * [Sobre el funcionamiento del DNS](http://fernand0.github.io/como-fuciona-el-DNS/) - 2021-01-19
 * [Protegiendo la intimidad de los usuarios de Signal](http://fernand0.github.io/signal-gifs/) - 2021-01-11
 * [Ocupación de nombres en paquetes de Ruby](http://fernand0.github.io/ocupacion-nombres-ruby/) - 2021-01-04
@@ -45,9 +46,9 @@
 * [En esLibre, hablando de mi chatbot como gestor de información personal](http://fernand0.github.io/en-Eslibre-chatbot/) - 2020-11-30
 * [Dropbox, Python y la comprobación de tipos](http://fernand0.github.io/dropbox-python-comprobacion-tipos/) - 2020-11-23
 * [Análisis de amenazas de un sistema de cifrado entre extremos para videoconferencia](http://fernand0.github.io/zoom-y-la-seguridad/) - 2020-11-16
-* [Esquema del sistema de ficheros en un sistema Linux](http://fernand0.github.io/ficheros-linux/) - 2020-11-09
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Sobre construcci&#243;n de comunidades.](http://fernand0.blogalia.com//historias/78322) - 2021-01-25
 * [Los PDFs y la web](http://fernand0.blogalia.com//historias/78320) - 2021-01-19
 * [Algunas ideas sobre identidad digital descentralizada](http://fernand0.blogalia.com//historias/78316) - 2021-01-11
 * [Hipocres&#237;a recomendadora en redes sociales.](http://fernand0.blogalia.com//historias/78312) - 2021-01-04
@@ -57,7 +58,6 @@
 * [Eficiencia, regulaciones y nuestras necesidades para sobrevivir](http://fernand0.blogalia.com//historias/78302) - 2020-12-14
 * [Rapidez, cosas que nos gustar&#225; hacer y que haremos mejor.](http://fernand0.blogalia.com//historias/78300) - 2020-11-30
 * [Google Docs como herramienta de activismo](http://fernand0.blogalia.com//historias/78297) - 2020-11-23
-* [Los podcasts. Abierto y cerrado. Gratis y de pago.](http://fernand0.blogalia.com//historias/78293) - 2020-11-16
 <!-- blog ends -->
 
 ### Twitter 
