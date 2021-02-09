@@ -13,10 +13,10 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-02-08
-* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-02-07
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-02-06
+* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-02-08
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-02-08
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-02-08
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2021-02-05
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-02-01
 * [err-sensors](https://github.com/fernand0/err-sensors),  Show the results of reading sensors attached to my Raspberry Pi.- 2021-01-29
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2021-01-23
 * [mitra_router](https://github.com/fernand0/mitra_router),  Small script to restart Movistar ES Mitrastar routers- 2021-01-16
@@ -24,9 +24,9 @@
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2021-01-13
 
 ## repositoriesContributedTo
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-02-09
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2021-02-03
 * [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-02-02
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-02-01
 * [err-backend-discord](https://github.com/gbin/err-backend-discord),  Backend for Discord for Errbot - 2021-01-14
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2020-12-17
 <!-- recent_releases ends -->
@@ -37,6 +37,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Proteger nuestras APIs de ataques de CSRF](http://fernand0.github.io/CSRF-API/) - 2021-02-08
 * [Cadenas de caracteres que pueden ser peligrosas](http://fernand0.github.io/lista-cadenas-peligrosas/) - 2021-02-01
 * [Lecciones aprendidas en la aplicación de un modelo de madurez en la seguridad de los programas](http://fernand0.github.io/owasp-samm/) - 2021-01-25
 * [Sobre el funcionamiento del DNS](http://fernand0.github.io/como-fuciona-el-DNS/) - 2021-01-19
@@ -46,9 +47,9 @@
 * [Técnicas novedosas de exfiltración de información: la vibración de los ventiladores](http://fernand0.github.io/robo-informacion-vibraciones/) - 2020-12-21
 * [Zoom, seguridad, comodidad y campañas de 'información'](http://fernand0.github.io/odio-a-zoom/) - 2020-12-14
 * [En esLibre, hablando de mi chatbot como gestor de información personal](http://fernand0.github.io/en-Eslibre-chatbot/) - 2020-11-30
-* [Dropbox, Python y la comprobación de tipos](http://fernand0.github.io/dropbox-python-comprobacion-tipos/) - 2020-11-23
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Correo y espionaje comercial](http://fernand0.blogalia.com//historias/78332) - 2021-02-08
 * [Informaci&#243;n digital, su preservaci&#243;n y conservaci&#243;n](http://fernand0.blogalia.com//historias/78328) - 2021-02-01
 * [Diecinueve](http://fernand0.blogalia.com//historias/78327) - 2021-01-30
 * [En la celebraci&#243;n de los 20 a&#241;os de blogs en Espa&#241;a](http://fernand0.blogalia.com//historias/78326) - 2021-01-30
@@ -58,7 +59,6 @@
 * [Hipocres&#237;a recomendadora en redes sociales.](http://fernand0.blogalia.com//historias/78312) - 2021-01-04
 * [Resumen de mi 2020](http://fernand0.blogalia.com//historias/78310) - 2020-12-31
 * [Y si Facebook desapareciera ... &#191;Qu&#233; pasar&#237;a?](http://fernand0.blogalia.com//historias/78308) - 2020-12-28
-* [Verdades y mentiras. Pago, intereses e informaci&#243;n.](http://fernand0.blogalia.com//historias/78307) - 2020-12-21
 <!-- blog ends -->
 
 ### Twitter 
