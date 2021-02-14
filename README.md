@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-02-13
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-02-14
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-02-13
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2021-02-12
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-02-12
