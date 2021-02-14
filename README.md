@@ -13,9 +13,9 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-02-13
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-02-13
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2021-02-12
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-02-12
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-02-12
 * [mitra_router](https://github.com/fernand0/mitra_router),  Small script to restart Movistar ES Mitrastar routers- 2021-02-11
 * [err-home](https://github.com/fernand0/err-home),  Some commands to manage some home devices.- 2021-02-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-02-08
@@ -49,6 +49,8 @@
 * [En esLibre, hablando de mi chatbot como gestor de información personal](http://fernand0.github.io/en-Eslibre-chatbot/) - 2020-11-30
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En Arag&#243;n TV hablando del D&#237;a de la Internet Segura](http://fernand0.blogalia.com//historias/78336) - 2021-02-13
+* [En Radio Ebro hablando del D&#237;a de la Internet Segura](http://fernand0.blogalia.com//historias/78335) - 2021-02-13
 * [Correo y espionaje comercial](http://fernand0.blogalia.com//historias/78332) - 2021-02-08
 * [Informaci&#243;n digital, su preservaci&#243;n y conservaci&#243;n](http://fernand0.blogalia.com//historias/78328) - 2021-02-01
 * [Diecinueve](http://fernand0.blogalia.com//historias/78327) - 2021-01-30
@@ -57,8 +59,6 @@
 * [Los PDFs y la web](http://fernand0.blogalia.com//historias/78320) - 2021-01-19
 * [Algunas ideas sobre identidad digital descentralizada](http://fernand0.blogalia.com//historias/78316) - 2021-01-11
 * [Hipocres&#237;a recomendadora en redes sociales.](http://fernand0.blogalia.com//historias/78312) - 2021-01-04
-* [Resumen de mi 2020](http://fernand0.blogalia.com//historias/78310) - 2020-12-31
-* [Y si Facebook desapareciera ... &#191;Qu&#233; pasar&#237;a?](http://fernand0.blogalia.com//historias/78308) - 2020-12-28
 <!-- blog ends -->
 
 ### Twitter 
