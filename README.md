@@ -12,10 +12,10 @@
 
 
 ## repositories
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-02-14
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-02-14
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-02-13
+* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-02-14
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2021-02-12
-* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-02-12
 * [mitra_router](https://github.com/fernand0/mitra_router),  Small script to restart Movistar ES Mitrastar routers- 2021-02-11
 * [err-home](https://github.com/fernand0/err-home),  Some commands to manage some home devices.- 2021-02-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-02-08
