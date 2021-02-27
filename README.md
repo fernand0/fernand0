@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-02-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-02-27
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-02-26
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2021-02-25
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2021-02-25
