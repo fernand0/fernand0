@@ -12,14 +12,14 @@
 
 
 ## repositories
+* [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-03-01
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-03-01
+* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-03-01
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-02-27
-* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-02-26
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2021-02-25
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2021-02-25
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-02-23
-* [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-02-23
 * [pympress](https://github.com/fernand0/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-02-22
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-02-22
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2021-02-12
 * [err-home](https://github.com/fernand0/err-home),  Some commands to manage some home devices.- 2021-02-11
 
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Seguridad al desarrollar para sistemas industriales (Industria 4.0)](http://fernand0.github.io/seguridad-legados/) - 2021-02-22
 * [Algunas estructuras de datos y algoritmos usados en casos reales](http://fernand0.github.io/estructuras-datos-empresa/) - 2021-02-22
 * [Probando forestry.io](http://fernand0.github.io/probando-forestry.io/) - 2021-02-19
 * [SSH Agent y las sesiones](http://fernand0.github.io/SSH-agent/) - 2021-02-15
@@ -47,9 +48,9 @@
 * [Sobre el funcionamiento del DNS](http://fernand0.github.io/como-fuciona-el-DNS/) - 2021-01-19
 * [Protegiendo la intimidad de los usuarios de Signal](http://fernand0.github.io/signal-gifs/) - 2021-01-11
 * [Ocupación de nombres en paquetes de Ruby](http://fernand0.github.io/ocupacion-nombres-ruby/) - 2021-01-04
-* [Promoción del UTF-8](http://fernand0.github.io/utf8/) - 2020-12-28
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Tecnolog&#237;a, privacidad y miedos](http://fernand0.blogalia.com//historias/78342) - 2021-03-01
 * [Consejos sobre formaci&#243;n en seguridad en las organizaciones.](http://fernand0.blogalia.com//historias/78340) - 2021-02-22
 * [En NIUS hablando de huella digital y privacidad](http://fernand0.blogalia.com//historias/78338) - 2021-02-15
 * [En Arag&#243;n TV hablando del D&#237;a de la Internet Segura](http://fernand0.blogalia.com//historias/78336) - 2021-02-13
@@ -59,7 +60,6 @@
 * [Diecinueve](http://fernand0.blogalia.com//historias/78327) - 2021-01-30
 * [En la celebraci&#243;n de los 20 a&#241;os de blogs en Espa&#241;a](http://fernand0.blogalia.com//historias/78326) - 2021-01-30
 * [Sobre construcci&#243;n de comunidades.](http://fernand0.blogalia.com//historias/78322) - 2021-01-25
-* [Los PDFs y la web](http://fernand0.blogalia.com//historias/78320) - 2021-01-19
 <!-- blog ends -->
 
 ### Twitter 
