@@ -24,7 +24,7 @@
 * [err-home](https://github.com/fernand0/err-home),  Some commands to manage some home devices.- 2021-02-11
 
 ## repositoriesContributedTo
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-02-26
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-03-07
 * [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-02-22
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2021-02-03
 * [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-02-02
