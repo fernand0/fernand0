@@ -13,10 +13,10 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-03-22
-* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-03-21
+* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-03-22
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-03-22
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-03-20
 * [minutes-of-meeting-markdown](https://github.com/fernand0/minutes-of-meeting-markdown),  This is a general markdown template of minutes of meeting useful to help you get started quickly- 2021-03-18
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-03-15
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-03-04
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2021-02-25
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2021-02-25
@@ -39,6 +39,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [El correo y su realidad a través de las implementaciones](http://fernand0.github.io/fallos-viejos-correo/) - 2021-03-22
 * [Teoría de la aleatoriedad y seguridad](http://fernand0.github.io/aleatoriedad-seguridad/) - 2021-03-15
 * [Abusando de los clientes de correo](http://fernand0.github.io/clientes-correo-enlaces/) - 2021-03-08
 * [Seguridad al desarrollar para sistemas industriales (Industria 4.0)](http://fernand0.github.io/seguridad-legados/) - 2021-02-22
@@ -48,9 +49,9 @@
 * [Proteger nuestras APIs de ataques de CSRF](http://fernand0.github.io/CSRF-API/) - 2021-02-08
 * [Cadenas de caracteres que pueden ser peligrosas](http://fernand0.github.io/lista-cadenas-peligrosas/) - 2021-02-01
 * [Lecciones aprendidas en la aplicación de un modelo de madurez en la seguridad de los programas](http://fernand0.github.io/owasp-samm/) - 2021-01-25
-* [Sobre el funcionamiento del DNS](http://fernand0.github.io/como-fuciona-el-DNS/) - 2021-01-19
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Siete cambios que pueden ocurrir en la escolarizaci&#243;n en un futuro pr&#243;ximo](http://fernand0.blogalia.com//historias/78357) - 2021-03-22
 * [&#191;Puedo preguntar?](http://fernand0.blogalia.com//historias/78351) - 2021-03-15
 * [Cuando internet se convierte en global de verdad](http://fernand0.blogalia.com//historias/78346) - 2021-03-08
 * [Tecnolog&#237;a, privacidad y miedos](http://fernand0.blogalia.com//historias/78342) - 2021-03-01
@@ -60,7 +61,6 @@
 * [En Radio Ebro hablando del D&#237;a de la Internet Segura](http://fernand0.blogalia.com//historias/78335) - 2021-02-13
 * [Correo y espionaje comercial](http://fernand0.blogalia.com//historias/78332) - 2021-02-08
 * [Informaci&#243;n digital, su preservaci&#243;n y conservaci&#243;n](http://fernand0.blogalia.com//historias/78328) - 2021-02-01
-* [Diecinueve](http://fernand0.blogalia.com//historias/78327) - 2021-01-30
 <!-- blog ends -->
 
 ### Twitter 
