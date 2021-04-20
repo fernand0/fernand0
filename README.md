@@ -13,8 +13,8 @@
 
 ## repositories
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-04-19
-* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-04-14
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-04-12
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-04-19
+* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-04-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-04-07
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-04-06
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-04-04
@@ -24,8 +24,8 @@
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2021-02-12
 
 ## repositoriesContributedTo
+* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-04-19
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-04-19
-* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-04-18
 * [err-backend-discord](https://github.com/gbin/err-backend-discord),  Backend for Discord for Errbot - 2021-04-06
 * [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-04-01
 * [imgurpython](https://github.com/Imgur/imgurpython),  Official Imgur python client library (deprecated)- 2021-02-13
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Algunos hallazgos sobre la seguridad de un marcapasos.](http://fernand0.github.io/seguridad-marcapasos/) - 2021-04-19
 * [Aleatoriedad en sistemas informáticos. Una introducción breve.](http://fernand0.github.io/generacion-numeros-aleatorios/) - 2021-04-12
 * [Formas alternativas de conocer mejor a nuestros atacantes.](http://fernand0.github.io/investigacion-incidentes-apis/) - 2021-04-05
 * [No desarrolles tu propia criptografía](http://fernand0.github.io/tu-propia-criptografia/) - 2021-03-30
@@ -47,9 +48,9 @@
 * [Seguridad al desarrollar para sistemas industriales (Industria 4.0)](http://fernand0.github.io/seguridad-legados/) - 2021-02-22
 * [Algunas estructuras de datos y algoritmos usados en casos reales](http://fernand0.github.io/estructuras-datos-empresa/) - 2021-02-22
 * [Probando forestry.io](http://fernand0.github.io/probando-forestry.io/) - 2021-02-19
-* [SSH Agent y las sesiones](http://fernand0.github.io/SSH-agent/) - 2021-02-15
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [&#191;Presencial, grabado, en directo? &#191;Aprendizaje o actuaci&#243;n?](http://fernand0.blogalia.com//historias/78373) - 2021-04-19
 * [&#191;Especializar lo que compartimos o seguir siendo generalista?](http://fernand0.blogalia.com//historias/78369) - 2021-04-12
 * [Sobre gustos, redes y el futuro de internet.](http://fernand0.blogalia.com//historias/78366) - 2021-04-05
 * [Algunas cosas que la inteligencia artificial no har&#225; bien.](http://fernand0.blogalia.com//historias/78361) - 2021-03-30
@@ -59,7 +60,6 @@
 * [Tecnolog&#237;a, privacidad y miedos](http://fernand0.blogalia.com//historias/78342) - 2021-03-01
 * [Consejos sobre formaci&#243;n en seguridad en las organizaciones.](http://fernand0.blogalia.com//historias/78340) - 2021-02-22
 * [En NIUS hablando de huella digital y privacidad](http://fernand0.blogalia.com//historias/78338) - 2021-02-15
-* [En Arag&#243;n TV hablando del D&#237;a de la Internet Segura](http://fernand0.blogalia.com//historias/78336) - 2021-02-13
 <!-- blog ends -->
 
 ### Twitter 
