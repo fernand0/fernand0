@@ -24,7 +24,7 @@
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2021-02-12
 
 ## repositoriesContributedTo
-* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-04-22
+* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-04-24
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-04-19
 * [err-backend-discord](https://github.com/gbin/err-backend-discord),  Backend for Discord for Errbot - 2021-04-06
 * [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-04-01
