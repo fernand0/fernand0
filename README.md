@@ -12,9 +12,9 @@
 
 
 ## repositories
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-04-26
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-04-25
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-04-21
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-04-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-04-07
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-04-06
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-04-04
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Ataques a través de fallos en códigos de terceros](http://fernand0.github.io/ataque-instagram-api/) - 2021-04-26
 * [Algunos hallazgos sobre la seguridad de un marcapasos.](http://fernand0.github.io/seguridad-marcapasos/) - 2021-04-19
 * [Aleatoriedad en sistemas informáticos. Una introducción breve.](http://fernand0.github.io/generacion-numeros-aleatorios/) - 2021-04-12
 * [Formas alternativas de conocer mejor a nuestros atacantes.](http://fernand0.github.io/investigacion-incidentes-apis/) - 2021-04-05
@@ -47,9 +48,9 @@
 * [Abusando de los clientes de correo](http://fernand0.github.io/clientes-correo-enlaces/) - 2021-03-08
 * [Seguridad al desarrollar para sistemas industriales (Industria 4.0)](http://fernand0.github.io/seguridad-legados/) - 2021-02-22
 * [Algunas estructuras de datos y algoritmos usados en casos reales](http://fernand0.github.io/estructuras-datos-empresa/) - 2021-02-22
-* [Probando forestry.io](http://fernand0.github.io/probando-forestry.io/) - 2021-02-19
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Algunos modelos de publicidad en la red](http://fernand0.blogalia.com//historias/78377) - 2021-04-26
 * [&#191;Presencial, grabado, en directo? &#191;Aprendizaje o actuaci&#243;n?](http://fernand0.blogalia.com//historias/78373) - 2021-04-19
 * [&#191;Especializar lo que compartimos o seguir siendo generalista?](http://fernand0.blogalia.com//historias/78369) - 2021-04-12
 * [Sobre gustos, redes y el futuro de internet.](http://fernand0.blogalia.com//historias/78366) - 2021-04-05
@@ -59,7 +60,6 @@
 * [Cuando internet se convierte en global de verdad](http://fernand0.blogalia.com//historias/78346) - 2021-03-08
 * [Tecnolog&#237;a, privacidad y miedos](http://fernand0.blogalia.com//historias/78342) - 2021-03-01
 * [Consejos sobre formaci&#243;n en seguridad en las organizaciones.](http://fernand0.blogalia.com//historias/78340) - 2021-02-22
-* [En NIUS hablando de huella digital y privacidad](http://fernand0.blogalia.com//historias/78338) - 2021-02-15
 <!-- blog ends -->
 
 ### Twitter 
