@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-05-02
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-04-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-05-03
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-05-03
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-04-21
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-04-07
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-04-06
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [¿Necesita evolucionar Python para mejorar?](http://fernand0.github.io/debe-python-evolucionar/) - 2021-05-03
 * [Ataques a través de fallos en códigos de terceros](http://fernand0.github.io/ataque-instagram-api/) - 2021-04-26
 * [Algunos hallazgos sobre la seguridad de un marcapasos.](http://fernand0.github.io/seguridad-marcapasos/) - 2021-04-19
 * [Aleatoriedad en sistemas informáticos. Una introducción breve.](http://fernand0.github.io/generacion-numeros-aleatorios/) - 2021-04-12
@@ -47,9 +48,9 @@
 * [Teoría de la aleatoriedad y seguridad](http://fernand0.github.io/aleatoriedad-seguridad/) - 2021-03-15
 * [Abusando de los clientes de correo](http://fernand0.github.io/clientes-correo-enlaces/) - 2021-03-08
 * [Seguridad al desarrollar para sistemas industriales (Industria 4.0)](http://fernand0.github.io/seguridad-legados/) - 2021-02-22
-* [Algunas estructuras de datos y algoritmos usados en casos reales](http://fernand0.github.io/estructuras-datos-empresa/) - 2021-02-22
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [D&#233;jame tu m&#225;quina para frabricarme esa pieza](http://fernand0.blogalia.com//historias/78381) - 2021-05-03
 * [Algunos modelos de publicidad en la red](http://fernand0.blogalia.com//historias/78377) - 2021-04-26
 * [&#191;Presencial, grabado, en directo? &#191;Aprendizaje o actuaci&#243;n?](http://fernand0.blogalia.com//historias/78373) - 2021-04-19
 * [&#191;Especializar lo que compartimos o seguir siendo generalista?](http://fernand0.blogalia.com//historias/78369) - 2021-04-12
@@ -58,8 +59,7 @@
 * [Siete cambios que pueden ocurrir en la escolarizaci&#243;n en un futuro pr&#243;ximo](http://fernand0.blogalia.com//historias/78357) - 2021-03-22
 * [&#191;Puedo preguntar?](http://fernand0.blogalia.com//historias/78351) - 2021-03-15
 * [Cuando internet se convierte en global de verdad](http://fernand0.blogalia.com//historias/78346) - 2021-03-08
-* [Tecnolog&#237;a, privacidad y miedos](http://fernand0.blogalia.com//historias/78342) - 2021-03-01
-* [Consejos sobre formaci&#243;n en seguridad en las organizaciones.](http://fernand0.blogalia.com//historias/78340) - 2021-02-22
+* [D&#233;jame tu m&#225;quina para fabricarme esa pieza](http://fernand0.blogalia.com//historias/78342) - 2021-03-01
 <!-- blog ends -->
 
 ### Twitter 
