@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-05-09
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-05-03
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-05-10
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-05-10
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-05-10
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-04-21
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-04-07
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-04-06
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-04-04
 * [minutes-of-meeting-markdown](https://github.com/fernand0/minutes-of-meeting-markdown),  This is a general markdown template of minutes of meeting useful to help you get started quickly- 2021-03-18
@@ -24,7 +24,7 @@
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2021-02-12
 
 ## repositoriesContributedTo
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-05-05
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-05-10
 * [err-backend-discord](https://github.com/gbin/err-backend-discord),  Backend for Discord for Errbot - 2021-05-03
 * [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-04-28
 * [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-04-24
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Un ejemplo de uso del OAuth de Google con Node.js](http://fernand0.github.io/Google-Oauth-node/) - 2021-05-03
 * [¿Necesita evolucionar Python para mejorar?](http://fernand0.github.io/debe-python-evolucionar/) - 2021-05-03
 * [Ataques a través de fallos en códigos de terceros](http://fernand0.github.io/ataque-instagram-api/) - 2021-04-26
 * [Algunos hallazgos sobre la seguridad de un marcapasos.](http://fernand0.github.io/seguridad-marcapasos/) - 2021-04-19
@@ -47,9 +48,9 @@
 * [El correo y su realidad a través de las implementaciones](http://fernand0.github.io/fallos-viejos-correo/) - 2021-03-22
 * [Teoría de la aleatoriedad y seguridad](http://fernand0.github.io/aleatoriedad-seguridad/) - 2021-03-15
 * [Abusando de los clientes de correo](http://fernand0.github.io/clientes-correo-enlaces/) - 2021-03-08
-* [Seguridad al desarrollar para sistemas industriales (Industria 4.0)](http://fernand0.github.io/seguridad-legados/) - 2021-02-22
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Redes sociales, &#191;s&#237; o no?](http://fernand0.blogalia.com//historias/78384) - 2021-05-10
 * [D&#233;jame tu m&#225;quina para frabricarme esa pieza](http://fernand0.blogalia.com//historias/78381) - 2021-05-03
 * [Algunos modelos de publicidad en la red](http://fernand0.blogalia.com//historias/78377) - 2021-04-26
 * [&#191;Presencial, grabado, en directo? &#191;Aprendizaje o actuaci&#243;n?](http://fernand0.blogalia.com//historias/78373) - 2021-04-19
@@ -59,7 +60,6 @@
 * [Siete cambios que pueden ocurrir en la escolarizaci&#243;n en un futuro pr&#243;ximo](http://fernand0.blogalia.com//historias/78357) - 2021-03-22
 * [&#191;Puedo preguntar?](http://fernand0.blogalia.com//historias/78351) - 2021-03-15
 * [Cuando internet se convierte en global de verdad](http://fernand0.blogalia.com//historias/78346) - 2021-03-08
-* [D&#233;jame tu m&#225;quina para fabricarme esa pieza](http://fernand0.blogalia.com//historias/78342) - 2021-03-01
 <!-- blog ends -->
 
 ### Twitter 
