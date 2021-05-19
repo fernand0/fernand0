@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-05-17
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-05-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-05-17
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-05-10
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-04-21
@@ -24,10 +24,10 @@
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2021-02-12
 
 ## repositoriesContributedTo
-* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-05-17
+* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-05-18
+* [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-05-18
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-05-10
 * [err-backend-discord](https://github.com/gbin/err-backend-discord),  Backend for Discord for Errbot - 2021-05-03
-* [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-04-28
 * [imgurpython](https://github.com/Imgur/imgurpython),  Official Imgur python client library (deprecated)- 2021-02-13
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2021-02-03
 <!-- recent_releases ends -->
@@ -50,7 +50,7 @@
 * [Teoría de la aleatoriedad y seguridad](http://fernand0.github.io/aleatoriedad-seguridad/) - 2021-03-15
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
-* [Mi experincia con Revue: publicando una lista de enlaces cada d&#237;a.](http://fernand0.blogalia.com//historias/78387) - 2021-05-17
+* [Mi experiencia con Revue: publicando una lista de enlaces cada d&#237;a.](http://fernand0.blogalia.com//historias/78387) - 2021-05-17
 * [Redes sociales, &#191;s&#237; o no?](http://fernand0.blogalia.com//historias/78384) - 2021-05-10
 * [D&#233;jame tu m&#225;quina para frabricarme esa pieza](http://fernand0.blogalia.com//historias/78381) - 2021-05-03
 * [Algunos modelos de publicidad en la red](http://fernand0.blogalia.com//historias/78377) - 2021-04-26
