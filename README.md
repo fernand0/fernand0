@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-05-30
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-05-24
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-05-31
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-05-31
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-05-10
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-04-21
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-04-06
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [IoT, nuestra casa y la seguridad](http://fernand0.github.io/iot-seguridad-casera/) - 2021-05-31
 * [Espiar lo que tecleamos en una videoconferencia](http://fernand0.github.io/tecleando-videoconferencia/) - 2021-05-24
 * [Complejidad y diseño de sistemas seguros](http://fernand0.github.io/desarrollar-sistemas-seguros/) - 2021-05-17
 * [Un ejemplo de uso del OAuth de Google con Node.js](http://fernand0.github.io/Google-Oauth-node/) - 2021-05-03
@@ -47,9 +48,9 @@
 * [Aleatoriedad en sistemas informáticos. Una introducción breve.](http://fernand0.github.io/generacion-numeros-aleatorios/) - 2021-04-12
 * [Formas alternativas de conocer mejor a nuestros atacantes.](http://fernand0.github.io/investigacion-incidentes-apis/) - 2021-04-05
 * [No desarrolles tu propia criptografía](http://fernand0.github.io/tu-propia-criptografia/) - 2021-03-30
-* [El correo y su realidad a través de las implementaciones](http://fernand0.github.io/fallos-viejos-correo/) - 2021-03-22
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [&#191;Virtual o remoto?](http://fernand0.blogalia.com//historias/78392) - 2021-05-31
 * [Las cookies y los sitios](http://fernand0.blogalia.com//historias/78389) - 2021-05-24
 * [Mi experiencia con Revue: publicando una lista de enlaces cada d&#237;a.](http://fernand0.blogalia.com//historias/78387) - 2021-05-17
 * [Redes sociales, &#191;s&#237; o no?](http://fernand0.blogalia.com//historias/78384) - 2021-05-10
@@ -59,7 +60,6 @@
 * [&#191;Especializar lo que compartimos o seguir siendo generalista?](http://fernand0.blogalia.com//historias/78369) - 2021-04-12
 * [Sobre gustos, redes y el futuro de internet.](http://fernand0.blogalia.com//historias/78366) - 2021-04-05
 * [Algunas cosas que la inteligencia artificial no har&#225; bien.](http://fernand0.blogalia.com//historias/78361) - 2021-03-30
-* [Siete cambios que pueden ocurrir en la escolarizaci&#243;n en un futuro pr&#243;ximo](http://fernand0.blogalia.com//historias/78357) - 2021-03-22
 <!-- blog ends -->
 
 ### Twitter 
