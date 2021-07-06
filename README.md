@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-07-05
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-07-04
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-07-06
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-07-05
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-07-05
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-06-29
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-06-28
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-06-09
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-04-06
@@ -38,7 +38,8 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
-* [Un tutorial sobre cookies y seguridad](http://fernand0.github.io/tutoria-cookies/) - 2021-06-28
+* [Las APIs también deben tener en consideración la seguridad](http://fernand0.github.io/seguridad-APIs/) - 2021-07-05
+* [Un tutorial sobre cookies y seguridad](http://fernand0.github.io/tutorial-cookies/) - 2021-06-28
 * [Un recordatorio sobre diversos mecanismos de seguridad web](http://fernand0.github.io/web-security/) - 2021-06-22
 * [Algunos consejos prácticos sobre criptografía para programadores](http://fernand0.github.io/criptografia-programadores/) - 2021-06-14
 * [Ataques laterales para obtener información: la memoria como WiFi](http://fernand0.github.io/exfiltracion-datos/) - 2021-06-08
@@ -47,9 +48,9 @@
 * [Complejidad y diseño de sistemas seguros](http://fernand0.github.io/desarrollar-sistemas-seguros/) - 2021-05-17
 * [Un ejemplo de uso del OAuth de Google con Node.js](http://fernand0.github.io/Google-Oauth-node/) - 2021-05-03
 * [¿Necesita evolucionar Python para mejorar?](http://fernand0.github.io/debe-python-evolucionar/) - 2021-05-03
-* [Ataques a través de fallos en códigos de terceros](http://fernand0.github.io/ataque-instagram-api/) - 2021-04-26
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Software libre y software &#233;tico](http://fernand0.blogalia.com//historias/78405) - 2021-07-05
 * [Redes sociales alternativas ... pero de verdad.](http://fernand0.blogalia.com//historias/78400) - 2021-06-28
 * [Organizaci&#243;n de fuentes de informaci&#243;n: diferenciar la comunicaci&#243;n urgente e importante](http://fernand0.blogalia.com//historias/78397) - 2021-06-22
 * [De &#233;xodos digitales, otros que no y prescriptores que ya veremos si lo son](http://fernand0.blogalia.com//historias/78394) - 2021-06-14
@@ -59,7 +60,6 @@
 * [Mi experiencia con Revue: publicando una lista de enlaces cada d&#237;a.](http://fernand0.blogalia.com//historias/78387) - 2021-05-17
 * [Redes sociales, &#191;s&#237; o no?](http://fernand0.blogalia.com//historias/78384) - 2021-05-10
 * [D&#233;jame tu m&#225;quina para frabricarme esa pieza](http://fernand0.blogalia.com//historias/78381) - 2021-05-03
-* [Algunos modelos de publicidad en la red](http://fernand0.blogalia.com//historias/78377) - 2021-04-26
 <!-- blog ends -->
 
 ### Twitter 
