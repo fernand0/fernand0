@@ -12,8 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-07-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-07-24
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-07-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-07-25
+* [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-07-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-07-19
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
@@ -21,7 +22,6 @@
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-04-06
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-04-04
 * [minutes-of-meeting-markdown](https://github.com/fernand0/minutes-of-meeting-markdown),  This is a general markdown template of minutes of meeting useful to help you get started quickly- 2021-03-18
-* [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2021-02-25
 
 ## repositoriesContributedTo
 * [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-07-23
