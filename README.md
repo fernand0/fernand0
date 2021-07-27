@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-07-26
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-07-25
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-07-27
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-07-26
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-07-26
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-07-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-07-19
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-06-09
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Un ejemplo de interacción insegura entre sistemas seguros: YouTube](http://fernand0.github.io/robar-videos-youtube/) - 2021-07-19
 * [Los robots que navegan por la web y nuestra privacidad](http://fernand0.github.io/extraer-informacion-internet/) - 2021-07-19
 * [Los coches y  la divulgación de datos personales](http://fernand0.github.io/seguridad-coches/) - 2021-07-12
 * [Las APIs también deben tener en consideración la seguridad](http://fernand0.github.io/seguridad-APIs/) - 2021-07-05
@@ -47,9 +48,9 @@
 * [Ataques laterales para obtener información: la memoria como WiFi](http://fernand0.github.io/exfiltracion-datos/) - 2021-06-08
 * [IoT, nuestra casa y la seguridad](http://fernand0.github.io/iot-seguridad-casera/) - 2021-05-31
 * [Espiar lo que tecleamos en una videoconferencia](http://fernand0.github.io/tecleando-videoconferencia/) - 2021-05-24
-* [Complejidad y diseño de sistemas seguros](http://fernand0.github.io/desarrollar-sistemas-seguros/) - 2021-05-17
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Tener un blog puede ayudarte en tus otras actividades.](http://fernand0.blogalia.com//historias/78412) - 2021-07-26
 * [Pasear, solo o en compa&#241;&#237;a.](http://fernand0.blogalia.com//historias/78409) - 2021-07-19
 * [Nuevas herramientas, innovaci&#243;n y trabajo realizado.](http://fernand0.blogalia.com//historias/78406) - 2021-07-12
 * [Software libre y software &#233;tico](http://fernand0.blogalia.com//historias/78405) - 2021-07-05
@@ -59,7 +60,6 @@
 * [Sitios de recomendaciones y cierre de negocios durante la pandemia.](http://fernand0.blogalia.com//historias/78393) - 2021-06-08
 * [&#191;Virtual o remoto?](http://fernand0.blogalia.com//historias/78392) - 2021-05-31
 * [Las cookies y los sitios](http://fernand0.blogalia.com//historias/78389) - 2021-05-24
-* [Mi experiencia con Revue: publicando una lista de enlaces cada d&#237;a.](http://fernand0.blogalia.com//historias/78387) - 2021-05-17
 <!-- blog ends -->
 
 ### Twitter 
