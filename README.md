@@ -12,14 +12,14 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-08-02
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-08-01
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-07-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-08-03
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-08-02
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-08-02
+* [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-08-02
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-07-19
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-06-09
-* [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-04-06
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-04-04
 * [minutes-of-meeting-markdown](https://github.com/fernand0/minutes-of-meeting-markdown),  This is a general markdown template of minutes of meeting useful to help you get started quickly- 2021-03-18
 
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Sobre el diseño de formularios seguros en HTML](http://fernand0.github.io/formularios-seguros/) - 2021-08-02
 * [Un ejemplo de interacción insegura entre sistemas seguros: YouTube](http://fernand0.github.io/robar-videos-youtube/) - 2021-07-19
 * [Los robots que navegan por la web y nuestra privacidad](http://fernand0.github.io/extraer-informacion-internet/) - 2021-07-19
 * [Los coches y  la divulgación de datos personales](http://fernand0.github.io/seguridad-coches/) - 2021-07-12
@@ -47,9 +48,9 @@
 * [Algunos consejos prácticos sobre criptografía para programadores](http://fernand0.github.io/criptografia-programadores/) - 2021-06-14
 * [Ataques laterales para obtener información: la memoria como WiFi](http://fernand0.github.io/exfiltracion-datos/) - 2021-06-08
 * [IoT, nuestra casa y la seguridad](http://fernand0.github.io/iot-seguridad-casera/) - 2021-05-31
-* [Espiar lo que tecleamos en una videoconferencia](http://fernand0.github.io/tecleando-videoconferencia/) - 2021-05-24
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Defenderse de los algoritmos de perfilado.](http://fernand0.blogalia.com//historias/78415) - 2021-08-02
 * [Tener un blog puede ayudarte en tus otras actividades.](http://fernand0.blogalia.com//historias/78412) - 2021-07-26
 * [Pasear, solo o en compa&#241;&#237;a.](http://fernand0.blogalia.com//historias/78409) - 2021-07-19
 * [Nuevas herramientas, innovaci&#243;n y trabajo realizado.](http://fernand0.blogalia.com//historias/78406) - 2021-07-12
@@ -59,7 +60,6 @@
 * [De &#233;xodos digitales, otros que no y prescriptores que ya veremos si lo son](http://fernand0.blogalia.com//historias/78394) - 2021-06-14
 * [Sitios de recomendaciones y cierre de negocios durante la pandemia.](http://fernand0.blogalia.com//historias/78393) - 2021-06-08
 * [&#191;Virtual o remoto?](http://fernand0.blogalia.com//historias/78392) - 2021-05-31
-* [Las cookies y los sitios](http://fernand0.blogalia.com//historias/78389) - 2021-05-24
 <!-- blog ends -->
 
 ### Twitter 
