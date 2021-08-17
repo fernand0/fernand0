@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-08-16
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-08-15
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-08-17
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-08-16
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-08-16
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-08-11
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-08-09
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-08-02
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Más ataques a la privacidad: los 'faviconos'](http://fernand0.github.io/favicons-y-privacidad/) - 2021-08-16
 * [Optimización con llamadas recursivas al final](http://fernand0.github.io/optimizacion-llamadas/) - 2021-08-09
 * [Sobre el diseño de formularios seguros en HTML](http://fernand0.github.io/formularios-seguros/) - 2021-08-02
 * [Un ejemplo de interacción insegura entre sistemas seguros: YouTube](http://fernand0.github.io/robar-videos-youtube/) - 2021-07-19
@@ -47,9 +48,9 @@
 * [Un tutorial sobre cookies y seguridad](http://fernand0.github.io/tutorial-cookies/) - 2021-06-28
 * [Un recordatorio sobre diversos mecanismos de seguridad web](http://fernand0.github.io/web-security/) - 2021-06-22
 * [Algunos consejos prácticos sobre criptografía para programadores](http://fernand0.github.io/criptografia-programadores/) - 2021-06-14
-* [Ataques laterales para obtener información: la memoria como WiFi](http://fernand0.github.io/exfiltracion-datos/) - 2021-06-08
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [La internet peque&#241;a y pensar en las otras personas](http://fernand0.blogalia.com//historias/78418) - 2021-08-16
 * [Aprender a dar y recibir ideas para mejorar las organizaciones.](http://fernand0.blogalia.com//historias/78417) - 2021-08-09
 * [Defenderse de los algoritmos de perfilado.](http://fernand0.blogalia.com//historias/78415) - 2021-08-02
 * [Tener un blog puede ayudarte en tus otras actividades.](http://fernand0.blogalia.com//historias/78412) - 2021-07-26
@@ -59,7 +60,6 @@
 * [Redes sociales alternativas ... pero de verdad.](http://fernand0.blogalia.com//historias/78400) - 2021-06-28
 * [Organizaci&#243;n de fuentes de informaci&#243;n: diferenciar la comunicaci&#243;n urgente e importante](http://fernand0.blogalia.com//historias/78397) - 2021-06-22
 * [De &#233;xodos digitales, otros que no y prescriptores que ya veremos si lo son](http://fernand0.blogalia.com//historias/78394) - 2021-06-14
-* [Sitios de recomendaciones y cierre de negocios durante la pandemia.](http://fernand0.blogalia.com//historias/78393) - 2021-06-08
 <!-- blog ends -->
 
 ### Twitter 
