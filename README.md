@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-08-23
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-08-22
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-08-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-08-24
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-08-23
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-08-23
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-08-11
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-08-02
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
@@ -24,8 +24,8 @@
 * [minutes-of-meeting-markdown](https://github.com/fernand0/minutes-of-meeting-markdown),  This is a general markdown template of minutes of meeting useful to help you get started quickly- 2021-03-18
 
 ## repositoriesContributedTo
+* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-08-23
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-08-10
-* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-08-01
 * [imgurpython](https://github.com/Imgur/imgurpython),  Official Imgur python client library (deprecated)- 2021-06-26
 * [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-06-25
 * [err-backend-discord](https://github.com/gbin/err-backend-discord),  Backend for Discord for Errbot - 2021-06-12
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Más de 20 años de la inyección SQL y todavía sigue allí](http://fernand0.github.io/inyeccion-de-SQL/) - 2021-08-23
 * [Más ataques a la privacidad: los 'faviconos'](http://fernand0.github.io/favicons-y-privacidad/) - 2021-08-16
 * [Optimización con llamadas recursivas al final](http://fernand0.github.io/optimizacion-llamadas/) - 2021-08-09
 * [Sobre el diseño de formularios seguros en HTML](http://fernand0.github.io/formularios-seguros/) - 2021-08-02
@@ -47,9 +48,9 @@
 * [Las APIs también deben tener en consideración la seguridad](http://fernand0.github.io/seguridad-APIs/) - 2021-07-05
 * [Un tutorial sobre cookies y seguridad](http://fernand0.github.io/tutorial-cookies/) - 2021-06-28
 * [Un recordatorio sobre diversos mecanismos de seguridad web](http://fernand0.github.io/web-security/) - 2021-06-22
-* [Algunos consejos prácticos sobre criptografía para programadores](http://fernand0.github.io/criptografia-programadores/) - 2021-06-14
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Difusi&#243;n de informaci&#243;n enga&#241;osa: pocos, pero bien acompa&#241;ados.](http://fernand0.blogalia.com//historias/78423) - 2021-08-23
 * [La internet peque&#241;a y pensar en las otras personas](http://fernand0.blogalia.com//historias/78418) - 2021-08-16
 * [Aprender a dar y recibir ideas para mejorar las organizaciones.](http://fernand0.blogalia.com//historias/78417) - 2021-08-09
 * [Defenderse de los algoritmos de perfilado.](http://fernand0.blogalia.com//historias/78415) - 2021-08-02
@@ -59,7 +60,6 @@
 * [Software libre y software &#233;tico](http://fernand0.blogalia.com//historias/78405) - 2021-07-05
 * [Redes sociales alternativas ... pero de verdad.](http://fernand0.blogalia.com//historias/78400) - 2021-06-28
 * [Organizaci&#243;n de fuentes de informaci&#243;n: diferenciar la comunicaci&#243;n urgente e importante](http://fernand0.blogalia.com//historias/78397) - 2021-06-22
-* [De &#233;xodos digitales, otros que no y prescriptores que ya veremos si lo son](http://fernand0.blogalia.com//historias/78394) - 2021-06-14
 <!-- blog ends -->
 
 ### Twitter 
