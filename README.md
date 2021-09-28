@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-09-27
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-09-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-09-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-09-27
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-09-20
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-08-26
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-08-26
@@ -50,6 +50,7 @@
 * [Los robots que navegan por la web y nuestra privacidad](http://fernand0.github.io/extraer-informacion-internet/) - 2021-07-19
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Las empresas tecnol&#243;gicas, los gobiernos, el progreso y la defensa de la gente.](http://fernand0.blogalia.com//historias/78448) - 2021-09-27
 * [La inteligencia artificial y los problemas &#233;ticos que, a lo mejor, no son los que pensamos.](http://fernand0.blogalia.com//historias/78444) - 2021-09-20
 * [Algunas ideas sobre rankings y numerolog&#237;a universitaria](http://fernand0.blogalia.com//historias/78434) - 2021-09-13
 * [Las clases, las c&#225;maras y las tensiones en un mundo que ya cambi&#243;.](http://fernand0.blogalia.com//historias/78428) - 2021-09-06
@@ -59,7 +60,6 @@
 * [Aprender a dar y recibir ideas para mejorar las organizaciones.](http://fernand0.blogalia.com//historias/78417) - 2021-08-09
 * [Defenderse de los algoritmos de perfilado.](http://fernand0.blogalia.com//historias/78415) - 2021-08-02
 * [Tener un blog puede ayudarte en tus otras actividades.](http://fernand0.blogalia.com//historias/78412) - 2021-07-26
-* [Pasear, solo o en compa&#241;&#237;a.](http://fernand0.blogalia.com//historias/78409) - 2021-07-19
 <!-- blog ends -->
 
 ### Twitter 
