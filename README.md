@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-09-28
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-09-27
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-09-20
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-09-29
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-09-28
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-09-28
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-08-26
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-08-26
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-08-02
@@ -24,7 +24,7 @@
 * [minutes-of-meeting-markdown](https://github.com/fernand0/minutes-of-meeting-markdown),  This is a general markdown template of minutes of meeting useful to help you get started quickly- 2021-03-18
 
 ## repositoriesContributedTo
-* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-09-23
+* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-09-28
 * [err-backend-discord](https://github.com/gbin/err-backend-discord),  Backend for Discord for Errbot - 2021-09-16
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-09-14
 * [imgurpython](https://github.com/Imgur/imgurpython),  Official Imgur python client library (deprecated)- 2021-06-26
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Los fallos de seguridad en curl por culpa del lenguaje C](http://fernand0.github.io/curl-seguridad-y-c/) - 2021-09-28
 * [Repaso de un viejo fallo de seguridad: contaminación de parámetros de HTTP](http://fernand0.github.io/polucion-parametros-http/) - 2021-09-20
 * [¿Java es un lenguaje seguro?](http://fernand0.github.io/java-seguro/) - 2021-09-13
 * [Recuperar información sobre un binario en ejecución (bash)](http://fernand0.github.io/ejecucion-bash/) - 2021-09-06
@@ -47,7 +48,6 @@
 * [Optimización con llamadas recursivas al final](http://fernand0.github.io/optimizacion-llamadas/) - 2021-08-09
 * [Sobre el diseño de formularios seguros en HTML](http://fernand0.github.io/formularios-seguros/) - 2021-08-02
 * [Un ejemplo de interacción insegura entre sistemas seguros: YouTube](http://fernand0.github.io/robar-videos-youtube/) - 2021-07-19
-* [Los robots que navegan por la web y nuestra privacidad](http://fernand0.github.io/extraer-informacion-internet/) - 2021-07-19
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Las empresas tecnol&#243;gicas, los gobiernos, el progreso y la defensa de la gente.](http://fernand0.blogalia.com//historias/78448) - 2021-09-27
