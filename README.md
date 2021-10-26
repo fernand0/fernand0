@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-10-25
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-10-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-10-25
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-10-25
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-10-24
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-10-24
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-10-18
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-08-26
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-08-02
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [El ecosistema del cibercrimen: algunos actores, distribución de tareas y sus conexiones](http://fernand0.github.io/cibercrimen-organizado/) - 2021-10-25
 * [Una condición de carrera en el manejo de sesiones en GitHub](http://fernand0.github.io/reparacion-condicon-carrera/) - 2021-10-18
 * [Desarrollar. Teniendo en cuenta la seguridad](http://fernand0.github.io/desarrolladores-seguridad/) - 2021-10-13
 * [Se lo que escribiste en tu última videoconferencia](http://fernand0.github.io/se-lo-que-escribiste-videoconferencia/) - 2021-10-04
@@ -47,9 +48,9 @@
 * [Recuperar información sobre un binario en ejecución (bash)](http://fernand0.github.io/ejecucion-bash/) - 2021-09-06
 * [Desarrollo seguro: algunas piezas sobre las que construir](http://fernand0.github.io/seguridad-software/) - 2021-08-31
 * [Más de 20 años de la inyección SQL y todavía sigue allí](http://fernand0.github.io/inyeccion-de-SQL/) - 2021-08-23
-* [Más ataques a la privacidad: los 'faviconos'](http://fernand0.github.io/favicons-y-privacidad/) - 2021-08-16
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Blockchain, registros, realidad y exactitud](http://fernand0.blogalia.com//historias/78467) - 2021-10-25
 * [Trabajo en remoto. El caso de GitLab.](http://fernand0.blogalia.com//historias/78461) - 2021-10-18
 * [Tener nuestro sitio en la red, contribuir y aprender](http://fernand0.blogalia.com//historias/78459) - 2021-10-13
 * [En Arag&#243;n Radio hablando del fallo de Facebook, Instagram y WhatsApp](http://fernand0.blogalia.com//historias/78458) - 2021-10-13
@@ -59,7 +60,6 @@
 * [Algunas ideas sobre rankings y numerolog&#237;a universitaria](http://fernand0.blogalia.com//historias/78434) - 2021-09-13
 * [Las clases, las c&#225;maras y las tensiones en un mundo que ya cambi&#243;.](http://fernand0.blogalia.com//historias/78428) - 2021-09-06
 * [Difusi&#243;n de informaci&#243;n enga&#241;osa: 'era de los m&#237;os, no estaba prestando suficiente atenci&#243;n'](http://fernand0.blogalia.com//historias/78425) - 2021-08-31
-* [Difusi&#243;n de informaci&#243;n enga&#241;osa: pocos, pero bien acompa&#241;ados.](http://fernand0.blogalia.com//historias/78423) - 2021-08-23
 <!-- blog ends -->
 
 ### Twitter 
