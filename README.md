@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-11-08
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-11-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-11-08
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-11-08
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-11-07
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-11-07
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-11-02
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-08-26
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-08-02
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
@@ -24,7 +24,7 @@
 * [minutes-of-meeting-markdown](https://github.com/fernand0/minutes-of-meeting-markdown),  This is a general markdown template of minutes of meeting useful to help you get started quickly- 2021-03-18
 
 ## repositoriesContributedTo
-* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-11-04
+* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-11-08
 * [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-10-31
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-10-19
 * [err-backend-discord](https://github.com/gbin/err-backend-discord),  Backend for Discord for Errbot - 2021-09-16
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Las URLs y los programas de escritorio. Otro problema de seguridad.](http://fernand0.github.io/datos-usuarios-URLs/) - 2021-11-08
 * [Estás desarrollando tu propia criptografía. Y (¿no?) lo sabes.](http://fernand0.github.io/criptografia-casera/) - 2021-11-02
 * [El ecosistema del cibercrimen: algunos actores, distribución de tareas y sus conexiones](http://fernand0.github.io/cibercrimen-organizado/) - 2021-10-25
 * [Una condición de carrera en el manejo de sesiones en GitHub](http://fernand0.github.io/reparacion-condicon-carrera/) - 2021-10-18
@@ -47,9 +48,9 @@
 * [Repaso de un viejo fallo de seguridad: contaminación de parámetros de HTTP](http://fernand0.github.io/polucion-parametros-http/) - 2021-09-20
 * [¿Java es un lenguaje seguro?](http://fernand0.github.io/java-seguro/) - 2021-09-13
 * [Recuperar información sobre un binario en ejecución (bash)](http://fernand0.github.io/ejecucion-bash/) - 2021-09-06
-* [Desarrollo seguro: algunas piezas sobre las que construir](http://fernand0.github.io/seguridad-software/) - 2021-08-31
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [&#191;Se puede cambiar el proceso tradicional de publicaci&#243;n de art&#237;culos cient&#237;ficos?](http://fernand0.blogalia.com//historias/78472) - 2021-11-08
 * [Herramientas m&#225;s sencillas, aprendizaje y ense&#241;anza](http://fernand0.blogalia.com//historias/78470) - 2021-11-02
 * [Blockchain, registros, realidad y exactitud](http://fernand0.blogalia.com//historias/78467) - 2021-10-25
 * [Trabajo en remoto. El caso de GitLab.](http://fernand0.blogalia.com//historias/78461) - 2021-10-18
@@ -59,7 +60,6 @@
 * [Las empresas tecnol&#243;gicas, los gobiernos, el progreso y la defensa de la gente.](http://fernand0.blogalia.com//historias/78448) - 2021-09-27
 * [La inteligencia artificial y los problemas &#233;ticos que, a lo mejor, no son los que pensamos.](http://fernand0.blogalia.com//historias/78444) - 2021-09-20
 * [Algunas ideas sobre rankings y numerolog&#237;a universitaria](http://fernand0.blogalia.com//historias/78434) - 2021-09-13
-* [Las clases, las c&#225;maras y las tensiones en un mundo que ya cambi&#243;.](http://fernand0.blogalia.com//historias/78428) - 2021-09-06
 <!-- blog ends -->
 
 ### Twitter 
