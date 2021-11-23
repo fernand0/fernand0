@@ -12,11 +12,11 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-11-22
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-11-21
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-11-21
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-11-23
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-11-22
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-11-22
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-11-22
 * [programa](https://github.com/fernand0/programa),  A beautiful, simple, clean, and responsive Jekyll theme for academics- 2021-11-16
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-11-15
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-11-14
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-08-26
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-08-02
@@ -24,8 +24,8 @@
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
 
 ## repositoriesContributedTo
+* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-11-22
 * [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-11-17
-* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-11-16
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-11-15
 * [imgurpython](https://github.com/Imgur/imgurpython),  Official Imgur python client library (deprecated)- 2021-06-26
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2021-02-03
@@ -37,6 +37,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Una guía sobre OAuth](http://fernand0.github.io/guia-oauth/) - 2021-11-22
 * [¿Corre riesgo Python de quedar como un lenguaje marginal?](http://fernand0.github.io/python-cambio/) - 2021-11-15
 * [Las URLs y los programas de escritorio. Otro problema de seguridad.](http://fernand0.github.io/datos-usuarios-URLs/) - 2021-11-08
 * [Estás desarrollando tu propia criptografía. Y (¿no?) lo sabes.](http://fernand0.github.io/criptografia-casera/) - 2021-11-02
@@ -46,9 +47,10 @@
 * [Se lo que escribiste en tu última videoconferencia](http://fernand0.github.io/se-lo-que-escribiste-videoconferencia/) - 2021-10-04
 * [Los fallos de seguridad en curl por culpa del lenguaje C](http://fernand0.github.io/curl-seguridad-y-c/) - 2021-09-28
 * [Repaso de un viejo fallo de seguridad: contaminación de parámetros de HTTP](http://fernand0.github.io/polucion-parametros-http/) - 2021-09-20
-* [¿Java es un lenguaje seguro?](http://fernand0.github.io/java-seguro/) - 2021-09-13
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En Walqa, hablando sobre oportunidades en Ciberseguridad](http://fernand0.blogalia.com//historias/78478) - 2021-11-22
+* [En el SIE de Huesca, consejos de ciberseguridad](http://fernand0.blogalia.com//historias/78477) - 2021-11-22
 * [Algunos consejos para utilizar Twitter.](http://fernand0.blogalia.com//historias/78475) - 2021-11-15
 * [&#191;Se puede cambiar el proceso tradicional de publicaci&#243;n de art&#237;culos cient&#237;ficos?](http://fernand0.blogalia.com//historias/78472) - 2021-11-08
 * [Herramientas m&#225;s sencillas, aprendizaje y ense&#241;anza](http://fernand0.blogalia.com//historias/78470) - 2021-11-02
@@ -57,8 +59,6 @@
 * [Tener nuestro sitio en la red, contribuir y aprender](http://fernand0.blogalia.com//historias/78459) - 2021-10-13
 * [En Arag&#243;n Radio hablando del fallo de Facebook, Instagram y WhatsApp](http://fernand0.blogalia.com//historias/78458) - 2021-10-13
 * [Algunas ideas para mejorar la ense&#241;anza en l&#237;nea, seg&#250;n una encuesta.](http://fernand0.blogalia.com//historias/78454) - 2021-10-04
-* [Las empresas tecnol&#243;gicas, los gobiernos, el progreso y la defensa de la gente.](http://fernand0.blogalia.com//historias/78448) - 2021-09-27
-* [La inteligencia artificial y los problemas &#233;ticos que, a lo mejor, no son los que pensamos.](http://fernand0.blogalia.com//historias/78444) - 2021-09-20
 <!-- blog ends -->
 
 ### Twitter 
