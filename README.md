@@ -12,12 +12,12 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-11-29
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-11-30
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-11-29
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-11-29
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-11-28
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-11-28
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-11-25
 * [python-linkedin-v2](https://github.com/fernand0/python-linkedin-v2),  Python interface to the LinkedIn API - V2- 2021-11-23
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-11-22
 * [programa](https://github.com/fernand0/programa),  A beautiful, simple, clean, and responsive Jekyll theme for academics- 2021-11-16
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-08-26
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2021-08-02
@@ -37,6 +37,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [GitHub y sus cambios en los nuevos formatos de los tokens de autentificación](http://fernand0.github.io/github-tokens/) - 2021-11-29
 * [Una guía sobre OAuth](http://fernand0.github.io/guia-oauth/) - 2021-11-22
 * [¿Corre riesgo Python de quedar como un lenguaje marginal?](http://fernand0.github.io/python-cambio/) - 2021-11-15
 * [Las URLs y los programas de escritorio. Otro problema de seguridad.](http://fernand0.github.io/datos-usuarios-URLs/) - 2021-11-08
@@ -46,9 +47,9 @@
 * [Desarrollar. Teniendo en cuenta la seguridad](http://fernand0.github.io/desarrolladores-seguridad/) - 2021-10-13
 * [Se lo que escribiste en tu última videoconferencia](http://fernand0.github.io/se-lo-que-escribiste-videoconferencia/) - 2021-10-04
 * [Los fallos de seguridad en curl por culpa del lenguaje C](http://fernand0.github.io/curl-seguridad-y-c/) - 2021-09-28
-* [Repaso de un viejo fallo de seguridad: contaminación de parámetros de HTTP](http://fernand0.github.io/polucion-parametros-http/) - 2021-09-20
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En Newtral, hablando sobre web3](http://fernand0.blogalia.com//historias/78481) - 2021-11-29
 * [En Walqa, hablando sobre oportunidades en Ciberseguridad](http://fernand0.blogalia.com//historias/78478) - 2021-11-22
 * [En el SIE de Huesca, consejos de ciberseguridad](http://fernand0.blogalia.com//historias/78477) - 2021-11-22
 * [Algunos consejos para utilizar Twitter.](http://fernand0.blogalia.com//historias/78475) - 2021-11-15
@@ -58,7 +59,6 @@
 * [Trabajo en remoto. El caso de GitLab.](http://fernand0.blogalia.com//historias/78461) - 2021-10-18
 * [Tener nuestro sitio en la red, contribuir y aprender](http://fernand0.blogalia.com//historias/78459) - 2021-10-13
 * [En Arag&#243;n Radio hablando del fallo de Facebook, Instagram y WhatsApp](http://fernand0.blogalia.com//historias/78458) - 2021-10-13
-* [Algunas ideas para mejorar la ense&#241;anza en l&#237;nea, seg&#250;n una encuesta.](http://fernand0.blogalia.com//historias/78454) - 2021-10-04
 <!-- blog ends -->
 
 ### Twitter 
