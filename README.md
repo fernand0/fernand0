@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-12-17
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-12-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-12-18
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-12-17
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2021-12-16
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-12-14
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-12-13
@@ -24,9 +24,9 @@
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 
 ## repositoriesContributedTo
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-12-18
 * [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-12-17
 * [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-12-13
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-12-11
 * [imgurpython](https://github.com/Imgur/imgurpython),  Official Imgur python client library (deprecated)- 2021-06-26
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2021-02-03
 <!-- recent_releases ends -->
@@ -49,6 +49,7 @@
 * [Desarrollar. Teniendo en cuenta la seguridad](http://fernand0.github.io/desarrolladores-seguridad/) - 2021-10-13
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En Consumidor Global hablando sobre bots](http://fernand0.blogalia.com//historias/78487) - 2021-12-17
 * [La UE y el desarrollo de programas para sus ciudadanos](http://fernand0.blogalia.com//historias/78485) - 2021-12-14
 * [La UE y los sistemas de mensajer&#237;a.](http://fernand0.blogalia.com//historias/78483) - 2021-12-06
 * [En Newtral, hablando sobre web3](http://fernand0.blogalia.com//historias/78481) - 2021-11-29
@@ -58,7 +59,6 @@
 * [&#191;Se puede cambiar el proceso tradicional de publicaci&#243;n de art&#237;culos cient&#237;ficos?](http://fernand0.blogalia.com//historias/78472) - 2021-11-08
 * [Herramientas m&#225;s sencillas, aprendizaje y ense&#241;anza](http://fernand0.blogalia.com//historias/78470) - 2021-11-02
 * [Blockchain, registros, realidad y exactitud](http://fernand0.blogalia.com//historias/78467) - 2021-10-25
-* [Trabajo en remoto. El caso de GitLab.](http://fernand0.blogalia.com//historias/78461) - 2021-10-18
 <!-- blog ends -->
 
 ### Twitter 
