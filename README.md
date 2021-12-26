@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-12-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-12-24
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-12-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-12-25
 * [GitterPy](https://github.com/fernand0/GitterPy),  Python interface for the Gitter API- 2021-12-20
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-12-20
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2021-12-16
@@ -50,6 +50,7 @@
 * [Una condición de carrera en el manejo de sesiones en GitHub](http://fernand0.github.io/reparacion-condicon-carrera/) - 2021-10-18
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En Arag&#243;n TV, hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78489) - 2021-12-25
 * [Licencias &#233;ticas en el mundo del software libre.](http://fernand0.blogalia.com//historias/78488) - 2021-12-20
 * [En Consumidor Global hablando sobre bots](http://fernand0.blogalia.com//historias/78487) - 2021-12-17
 * [La UE y el desarrollo de programas para sus ciudadanos](http://fernand0.blogalia.com//historias/78485) - 2021-12-14
@@ -59,7 +60,6 @@
 * [En el SIE de Huesca, consejos de ciberseguridad](http://fernand0.blogalia.com//historias/78477) - 2021-11-22
 * [Algunos consejos para utilizar Twitter.](http://fernand0.blogalia.com//historias/78475) - 2021-11-15
 * [&#191;Se puede cambiar el proceso tradicional de publicaci&#243;n de art&#237;culos cient&#237;ficos?](http://fernand0.blogalia.com//historias/78472) - 2021-11-08
-* [Herramientas m&#225;s sencillas, aprendizaje y ense&#241;anza](http://fernand0.blogalia.com//historias/78470) - 2021-11-02
 <!-- blog ends -->
 
 ### Twitter 
