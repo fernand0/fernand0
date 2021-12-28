@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-12-27
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-12-26
-* [GitterPy](https://github.com/fernand0/GitterPy),  Python interface for the Gitter API- 2021-12-20
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-12-20
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-12-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-12-27
+* [GitterPy](https://github.com/fernand0/GitterPy),  Python interface for the Gitter API- 2021-12-27
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-12-27
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2021-12-16
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-12-13
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-12-12
@@ -24,12 +24,12 @@
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 
 ## repositoriesContributedTo
+* [GitterPy](https://github.com/myusko/GitterPy),  Python interface for the Gitter API- 2021-12-27
+* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-12-27
 * [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-12-24
-* [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-12-22
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2021-12-20
 * [imgurpython](https://github.com/Imgur/imgurpython),  Official Imgur python client library (deprecated)- 2021-06-26
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2021-02-03
-* [GitterPy](https://github.com/myusko/GitterPy),  Python interface for the Gitter API- 2021-01-13
 <!-- recent_releases ends -->
 
 # On my blog (in Spanish)
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [El FBI limpiando sistemas infectados, al menos parcialmente.](http://fernand0.github.io/limpiando-internet/) - 2021-12-27
 * [Desbordamientos de enteros en aplicaciones del mundo real](http://fernand0.github.io/gestion-memoria/) - 2021-12-20
 * [No guardar secretos en repositorios de código](http://fernand0.github.io/secretos-repositorios/) - 2021-12-14
 * [Las contraseñas. Más complicado de lo que solemos pensar.](http://fernand0.github.io/claves-complejidad/) - 2021-12-06
@@ -47,9 +48,9 @@
 * [Las URLs y los programas de escritorio. Otro problema de seguridad.](http://fernand0.github.io/datos-usuarios-URLs/) - 2021-11-08
 * [Estás desarrollando tu propia criptografía. Y (¿no?) lo sabes.](http://fernand0.github.io/criptografia-casera/) - 2021-11-02
 * [El ecosistema del cibercrimen: algunos actores, distribución de tareas y sus conexiones](http://fernand0.github.io/cibercrimen-organizado/) - 2021-10-25
-* [Una condición de carrera en el manejo de sesiones en GitHub](http://fernand0.github.io/reparacion-condicon-carrera/) - 2021-10-18
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Las b&#250;squedas y la contaminaci&#243;n de la web](http://fernand0.blogalia.com//historias/78490) - 2021-12-27
 * [En Arag&#243;n TV, hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78489) - 2021-12-25
 * [Licencias &#233;ticas en el mundo del software libre.](http://fernand0.blogalia.com//historias/78488) - 2021-12-20
 * [En Consumidor Global hablando sobre bots](http://fernand0.blogalia.com//historias/78487) - 2021-12-17
@@ -59,7 +60,6 @@
 * [En Walqa, hablando sobre oportunidades en Ciberseguridad](http://fernand0.blogalia.com//historias/78478) - 2021-11-22
 * [En el SIE de Huesca, consejos de ciberseguridad](http://fernand0.blogalia.com//historias/78477) - 2021-11-22
 * [Algunos consejos para utilizar Twitter.](http://fernand0.blogalia.com//historias/78475) - 2021-11-15
-* [&#191;Se puede cambiar el proceso tradicional de publicaci&#243;n de art&#237;culos cient&#237;ficos?](http://fernand0.blogalia.com//historias/78472) - 2021-11-08
 <!-- blog ends -->
 
 ### Twitter 
