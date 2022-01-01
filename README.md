@@ -12,13 +12,13 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2021-12-31
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-12-30
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-01-01
+* [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-12-31
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2021-12-31
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-12-31
 * [GitterPy](https://github.com/fernand0/GitterPy),  Python interface for the Gitter API- 2021-12-27
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2021-12-27
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2021-12-16
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2021-12-13
-* [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-12-12
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2021-11-25
 * [python-linkedin-v2](https://github.com/fernand0/python-linkedin-v2),  Python interface to the LinkedIn API - V2- 2021-11-23
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
@@ -50,6 +50,7 @@
 * [El ecosistema del cibercrimen: algunos actores, distribución de tareas y sus conexiones](http://fernand0.github.io/cibercrimen-organizado/) - 2021-10-25
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Resumen de mi 2021](http://fernand0.blogalia.com//historias/78491) - 2021-12-31
 * [Las b&#250;squedas y la contaminaci&#243;n de la web](http://fernand0.blogalia.com//historias/78490) - 2021-12-27
 * [En Arag&#243;n TV, hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78489) - 2021-12-25
 * [Licencias &#233;ticas en el mundo del software libre.](http://fernand0.blogalia.com//historias/78488) - 2021-12-20
@@ -59,7 +60,6 @@
 * [En Newtral, hablando sobre web3](http://fernand0.blogalia.com//historias/78481) - 2021-11-29
 * [En Walqa, hablando sobre oportunidades en Ciberseguridad](http://fernand0.blogalia.com//historias/78478) - 2021-11-22
 * [En el SIE de Huesca, consejos de ciberseguridad](http://fernand0.blogalia.com//historias/78477) - 2021-11-22
-* [Algunos consejos para utilizar Twitter.](http://fernand0.blogalia.com//historias/78475) - 2021-11-15
 <!-- blog ends -->
 
 ### Twitter 
