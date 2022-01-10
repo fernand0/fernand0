@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-01-09
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-01-08
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-01-10
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-01-09
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-01-05
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-01-03
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-12-31
@@ -24,7 +24,7 @@
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 
 ## repositoriesContributedTo
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-01-08
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-01-09
 * [GitterPy](https://github.com/myusko/GitterPy),  Python interface for the Gitter API- 2021-12-27
 * [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2021-12-27
 * [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-12-24
@@ -50,6 +50,7 @@
 * [Estás desarrollando tu propia criptografía. Y (¿no?) lo sabes.](http://fernand0.github.io/criptografia-casera/) - 2021-11-02
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En TVE, hablando de redes sociales y ciberacoso](http://fernand0.blogalia.com//historias/78494) - 2022-01-09
 * [&#191;Demasiado correo publicitario? Ign&#243;ralo, tienes cosas mejores que hacer.](http://fernand0.blogalia.com//historias/78493) - 2022-01-03
 * [Resumen de mi 2021](http://fernand0.blogalia.com//historias/78491) - 2021-12-31
 * [Las b&#250;squedas y la contaminaci&#243;n de la web](http://fernand0.blogalia.com//historias/78490) - 2021-12-27
@@ -59,7 +60,6 @@
 * [La UE y el desarrollo de programas para sus ciudadanos](http://fernand0.blogalia.com//historias/78485) - 2021-12-14
 * [La UE y los sistemas de mensajer&#237;a.](http://fernand0.blogalia.com//historias/78483) - 2021-12-06
 * [En Newtral, hablando sobre web3](http://fernand0.blogalia.com//historias/78481) - 2021-11-29
-* [En Walqa, hablando sobre oportunidades en Ciberseguridad](http://fernand0.blogalia.com//historias/78478) - 2021-11-22
 <!-- blog ends -->
 
 ### Twitter 
