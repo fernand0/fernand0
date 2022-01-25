@@ -12,11 +12,11 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-01-24
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-01-23
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-01-25
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-01-24
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-01-24
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-01-22
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2022-01-18
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-01-17
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2022-01-12
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-12-31
 * [GitterPy](https://github.com/fernand0/GitterPy),  Python interface for the Gitter API- 2021-12-27
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Desarrollo de criptografía para no especialistas](http://fernand0.github.io/desarrollar-criptografia/) - 2022-01-17
 * [Ataques a los datos de entrenamiento de inteligencias artificiales](http://fernand0.github.io/envenenamiento-datos-IA/) - 2022-01-17
 * [Sobre la verificación en tiempo de ejecución del kernel de Linux](http://fernand0.github.io/verificacion-ejecucion/) - 2022-01-10
 * [Algunos (pocos) datos sobre generadores de números aleatorios](http://fernand0.github.io/evolucion-generadores-aleatorios/) - 2022-01-03
@@ -47,9 +48,9 @@
 * [Las contraseñas. Más complicado de lo que solemos pensar.](http://fernand0.github.io/claves-complejidad/) - 2021-12-06
 * [GitHub y sus cambios en los nuevos formatos de los tokens de autentificación](http://fernand0.github.io/github-tokens/) - 2021-11-29
 * [Una guía sobre OAuth](http://fernand0.github.io/guia-oauth/) - 2021-11-22
-* [¿Corre riesgo Python de quedar como un lenguaje marginal?](http://fernand0.github.io/python-cambio/) - 2021-11-15
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Nombramiento como 'Defensor del Colegiado' del 'Colegio Profesional de Ingenier&#237;a Inform&#225;tica de Arag&#243;n'](http://fernand0.blogalia.com//historias/78501) - 2022-01-24
 * [&#191;Qu&#233; fue de las redes de blogs? Historia de una venta.](http://fernand0.blogalia.com//historias/78499) - 2022-01-17
 * [La tecnolog&#237;a y el mundo](http://fernand0.blogalia.com//historias/78495) - 2022-01-10
 * [En TVE, hablando de redes sociales y ciberacoso](http://fernand0.blogalia.com//historias/78494) - 2022-01-09
@@ -59,7 +60,6 @@
 * [En Arag&#243;n TV, hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78489) - 2021-12-25
 * [Licencias &#233;ticas en el mundo del software libre.](http://fernand0.blogalia.com//historias/78488) - 2021-12-20
 * [En Consumidor Global hablando sobre bots](http://fernand0.blogalia.com//historias/78487) - 2021-12-17
-* [La UE y el desarrollo de programas para sus ciudadanos](http://fernand0.blogalia.com//historias/78485) - 2021-12-14
 <!-- blog ends -->
 
 ### Twitter 
