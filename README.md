@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-01-28
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-01-29
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-01-28
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-01-27
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-01-27
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-01-24
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2022-01-18
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2022-01-12
@@ -50,6 +50,7 @@
 * [Una guía sobre OAuth](http://fernand0.github.io/guia-oauth/) - 2021-11-22
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Veinte](http://fernand0.blogalia.com//historias/78503) - 2022-01-28
 * [Nombramiento como 'Defensor del Colegiado' del 'Colegio Profesional de Ingenier&#237;a Inform&#225;tica de Arag&#243;n'](http://fernand0.blogalia.com//historias/78501) - 2022-01-24
 * [&#191;Qu&#233; fue de las redes de blogs? Historia de una venta.](http://fernand0.blogalia.com//historias/78499) - 2022-01-17
 * [La tecnolog&#237;a y el mundo](http://fernand0.blogalia.com//historias/78495) - 2022-01-10
@@ -59,7 +60,6 @@
 * [Las b&#250;squedas y la contaminaci&#243;n de la web](http://fernand0.blogalia.com//historias/78490) - 2021-12-27
 * [En Arag&#243;n TV, hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78489) - 2021-12-25
 * [Licencias &#233;ticas en el mundo del software libre.](http://fernand0.blogalia.com//historias/78488) - 2021-12-20
-* [En Consumidor Global hablando sobre bots](http://fernand0.blogalia.com//historias/78487) - 2021-12-17
 <!-- blog ends -->
 
 ### Twitter 
