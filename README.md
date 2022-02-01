@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-01-31
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-01-30
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-02-01
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-01-31
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-01-31
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-01-29
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-01-24
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2022-01-18
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2022-01-12
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-12-31
@@ -24,8 +24,8 @@
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 
 ## repositoriesContributedTo
+* [AB](https://github.com/simber72/AB),  None- 2022-01-31
 * [pympress](https://github.com/Cimbali/pympress),  Pympress is a simple yet powerful PDF reader designed for dual-screen presentations- 2022-01-30
-* [AB](https://github.com/simber72/AB),  None- 2022-01-25
 * [GitterPy](https://github.com/myusko/GitterPy),  Python interface for the Gitter API- 2021-12-27
 * [website](https://github.com/personium/website),  Website and Documentation for personium.io- 2021-12-24
 * [imgurpython](https://github.com/Imgur/imgurpython),  Official Imgur python client library (deprecated)- 2021-06-26
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Un caso real de un generador de contraseñas malas y cómo hacerlo bien](http://fernand0.github.io/generador-claves-kaspersky/) - 2022-01-31
 * [Desarrollo de criptografía para no especialistas](http://fernand0.github.io/desarrollar-criptografia/) - 2022-01-17
 * [Ataques a los datos de entrenamiento de inteligencias artificiales](http://fernand0.github.io/envenenamiento-datos-IA/) - 2022-01-17
 * [Sobre la verificación en tiempo de ejecución del kernel de Linux](http://fernand0.github.io/verificacion-ejecucion/) - 2022-01-10
@@ -47,9 +48,9 @@
 * [No guardar secretos en repositorios de código](http://fernand0.github.io/secretos-repositorios/) - 2021-12-14
 * [Las contraseñas. Más complicado de lo que solemos pensar.](http://fernand0.github.io/claves-complejidad/) - 2021-12-06
 * [GitHub y sus cambios en los nuevos formatos de los tokens de autentificación](http://fernand0.github.io/github-tokens/) - 2021-11-29
-* [Una guía sobre OAuth](http://fernand0.github.io/guia-oauth/) - 2021-11-22
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Las contrase&#241;as y los ni&#241;os](http://fernand0.blogalia.com//historias/78504) - 2022-01-31
 * [Veinte](http://fernand0.blogalia.com//historias/78503) - 2022-01-28
 * [Nombramiento como 'Defensor del Colegiado' del 'Colegio Profesional de Ingenier&#237;a Inform&#225;tica de Arag&#243;n'](http://fernand0.blogalia.com//historias/78501) - 2022-01-24
 * [&#191;Qu&#233; fue de las redes de blogs? Historia de una venta.](http://fernand0.blogalia.com//historias/78499) - 2022-01-17
@@ -59,7 +60,6 @@
 * [Resumen de mi 2021](http://fernand0.blogalia.com//historias/78491) - 2021-12-31
 * [Las b&#250;squedas y la contaminaci&#243;n de la web](http://fernand0.blogalia.com//historias/78490) - 2021-12-27
 * [En Arag&#243;n TV, hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78489) - 2021-12-25
-* [Licencias &#233;ticas en el mundo del software libre.](http://fernand0.blogalia.com//historias/78488) - 2021-12-20
 <!-- blog ends -->
 
 ### Twitter 
