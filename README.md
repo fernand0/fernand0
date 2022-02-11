@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-02-10
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-02-09
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-02-11
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-02-10
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-02-07
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-01-29
@@ -49,6 +49,7 @@
 * [Las contraseñas. Más complicado de lo que solemos pensar.](http://fernand0.github.io/claves-complejidad/) - 2021-12-06
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En mesa redonda de la Jornada del D&#237;a de Inernet Segura: La Tolerancia y el Respeto en la Red](http://fernand0.blogalia.com//historias/78507) - 2022-02-10
 * [RadarCOVID y los dineros.](http://fernand0.blogalia.com//historias/78506) - 2022-02-07
 * [Las contrase&#241;as y los ni&#241;os](http://fernand0.blogalia.com//historias/78504) - 2022-01-31
 * [Veinte](http://fernand0.blogalia.com//historias/78503) - 2022-01-28
@@ -58,7 +59,6 @@
 * [En TVE, hablando de redes sociales y ciberacoso](http://fernand0.blogalia.com//historias/78494) - 2022-01-09
 * [&#191;Demasiado correo publicitario? Ign&#243;ralo, tienes cosas mejores que hacer.](http://fernand0.blogalia.com//historias/78493) - 2022-01-03
 * [Resumen de mi 2021](http://fernand0.blogalia.com//historias/78491) - 2021-12-31
-* [Las b&#250;squedas y la contaminaci&#243;n de la web](http://fernand0.blogalia.com//historias/78490) - 2021-12-27
 <!-- blog ends -->
 
 ### Twitter 
