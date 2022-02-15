@@ -12,11 +12,11 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-02-14
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-02-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-02-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-02-14
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-02-14
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-02-12
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-02-07
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2022-01-18
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2021-12-31
 * [GitterPy](https://github.com/fernand0/GitterPy),  Python interface for the Gitter API- 2021-12-27
@@ -37,6 +37,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Comentarios sobre el OWASP Top 10](http://fernand0.github.io/comentarios-sobre-owasp-10/) - 2022-02-14
 * [Algumos mitos sobre computación distribuida](http://fernand0.github.io/falacias-computacion-distribuida/) - 2022-02-07
 * [Un caso real de un generador de contraseñas malas y cómo hacerlo bien](http://fernand0.github.io/generador-claves-kaspersky/) - 2022-01-31
 * [Desarrollo de criptografía para no especialistas](http://fernand0.github.io/desarrollar-criptografia/) - 2022-01-17
@@ -46,9 +47,9 @@
 * [El FBI limpiando sistemas infectados, al menos parcialmente.](http://fernand0.github.io/limpiando-internet/) - 2021-12-27
 * [Desbordamientos de enteros en aplicaciones del mundo real](http://fernand0.github.io/gestion-memoria/) - 2021-12-20
 * [No guardar secretos en repositorios de código](http://fernand0.github.io/secretos-repositorios/) - 2021-12-14
-* [Las contraseñas. Más complicado de lo que solemos pensar.](http://fernand0.github.io/claves-complejidad/) - 2021-12-06
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En Noticias en la Contienda, hablando del d&#237;a de internet segura](http://fernand0.blogalia.com//historias/78509) - 2022-02-14
 * [En mesa redonda de la Jornada del D&#237;a de Inernet Segura: La Tolerancia y el Respeto en la Red](http://fernand0.blogalia.com//historias/78507) - 2022-02-10
 * [RadarCOVID y los dineros.](http://fernand0.blogalia.com//historias/78506) - 2022-02-07
 * [Las contrase&#241;as y los ni&#241;os](http://fernand0.blogalia.com//historias/78504) - 2022-01-31
@@ -58,7 +59,6 @@
 * [La tecnolog&#237;a y el mundo](http://fernand0.blogalia.com//historias/78495) - 2022-01-10
 * [En TVE, hablando de redes sociales y ciberacoso](http://fernand0.blogalia.com//historias/78494) - 2022-01-09
 * [&#191;Demasiado correo publicitario? Ign&#243;ralo, tienes cosas mejores que hacer.](http://fernand0.blogalia.com//historias/78493) - 2022-01-03
-* [Resumen de mi 2021](http://fernand0.blogalia.com//historias/78491) - 2021-12-31
 <!-- blog ends -->
 
 ### Twitter 
