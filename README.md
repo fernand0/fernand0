@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-02-26
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-02-25
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-02-27
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-02-26
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-02-21
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-02-12
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
@@ -24,7 +24,7 @@
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 
 ## repositoriesContributedTo
-* [AB](https://github.com/simber72/AB),  None- 2022-02-19
+* [AB](https://github.com/simber72/AB),  None- 2022-02-26
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2022-02-09
 * [GitterPy](https://github.com/myusko/GitterPy),  Python interface for the Gitter API- 2021-12-27
 * [imgurpython](https://github.com/Imgur/imgurpython),  Official Imgur python client library (deprecated)- 2021-06-26
