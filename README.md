@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-03-01
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-02-28
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-02-21
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-03-02
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-03-01
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-03-01
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-02-12
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2022-01-18
@@ -36,6 +36,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [El cable ethernet como antena. Nuevos ataques laterales](http://fernand0.github.io/conexiones-ethernet/) - 2022-03-01
 * [Lo encontré en un foro y resuelve mi problema](http://fernand0.github.io/copiar-codigo-internet/) - 2022-02-21
 * [Comentarios sobre el OWASP Top 10](http://fernand0.github.io/comentarios-sobre-owasp-10/) - 2022-02-14
 * [Algumos mitos sobre computación distribuida](http://fernand0.github.io/falacias-computacion-distribuida/) - 2022-02-07
@@ -45,9 +46,9 @@
 * [Sobre la verificación en tiempo de ejecución del kernel de Linux](http://fernand0.github.io/verificacion-ejecucion/) - 2022-01-10
 * [Algunos (pocos) datos sobre generadores de números aleatorios](http://fernand0.github.io/evolucion-generadores-aleatorios/) - 2022-01-03
 * [El FBI limpiando sistemas infectados, al menos parcialmente.](http://fernand0.github.io/limpiando-internet/) - 2021-12-27
-* [Desbordamientos de enteros en aplicaciones del mundo real](http://fernand0.github.io/gestion-memoria/) - 2021-12-20
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En TVE, hablando de redes sociales y pol&#237;tica](http://fernand0.blogalia.com//historias/78513) - 2022-03-01
 * [Sitios web de baja tecnolog&#237;a y bajo consumo](http://fernand0.blogalia.com//historias/78511) - 2022-02-21
 * [En Noticias en la Contienda, hablando del d&#237;a de internet segura](http://fernand0.blogalia.com//historias/78509) - 2022-02-14
 * [En mesa redonda de la Jornada del D&#237;a de Inernet Segura: La Tolerancia y el Respeto en la Red](http://fernand0.blogalia.com//historias/78507) - 2022-02-10
@@ -57,7 +58,6 @@
 * [Nombramiento como 'Defensor del Colegiado' del 'Colegio Profesional de Ingenier&#237;a Inform&#225;tica de Arag&#243;n'](http://fernand0.blogalia.com//historias/78501) - 2022-01-24
 * [&#191;Qu&#233; fue de las redes de blogs? Historia de una venta.](http://fernand0.blogalia.com//historias/78499) - 2022-01-17
 * [La tecnolog&#237;a y el mundo](http://fernand0.blogalia.com//historias/78495) - 2022-01-10
-* [En TVE, hablando de redes sociales y ciberacoso](http://fernand0.blogalia.com//historias/78494) - 2022-01-09
 <!-- blog ends -->
 
 ### Twitter 
