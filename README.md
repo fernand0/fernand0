@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-03-08
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-03-07
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-03-01
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-03-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-03-08
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-03-08
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-02-12
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2022-01-18
@@ -35,6 +35,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Sobre el diseño de las APIs de Slack](http://fernand0.github.io/api-slack/) - 2022-03-08
 * [El cable ethernet como antena. Nuevos ataques laterales](http://fernand0.github.io/conexiones-ethernet/) - 2022-03-01
 * [Lo encontré en un foro y resuelve mi problema](http://fernand0.github.io/copiar-codigo-internet/) - 2022-02-21
 * [Comentarios sobre el OWASP Top 10](http://fernand0.github.io/comentarios-sobre-owasp-10/) - 2022-02-14
@@ -44,9 +45,9 @@
 * [Ataques a los datos de entrenamiento de inteligencias artificiales](http://fernand0.github.io/envenenamiento-datos-IA/) - 2022-01-17
 * [Sobre la verificación en tiempo de ejecución del kernel de Linux](http://fernand0.github.io/verificacion-ejecucion/) - 2022-01-10
 * [Algunos (pocos) datos sobre generadores de números aleatorios](http://fernand0.github.io/evolucion-generadores-aleatorios/) - 2022-01-03
-* [El FBI limpiando sistemas infectados, al menos parcialmente.](http://fernand0.github.io/limpiando-internet/) - 2021-12-27
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En Arag&#243;n TV y en otros sitios, hablando del curso de ciberseguridad y la invasi&#243;n de Ucrania](http://fernand0.blogalia.com//historias/78514) - 2022-03-08
 * [En TVE, hablando de redes sociales y pol&#237;tica](http://fernand0.blogalia.com//historias/78513) - 2022-03-01
 * [Sitios web de baja tecnolog&#237;a y bajo consumo](http://fernand0.blogalia.com//historias/78511) - 2022-02-21
 * [En Noticias en la Contienda, hablando del d&#237;a de internet segura](http://fernand0.blogalia.com//historias/78509) - 2022-02-14
@@ -56,7 +57,6 @@
 * [Veinte](http://fernand0.blogalia.com//historias/78503) - 2022-01-28
 * [Nombramiento como 'Defensor del Colegiado' del 'Colegio Profesional de Ingenier&#237;a Inform&#225;tica de Arag&#243;n'](http://fernand0.blogalia.com//historias/78501) - 2022-01-24
 * [&#191;Qu&#233; fue de las redes de blogs? Historia de una venta.](http://fernand0.blogalia.com//historias/78499) - 2022-01-17
-* [La tecnolog&#237;a y el mundo](http://fernand0.blogalia.com//historias/78495) - 2022-01-10
 <!-- blog ends -->
 
 ### Twitter 
