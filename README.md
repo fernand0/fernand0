@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-03-21
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-03-20
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-03-14
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-03-22
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-03-21
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-03-21
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-02-12
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2022-01-18
@@ -35,6 +35,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [La protección de secretos en sistemas](http://fernand0.github.io/proteccion-secretos/) - 2022-03-21
 * [HTTP, fuzzing e inseguridad con componentes seguras](http://fernand0.github.io/fuzzing-parametros-http/) - 2022-03-14
 * [Sobre el diseño de las APIs de Slack](http://fernand0.github.io/api-slack/) - 2022-03-08
 * [El cable ethernet como antena. Nuevos ataques laterales](http://fernand0.github.io/conexiones-ethernet/) - 2022-03-01
@@ -44,9 +45,9 @@
 * [Un caso real de un generador de contraseñas malas y cómo hacerlo bien](http://fernand0.github.io/generador-claves-kaspersky/) - 2022-01-31
 * [Desarrollo de criptografía para no especialistas](http://fernand0.github.io/desarrollar-criptografia/) - 2022-01-17
 * [Ataques a los datos de entrenamiento de inteligencias artificiales](http://fernand0.github.io/envenenamiento-datos-IA/) - 2022-01-17
-* [Sobre la verificación en tiempo de ejecución del kernel de Linux](http://fernand0.github.io/verificacion-ejecucion/) - 2022-01-10
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Cuanto m&#225;s larga, mejor.](http://fernand0.blogalia.com//historias/78518) - 2022-03-21
 * [POSSE, PESOS, PESETAS: tu contribuci&#243;n a la red y diversas formas de manejarla](http://fernand0.blogalia.com//historias/78515) - 2022-03-14
 * [En Arag&#243;n TV y en otros sitios, hablando del curso de ciberseguridad y la invasi&#243;n de Ucrania](http://fernand0.blogalia.com//historias/78514) - 2022-03-08
 * [En TVE, hablando de redes sociales y pol&#237;tica](http://fernand0.blogalia.com//historias/78513) - 2022-03-01
@@ -56,7 +57,6 @@
 * [RadarCOVID y los dineros.](http://fernand0.blogalia.com//historias/78506) - 2022-02-07
 * [Las contrase&#241;as y los ni&#241;os](http://fernand0.blogalia.com//historias/78504) - 2022-01-31
 * [Veinte](http://fernand0.blogalia.com//historias/78503) - 2022-01-28
-* [Nombramiento como 'Defensor del Colegiado' del 'Colegio Profesional de Ingenier&#237;a Inform&#225;tica de Arag&#243;n'](http://fernand0.blogalia.com//historias/78501) - 2022-01-24
 <!-- blog ends -->
 
 ### Twitter 
