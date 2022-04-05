@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-04-04
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-04-03
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-03-28
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-04-05
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-04-04
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-04-04
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-02-12
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2022-01-18
@@ -35,6 +35,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [La cadena de suministro y la seguridad](http://fernand0.github.io/cadena-suministro-software-seguro/) - 2022-04-04
 * [JavaScript y las prestaciones](http://fernand0.github.io/prestaciones-javascript/) - 2022-03-28
 * [La protección de secretos en sistemas](http://fernand0.github.io/proteccion-secretos/) - 2022-03-21
 * [HTTP, fuzzing e inseguridad con componentes seguras](http://fernand0.github.io/fuzzing-parametros-http/) - 2022-03-14
@@ -44,9 +45,9 @@
 * [Comentarios sobre el OWASP Top 10](http://fernand0.github.io/comentarios-sobre-owasp-10/) - 2022-02-14
 * [Algumos mitos sobre computación distribuida](http://fernand0.github.io/falacias-computacion-distribuida/) - 2022-02-07
 * [Un caso real de un generador de contraseñas malas y cómo hacerlo bien](http://fernand0.github.io/generador-claves-kaspersky/) - 2022-01-31
-* [Desarrollo de criptografía para no especialistas](http://fernand0.github.io/desarrollar-criptografia/) - 2022-01-17
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Internet, las b&#250;squedas y las p&#225;ginas de enlaces de afiliados](http://fernand0.blogalia.com//historias/78523) - 2022-04-04
 * [En Blogpocket show hablando de seguridad en redes sociales](http://fernand0.blogalia.com//historias/78522) - 2022-03-28
 * [En el Aula de Consumo del Gobierno de Arag&#243;n hablando de Inteligencia Artificial](http://fernand0.blogalia.com//historias/78521) - 2022-03-28
 * [Cuanto m&#225;s larga, mejor.](http://fernand0.blogalia.com//historias/78518) - 2022-03-21
@@ -56,7 +57,6 @@
 * [Sitios web de baja tecnolog&#237;a y bajo consumo](http://fernand0.blogalia.com//historias/78511) - 2022-02-21
 * [En Noticias en la Contienda, hablando del d&#237;a de internet segura](http://fernand0.blogalia.com//historias/78509) - 2022-02-14
 * [En mesa redonda de la Jornada del D&#237;a de Inernet Segura: La Tolerancia y el Respeto en la Red](http://fernand0.blogalia.com//historias/78507) - 2022-02-10
-* [RadarCOVID y los dineros.](http://fernand0.blogalia.com//historias/78506) - 2022-02-07
 <!-- blog ends -->
 
 ### Twitter 
