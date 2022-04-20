@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-04-19
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-04-18
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-04-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-04-20
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-04-19
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-04-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-02-12
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2022-01-18
@@ -24,6 +24,7 @@
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 
 ## repositoriesContributedTo
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2022-04-19
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2022-03-20
 * [AB](https://github.com/simber72/AB),  None- 2022-03-16
 * [GitterPy](https://github.com/myusko/GitterPy),  Python interface for the Gitter API- 2021-12-27
