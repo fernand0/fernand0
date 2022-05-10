@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-05-09
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-05-08
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-05-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-05-10
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-05-09
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-05-09
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-02-12
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2022-01-18
@@ -36,6 +36,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Lo que podemos aprender sobre el fallo de Log4j y la cadena de suministro](http://fernand0.github.io/log4j-la-cadena-suministro/) - 2022-05-09
 * [Compartición de recursos entre dominios (CORS)](http://fernand0.github.io/comparticion-recursos-cruzada/) - 2022-05-03
 * [Los dominios, la identidad y lo que puede pasar cuando no se tiene cuidado](http://fernand0.github.io/los-dominios-y-la-identidad/) - 2022-04-18
 * [La cadena de suministro y a qué principios debemos prestar atención](http://fernand0.github.io/cadena-suministro-ataques/) - 2022-04-11
@@ -45,9 +46,9 @@
 * [HTTP, fuzzing e inseguridad con componentes seguras](http://fernand0.github.io/fuzzing-parametros-http/) - 2022-03-14
 * [Sobre el diseño de las APIs de Slack](http://fernand0.github.io/api-slack/) - 2022-03-08
 * [El cable ethernet como antena. Nuevos ataques laterales](http://fernand0.github.io/conexiones-ethernet/) - 2022-03-01
-* [Lo encontré en un foro y resuelve mi problema](http://fernand0.github.io/copiar-codigo-internet/) - 2022-02-21
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En varios sitios hablando de Pegasus](http://fernand0.blogalia.com//historias/78536) - 2022-05-09
 * [En El Peri&#243;dico de Arag&#243;n hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78534) - 2022-05-03
 * [Sobre las tecnolog&#237;as que nos preocupan y las que no.](http://fernand0.blogalia.com//historias/78530) - 2022-04-18
 * [Las entrevistas de trabajo](http://fernand0.blogalia.com//historias/78527) - 2022-04-11
@@ -57,7 +58,6 @@
 * [Cuanto m&#225;s larga, mejor.](http://fernand0.blogalia.com//historias/78518) - 2022-03-21
 * [POSSE, PESOS, PESETAS: tu contribuci&#243;n a la red y diversas formas de manejarla](http://fernand0.blogalia.com//historias/78515) - 2022-03-14
 * [En Arag&#243;n TV y en otros sitios, hablando del curso de ciberseguridad y la invasi&#243;n de Ucrania](http://fernand0.blogalia.com//historias/78514) - 2022-03-08
-* [En TVE, hablando de redes sociales y pol&#237;tica](http://fernand0.blogalia.com//historias/78513) - 2022-03-01
 <!-- blog ends -->
 
 ### Twitter 
