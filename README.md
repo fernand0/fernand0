@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-05-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-05-24
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-05-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-05-25
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-05-25
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-05-20
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-05-19
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2022-05-15
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2022-01-18
@@ -24,8 +24,8 @@
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 
 ## repositoriesContributedTo
+* [AB](https://github.com/simber72/AB),  None- 2022-05-25
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2022-05-24
-* [AB](https://github.com/simber72/AB),  None- 2022-05-21
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2022-05-01
 * [GitterPy](https://github.com/myusko/GitterPy),  Python interface for the Gitter API- 2021-12-27
 <!-- recent_releases ends -->
@@ -36,6 +36,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Las inversión en ciberseguridad y las organizaciones](http://fernand0.github.io/seguridad-y-negocios/) - 2022-05-25
 * [Las cuentas de usuario y f-droid](http://fernand0.github.io/cuentas-usuarios-f-droid/) - 2022-05-19
 * [Lo que podemos aprender sobre el fallo de Log4j y la cadena de suministro](http://fernand0.github.io/log4j-la-cadena-suministro/) - 2022-05-09
 * [Compartición de recursos entre dominios (CORS)](http://fernand0.github.io/comparticion-recursos-cruzada/) - 2022-05-03
@@ -45,9 +46,9 @@
 * [JavaScript y las prestaciones](http://fernand0.github.io/prestaciones-javascript/) - 2022-03-28
 * [La protección de secretos en sistemas](http://fernand0.github.io/proteccion-secretos/) - 2022-03-21
 * [HTTP, fuzzing e inseguridad con componentes seguras](http://fernand0.github.io/fuzzing-parametros-http/) - 2022-03-14
-* [Sobre el diseño de las APIs de Slack](http://fernand0.github.io/api-slack/) - 2022-03-08
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En Ronda Somontanto dando algunos consejos de ciberseguridad](http://fernand0.blogalia.com//historias/78539) - 2022-05-25
 * [Toyota y nuevos modelos de negocio.](http://fernand0.blogalia.com//historias/78537) - 2022-05-19
 * [En varios sitios hablando de Pegasus](http://fernand0.blogalia.com//historias/78536) - 2022-05-09
 * [En El Peri&#243;dico de Arag&#243;n hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78534) - 2022-05-03
@@ -57,7 +58,6 @@
 * [En Blogpocket show hablando de seguridad en redes sociales](http://fernand0.blogalia.com//historias/78522) - 2022-03-28
 * [En el Aula de Consumo del Gobierno de Arag&#243;n hablando de Inteligencia Artificial](http://fernand0.blogalia.com//historias/78521) - 2022-03-28
 * [Cuanto m&#225;s larga, mejor.](http://fernand0.blogalia.com//historias/78518) - 2022-03-21
-* [POSSE, PESOS, PESETAS: tu contribuci&#243;n a la red y diversas formas de manejarla](http://fernand0.blogalia.com//historias/78515) - 2022-03-14
 <!-- blog ends -->
 
 ### Twitter 
