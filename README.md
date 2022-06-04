@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-06-03
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-06-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-06-04
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-06-03
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-06-02
 * [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-05-31
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-05-20
@@ -24,7 +24,7 @@
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2021-12-16
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-06-02
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-06-04
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2022-05-31
 * [AB](https://github.com/simber72/AB),  None- 2022-05-25
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2022-05-01
@@ -49,16 +49,6 @@
 * [La protección de secretos en sistemas](http://fernand0.github.io/proteccion-secretos/) - 2022-03-21
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
-* [&#191;Cada cu&#225;nto cambias el tel&#233;fono? &#191;Cada cu&#225;nto deber&#237;as cambiarlo?](http://fernand0.blogalia.com//historias/78546) - 2022-06-02
-* [En Ronda Somontanto dando algunos consejos de ciberseguridad](http://fernand0.blogalia.com//historias/78539) - 2022-05-25
-* [Toyota y nuevos modelos de negocio.](http://fernand0.blogalia.com//historias/78537) - 2022-05-19
-* [En varios sitios hablando de Pegasus](http://fernand0.blogalia.com//historias/78536) - 2022-05-09
-* [En El Peri&#243;dico de Arag&#243;n hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78534) - 2022-05-03
-* [Sobre las tecnolog&#237;as que nos preocupan y las que no.](http://fernand0.blogalia.com//historias/78530) - 2022-04-18
-* [Las entrevistas de trabajo](http://fernand0.blogalia.com//historias/78527) - 2022-04-11
-* [Internet, las b&#250;squedas y las p&#225;ginas de enlaces de afiliados](http://fernand0.blogalia.com//historias/78523) - 2022-04-04
-* [En Blogpocket show hablando de seguridad en redes sociales](http://fernand0.blogalia.com//historias/78522) - 2022-03-28
-* [En el Aula de Consumo del Gobierno de Arag&#243;n hablando de Inteligencia Artificial](http://fernand0.blogalia.com//historias/78521) - 2022-03-28
 <!-- blog ends -->
 
 ### Twitter 
