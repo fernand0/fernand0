@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-06-07
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-06-06
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-06-08
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-06-07
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-06-06
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-06-05
 * [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-05-31
@@ -24,7 +24,7 @@
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2021-12-16
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-06-06
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-06-07
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2022-05-31
 * [AB](https://github.com/simber72/AB),  None- 2022-05-25
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2022-05-01
