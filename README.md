@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-06-20
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-06-19
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-06-14
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-06-21
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-06-20
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-06-20
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2022-06-11
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-06-05
 * [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-05-31
@@ -24,8 +24,8 @@
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2021-12-16
 
 ## repositoriesContributedTo
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-06-20
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-06-19
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-06-21
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-06-20
 * [AB](https://github.com/simber72/AB),  None- 2022-06-18
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2022-06-17
 * [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2022-05-01
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Vulnerabilidades, parcheos y quién puede resolver los problemas](http://fernand0.github.io/parchear/) - 2022-06-20
 * [La granulariad, las APIs, y un proxy para solucionarlo](http://fernand0.github.io/proxy-api/) - 2022-06-13
 * [La prioridad de los desarrolladores no suele ser la seguridad](http://fernand0.github.io/desarrolladores-seguridad/) - 2022-06-06
 * [Algunos consejos sobre la seguridad en APIs](http://fernand0.github.io/apis-seguras/) - 2022-06-02
@@ -47,9 +48,9 @@
 * [Compartición de recursos entre dominios (CORS)](http://fernand0.github.io/comparticion-recursos-cruzada/) - 2022-05-03
 * [Los dominios, la identidad y lo que puede pasar cuando no se tiene cuidado](http://fernand0.github.io/los-dominios-y-la-identidad/) - 2022-04-18
 * [La cadena de suministro y a qué principios debemos prestar atención](http://fernand0.github.io/cadena-suministro-ataques/) - 2022-04-11
-* [La cadena de suministro y la seguridad](http://fernand0.github.io/cadena-suministro-software-seguro/) - 2022-04-04
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En la C&#225;mara de Comercio de Zaragoza hablando de Oportunidades y consejos en ciberseguridad](http://fernand0.blogalia.com//historias/78556) - 2022-06-20
 * [En el suplemento Tercer Milenio de Heraldo de Arag&#243;n, hablando de Ciberseguridad](http://fernand0.blogalia.com//historias/78553) - 2022-06-13
 * [Una historia de seguimiento, confianza y lo que puede pasar si no la hay](http://fernand0.blogalia.com//historias/78550) - 2022-06-06
 * [&#191;Cada cu&#225;nto cambias el tel&#233;fono? &#191;Cada cu&#225;nto deber&#237;as cambiarlo?](http://fernand0.blogalia.com//historias/78546) - 2022-06-02
@@ -59,7 +60,6 @@
 * [En El Peri&#243;dico de Arag&#243;n hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78534) - 2022-05-03
 * [Sobre las tecnolog&#237;as que nos preocupan y las que no.](http://fernand0.blogalia.com//historias/78530) - 2022-04-18
 * [Las entrevistas de trabajo](http://fernand0.blogalia.com//historias/78527) - 2022-04-11
-* [Internet, las b&#250;squedas y las p&#225;ginas de enlaces de afiliados](http://fernand0.blogalia.com//historias/78523) - 2022-04-04
 <!-- blog ends -->
 
 ### Twitter 
