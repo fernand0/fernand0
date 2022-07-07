@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-07-06
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-07-05
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-07-07
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-07-06
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-07-04
 * [TFG](https://github.com/Arturo-00/TFG),  None- 2022-06-22
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-06-05
