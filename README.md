@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-08-01
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-07-31
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-07-31
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-08-02
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-08-01
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-08-01
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-07-25
 * [TFG](https://github.com/Arturo-00/TFG),  None- 2022-06-22
 * [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-05-31
@@ -24,7 +24,7 @@
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2021-12-16
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-07-31
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-08-01
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-07-21
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2022-07-18
 * [AB](https://github.com/simber72/AB),  None- 2022-06-18
@@ -50,6 +50,7 @@
 * [Las inversión en ciberseguridad y las organizaciones](http://fernand0.github.io/seguridad-y-negocios/) - 2022-05-25
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En las Cortes de Arag&#243;n hablando sobre le proyecto de ley de la nube](http://fernand0.blogalia.com//historias/78574) - 2022-08-01
 * [Tomar control de las herramientas y de nuestra actividad. Un experimento.](http://fernand0.blogalia.com//historias/78572) - 2022-07-25
 * [Desunidos y peleados: &#191;debemos prestar tanta atenci&#243;n a los extremismos?](http://fernand0.blogalia.com//historias/78569) - 2022-07-20
 * [Los algoritmos, los sesgos y analizar con cuidado para no equivocarse.](http://fernand0.blogalia.com//historias/78566) - 2022-07-11
@@ -59,7 +60,6 @@
 * [En el suplemento Tercer Milenio de Heraldo de Arag&#243;n, hablando de Ciberseguridad](http://fernand0.blogalia.com//historias/78553) - 2022-06-13
 * [Una historia de seguimiento, confianza y lo que puede pasar si no la hay](http://fernand0.blogalia.com//historias/78550) - 2022-06-06
 * [&#191;Cada cu&#225;nto cambias el tel&#233;fono? &#191;Cada cu&#225;nto deber&#237;as cambiarlo?](http://fernand0.blogalia.com//historias/78546) - 2022-06-02
-* [En Ronda Somontanto dando algunos consejos de ciberseguridad](http://fernand0.blogalia.com//historias/78539) - 2022-05-25
 <!-- blog ends -->
 
 ### Twitter 
