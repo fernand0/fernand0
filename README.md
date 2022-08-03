@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-08-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-08-03
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-08-02
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-08-02
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-08-01
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-08-01
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-07-25
 * [TFG](https://github.com/Arturo-00/TFG),  None- 2022-06-22
 * [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-05-31
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
@@ -24,7 +24,7 @@
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2021-12-16
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-08-01
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-08-02
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-07-21
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2022-07-18
 * [AB](https://github.com/simber72/AB),  None- 2022-06-18
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Errores en Java por falta de verificación... ¿multiplícate por cero?](http://fernand0.github.io/fallo-criptografia-java/) - 2022-08-02
 * [La documentación de las APIs. El caso de gov.uk](http://fernand0.github.io/documentacion-apis/) - 2022-07-25
 * [Escribiendo programas maliciosos en el registro del sistema](http://fernand0.github.io/registro-de-programa-maliciosos/) - 2022-07-21
 * [Políticas de contraseñas: lo estamos haciendo mal](http://fernand0.github.io/claves-y-sitios/) - 2022-07-11
@@ -47,7 +48,6 @@
 * [La granulariad, las APIs, y un proxy para solucionarlo](http://fernand0.github.io/proxy-api/) - 2022-06-13
 * [La prioridad de los desarrolladores no suele ser la seguridad](http://fernand0.github.io/desarrolladores-seguridad/) - 2022-06-06
 * [Algunos consejos sobre la seguridad en APIs](http://fernand0.github.io/apis-seguras/) - 2022-06-02
-* [Las inversión en ciberseguridad y las organizaciones](http://fernand0.github.io/seguridad-y-negocios/) - 2022-05-25
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [En las Cortes de Arag&#243;n hablando sobre le proyecto de ley de la nube](http://fernand0.blogalia.com//historias/78574) - 2022-08-01
