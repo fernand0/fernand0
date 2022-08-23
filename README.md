@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-08-22
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-08-21
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-08-23
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-08-22
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-08-22
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-08-20
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-08-08
 * [TFG](https://github.com/Arturo-00/TFG),  None- 2022-06-22
 * [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-05-31
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
@@ -24,8 +24,8 @@
 * [err-camera](https://github.com/fernand0/err-camera),  Errbot plugin to take pictures with a webcam.- 2021-12-16
 
 ## repositoriesContributedTo
-* [pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite),  Create a SQLite database containing data from your Pocket account- 2022-08-21
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-08-21
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-08-22
+* [pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite),  Create a SQLite database containing data from your Pocket account- 2022-08-22
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-08-08
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2022-07-18
 * [AB](https://github.com/simber72/AB),  None- 2022-06-18
@@ -39,6 +39,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Explicando los fallos en el arranque seguro de un Google Nest](http://fernand0.github.io/ataque-google-nest/) - 2022-08-22
 * [Un análisis de los fallos que permitían infectar teléfonos de NSO](http://fernand0.github.io/ataque-imessage/) - 2022-08-08
 * [Errores en Java por falta de verificación... ¿multiplícate por cero?](http://fernand0.github.io/fallo-criptografia-java/) - 2022-08-02
 * [La documentación de las APIs. El caso de gov.uk](http://fernand0.github.io/documentacion-apis/) - 2022-07-25
@@ -48,9 +49,9 @@
 * [Cuando el desarrollador quiere llamar la atención sobre la cadena de suministro](http://fernand0.github.io/dominios-y-responsabilidades/) - 2022-06-27
 * [Vulnerabilidades, parcheos y quién puede resolver los problemas](http://fernand0.github.io/parchear/) - 2022-06-20
 * [La granulariad, las APIs, y un proxy para solucionarlo](http://fernand0.github.io/proxy-api/) - 2022-06-13
-* [La prioridad de los desarrolladores no suele ser la seguridad](http://fernand0.github.io/desarrolladores-seguridad/) - 2022-06-06
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [La web independiente y lo que puede frenar a muchas personas](http://fernand0.blogalia.com//historias/78581) - 2022-08-22
 * [El fuego purificador y devastador y los activos digitales](http://fernand0.blogalia.com//historias/78576) - 2022-08-08
 * [En las Cortes de Arag&#243;n hablando sobre le proyecto de ley de la nube](http://fernand0.blogalia.com//historias/78574) - 2022-08-01
 * [Tomar control de las herramientas y de nuestra actividad. Un experimento.](http://fernand0.blogalia.com//historias/78572) - 2022-07-25
@@ -60,7 +61,6 @@
 * [Los inventos siempre nos dan miedo](http://fernand0.blogalia.com//historias/78558) - 2022-06-27
 * [En la C&#225;mara de Comercio de Zaragoza hablando de Oportunidades y consejos en ciberseguridad](http://fernand0.blogalia.com//historias/78556) - 2022-06-20
 * [En el suplemento Tercer Milenio de Heraldo de Arag&#243;n, hablando de Ciberseguridad](http://fernand0.blogalia.com//historias/78553) - 2022-06-13
-* [Una historia de seguimiento, confianza y lo que puede pasar si no la hay](http://fernand0.blogalia.com//historias/78550) - 2022-06-06
 <!-- blog ends -->
 
 ### Twitter 
