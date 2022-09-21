@@ -12,11 +12,11 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-09-20
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-09-19
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-09-21
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-09-20
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-09-20
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-09-20
 * [productos-aragoneses](https://github.com/fernand0/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-09-17
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-09-12
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-09-04
 * [hacker-news-to-sqlite](https://github.com/fernand0/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2022-08-28
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2022-08-23
 * [TFG](https://github.com/Arturo-00/TFG),  None- 2022-06-22
@@ -24,8 +24,8 @@
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-09-19
-* [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-09-19
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-09-20
+* [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-09-20
 * [AB](https://github.com/simber72/AB),  None- 2022-09-19
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2022-09-13
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-09-05
@@ -42,6 +42,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Un viejo artículo sobre los generadores de números seudoaleatorios y las consecuencias de su elección](http://fernand0.github.io/calidad-numeros-aleatorios/) - 2022-09-20
 * ['Mejorando' el sistema de entretenimiento de su coche](http://fernand0.github.io/atacando-su-propio-coche/) - 2022-09-12
 * [El modelo 'repair café' como mecanismo de aprendizaje](http://fernand0.github.io/repair-cafe/) - 2022-09-06
 * [Mejorando la gestión de la memoria en C++ para mejorar la seguridad](http://fernand0.github.io/memoria-c-google/) - 2022-08-29
@@ -51,9 +52,9 @@
 * [La documentación de las APIs. El caso de gov.uk](http://fernand0.github.io/documentacion-apis/) - 2022-07-25
 * [Escribiendo programas maliciosos en el registro del sistema](http://fernand0.github.io/registro-de-programa-maliciosos/) - 2022-07-21
 * [Políticas de contraseñas: lo estamos haciendo mal](http://fernand0.github.io/claves-y-sitios/) - 2022-07-11
-* [Investigadores de seguridad y persecución legal](http://fernand0.github.io/investigadores-jueces/) - 2022-07-04
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En ExpoTIC hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78600) - 2022-09-20
 * [El dinero y  el acceso a la informaci&#243;n.](http://fernand0.blogalia.com//historias/78593) - 2022-09-12
 * [La vida de los enlaces en la web](http://fernand0.blogalia.com//historias/78591) - 2022-09-06
 * [Vuelta al 'cole', la experiencia y los cambios](http://fernand0.blogalia.com//historias/78585) - 2022-08-29
@@ -63,7 +64,6 @@
 * [Tomar control de las herramientas y de nuestra actividad. Un experimento.](http://fernand0.blogalia.com//historias/78572) - 2022-07-25
 * [Desunidos y peleados: &#191;debemos prestar tanta atenci&#243;n a los extremismos?](http://fernand0.blogalia.com//historias/78569) - 2022-07-20
 * [Los algoritmos, los sesgos y analizar con cuidado para no equivocarse.](http://fernand0.blogalia.com//historias/78566) - 2022-07-11
-* [&#191;Remoto o presencial? D&#233;jame elegir.](http://fernand0.blogalia.com//historias/78562) - 2022-07-04
 <!-- blog ends -->
 
 ### Twitter 
