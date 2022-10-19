@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-10-18
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-10-17
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-10-19
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2022-10-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-10-17
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2022-10-12
 * [productos-aragoneses](https://github.com/fernand0/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-09-17
@@ -24,7 +24,7 @@
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-10-17
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-10-18
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-10-10
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-09-29
 * [AB](https://github.com/simber72/AB),  None- 2022-09-19
@@ -55,16 +55,6 @@
 * [Un análisis de los fallos que permitían infectar teléfonos de NSO](http://fernand0.github.io/ataque-imessage/) - 2022-08-08
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
-* [La Universidad despu&#233;s de la pandemia. Los formatos y las consecuencias.](http://fernand0.blogalia.com//historias/78616) - 2022-10-17
-* [Coches y pantallas, &#191;cu&#225;l es la aproximaci&#243;n correcta?](http://fernand0.blogalia.com//historias/78612) - 2022-10-10
-* [Los avisos de cookies en la web](http://fernand0.blogalia.com//historias/78608) - 2022-10-03
-* [Los mapas colaborativos, la polic&#237;a y la velocidad](http://fernand0.blogalia.com//historias/78604) - 2022-09-27
-* [En ExpoTIC hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78600) - 2022-09-20
-* [El dinero y  el acceso a la informaci&#243;n.](http://fernand0.blogalia.com//historias/78593) - 2022-09-12
-* [La vida de los enlaces en la web](http://fernand0.blogalia.com//historias/78591) - 2022-09-06
-* [Vuelta al 'cole', la experiencia y los cambios](http://fernand0.blogalia.com//historias/78585) - 2022-08-29
-* [La web independiente y lo que puede frenar a muchas personas](http://fernand0.blogalia.com//historias/78581) - 2022-08-22
-* [El fuego purificador y devastador y los activos digitales](http://fernand0.blogalia.com//historias/78576) - 2022-08-08
 <!-- blog ends -->
 
 ### Twitter 
