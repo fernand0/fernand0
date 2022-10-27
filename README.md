@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-10-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-10-27
 * [cards](https://github.com/fernand0/cards),  A bootstrap based minimal jekyll theme- 2022-10-22
 * [twitter](https://github.com/fernand0/twitter),  Python Twitter API- 2022-10-21
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-10-17
@@ -24,9 +24,9 @@
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-10-25
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-10-26
+* [twitter](https://github.com/python-twitter-tools/twitter),  Python Twitter API- 2022-10-26
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-10-24
-* [twitter](https://github.com/python-twitter-tools/twitter),  Python Twitter API- 2022-10-24
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-10-23
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-20
 * [AB](https://github.com/simber72/AB),  None- 2022-09-19
