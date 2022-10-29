@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-10-28
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-10-29
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-10-28
 * [cards](https://github.com/fernand0/cards),  A bootstrap based minimal jekyll theme- 2022-10-22
 * [twitter](https://github.com/fernand0/twitter),  Python Twitter API- 2022-10-21
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-10-17
 * [productos-aragoneses](https://github.com/fernand0/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-09-17
 * [hacker-news-to-sqlite](https://github.com/fernand0/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2022-08-28
 * [archivo](https://github.com/fernand0/archivo),  Archivo de mis blogs, para reutilizar según convenga....- 2022-08-23
@@ -24,11 +24,11 @@
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-10-27
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-10-28
+* [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-28
 * [twitter](https://github.com/python-twitter-tools/twitter),  Python Twitter API- 2022-10-26
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-10-24
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-10-23
-* [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-20
 * [AB](https://github.com/simber72/AB),  None- 2022-09-19
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2022-09-13
 * [hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2022-08-28
@@ -44,6 +44,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [OAuth como herramienta para ataques de envío de spam](http://fernand0.github.io/aplicaciones-oauth-maliciosas/) - 2022-10-28
 * [Reflejos y videoconferencias. ¿Estás mostrando demasiado?](http://fernand0.github.io/reflejos-y-telellamadas/) - 2022-10-17
 * [Previsualización y ataques](http://fernand0.github.io/powerpoint-ataques/) - 2022-10-10
 * [La complejidad de los navegadores y la dificultad de crear uno desde cero](http://fernand0.github.io/hacer-navegador/) - 2022-10-03
@@ -53,9 +54,9 @@
 * [El modelo 'repair café' como mecanismo de aprendizaje](http://fernand0.github.io/repair-cafe/) - 2022-09-06
 * [Mejorando la gestión de la memoria en C++ para mejorar la seguridad](http://fernand0.github.io/memoria-c-google/) - 2022-08-29
 * [Explicando los fallos en el arranque seguro de un Google Nest](http://fernand0.github.io/ataque-google-nest/) - 2022-08-22
-* [Un análisis de los fallos que permitían infectar teléfonos de NSO](http://fernand0.github.io/ataque-imessage/) - 2022-08-08
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [](http://fernand0.blogalia.com//historias/78620) - 2022-10-28
 * [La Universidad despu&#233;s de la pandemia. Los formatos y las consecuencias.](http://fernand0.blogalia.com//historias/78616) - 2022-10-17
 * [Coches y pantallas, &#191;cu&#225;l es la aproximaci&#243;n correcta?](http://fernand0.blogalia.com//historias/78612) - 2022-10-10
 * [Los avisos de cookies en la web](http://fernand0.blogalia.com//historias/78608) - 2022-10-03
@@ -65,7 +66,6 @@
 * [La vida de los enlaces en la web](http://fernand0.blogalia.com//historias/78591) - 2022-09-06
 * [Vuelta al 'cole', la experiencia y los cambios](http://fernand0.blogalia.com//historias/78585) - 2022-08-29
 * [La web independiente y lo que puede frenar a muchas personas](http://fernand0.blogalia.com//historias/78581) - 2022-08-22
-* [El fuego purificador y devastador y los activos digitales](http://fernand0.blogalia.com//historias/78576) - 2022-08-08
 <!-- blog ends -->
 
 ### Twitter 
