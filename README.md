@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-11-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-11-04
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-11-03
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2022-11-01
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-10-28
 * [twitter](https://github.com/fernand0/twitter),  Python Twitter API- 2022-10-21
 * [productos-aragoneses](https://github.com/fernand0/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-09-17
 * [hacker-news-to-sqlite](https://github.com/fernand0/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2022-08-28
@@ -24,7 +24,7 @@
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-11-02
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-11-03
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-11-01
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-28
 * [twitter](https://github.com/python-twitter-tools/twitter),  Python Twitter API- 2022-10-26
@@ -44,6 +44,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Más fallos sofisticados: Thunderbird y la lectura de mensajes cifrados](http://fernand0.github.io/thunderbird-oraculo-descifrado/) - 2022-11-03
 * [OAuth como herramienta para ataques de envío de spam](http://fernand0.github.io/aplicaciones-oauth-maliciosas/) - 2022-10-28
 * [Reflejos y videoconferencias. ¿Estás mostrando demasiado?](http://fernand0.github.io/reflejos-y-telellamadas/) - 2022-10-17
 * [Previsualización y ataques](http://fernand0.github.io/powerpoint-ataques/) - 2022-10-10
@@ -53,9 +54,9 @@
 * ['Mejorando' el sistema de entretenimiento de su coche](http://fernand0.github.io/atacando-su-propio-coche/) - 2022-09-12
 * [El modelo 'repair café' como mecanismo de aprendizaje](http://fernand0.github.io/repair-cafe/) - 2022-09-06
 * [Mejorando la gestión de la memoria en C++ para mejorar la seguridad](http://fernand0.github.io/memoria-c-google/) - 2022-08-29
-* [Explicando los fallos en el arranque seguro de un Google Nest](http://fernand0.github.io/ataque-google-nest/) - 2022-08-22
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Los emoticonos y las relaciones](http://fernand0.blogalia.com//historias/78625) - 2022-11-03
 * [En la Semana del Emprendimiento en Arag&#243;n hablando de Ciberseguridad](http://fernand0.blogalia.com//historias/78620) - 2022-10-28
 * [La Universidad despu&#233;s de la pandemia. Los formatos y las consecuencias.](http://fernand0.blogalia.com//historias/78616) - 2022-10-17
 * [Coches y pantallas, &#191;cu&#225;l es la aproximaci&#243;n correcta?](http://fernand0.blogalia.com//historias/78612) - 2022-10-10
@@ -65,7 +66,6 @@
 * [El dinero y  el acceso a la informaci&#243;n.](http://fernand0.blogalia.com//historias/78593) - 2022-09-12
 * [La vida de los enlaces en la web](http://fernand0.blogalia.com//historias/78591) - 2022-09-06
 * [Vuelta al 'cole', la experiencia y los cambios](http://fernand0.blogalia.com//historias/78585) - 2022-08-29
-* [La web independiente y lo que puede frenar a muchas personas](http://fernand0.blogalia.com//historias/78581) - 2022-08-22
 <!-- blog ends -->
 
 ### Twitter 
