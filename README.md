@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-11-07
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2022-11-06
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-11-08
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2022-11-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2022-11-06
 * [twitter](https://github.com/fernand0/twitter),  Python Twitter API- 2022-10-21
 * [productos-aragoneses](https://github.com/fernand0/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-09-17
@@ -24,8 +24,8 @@
 * [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-11-06
-* [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-11-06
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-11-07
+* [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-11-07
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-28
 * [twitter](https://github.com/python-twitter-tools/twitter),  Python Twitter API- 2022-10-26
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-10-24
@@ -44,6 +44,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Una introducción breve a las APIs y su seguridad](http://fernand0.github.io/introduccion-APIs/) - 2022-11-07
 * [Más fallos sofisticados: Thunderbird y la lectura de mensajes cifrados](http://fernand0.github.io/thunderbird-oraculo-descifrado/) - 2022-11-03
 * [OAuth como herramienta para ataques de envío de spam](http://fernand0.github.io/aplicaciones-oauth-maliciosas/) - 2022-10-28
 * [Reflejos y videoconferencias. ¿Estás mostrando demasiado?](http://fernand0.github.io/reflejos-y-telellamadas/) - 2022-10-17
@@ -53,9 +54,9 @@
 * [Un viejo artículo sobre los generadores de números seudoaleatorios y las consecuencias de su elección](http://fernand0.github.io/calidad-numeros-aleatorios/) - 2022-09-20
 * ['Mejorando' el sistema de entretenimiento de su coche](http://fernand0.github.io/atacando-su-propio-coche/) - 2022-09-12
 * [El modelo 'repair café' como mecanismo de aprendizaje](http://fernand0.github.io/repair-cafe/) - 2022-09-06
-* [Mejorando la gestión de la memoria en C++ para mejorar la seguridad](http://fernand0.github.io/memoria-c-google/) - 2022-08-29
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Algunas ideas sobre mi experiencia en Mastodon.](http://fernand0.blogalia.com//historias/78629) - 2022-11-07
 * [Los emoticonos y las relaciones](http://fernand0.blogalia.com//historias/78625) - 2022-11-03
 * [En la Semana del Emprendimiento en Arag&#243;n hablando de Ciberseguridad](http://fernand0.blogalia.com//historias/78620) - 2022-10-28
 * [La Universidad despu&#233;s de la pandemia. Los formatos y las consecuencias.](http://fernand0.blogalia.com//historias/78616) - 2022-10-17
@@ -65,7 +66,6 @@
 * [En ExpoTIC hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78600) - 2022-09-20
 * [El dinero y  el acceso a la informaci&#243;n.](http://fernand0.blogalia.com//historias/78593) - 2022-09-12
 * [La vida de los enlaces en la web](http://fernand0.blogalia.com//historias/78591) - 2022-09-06
-* [Vuelta al 'cole', la experiencia y los cambios](http://fernand0.blogalia.com//historias/78585) - 2022-08-29
 <!-- blog ends -->
 
 ### Twitter 
