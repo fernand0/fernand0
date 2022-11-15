@@ -12,19 +12,19 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-11-14
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-11-15
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2022-11-09
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2022-11-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2022-11-06
+* [forever-jekyll](https://github.com/fernand0/forever-jekyll),  A simple, elegant & full featured Jekyll theme.- 2022-10-23
 * [twitter](https://github.com/fernand0/twitter),  Python Twitter API- 2022-10-21
 * [productos-aragoneses](https://github.com/fernand0/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-09-17
 * [hacker-news-to-sqlite](https://github.com/fernand0/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2022-08-28
 * [TFG](https://github.com/Arturo-00/TFG),  None- 2022-06-22
 * [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-05-31
-* [Notes](https://github.com/fernand0/Notes),  Some random notes about several topics- 2022-02-08
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-11-13
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-11-14
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-11-07
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-28
 * [twitter](https://github.com/python-twitter-tools/twitter),  Python Twitter API- 2022-10-26
@@ -56,6 +56,7 @@
 * [El modelo 'repair café' como mecanismo de aprendizaje](http://fernand0.github.io/repair-cafe/) - 2022-09-06
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En 99.9 Plaza Radio hablando de Privacidad](http://fernand0.blogalia.com//historias/78635) - 2022-11-14
 * [Algunas ideas sobre mi experiencia en Mastodon.](http://fernand0.blogalia.com//historias/78629) - 2022-11-07
 * [Los emoticonos y las relaciones](http://fernand0.blogalia.com//historias/78625) - 2022-11-03
 * [En la Semana del Emprendimiento en Arag&#243;n hablando de Ciberseguridad](http://fernand0.blogalia.com//historias/78620) - 2022-10-28
@@ -65,7 +66,6 @@
 * [Los mapas colaborativos, la polic&#237;a y la velocidad](http://fernand0.blogalia.com//historias/78604) - 2022-09-27
 * [En ExpoTIC hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78600) - 2022-09-20
 * [El dinero y  el acceso a la informaci&#243;n.](http://fernand0.blogalia.com//historias/78593) - 2022-09-12
-* [La vida de los enlaces en la web](http://fernand0.blogalia.com//historias/78591) - 2022-09-06
 <!-- blog ends -->
 
 ### Twitter 
