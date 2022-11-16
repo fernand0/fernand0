@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-11-15
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-11-16
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2022-11-09
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2022-11-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2022-11-06
@@ -24,7 +24,7 @@
 * [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-05-31
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-11-14
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-11-15
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-11-07
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-28
 * [twitter](https://github.com/python-twitter-tools/twitter),  Python Twitter API- 2022-10-26
