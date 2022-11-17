@@ -12,19 +12,19 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-11-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-11-17
+* [fernand0.github.io.old](https://github.com/fernand0/fernand0.github.io.old),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-11-16
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2022-11-16
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2022-11-09
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2022-11-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2022-11-06
-* [forever-jekyll](https://github.com/fernand0/forever-jekyll),  A simple, elegant & full featured Jekyll theme.- 2022-10-23
 * [twitter](https://github.com/fernand0/twitter),  Python Twitter API- 2022-10-21
 * [productos-aragoneses](https://github.com/fernand0/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-09-17
 * [hacker-news-to-sqlite](https://github.com/fernand0/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2022-08-28
 * [TFG](https://github.com/Arturo-00/TFG),  None- 2022-06-22
-* [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-05-31
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-11-15
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-11-16
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-11-07
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-28
 * [twitter](https://github.com/python-twitter-tools/twitter),  Python Twitter API- 2022-10-26
@@ -44,16 +44,16 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
-* [Una introducción breve a las APIs y su seguridad](http://fernand0.github.io/introduccion-APIs/) - 2022-11-07
-* [Más fallos sofisticados: Thunderbird y la lectura de mensajes cifrados](http://fernand0.github.io/thunderbird-oraculo-descifrado/) - 2022-11-03
-* [OAuth como herramienta para ataques de envío de spam](http://fernand0.github.io/aplicaciones-oauth-maliciosas/) - 2022-10-28
-* [Reflejos y videoconferencias. ¿Estás mostrando demasiado?](http://fernand0.github.io/reflejos-y-telellamadas/) - 2022-10-17
-* [Previsualización y ataques](http://fernand0.github.io/powerpoint-ataques/) - 2022-10-10
-* [La complejidad de los navegadores y la dificultad de crear uno desde cero](http://fernand0.github.io/hacer-navegador/) - 2022-10-03
-* [Extracción de información de sistemas infectados a través de las luces LED](http://fernand0.github.io/mensajes-morse/) - 2022-09-27
-* [Un viejo artículo sobre los generadores de números seudoaleatorios y las consecuencias de su elección](http://fernand0.github.io/calidad-numeros-aleatorios/) - 2022-09-20
-* ['Mejorando' el sistema de entretenimiento de su coche](http://fernand0.github.io/atacando-su-propio-coche/) - 2022-09-12
-* [El modelo 'repair café' como mecanismo de aprendizaje](http://fernand0.github.io/repair-cafe/) - 2022-09-06
+* [Condena personal por ocultar datos sobre una brecha de seguridad en Uber](http://fernand0.github.io//responsable-ciberseguridad-acusado/) - 2022-11-14
+* [Una introducción breve a las APIs y su seguridad](http://fernand0.github.io//introduccion-APIs/) - 2022-11-07
+* [Más fallos sofisticados: Thunderbird y la lectura de mensajes cifrados](http://fernand0.github.io//thunderbird-oraculo-descifrado/) - 2022-11-03
+* [OAuth como herramienta para ataques de envío de spam](http://fernand0.github.io//aplicaciones-oauth-maliciosas/) - 2022-10-28
+* [Reflejos y videoconferencias. ¿Estás mostrando demasiado?](http://fernand0.github.io//reflejos-y-telellamadas/) - 2022-10-17
+* [Previsualización y ataques](http://fernand0.github.io//powerpoint-ataques/) - 2022-10-10
+* [La complejidad de los navegadores y la dificultad de crear uno desde cero](http://fernand0.github.io//hacer-navegador/) - 2022-10-03
+* [Extracción de información de sistemas infectados a través de las luces LED](http://fernand0.github.io//mensajes-morse/) - 2022-09-27
+* [Un viejo artículo sobre los generadores de números seudoaleatorios y las consecuencias de su elección](http://fernand0.github.io//calidad-numeros-aleatorios/) - 2022-09-20
+* [‘Mejorando’ el sistema de entretenimiento de su coche](http://fernand0.github.io//atacando-su-propio-coche/) - 2022-09-12
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [En 99.9 Plaza Radio hablando de Privacidad](http://fernand0.blogalia.com//historias/78635) - 2022-11-14
