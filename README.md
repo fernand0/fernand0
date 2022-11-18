@@ -12,23 +12,23 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-11-17
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-11-18
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2022-11-17
+* [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2022-11-17
+* [pysonofflan](https://github.com/fernand0/pysonofflan),  Python interface for controlling Sonoff smart switches/plugs running original Itead firmware, locally, in "LAN mode".- 2022-11-17
+* [errbot](https://github.com/fernand0/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-11-17
 * [fernand0.github.io.old](https://github.com/fernand0/fernand0.github.io.old),  My blog (in Spanish). A fork of the wonderful Jekyll project.- 2022-11-16
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2022-11-16
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2022-11-09
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2022-11-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2022-11-06
 * [twitter](https://github.com/fernand0/twitter),  Python Twitter API- 2022-10-21
-* [productos-aragoneses](https://github.com/fernand0/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-09-17
-* [hacker-news-to-sqlite](https://github.com/fernand0/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2022-08-28
-* [TFG](https://github.com/Arturo-00/TFG),  None- 2022-06-22
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-11-16
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-11-17
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-11-17
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-11-07
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-28
 * [twitter](https://github.com/python-twitter-tools/twitter),  Python Twitter API- 2022-10-26
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-10-24
 * [AB](https://github.com/simber72/AB),  None- 2022-09-19
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2022-09-13
 * [hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2022-08-28
@@ -44,6 +44,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Nueva imagen y algunas novedades](http://fernand0.github.io//cambio-imagen/) - 2022-11-17
 * [Condena personal por ocultar datos sobre una brecha de seguridad en Uber](http://fernand0.github.io//responsable-ciberseguridad-acusado/) - 2022-11-14
 * [Una introducción breve a las APIs y su seguridad](http://fernand0.github.io//introduccion-APIs/) - 2022-11-07
 * [Más fallos sofisticados: Thunderbird y la lectura de mensajes cifrados](http://fernand0.github.io//thunderbird-oraculo-descifrado/) - 2022-11-03
@@ -53,9 +54,9 @@
 * [La complejidad de los navegadores y la dificultad de crear uno desde cero](http://fernand0.github.io//hacer-navegador/) - 2022-10-03
 * [Extracción de información de sistemas infectados a través de las luces LED](http://fernand0.github.io//mensajes-morse/) - 2022-09-27
 * [Un viejo artículo sobre los generadores de números seudoaleatorios y las consecuencias de su elección](http://fernand0.github.io//calidad-numeros-aleatorios/) - 2022-09-20
-* [‘Mejorando’ el sistema de entretenimiento de su coche](http://fernand0.github.io//atacando-su-propio-coche/) - 2022-09-12
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En CEOE Arag&#243;n hablando de digitalizaci&#243;n de las administraciones p&#250;blicas](http://fernand0.blogalia.com//historias/78637) - 2022-11-17
 * [En 99.9 Plaza Radio hablando de Privacidad](http://fernand0.blogalia.com//historias/78635) - 2022-11-14
 * [Algunas ideas sobre mi experiencia en Mastodon.](http://fernand0.blogalia.com//historias/78629) - 2022-11-07
 * [Los emoticonos y las relaciones](http://fernand0.blogalia.com//historias/78625) - 2022-11-03
@@ -65,7 +66,6 @@
 * [Los avisos de cookies en la web](http://fernand0.blogalia.com//historias/78608) - 2022-10-03
 * [Los mapas colaborativos, la polic&#237;a y la velocidad](http://fernand0.blogalia.com//historias/78604) - 2022-09-27
 * [En ExpoTIC hablando de ciberseguridad](http://fernand0.blogalia.com//historias/78600) - 2022-09-20
-* [El dinero y  el acceso a la informaci&#243;n.](http://fernand0.blogalia.com//historias/78593) - 2022-09-12
 <!-- blog ends -->
 
 ### Twitter 
