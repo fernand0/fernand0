@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-12-13
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2022-12-07
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-12-14
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2022-12-13
 * [errbot](https://github.com/fernand0/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-11-25
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2022-11-17
 * [pysonofflan](https://github.com/fernand0/pysonofflan),  Python interface for controlling Sonoff smart switches/plugs running original Itead firmware, locally, in "LAN mode".- 2022-11-17
@@ -24,7 +24,7 @@
 * [twitter](https://github.com/fernand0/twitter),  Python Twitter API- 2022-10-21
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-12-12
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-12-13
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-12-12
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-11-07
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-28
@@ -44,6 +44,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [DevOps y la ciberseguridad según un informe de Google](http://fernand0.github.io//ciberseguridad-devops/) - 2022-12-13
 * [Extrayendo información de un teclado que aún conserva algo de calor](http://fernand0.github.io//claves-calor/) - 2022-12-07
 * [¿2FA ya no es suficiente? Pues vamos a por el tercer factor](http://fernand0.github.io//2fa-3fa/) - 2022-11-30
 * [Nueva imagen y algunas novedades](http://fernand0.github.io//cambio-imagen/) - 2022-11-17
@@ -53,9 +54,9 @@
 * [OAuth como herramienta para ataques de envío de spam](http://fernand0.github.io//aplicaciones-oauth-maliciosas/) - 2022-10-28
 * [Reflejos y videoconferencias. ¿Estás mostrando demasiado?](http://fernand0.github.io//reflejos-y-telellamadas/) - 2022-10-17
 * [Previsualización y ataques](http://fernand0.github.io//powerpoint-ataques/) - 2022-10-10
-* [La complejidad de los navegadores y la dificultad de crear uno desde cero](http://fernand0.github.io//hacer-navegador/) - 2022-10-03
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [La inteligencia artificial, los resultados mediocres y el resto de nosotros.](http://fernand0.blogalia.com//historias/78653) - 2022-12-13
 * [Adivinar contrase&#241;as con inteligencias artificiales](http://fernand0.blogalia.com//historias/78649) - 2022-12-07
 * [En Heraldo de Arag&#243;n hablando de blogs](http://fernand0.blogalia.com//historias/78646) - 2022-11-30
 * [En CEOE Arag&#243;n hablando de digitalizaci&#243;n de las administraciones p&#250;blicas](http://fernand0.blogalia.com//historias/78637) - 2022-11-17
@@ -65,7 +66,6 @@
 * [En la Semana del Emprendimiento en Arag&#243;n hablando de Ciberseguridad](http://fernand0.blogalia.com//historias/78620) - 2022-10-28
 * [La Universidad despu&#233;s de la pandemia. Los formatos y las consecuencias.](http://fernand0.blogalia.com//historias/78616) - 2022-10-17
 * [Coches y pantallas, &#191;cu&#225;l es la aproximaci&#243;n correcta?](http://fernand0.blogalia.com//historias/78612) - 2022-10-10
-* [Los avisos de cookies en la web](http://fernand0.blogalia.com//historias/78608) - 2022-10-03
 <!-- blog ends -->
 
 ### Twitter 
