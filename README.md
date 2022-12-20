@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-12-19
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-12-20
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2022-12-13
 * [errbot](https://github.com/fernand0/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-11-25
 * [pysonofflan](https://github.com/fernand0/pysonofflan),  Python interface for controlling Sonoff smart switches/plugs running original Itead firmware, locally, in "LAN mode".- 2022-11-17
@@ -24,7 +24,7 @@
 * [productos-aragoneses](https://github.com/fernand0/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-09-17
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-12-18
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-12-19
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-12-12
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-11-07
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-28
