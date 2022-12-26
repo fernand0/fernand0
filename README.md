@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-12-25
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2022-12-26
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2022-12-20
 * [errbot](https://github.com/fernand0/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-11-25
 * [pysonofflan](https://github.com/fernand0/pysonofflan),  Python interface for controlling Sonoff smart switches/plugs running original Itead firmware, locally, in "LAN mode".- 2022-11-17
