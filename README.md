@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2023-01-23
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-01-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2023-01-24
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-01-23
 * [errbot](https://github.com/fernand0/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-11-25
 * [pysonofflan](https://github.com/fernand0/pysonofflan),  Python interface for controlling Sonoff smart switches/plugs running original Itead firmware, locally, in "LAN mode".- 2022-11-17
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2022-11-17
@@ -24,8 +24,8 @@
 * [productos-aragoneses](https://github.com/fernand0/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-09-17
 
 ## repositoriesContributedTo
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2023-01-22
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-01-22
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-01-23
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2023-01-23
 * [AB](https://github.com/simber72/AB),  None- 2023-01-05
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-01-05
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-11-07
@@ -43,6 +43,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Estrategias para encontrar fallos programando](http://fernand0.github.io//encontrar-fallos/) - 2023-01-23
 * [Los múltiples usos de SSH](http://fernand0.github.io//SSH-ideas/) - 2023-01-16
 * [El protocolo de la web: HTTP](http://fernand0.github.io//HTTP-curso/) - 2023-01-10
 * [Un par de listas de cabeceras de seguridad para la web](http://fernand0.github.io//cabeceras-seguridad/) - 2023-01-05
@@ -52,9 +53,9 @@
 * [Extrayendo información de un teclado que aún conserva algo de calor](http://fernand0.github.io//claves-calor/) - 2022-12-07
 * [¿2FA ya no es suficiente? Pues vamos a por el tercer factor](http://fernand0.github.io//2fa-3fa/) - 2022-11-30
 * [Nueva imagen y algunas novedades](http://fernand0.github.io//cambio-imagen/) - 2022-11-17
-* [Condena personal por ocultar datos sobre una brecha de seguridad en Uber](http://fernand0.github.io//responsable-ciberseguridad-acusado/) - 2022-11-14
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [La gamificaci&#243;n y mi cepillo de dientes.](http://fernand0.blogalia.com//historias/78665) - 2023-01-23
 * [Los sistemas de informaci&#243;n en tiempos de guerra](http://fernand0.blogalia.com//historias/78664) - 2023-01-16
 * [El d&#237;a que me borraron mis blog en Tumblr, y WordPress.](http://fernand0.blogalia.com//historias/78662) - 2023-01-10
 * [Las clases, la evaluaci&#243;n y las instrucciones que las acompa&#241;ana.](http://fernand0.blogalia.com//historias/78659) - 2023-01-05
@@ -64,7 +65,6 @@
 * [La inteligencia artificial, los resultados mediocres y el resto de nosotros.](http://fernand0.blogalia.com//historias/78653) - 2022-12-13
 * [Adivinar contrase&#241;as con inteligencias artificiales](http://fernand0.blogalia.com//historias/78649) - 2022-12-07
 * [En Heraldo de Arag&#243;n hablando de blogs](http://fernand0.blogalia.com//historias/78646) - 2022-11-30
-* [En CEOE Arag&#243;n hablando de digitalizaci&#243;n de las administraciones p&#250;blicas](http://fernand0.blogalia.com//historias/78637) - 2022-11-17
 <!-- blog ends -->
 
 ### Twitter 
