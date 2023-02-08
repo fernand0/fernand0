@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2023-02-07
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2023-02-08
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2023-02-05
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-01-31
 * [errbot](https://github.com/fernand0/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-11-25
@@ -24,9 +24,9 @@
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2022-11-06
 
 ## repositoriesContributedTo
-* [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-02-06
+* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2023-02-07
+* [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-02-07
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-02-06
-* [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2023-02-04
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-02-04
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-11-07
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-28
@@ -55,6 +55,7 @@
 * [¿2FA ya no es suficiente? Pues vamos a por el tercer factor](http://fernand0.github.io//2fa-3fa/) - 2022-11-30
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Presentaci&#243;n del curso de Ciberseguridad en la Nube](http://fernand0.blogalia.com//historias/78671) - 2023-02-07
 * [Las noticias, la inteligencia artificial y algunas pol&#233;micas.](http://fernand0.blogalia.com//historias/78669) - 2023-01-31
 * [21](http://fernand0.blogalia.com//historias/78667) - 2023-01-28
 * [La gamificaci&#243;n y mi cepillo de dientes.](http://fernand0.blogalia.com//historias/78665) - 2023-01-23
@@ -64,7 +65,6 @@
 * [Resumen de mi 2022.](http://fernand0.blogalia.com//historias/78657) - 2022-12-31
 * [Las pantallas y el sue&#241;o, &#191;nos afectan para dormir y descansar?](http://fernand0.blogalia.com//historias/78656) - 2022-12-27
 * [El aprendizaje en l&#237;nea y los problemas mentales... &#191;de verdad?](http://fernand0.blogalia.com//historias/78655) - 2022-12-20
-* [La inteligencia artificial, los resultados mediocres y el resto de nosotros.](http://fernand0.blogalia.com//historias/78653) - 2022-12-13
 <!-- blog ends -->
 
 ### Twitter 
