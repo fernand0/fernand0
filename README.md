@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2023-02-08
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2023-02-09
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2023-02-05
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-01-31
 * [errbot](https://github.com/fernand0/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2022-11-25
@@ -33,7 +33,6 @@
 * [twitter](https://github.com/python-twitter-tools/twitter),  Python Twitter API- 2022-10-26
 * [hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2022-08-28
 * [pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite),  Create a SQLite database containing data from your Pocket account- 2022-08-22
-* [Notes](https://github.com/jgbarah/Notes),  Some random notes about several topics- 2022-05-01
 * [inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite),  Create a SQLite database containing your observation history from iNaturalist- 2020-10-22
 <!-- recent_releases ends -->
 
