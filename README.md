@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-02-09
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-03-21
 * [pysonofflan](https://github.com/fernand0/pysonofflan),  Python interface for controlling Sonoff smart switches/plugs running original Itead firmware, locally, in "LAN mode".- 2022-11-17
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
@@ -42,6 +42,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Sobre caminos mínimos en grafos con pesos negativos](http://fernand0.github.io//caminos-en-grafos/) - 2023-03-21
 * [GitHub y algunas pistas sobre desarrollo seguro. Automatización.](http://fernand0.github.io//github-pistas-seguridad/) - 2023-02-09
 * [Estrategias para encontrar fallos programando](http://fernand0.github.io//encontrar-fallos/) - 2023-01-23
 * [GitHub y OWASP](http://fernand0.github.io//mitigar-fallos-OWASP/) - 2023-01-23
@@ -51,9 +52,9 @@
 * [Un fallo en SQLite relacionado con la representación de valores](http://fernand0.github.io//cadenas-fallos-sqlite/) - 2022-12-27
 * [Algunas tendencias sobre ciberseguridad en empresas](http://fernand0.github.io//tendencias-ciberseguridad/) - 2022-12-20
 * [DevOps y la ciberseguridad según un informe de Google](http://fernand0.github.io//ciberseguridad-devops/) - 2022-12-13
-* [Extrayendo información de un teclado que aún conserva algo de calor](http://fernand0.github.io//claves-calor/) - 2022-12-07
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En Arag&#243;n TV hablando del ciberataque al Hospital Clinic](http://fernand0.blogalia.com//historias/78683) - 2023-03-21
 * [En varios medios hablando sobre privacidad](http://fernand0.blogalia.com//historias/78672) - 2023-02-09
 * [Presentaci&#243;n del curso de Ciberseguridad en la Nube](http://fernand0.blogalia.com//historias/78671) - 2023-02-07
 * [Las noticias, la inteligencia artificial y algunas pol&#233;micas.](http://fernand0.blogalia.com//historias/78669) - 2023-01-31
@@ -63,7 +64,6 @@
 * [El d&#237;a que me borraron mis blog en Tumblr, y WordPress.](http://fernand0.blogalia.com//historias/78662) - 2023-01-10
 * [Las clases, la evaluaci&#243;n y las instrucciones que las acompa&#241;ana.](http://fernand0.blogalia.com//historias/78659) - 2023-01-05
 * [Resumen de mi 2022.](http://fernand0.blogalia.com//historias/78657) - 2022-12-31
-* [Las pantallas y el sue&#241;o, &#191;nos afectan para dormir y descansar?](http://fernand0.blogalia.com//historias/78656) - 2022-12-27
 <!-- blog ends -->
 
 ### Twitter 
