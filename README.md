@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-03-21
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-03-27
 * [pysonofflan](https://github.com/fernand0/pysonofflan),  Python interface for controlling Sonoff smart switches/plugs running original Itead firmware, locally, in "LAN mode".- 2022-11-17
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
@@ -24,9 +24,9 @@
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 
 ## repositoriesContributedTo
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-03-27
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-03-27
 * [hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2023-03-26
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-03-26
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-03-20
 * [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-03-05
 * [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2023-02-23
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-11-07
@@ -42,6 +42,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Seguridad en XML en Java](http://fernand0.github.io//seguridad-xml-java/) - 2023-03-27
 * [Sobre caminos mínimos en grafos con pesos negativos](http://fernand0.github.io//caminos-en-grafos/) - 2023-03-21
 * [GitHub y algunas pistas sobre desarrollo seguro. Automatización.](http://fernand0.github.io//github-pistas-seguridad/) - 2023-02-09
 * [Estrategias para encontrar fallos programando](http://fernand0.github.io//encontrar-fallos/) - 2023-01-23
@@ -51,9 +52,9 @@
 * [Un par de listas de cabeceras de seguridad para la web](http://fernand0.github.io//cabeceras-seguridad/) - 2023-01-05
 * [Un fallo en SQLite relacionado con la representación de valores](http://fernand0.github.io//cadenas-fallos-sqlite/) - 2022-12-27
 * [Algunas tendencias sobre ciberseguridad en empresas](http://fernand0.github.io//tendencias-ciberseguridad/) - 2022-12-20
-* [DevOps y la ciberseguridad según un informe de Google](http://fernand0.github.io//ciberseguridad-devops/) - 2022-12-13
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En el programa Objetivo de Arag&#243;n TV hablando de las iniciativas de ciberseguridad en Huesca](http://fernand0.blogalia.com//historias/78686) - 2023-03-27
 * [En Arag&#243;n TV hablando del ciberataque al Hospital Clinic](http://fernand0.blogalia.com//historias/78683) - 2023-03-21
 * [En varios medios hablando sobre privacidad](http://fernand0.blogalia.com//historias/78672) - 2023-02-09
 * [Presentaci&#243;n del curso de Ciberseguridad en la Nube](http://fernand0.blogalia.com//historias/78671) - 2023-02-07
@@ -63,7 +64,6 @@
 * [Los sistemas de informaci&#243;n en tiempos de guerra](http://fernand0.blogalia.com//historias/78664) - 2023-01-16
 * [El d&#237;a que me borraron mis blog en Tumblr, y WordPress.](http://fernand0.blogalia.com//historias/78662) - 2023-01-10
 * [Las clases, la evaluaci&#243;n y las instrucciones que las acompa&#241;ana.](http://fernand0.blogalia.com//historias/78659) - 2023-01-05
-* [Resumen de mi 2022.](http://fernand0.blogalia.com//historias/78657) - 2022-12-31
 <!-- blog ends -->
 
 ### Twitter 
