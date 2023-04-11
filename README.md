@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-04-03
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-04-10
 * [pysonofflan](https://github.com/fernand0/pysonofflan),  Python interface for controlling Sonoff smart switches/plugs running original Itead firmware, locally, in "LAN mode".- 2022-11-17
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
@@ -43,6 +43,7 @@
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
 * [Software libre y entrenamiento de las inteligencias artificiales](http://fernand0.github.io//open-source-ai/) - 2023-04-03
+* [¿En quién confían las inteligencias artificiales?](http://fernand0.github.io//en-quien-confian-las-inteligencias-artificiales/) - 2023-04-03
 * [Seguridad en XML en Java](http://fernand0.github.io//seguridad-xml-java/) - 2023-03-27
 * [Sobre caminos mínimos en grafos con pesos negativos](http://fernand0.github.io//caminos-en-grafos/) - 2023-03-21
 * [GitHub y algunas pistas sobre desarrollo seguro. Automatización.](http://fernand0.github.io//github-pistas-seguridad/) - 2023-02-09
@@ -51,9 +52,9 @@
 * [Los múltiples usos de SSH](http://fernand0.github.io//SSH-ideas/) - 2023-01-16
 * [El protocolo de la web: HTTP](http://fernand0.github.io//HTTP-curso/) - 2023-01-10
 * [Un par de listas de cabeceras de seguridad para la web](http://fernand0.github.io//cabeceras-seguridad/) - 2023-01-05
-* [Un fallo en SQLite relacionado con la representación de valores](http://fernand0.github.io//cadenas-fallos-sqlite/) - 2022-12-27
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Mastodon, la descentralizaci&#243;n y algunos sitios que han pasado a la acci&#243;n](http://fernand0.blogalia.com//historias/78692) - 2023-04-10
 * [Inteligencia artificial: &#191;software abierto o experimentos abiertos?](http://fernand0.blogalia.com//historias/78689) - 2023-04-03
 * [En el programa Objetivo de Arag&#243;n TV hablando de las iniciativas de ciberseguridad en Huesca](http://fernand0.blogalia.com//historias/78686) - 2023-03-27
 * [En Arag&#243;n TV hablando del ciberataque al Hospital Clinic](http://fernand0.blogalia.com//historias/78683) - 2023-03-21
@@ -63,7 +64,6 @@
 * [21](http://fernand0.blogalia.com//historias/78667) - 2023-01-28
 * [La gamificaci&#243;n y mi cepillo de dientes.](http://fernand0.blogalia.com//historias/78665) - 2023-01-23
 * [Los sistemas de informaci&#243;n en tiempos de guerra](http://fernand0.blogalia.com//historias/78664) - 2023-01-16
-* [El d&#237;a que me borraron mis blog en Tumblr, y WordPress.](http://fernand0.blogalia.com//historias/78662) - 2023-01-10
 <!-- blog ends -->
 
 ### Twitter 
