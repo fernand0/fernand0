@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-04-10
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-04-17
 * [pysonofflan](https://github.com/fernand0/pysonofflan),  Python interface for controlling Sonoff smart switches/plugs running original Itead firmware, locally, in "LAN mode".- 2022-11-17
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
@@ -24,9 +24,9 @@
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 
 ## repositoriesContributedTo
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-04-17
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-04-17
 * [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-04-16
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-04-13
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-03-27
 * [hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2023-03-26
 * [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2023-02-23
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2022-11-07
@@ -42,6 +42,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Inyección de fallos en eBay para conseguir sistemas más robustos](http://fernand0.github.io//inyeccion-fallos-ebay/) - 2023-04-17
 * [Software libre y entrenamiento de las inteligencias artificiales](http://fernand0.github.io//open-source-ai/) - 2023-04-03
 * [¿En quién confían las inteligencias artificiales?](http://fernand0.github.io//en-quien-confian-las-inteligencias-artificiales/) - 2023-04-03
 * [Seguridad en XML en Java](http://fernand0.github.io//seguridad-xml-java/) - 2023-03-27
@@ -51,9 +52,9 @@
 * [GitHub y OWASP](http://fernand0.github.io//mitigar-fallos-OWASP/) - 2023-01-23
 * [Los múltiples usos de SSH](http://fernand0.github.io//SSH-ideas/) - 2023-01-16
 * [El protocolo de la web: HTTP](http://fernand0.github.io//HTTP-curso/) - 2023-01-10
-* [Un par de listas de cabeceras de seguridad para la web](http://fernand0.github.io//cabeceras-seguridad/) - 2023-01-05
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [La retirada silenciosa](http://fernand0.blogalia.com//historias/78697) - 2023-04-17
 * [Mastodon, la descentralizaci&#243;n y algunos sitios que han pasado a la acci&#243;n](http://fernand0.blogalia.com//historias/78692) - 2023-04-10
 * [Inteligencia artificial: &#191;software abierto o experimentos abiertos?](http://fernand0.blogalia.com//historias/78689) - 2023-04-03
 * [En el programa Objetivo de Arag&#243;n TV hablando de las iniciativas de ciberseguridad en Huesca](http://fernand0.blogalia.com//historias/78686) - 2023-03-27
@@ -63,7 +64,6 @@
 * [Las noticias, la inteligencia artificial y algunas pol&#233;micas.](http://fernand0.blogalia.com//historias/78669) - 2023-01-31
 * [21](http://fernand0.blogalia.com//historias/78667) - 2023-01-28
 * [La gamificaci&#243;n y mi cepillo de dientes.](http://fernand0.blogalia.com//historias/78665) - 2023-01-23
-* [Los sistemas de informaci&#243;n en tiempos de guerra](http://fernand0.blogalia.com//historias/78664) - 2023-01-16
 <!-- blog ends -->
 
 ### Twitter 
