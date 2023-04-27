@@ -54,6 +54,7 @@
 * [El protocolo de la web: HTTP](http://fernand0.github.io//HTTP-curso/) - 2023-01-10
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Defensa, tecnolog&#237;a e internet. El mundo cambi&#243;. Actividad organizada por esglobal](http://fernand0.blogalia.com//historias/78700) - 2023-04-26
 * [La retirada silenciosa](http://fernand0.blogalia.com//historias/78697) - 2023-04-17
 * [Mastodon, la descentralizaci&#243;n y algunos sitios que han pasado a la acci&#243;n](http://fernand0.blogalia.com//historias/78692) - 2023-04-10
 * [Inteligencia artificial: &#191;software abierto o experimentos abiertos?](http://fernand0.blogalia.com//historias/78689) - 2023-04-03
@@ -63,7 +64,6 @@
 * [Presentaci&#243;n del curso de Ciberseguridad en la Nube](http://fernand0.blogalia.com//historias/78671) - 2023-02-07
 * [Las noticias, la inteligencia artificial y algunas pol&#233;micas.](http://fernand0.blogalia.com//historias/78669) - 2023-01-31
 * [21](http://fernand0.blogalia.com//historias/78667) - 2023-01-28
-* [La gamificaci&#243;n y mi cepillo de dientes.](http://fernand0.blogalia.com//historias/78665) - 2023-01-23
 <!-- blog ends -->
 
 ### Twitter 
