@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-04-17
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-04-27
 * [pysonofflan](https://github.com/fernand0/pysonofflan),  Python interface for controlling Sonoff smart switches/plugs running original Itead firmware, locally, in "LAN mode".- 2022-11-17
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
@@ -42,6 +42,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Métodos alternativos de detección de bots](http://fernand0.github.io//metodos-alternativos-deteccion-spam/) - 2023-04-27
 * [Inyección de fallos en eBay para conseguir sistemas más robustos](http://fernand0.github.io//inyeccion-fallos-ebay/) - 2023-04-17
 * [Software libre y entrenamiento de las inteligencias artificiales](http://fernand0.github.io//open-source-ai/) - 2023-04-03
 * [¿En quién confían las inteligencias artificiales?](http://fernand0.github.io//en-quien-confian-las-inteligencias-artificiales/) - 2023-04-03
@@ -51,7 +52,6 @@
 * [Estrategias para encontrar fallos programando](http://fernand0.github.io//encontrar-fallos/) - 2023-01-23
 * [GitHub y OWASP](http://fernand0.github.io//mitigar-fallos-OWASP/) - 2023-01-23
 * [Los múltiples usos de SSH](http://fernand0.github.io//SSH-ideas/) - 2023-01-16
-* [El protocolo de la web: HTTP](http://fernand0.github.io//HTTP-curso/) - 2023-01-10
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Defensa, tecnolog&#237;a e internet. El mundo cambi&#243;. Actividad organizada por esglobal](http://fernand0.blogalia.com//historias/78700) - 2023-04-26
