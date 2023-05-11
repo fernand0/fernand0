@@ -12,7 +12,6 @@
 
 
 ## repositories
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2023-04-27
 * [pysonofflan](https://github.com/fernand0/pysonofflan),  Python interface for controlling Sonoff smart switches/plugs running original Itead firmware, locally, in "LAN mode".- 2022-11-17
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
@@ -22,6 +21,7 @@
 * [err-sensors](https://github.com/fernand0/err-sensors),  Show the results of reading sensors attached to my Raspberry Pi.- 2021-01-29
 * [elmundoesimperfecto](https://github.com/fernand0/elmundoesimperfecto),  My version of PubWichFork as a backup- 2021-01-15
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
+* [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
 
 ## repositoriesContributedTo
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-05-08
