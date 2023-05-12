@@ -24,8 +24,8 @@
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
 
 ## repositoriesContributedTo
+* [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-05-11
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-05-08
-* [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-04-25
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-04-24
 * [paseos-por-venecia](https://github.com/JJ/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2023-04-18
 * [hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2023-03-26
@@ -54,6 +54,7 @@
 * [Los múltiples usos de SSH](http://fernand0.github.io//SSH-ideas/) - 2023-01-16
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Mesa redonda sobre ciberseguridad en CEOE Arag&#243;n](http://fernand0.blogalia.com//historias/78710) - 2023-05-11
 * [Hablando de ciberseguridad en Smart Grids](http://fernand0.blogalia.com//historias/78705) - 2023-05-03
 * [Defensa, tecnolog&#237;a e internet. El mundo cambi&#243;. Actividad organizada por esglobal](http://fernand0.blogalia.com//historias/78700) - 2023-04-26
 * [La retirada silenciosa](http://fernand0.blogalia.com//historias/78697) - 2023-04-17
@@ -63,7 +64,6 @@
 * [En Arag&#243;n TV hablando del ciberataque al Hospital Clinic](http://fernand0.blogalia.com//historias/78683) - 2023-03-21
 * [En varios medios hablando sobre privacidad](http://fernand0.blogalia.com//historias/78672) - 2023-02-09
 * [Presentaci&#243;n del curso de Ciberseguridad en la Nube](http://fernand0.blogalia.com//historias/78671) - 2023-02-07
-* [Las noticias, la inteligencia artificial y algunas pol&#233;micas.](http://fernand0.blogalia.com//historias/78669) - 2023-01-31
 <!-- blog ends -->
 
 ### Twitter 
