@@ -42,6 +42,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Ataque contra el reciclado de credenciales en PayPal](http://fernand0.github.io//datos-paypal/) - 2023-05-15
 * [Métodos alternativos de detección de bots](http://fernand0.github.io//metodos-alternativos-deteccion-spam/) - 2023-04-27
 * [Inyección de fallos en eBay para conseguir sistemas más robustos](http://fernand0.github.io//inyeccion-fallos-ebay/) - 2023-04-17
 * [Software libre y entrenamiento de las inteligencias artificiales](http://fernand0.github.io//open-source-ai/) - 2023-04-03
@@ -51,9 +52,9 @@
 * [GitHub y algunas pistas sobre desarrollo seguro. Automatización.](http://fernand0.github.io//github-pistas-seguridad/) - 2023-02-09
 * [Estrategias para encontrar fallos programando](http://fernand0.github.io//encontrar-fallos/) - 2023-01-23
 * [GitHub y OWASP](http://fernand0.github.io//mitigar-fallos-OWASP/) - 2023-01-23
-* [Los múltiples usos de SSH](http://fernand0.github.io//SSH-ideas/) - 2023-01-16
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Hablando de Inteligencia Artificial en el IES Andal&#225;n](http://fernand0.blogalia.com//historias/78714) - 2023-05-15
 * [Mesa redonda sobre ciberseguridad en CEOE Arag&#243;n](http://fernand0.blogalia.com//historias/78710) - 2023-05-11
 * [Hablando de ciberseguridad en Smart Grids](http://fernand0.blogalia.com//historias/78705) - 2023-05-03
 * [Defensa, tecnolog&#237;a e internet. El mundo cambi&#243;. Actividad organizada por esglobal](http://fernand0.blogalia.com//historias/78700) - 2023-04-26
@@ -63,7 +64,6 @@
 * [En el programa Objetivo de Arag&#243;n TV hablando de las iniciativas de ciberseguridad en Huesca](http://fernand0.blogalia.com//historias/78686) - 2023-03-27
 * [En Arag&#243;n TV hablando del ciberataque al Hospital Clinic](http://fernand0.blogalia.com//historias/78683) - 2023-03-21
 * [En varios medios hablando sobre privacidad](http://fernand0.blogalia.com//historias/78672) - 2023-02-09
-* [Presentaci&#243;n del curso de Ciberseguridad en la Nube](http://fernand0.blogalia.com//historias/78671) - 2023-02-07
 <!-- blog ends -->
 
 ### Twitter 
