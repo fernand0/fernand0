@@ -42,6 +42,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Conozco tu PIN: sobre altavoces, acelerómetros y formas creativas de espiar](http://fernand0.github.io//espionaje-y-vibraciones/) - 2023-05-23
 * [Ataque contra el reciclado de credenciales en PayPal](http://fernand0.github.io//datos-paypal/) - 2023-05-15
 * [Métodos alternativos de detección de bots](http://fernand0.github.io//metodos-alternativos-deteccion-spam/) - 2023-04-27
 * [Inyección de fallos en eBay para conseguir sistemas más robustos](http://fernand0.github.io//inyeccion-fallos-ebay/) - 2023-04-17
@@ -51,9 +52,9 @@
 * [Sobre caminos mínimos en grafos con pesos negativos](http://fernand0.github.io//caminos-en-grafos/) - 2023-03-21
 * [GitHub y algunas pistas sobre desarrollo seguro. Automatización.](http://fernand0.github.io//github-pistas-seguridad/) - 2023-02-09
 * [Estrategias para encontrar fallos programando](http://fernand0.github.io//encontrar-fallos/) - 2023-01-23
-* [GitHub y OWASP](http://fernand0.github.io//mitigar-fallos-OWASP/) - 2023-01-23
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [La automatizaci&#243;n y el empleo](http://fernand0.blogalia.com//historias/78719) - 2023-05-23
 * [Hablando de Inteligencia Artificial en el IES Andal&#225;n](http://fernand0.blogalia.com//historias/78714) - 2023-05-15
 * [Mesa redonda sobre ciberseguridad en CEOE Arag&#243;n](http://fernand0.blogalia.com//historias/78710) - 2023-05-11
 * [Hablando de ciberseguridad en Smart Grids](http://fernand0.blogalia.com//historias/78705) - 2023-05-03
@@ -63,7 +64,6 @@
 * [Inteligencia artificial: &#191;software abierto o experimentos abiertos?](http://fernand0.blogalia.com//historias/78689) - 2023-04-03
 * [En el programa Objetivo de Arag&#243;n TV hablando de las iniciativas de ciberseguridad en Huesca](http://fernand0.blogalia.com//historias/78686) - 2023-03-27
 * [En Arag&#243;n TV hablando del ciberataque al Hospital Clinic](http://fernand0.blogalia.com//historias/78683) - 2023-03-21
-* [En varios medios hablando sobre privacidad](http://fernand0.blogalia.com//historias/78672) - 2023-02-09
 <!-- blog ends -->
 
 ### Twitter 
