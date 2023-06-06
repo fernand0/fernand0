@@ -41,6 +41,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Ascon: criptografía ligera para dispositivos limitados](http://fernand0.github.io//criptografia-dispotivos/) - 2023-06-05
 * [Conozco tu PIN: sobre altavoces, acelerómetros y formas creativas de espiar](http://fernand0.github.io//espionaje-y-vibraciones/) - 2023-05-23
 * [Acceso a APIs, credenciales y uso desde clientes](http://fernand0.github.io//seguridad-apis/) - 2023-05-23
 * [Ataque contra el reciclado de credenciales en PayPal](http://fernand0.github.io//datos-paypal/) - 2023-05-15
@@ -50,9 +51,9 @@
 * [¿En quién confían las inteligencias artificiales?](http://fernand0.github.io//en-quien-confian-las-inteligencias-artificiales/) - 2023-04-03
 * [Seguridad en XML en Java](http://fernand0.github.io//seguridad-xml-java/) - 2023-03-27
 * [Sobre caminos mínimos en grafos con pesos negativos](http://fernand0.github.io//caminos-en-grafos/) - 2023-03-21
-* [GitHub y algunas pistas sobre desarrollo seguro. Automatización.](http://fernand0.github.io//github-pistas-seguridad/) - 2023-02-09
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [La familia, la tecnolog&#237;a y la gesti&#243;n del mundo real](http://fernand0.blogalia.com//historias/78724) - 2023-06-05
 * [ChatGPT: productos vs innovaci&#243;n.](http://fernand0.blogalia.com//historias/78721) - 2023-05-29
 * [La automatizaci&#243;n y el empleo](http://fernand0.blogalia.com//historias/78719) - 2023-05-23
 * [Hablando de Inteligencia Artificial en el IES Andal&#225;n](http://fernand0.blogalia.com//historias/78714) - 2023-05-15
@@ -62,7 +63,6 @@
 * [La retirada silenciosa](http://fernand0.blogalia.com//historias/78697) - 2023-04-17
 * [Mastodon, la descentralizaci&#243;n y algunos sitios que han pasado a la acci&#243;n](http://fernand0.blogalia.com//historias/78692) - 2023-04-10
 * [Inteligencia artificial: &#191;software abierto o experimentos abiertos?](http://fernand0.blogalia.com//historias/78689) - 2023-04-03
-* [En el programa Objetivo de Arag&#243;n TV hablando de las iniciativas de ciberseguridad en Huesca](http://fernand0.blogalia.com//historias/78686) - 2023-03-27
 <!-- blog ends -->
 
 ### Twitter 
