@@ -3,7 +3,7 @@
 <a href="mailto:ftricas@unizar.es" title="e-mail"><i class="svg-icon email"></i></a> 
 <a href="https://www.linkedin.com/in/fernand0" title="My LinkedIn//Mi LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://www.twitter.com/fernand0" title="My Twitter//Mi Twitter"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></i></a> 
-<a href="https://mastodon.social/@fernand0" title="My Mastodon//Mi Mastodon" rel="me"><img src="https://img.shields.io/static/v1?label=Mastodon&message=Social&color=blue" height=25></i></a> 
+<link href="https://mastodon.social/@fernand0" rel="me" title="My Mastodon//Mi Mastodon"><img src="https://img.shields.io/static/v1?label=Mastodon&message=Social&color=blue" height=25></i></a> 
 <a href="https://flickr.com/fernand0"><img src="https://img.shields.io/static/v1?label=Flickr&message=Images&color=blue" height=25></a>
 <a href="https://dev.to/fernand0"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 
