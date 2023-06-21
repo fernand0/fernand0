@@ -24,7 +24,7 @@
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
 
 ## repositoriesContributedTo
-* [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-06-19
+* [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-06-20
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2023-06-13
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-06-13
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-05-30
@@ -41,6 +41,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Ataques de voz a asistentes conectados](http://fernand0.github.io//descubriendo-lo-inaudible/) - 2023-06-20
 * [Un desbordamiento de enteros de 40 segundos](http://fernand0.github.io//codigo-cohetes/) - 2023-06-12
 * [Ascon: criptografía ligera para dispositivos limitados](http://fernand0.github.io//criptografia-dispotivos/) - 2023-06-05
 * [Conozco tu PIN: sobre altavoces, acelerómetros y formas creativas de espiar](http://fernand0.github.io//espionaje-y-vibraciones/) - 2023-05-23
@@ -50,9 +51,9 @@
 * [Inyección de fallos en eBay para conseguir sistemas más robustos](http://fernand0.github.io//inyeccion-fallos-ebay/) - 2023-04-17
 * [Software libre y entrenamiento de las inteligencias artificiales](http://fernand0.github.io//open-source-ai/) - 2023-04-03
 * [¿En quién confían las inteligencias artificiales?](http://fernand0.github.io//en-quien-confian-las-inteligencias-artificiales/) - 2023-04-03
-* [Seguridad en XML en Java](http://fernand0.github.io//seguridad-xml-java/) - 2023-03-27
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En internet (casi) nadie te echar&#225; de menos.](http://fernand0.blogalia.com//historias/78733) - 2023-06-20
 * [TikTok, prohibiciones en dispositivos gubernamentales y gesti&#243;n, &#191;por fin?](http://fernand0.blogalia.com//historias/78728) - 2023-06-12
 * [La familia, la tecnolog&#237;a y la gesti&#243;n del mundo real](http://fernand0.blogalia.com//historias/78724) - 2023-06-05
 * [ChatGPT: productos vs innovaci&#243;n.](http://fernand0.blogalia.com//historias/78721) - 2023-05-29
@@ -62,7 +63,6 @@
 * [Hablando de ciberseguridad en Smart Grids](http://fernand0.blogalia.com//historias/78705) - 2023-05-03
 * [Defensa, tecnolog&#237;a e internet. El mundo cambi&#243;. Actividad organizada por esglobal](http://fernand0.blogalia.com//historias/78700) - 2023-04-26
 * [La retirada silenciosa](http://fernand0.blogalia.com//historias/78697) - 2023-04-17
-* [Mastodon, la descentralizaci&#243;n y algunos sitios que han pasado a la acci&#243;n](http://fernand0.blogalia.com//historias/78692) - 2023-04-10
 <!-- blog ends -->
 
 ### Twitter 
