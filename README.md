@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [pysonofflan](https://github.com/fernand0/pysonofflan),  Python interface for controlling Sonoff smart switches/plugs running original Itead firmware, locally, in "LAN mode".- 2022-11-17
+* [python-linkedin-v2](https://github.com/fernand0/python-linkedin-v2),  Python interface to the LinkedIn API - V2- 2023-06-21
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
 * [minutes-of-meeting-markdown](https://github.com/fernand0/minutes-of-meeting-markdown),  This is a general markdown template of minutes of meeting useful to help you get started quickly- 2021-03-18
