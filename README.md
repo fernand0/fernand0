@@ -12,6 +12,7 @@
 
 
 ## repositories
+* [linkedin-api-python-client](https://github.com/fernand0/linkedin-api-python-client),  Official Python client library for LinkedIn APIs- 2023-06-29
 * [python-linkedin-v2](https://github.com/fernand0/python-linkedin-v2),  Python interface to the LinkedIn API - V2- 2023-06-21
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2021-07-25
 * [projects](https://github.com/fernand0/projects),  Web site for projects.- 2021-06-13
@@ -19,7 +20,6 @@
 * [mitra_router](https://github.com/fernand0/mitra_router),  Small script to restart Movistar ES Mitrastar routers- 2021-02-11
 * [err-home](https://github.com/fernand0/err-home),  Some commands to manage some home devices.- 2021-02-11
 * [err-sensors](https://github.com/fernand0/err-sensors),  Show the results of reading sensors attached to my Raspberry Pi.- 2021-01-29
-* [elmundoesimperfecto](https://github.com/fernand0/elmundoesimperfecto),  My version of PubWichFork as a backup- 2021-01-15
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2020-11-13
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
 
