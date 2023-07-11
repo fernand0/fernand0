@@ -24,7 +24,7 @@
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
 
 ## repositoriesContributedTo
-* [pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite),  Create a SQLite database containing data from your Pocket account- 2023-07-09
+* [pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite),  Create a SQLite database containing data from your Pocket account- 2023-07-10
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-07-07
 * [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-06-23
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2023-06-13
@@ -43,6 +43,7 @@
 ## [fernand0@GitHub](https://fernand0.github.io/)
 * [Ataques de voz a asistentes conectados](http://fernand0.github.io//descubriendo-lo-inaudible/) - 2023-06-20
 * [Buenas prácticas en criptografía](http://fernand0.github.io//buenas-practicas-criptografia/) - 2023-06-20
+* [Los niveles OSI y los posibles ataques sobre ellos](http://fernand0.github.io//el-modelo-OSI/) - 2023-06-20
 * [Un desbordamiento de enteros de 40 segundos](http://fernand0.github.io//codigo-cohetes/) - 2023-06-12
 * [Ascon: criptografía ligera para dispositivos limitados](http://fernand0.github.io//criptografia-dispotivos/) - 2023-06-05
 * [Conozco tu PIN: sobre altavoces, acelerómetros y formas creativas de espiar](http://fernand0.github.io//espionaje-y-vibraciones/) - 2023-05-23
@@ -50,9 +51,9 @@
 * [Ataque contra el reciclado de credenciales en PayPal](http://fernand0.github.io//datos-paypal/) - 2023-05-15
 * [Métodos alternativos de detección de bots](http://fernand0.github.io//metodos-alternativos-deteccion-spam/) - 2023-04-27
 * [Inyección de fallos en eBay para conseguir sistemas más robustos](http://fernand0.github.io//inyeccion-fallos-ebay/) - 2023-04-17
-* [Software libre y entrenamiento de las inteligencias artificiales](http://fernand0.github.io//open-source-ai/) - 2023-04-03
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Una IA confiable o unos humanos con un nivel de atenci&#243;n suficiente](http://fernand0.blogalia.com//historias/78744) - 2023-07-10
 * [&#191;Adi&#243;s al Big Data?](http://fernand0.blogalia.com//historias/78736) - 2023-06-27
 * [En internet (casi) nadie te echar&#225; de menos.](http://fernand0.blogalia.com//historias/78733) - 2023-06-20
 * [TikTok, prohibiciones en dispositivos gubernamentales y gesti&#243;n, &#191;por fin?](http://fernand0.blogalia.com//historias/78728) - 2023-06-12
@@ -62,7 +63,6 @@
 * [Hablando de Inteligencia Artificial en el IES Andal&#225;n](http://fernand0.blogalia.com//historias/78714) - 2023-05-15
 * [Mesa redonda sobre ciberseguridad en CEOE Arag&#243;n](http://fernand0.blogalia.com//historias/78710) - 2023-05-11
 * [Hablando de ciberseguridad en Smart Grids](http://fernand0.blogalia.com//historias/78705) - 2023-05-03
-* [Defensa, tecnolog&#237;a e internet. El mundo cambi&#243;. Actividad organizada por esglobal](http://fernand0.blogalia.com//historias/78700) - 2023-04-26
 <!-- blog ends -->
 
 ### Twitter 
