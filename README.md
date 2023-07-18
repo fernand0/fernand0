@@ -24,11 +24,11 @@
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
 
 ## repositoriesContributedTo
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-07-17
 * [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-07-15
 * [pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite),  Create a SQLite database containing data from your Pocket account- 2023-07-10
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-07-07
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2023-06-13
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-06-13
 * [hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2023-03-26
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-28
 * [twitter](https://github.com/python-twitter-tools/twitter),  Python Twitter API- 2022-10-26
@@ -41,6 +41,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [25 años de bcrypt y un poco de historia sobre la seguridad de las contraseñas](http://fernand0.github.io//hash-bcrypt/) - 2023-07-17
 * [Ataques de voz a asistentes conectados](http://fernand0.github.io//descubriendo-lo-inaudible/) - 2023-06-20
 * [Buenas prácticas en criptografía](http://fernand0.github.io//buenas-practicas-criptografia/) - 2023-06-20
 * [Los niveles OSI y los posibles ataques sobre ellos](http://fernand0.github.io//el-modelo-OSI/) - 2023-06-20
@@ -50,9 +51,9 @@
 * [Acceso a APIs, credenciales y uso desde clientes](http://fernand0.github.io//seguridad-apis/) - 2023-05-23
 * [Ataque contra el reciclado de credenciales en PayPal](http://fernand0.github.io//datos-paypal/) - 2023-05-15
 * [Métodos alternativos de detección de bots](http://fernand0.github.io//metodos-alternativos-deteccion-spam/) - 2023-04-27
-* [Inyección de fallos en eBay para conseguir sistemas más robustos](http://fernand0.github.io//inyeccion-fallos-ebay/) - 2023-04-17
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [La onda media y los coches: &#191;el principio del fin?](http://fernand0.blogalia.com//historias/78748) - 2023-07-17
 * [Una IA confiable o unos humanos con un nivel de atenci&#243;n suficiente](http://fernand0.blogalia.com//historias/78744) - 2023-07-10
 * [&#191;Adi&#243;s al Big Data?](http://fernand0.blogalia.com//historias/78736) - 2023-06-27
 * [En internet (casi) nadie te echar&#225; de menos.](http://fernand0.blogalia.com//historias/78733) - 2023-06-20
@@ -62,7 +63,6 @@
 * [La automatizaci&#243;n y el empleo](http://fernand0.blogalia.com//historias/78719) - 2023-05-23
 * [Hablando de Inteligencia Artificial en el IES Andal&#225;n](http://fernand0.blogalia.com//historias/78714) - 2023-05-15
 * [Mesa redonda sobre ciberseguridad en CEOE Arag&#243;n](http://fernand0.blogalia.com//historias/78710) - 2023-05-11
-* [Hablando de ciberseguridad en Smart Grids](http://fernand0.blogalia.com//historias/78705) - 2023-05-03
 <!-- blog ends -->
 
 ### Twitter 
