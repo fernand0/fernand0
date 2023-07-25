@@ -41,6 +41,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [ChatGPT y el phishing: no está mal](http://fernand0.github.io//chatGPT-phishing/) - 2023-07-24
 * [25 años de bcrypt y un poco de historia sobre la seguridad de las contraseñas](http://fernand0.github.io//hash-bcrypt/) - 2023-07-17
 * [Ataques de voz a asistentes conectados](http://fernand0.github.io//descubriendo-lo-inaudible/) - 2023-06-20
 * [Buenas prácticas en criptografía](http://fernand0.github.io//buenas-practicas-criptografia/) - 2023-06-20
@@ -50,9 +51,9 @@
 * [Conozco tu PIN: sobre altavoces, acelerómetros y formas creativas de espiar](http://fernand0.github.io//espionaje-y-vibraciones/) - 2023-05-23
 * [Acceso a APIs, credenciales y uso desde clientes](http://fernand0.github.io//seguridad-apis/) - 2023-05-23
 * [Ataque contra el reciclado de credenciales en PayPal](http://fernand0.github.io//datos-paypal/) - 2023-05-15
-* [Métodos alternativos de detección de bots](http://fernand0.github.io//metodos-alternativos-deteccion-spam/) - 2023-04-27
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [B&#243;rrame ese disco duro...](http://fernand0.blogalia.com//historias/78752) - 2023-07-24
 * [La onda media y los coches: &#191;el principio del fin?](http://fernand0.blogalia.com//historias/78748) - 2023-07-17
 * [Una IA confiable o unos humanos con un nivel de atenci&#243;n suficiente](http://fernand0.blogalia.com//historias/78744) - 2023-07-10
 * [&#191;Adi&#243;s al Big Data?](http://fernand0.blogalia.com//historias/78736) - 2023-06-27
@@ -62,7 +63,6 @@
 * [ChatGPT: productos vs innovaci&#243;n.](http://fernand0.blogalia.com//historias/78721) - 2023-05-29
 * [La automatizaci&#243;n y el empleo](http://fernand0.blogalia.com//historias/78719) - 2023-05-23
 * [Hablando de Inteligencia Artificial en el IES Andal&#225;n](http://fernand0.blogalia.com//historias/78714) - 2023-05-15
-* [Mesa redonda sobre ciberseguridad en CEOE Arag&#243;n](http://fernand0.blogalia.com//historias/78710) - 2023-05-11
 <!-- blog ends -->
 
 ### Twitter 
