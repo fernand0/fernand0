@@ -41,6 +41,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [ChatGPT, los plugins y el descontrol sobre nuestra información](http://fernand0.github.io//chatGPT-plugins-exfiltracion/) - 2023-08-07
 * [ChatGPT y el phishing: no está mal](http://fernand0.github.io//chatGPT-phishing/) - 2023-07-24
 * [25 años de bcrypt y un poco de historia sobre la seguridad de las contraseñas](http://fernand0.github.io//hash-bcrypt/) - 2023-07-17
 * [Ataques de voz a asistentes conectados](http://fernand0.github.io//descubriendo-lo-inaudible/) - 2023-06-20
@@ -50,9 +51,9 @@
 * [Ascon: criptografía ligera para dispositivos limitados](http://fernand0.github.io//criptografia-dispotivos/) - 2023-06-05
 * [Conozco tu PIN: sobre altavoces, acelerómetros y formas creativas de espiar](http://fernand0.github.io//espionaje-y-vibraciones/) - 2023-05-23
 * [Acceso a APIs, credenciales y uso desde clientes](http://fernand0.github.io//seguridad-apis/) - 2023-05-23
-* [Ataque contra el reciclado de credenciales en PayPal](http://fernand0.github.io//datos-paypal/) - 2023-05-15
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Contenido generado por inteligencias artificiales y la web](http://fernand0.blogalia.com//historias/78757) - 2023-08-07
 * [B&#243;rrame ese disco duro...](http://fernand0.blogalia.com//historias/78752) - 2023-07-24
 * [La onda media y los coches: &#191;el principio del fin?](http://fernand0.blogalia.com//historias/78748) - 2023-07-17
 * [Una IA confiable o unos humanos con un nivel de atenci&#243;n suficiente](http://fernand0.blogalia.com//historias/78744) - 2023-07-10
@@ -62,7 +63,6 @@
 * [La familia, la tecnolog&#237;a y la gesti&#243;n del mundo real](http://fernand0.blogalia.com//historias/78724) - 2023-06-05
 * [ChatGPT: productos vs innovaci&#243;n.](http://fernand0.blogalia.com//historias/78721) - 2023-05-29
 * [La automatizaci&#243;n y el empleo](http://fernand0.blogalia.com//historias/78719) - 2023-05-23
-* [Hablando de Inteligencia Artificial en el IES Andal&#225;n](http://fernand0.blogalia.com//historias/78714) - 2023-05-15
 <!-- blog ends -->
 
 ### Twitter 
