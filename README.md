@@ -24,10 +24,9 @@
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
 
 ## repositoriesContributedTo
+* [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-08-21
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-07-20
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-07-17
-* [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-07-15
-* [pocket-to-sqlite](https://github.com/dogsheep/pocket-to-sqlite),  Create a SQLite database containing data from your Pocket account- 2023-07-10
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2023-06-13
 * [hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2023-03-26
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-28
@@ -53,16 +52,6 @@
 * [Conozco tu PIN: sobre altavoces, acelerómetros y formas creativas de espiar](http://fernand0.github.io//espionaje-y-vibraciones/) - 2023-05-23
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
-* [Degeneraci&#243;n de las IA por el entrenamiento con datos generados](http://fernand0.blogalia.com//historias/78758) - 2023-08-14
-* [Contenido generado por inteligencias artificiales y la web](http://fernand0.blogalia.com//historias/78757) - 2023-08-07
-* [B&#243;rrame ese disco duro...](http://fernand0.blogalia.com//historias/78752) - 2023-07-24
-* [La onda media y los coches: &#191;el principio del fin?](http://fernand0.blogalia.com//historias/78748) - 2023-07-17
-* [Una IA confiable o unos humanos con un nivel de atenci&#243;n suficiente](http://fernand0.blogalia.com//historias/78744) - 2023-07-10
-* [&#191;Adi&#243;s al Big Data?](http://fernand0.blogalia.com//historias/78736) - 2023-06-27
-* [En internet (casi) nadie te echar&#225; de menos.](http://fernand0.blogalia.com//historias/78733) - 2023-06-20
-* [TikTok, prohibiciones en dispositivos gubernamentales y gesti&#243;n, &#191;por fin?](http://fernand0.blogalia.com//historias/78728) - 2023-06-12
-* [La familia, la tecnolog&#237;a y la gesti&#243;n del mundo real](http://fernand0.blogalia.com//historias/78724) - 2023-06-05
-* [ChatGPT: productos vs innovaci&#243;n.](http://fernand0.blogalia.com//historias/78721) - 2023-05-29
 <!-- blog ends -->
 
 ### Twitter 
