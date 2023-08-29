@@ -28,10 +28,8 @@
 * [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-08-21
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-07-20
 * [cards](https://github.com/sharu725/cards),  A bootstrap based minimal jekyll theme- 2023-06-13
-* [hacker-news-to-sqlite](https://github.com/dogsheep/hacker-news-to-sqlite),  Create a SQLite database containing data pulled from Hacker News- 2023-03-26
 * [productos-aragoneses](https://github.com/planaspa/productos-aragoneses),  Listado de productos digitales aragoneses en activo- 2022-10-28
 * [twitter](https://github.com/python-twitter-tools/twitter),  Python Twitter API- 2022-10-26
-* [inaturalist-to-sqlite](https://github.com/dogsheep/inaturalist-to-sqlite),  Create a SQLite database containing your observation history from iNaturalist- 2020-10-22
 <!-- recent_releases ends -->
 
 # On my blog (in Spanish)
