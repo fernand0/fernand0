@@ -49,6 +49,7 @@
 * [Ascon: criptografía ligera para dispositivos limitados](http://fernand0.github.io//criptografia-dispotivos/) - 2023-06-05
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Una introducci&#243;n a la ciberseguridad en Turqu&#237;a](http://fernand0.blogalia.com//historias/78764) - 2023-09-26
 * [En el programa Objetivo de Arag&#243;n TV hablando de la seguridad de WhatsApp](http://fernand0.blogalia.com//historias/78761) - 2023-09-21
 * [X (Twitter) y las migraciones en internet](http://fernand0.blogalia.com//historias/78759) - 2023-09-05
 * [Degeneraci&#243;n de las IA por el entrenamiento con datos generados](http://fernand0.blogalia.com//historias/78758) - 2023-08-14
@@ -58,7 +59,6 @@
 * [Una IA confiable o unos humanos con un nivel de atenci&#243;n suficiente](http://fernand0.blogalia.com//historias/78744) - 2023-07-10
 * [&#191;Adi&#243;s al Big Data?](http://fernand0.blogalia.com//historias/78736) - 2023-06-27
 * [En internet (casi) nadie te echar&#225; de menos.](http://fernand0.blogalia.com//historias/78733) - 2023-06-20
-* [TikTok, prohibiciones en dispositivos gubernamentales y gesti&#243;n, &#191;por fin?](http://fernand0.blogalia.com//historias/78728) - 2023-06-12
 <!-- blog ends -->
 
 ### Twitter 
