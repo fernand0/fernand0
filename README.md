@@ -37,6 +37,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Las inteligencias artificiales y los desarrolladores segun McKinsey](http://fernand0.github.io//desarrolladores-ia/) - 2023-10-04
 * [Una breve historia de los números aleatorios](http://fernand0.github.io//historia-numeros-aleatorios/) - 2023-09-05
 * [Descubrimiento de secretos a partir de la iluminación de los LED](http://fernand0.github.io//leds-criptoanalisis/) - 2023-08-14
 * [ChatGPT, los plugins y el descontrol sobre nuestra información](http://fernand0.github.io//chatGPT-plugins-exfiltracion/) - 2023-08-07
@@ -46,9 +47,9 @@
 * [Buenas prácticas en criptografía](http://fernand0.github.io//buenas-practicas-criptografia/) - 2023-06-20
 * [Los niveles OSI y los posibles ataques sobre ellos](http://fernand0.github.io//el-modelo-OSI/) - 2023-06-20
 * [Un desbordamiento de enteros de 40 segundos](http://fernand0.github.io//codigo-cohetes/) - 2023-06-12
-* [Ascon: criptografía ligera para dispositivos limitados](http://fernand0.github.io//criptografia-dispotivos/) - 2023-06-05
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En el Peri&#243;dico de Arag&#243;n hablando de Ciberseguridad](http://fernand0.blogalia.com//historias/78767) - 2023-10-04
 * [Una introducci&#243;n a la ciberseguridad en Turqu&#237;a](http://fernand0.blogalia.com//historias/78764) - 2023-09-26
 * [En el programa Objetivo de Arag&#243;n TV hablando de la seguridad de WhatsApp](http://fernand0.blogalia.com//historias/78761) - 2023-09-21
 * [X (Twitter) y las migraciones en internet](http://fernand0.blogalia.com//historias/78759) - 2023-09-05
@@ -58,7 +59,6 @@
 * [La onda media y los coches: &#191;el principio del fin?](http://fernand0.blogalia.com//historias/78748) - 2023-07-17
 * [Una IA confiable o unos humanos con un nivel de atenci&#243;n suficiente](http://fernand0.blogalia.com//historias/78744) - 2023-07-10
 * [&#191;Adi&#243;s al Big Data?](http://fernand0.blogalia.com//historias/78736) - 2023-06-27
-* [En internet (casi) nadie te echar&#225; de menos.](http://fernand0.blogalia.com//historias/78733) - 2023-06-20
 <!-- blog ends -->
 
 ### Twitter 
