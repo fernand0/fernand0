@@ -37,6 +37,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Phishing y diplomáticos: cambiando los objetivos](http://fernand0.github.io//phishing-diplomaticos/) - 2023-10-11
 * [Las inteligencias artificiales y los desarrolladores segun McKinsey](http://fernand0.github.io//desarrolladores-ia/) - 2023-10-04
 * [Una breve historia de los números aleatorios](http://fernand0.github.io//historia-numeros-aleatorios/) - 2023-09-05
 * [Descubrimiento de secretos a partir de la iluminación de los LED](http://fernand0.github.io//leds-criptoanalisis/) - 2023-08-14
@@ -46,9 +47,9 @@
 * [Ataques de voz a asistentes conectados](http://fernand0.github.io//descubriendo-lo-inaudible/) - 2023-06-20
 * [Buenas prácticas en criptografía](http://fernand0.github.io//buenas-practicas-criptografia/) - 2023-06-20
 * [Los niveles OSI y los posibles ataques sobre ellos](http://fernand0.github.io//el-modelo-OSI/) - 2023-06-20
-* [Un desbordamiento de enteros de 40 segundos](http://fernand0.github.io//codigo-cohetes/) - 2023-06-12
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [El trabajo de la Inteligencia Artificial](http://fernand0.blogalia.com//historias/78770) - 2023-10-11
 * [En el Peri&#243;dico de Arag&#243;n hablando de Ciberseguridad](http://fernand0.blogalia.com//historias/78767) - 2023-10-04
 * [Una introducci&#243;n a la ciberseguridad en Turqu&#237;a](http://fernand0.blogalia.com//historias/78764) - 2023-09-26
 * [En el programa Objetivo de Arag&#243;n TV hablando de la seguridad de WhatsApp](http://fernand0.blogalia.com//historias/78761) - 2023-09-21
@@ -58,7 +59,6 @@
 * [B&#243;rrame ese disco duro...](http://fernand0.blogalia.com//historias/78752) - 2023-07-24
 * [La onda media y los coches: &#191;el principio del fin?](http://fernand0.blogalia.com//historias/78748) - 2023-07-17
 * [Una IA confiable o unos humanos con un nivel de atenci&#243;n suficiente](http://fernand0.blogalia.com//historias/78744) - 2023-07-10
-* [&#191;Adi&#243;s al Big Data?](http://fernand0.blogalia.com//historias/78736) - 2023-06-27
 <!-- blog ends -->
 
 ### Twitter 
