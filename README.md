@@ -37,6 +37,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Las vulnerabilidades y su estudio para mejorar la seguridad](http://fernand0.github.io//fallos-dia-cero/) - 2023-10-16
 * [Phishing y diplomáticos: cambiando los objetivos](http://fernand0.github.io//phishing-diplomaticos/) - 2023-10-11
 * [Las inteligencias artificiales y los desarrolladores segun McKinsey](http://fernand0.github.io//desarrolladores-ia/) - 2023-10-04
 * [Una breve historia de los números aleatorios](http://fernand0.github.io//historia-numeros-aleatorios/) - 2023-09-05
@@ -46,9 +47,9 @@
 * [25 años de bcrypt y un poco de historia sobre la seguridad de las contraseñas](http://fernand0.github.io//hash-bcrypt/) - 2023-07-17
 * [Ataques de voz a asistentes conectados](http://fernand0.github.io//descubriendo-lo-inaudible/) - 2023-06-20
 * [Buenas prácticas en criptografía](http://fernand0.github.io//buenas-practicas-criptografia/) - 2023-06-20
-* [Los niveles OSI y los posibles ataques sobre ellos](http://fernand0.github.io//el-modelo-OSI/) - 2023-06-20
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Nuestra presencia en internet y las plataformas: consejos de supervivencia](http://fernand0.blogalia.com//historias/78773) - 2023-10-16
 * [El trabajo de la Inteligencia Artificial](http://fernand0.blogalia.com//historias/78770) - 2023-10-11
 * [En el Peri&#243;dico de Arag&#243;n hablando de Ciberseguridad](http://fernand0.blogalia.com//historias/78767) - 2023-10-04
 * [Una introducci&#243;n a la ciberseguridad en Turqu&#237;a](http://fernand0.blogalia.com//historias/78764) - 2023-09-26
@@ -58,7 +59,6 @@
 * [Contenido generado por inteligencias artificiales y la web](http://fernand0.blogalia.com//historias/78757) - 2023-08-07
 * [B&#243;rrame ese disco duro...](http://fernand0.blogalia.com//historias/78752) - 2023-07-24
 * [La onda media y los coches: &#191;el principio del fin?](http://fernand0.blogalia.com//historias/78748) - 2023-07-17
-* [Una IA confiable o unos humanos con un nivel de atenci&#243;n suficiente](http://fernand0.blogalia.com//historias/78744) - 2023-07-10
 <!-- blog ends -->
 
 ### Twitter 
