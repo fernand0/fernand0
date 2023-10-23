@@ -49,6 +49,16 @@
 * [Buenas prácticas en criptografía](http://fernand0.github.io//buenas-practicas-criptografia/) - 2023-06-20
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Nuestra presencia en internet y las plataformas: consejos de supervivencia](http://fernand0.blogalia.com//historias/78773) - 2023-10-16
+* [El trabajo de la Inteligencia Artificial](http://fernand0.blogalia.com//historias/78770) - 2023-10-11
+* [En el Peri&#243;dico de Arag&#243;n hablando de Ciberseguridad](http://fernand0.blogalia.com//historias/78767) - 2023-10-04
+* [Una introducci&#243;n a la ciberseguridad en Turqu&#237;a](http://fernand0.blogalia.com//historias/78764) - 2023-09-26
+* [En el programa Objetivo de Arag&#243;n TV hablando de la seguridad de WhatsApp](http://fernand0.blogalia.com//historias/78761) - 2023-09-21
+* [X (Twitter) y las migraciones en internet](http://fernand0.blogalia.com//historias/78759) - 2023-09-05
+* [Degeneraci&#243;n de las IA por el entrenamiento con datos generados](http://fernand0.blogalia.com//historias/78758) - 2023-08-14
+* [Contenido generado por inteligencias artificiales y la web](http://fernand0.blogalia.com//historias/78757) - 2023-08-07
+* [B&#243;rrame ese disco duro...](http://fernand0.blogalia.com//historias/78752) - 2023-07-24
+* [La onda media y los coches: &#191;el principio del fin?](http://fernand0.blogalia.com//historias/78748) - 2023-07-17
 <!-- blog ends -->
 
 ### Twitter 
