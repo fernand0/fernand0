@@ -35,6 +35,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [La superficie de ataque de la Inteligencia Artificial](http://fernand0.github.io//superficie-ataque-ia/) - 2023-11-02
 * [Las vulnerabilidades y su estudio para mejorar la seguridad](http://fernand0.github.io//fallos-dia-cero/) - 2023-10-16
 * [Phishing y diplomáticos: cambiando los objetivos](http://fernand0.github.io//phishing-diplomaticos/) - 2023-10-11
 * [Las inteligencias artificiales y los desarrolladores segun McKinsey](http://fernand0.github.io//desarrolladores-ia/) - 2023-10-04
@@ -44,7 +45,6 @@
 * [ChatGPT y el phishing: no está mal](http://fernand0.github.io//chatGPT-phishing/) - 2023-07-24
 * [25 años de bcrypt y un poco de historia sobre la seguridad de las contraseñas](http://fernand0.github.io//hash-bcrypt/) - 2023-07-17
 * [Ataques de voz a asistentes conectados](http://fernand0.github.io//descubriendo-lo-inaudible/) - 2023-06-20
-* [Buenas prácticas en criptografía](http://fernand0.github.io//buenas-practicas-criptografia/) - 2023-06-20
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [En las XXII Jornadas de Informaci&#243;n sobre consumo en los municipios, hablando de criptomonedas](http://fernand0.blogalia.com//historias/78777) - 2023-10-31
