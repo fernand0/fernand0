@@ -35,18 +35,19 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Comprendiendo mejor las baterías](http://fernand0.github.io//comprender-baterias/) - 2023-11-06
 * [La superficie de ataque de la Inteligencia Artificial](http://fernand0.github.io//superficie-ataque-ia/) - 2023-11-02
 * [Las vulnerabilidades y su estudio para mejorar la seguridad](http://fernand0.github.io//fallos-dia-cero/) - 2023-10-16
 * [Phishing y diplomáticos: cambiando los objetivos](http://fernand0.github.io//phishing-diplomaticos/) - 2023-10-11
 * [Las inteligencias artificiales y los desarrolladores segun McKinsey](http://fernand0.github.io//desarrolladores-ia/) - 2023-10-04
-* [Una breve historia de los números aleatorios](http://fernand0.github.io//historia-numeros-aleatorios/) - 2023-09-05
+* [Una breve historia de los números aleatorios](http://fernand0.github.io//otra-historia-numeros-aleatorios/) - 2023-09-05
 * [Descubrimiento de secretos a partir de la iluminación de los LED](http://fernand0.github.io//leds-criptoanalisis/) - 2023-08-14
 * [ChatGPT, los plugins y el descontrol sobre nuestra información](http://fernand0.github.io//chatGPT-plugins-exfiltracion/) - 2023-08-07
 * [ChatGPT y el phishing: no está mal](http://fernand0.github.io//chatGPT-phishing/) - 2023-07-24
 * [25 años de bcrypt y un poco de historia sobre la seguridad de las contraseñas](http://fernand0.github.io//hash-bcrypt/) - 2023-07-17
-* [Ataques de voz a asistentes conectados](http://fernand0.github.io//descubriendo-lo-inaudible/) - 2023-06-20
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [La inteligencia artificial y lo que podemos aprender de los veh&#237;culos aut&#243;nomos](http://fernand0.blogalia.com//historias/78780) - 2023-11-06
 * [En las XXII Jornadas de Informaci&#243;n sobre consumo en los municipios, hablando de criptomonedas](http://fernand0.blogalia.com//historias/78777) - 2023-10-31
 * [En Arag&#243;n TV hablando de diversos ataques inform&#225;ticos](http://fernand0.blogalia.com//historias/78776) - 2023-10-31
 * [Nuestra presencia en internet y las plataformas: consejos de supervivencia](http://fernand0.blogalia.com//historias/78773) - 2023-10-16
@@ -56,7 +57,6 @@
 * [En el programa Objetivo de Arag&#243;n TV hablando de la seguridad de WhatsApp](http://fernand0.blogalia.com//historias/78761) - 2023-09-21
 * [X (Twitter) y las migraciones en internet](http://fernand0.blogalia.com//historias/78759) - 2023-09-05
 * [Degeneraci&#243;n de las IA por el entrenamiento con datos generados](http://fernand0.blogalia.com//historias/78758) - 2023-08-14
-* [Contenido generado por inteligencias artificiales y la web](http://fernand0.blogalia.com//historias/78757) - 2023-08-07
 <!-- blog ends -->
 
 ### Twitter 
