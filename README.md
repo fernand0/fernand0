@@ -24,7 +24,7 @@
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
 
 ## repositoriesContributedTo
-* [SI](https://github.com/simber72/SI),  None- 2023-11-19
+* [SI](https://github.com/simber72/SI),  None- 2023-11-20
 * [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-11-18
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-11-18
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-07-20
@@ -48,6 +48,7 @@
 * [ChatGPT y el phishing: no está mal](http://fernand0.github.io//chatGPT-phishing/) - 2023-07-24
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En Heraldo de Arag&#243;n,  hablando de blogs](http://fernand0.blogalia.com//historias/78788) - 2023-11-20
 * [En Buenos D&#237;as Arag&#243;n, de Arag&#243;n TV, hablando de vigilancia masiva en Europa](http://fernand0.blogalia.com//historias/78785) - 2023-11-16
 * [La inteligencia artificial y lo que podemos aprender de los veh&#237;culos aut&#243;nomos](http://fernand0.blogalia.com//historias/78780) - 2023-11-06
 * [En las XXII Jornadas de Informaci&#243;n sobre consumo en los municipios, hablando de criptomonedas](http://fernand0.blogalia.com//historias/78777) - 2023-10-31
@@ -57,7 +58,6 @@
 * [En el Peri&#243;dico de Arag&#243;n hablando de Ciberseguridad](http://fernand0.blogalia.com//historias/78767) - 2023-10-04
 * [Una introducci&#243;n a la ciberseguridad en Turqu&#237;a](http://fernand0.blogalia.com//historias/78764) - 2023-09-26
 * [En el programa Objetivo de Arag&#243;n TV hablando de la seguridad de WhatsApp](http://fernand0.blogalia.com//historias/78761) - 2023-09-21
-* [X (Twitter) y las migraciones en internet](http://fernand0.blogalia.com//historias/78759) - 2023-09-05
 <!-- blog ends -->
 
 ### Twitter 
