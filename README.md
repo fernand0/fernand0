@@ -36,6 +36,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Un par de informes sobre ciberseguridad del año 2022](http://fernand0.github.io//informes-2022/) - 2023-11-23
 * [La codificación de los mensajes y el phishing](http://fernand0.github.io//phishing-escritura/) - 2023-11-16
 * [Comprendiendo mejor las baterías](http://fernand0.github.io//comprender-baterias/) - 2023-11-06
 * [La superficie de ataque de la Inteligencia Artificial](http://fernand0.github.io//superficie-ataque-ia/) - 2023-11-02
@@ -45,7 +46,6 @@
 * [Una breve historia de los números aleatorios](http://fernand0.github.io//otra-historia-numeros-aleatorios/) - 2023-09-05
 * [Descubrimiento de secretos a partir de la iluminación de los LED](http://fernand0.github.io//leds-criptoanalisis/) - 2023-08-14
 * [ChatGPT, los plugins y el descontrol sobre nuestra información](http://fernand0.github.io//chatGPT-plugins-exfiltracion/) - 2023-08-07
-* [ChatGPT y el phishing: no está mal](http://fernand0.github.io//chatGPT-phishing/) - 2023-07-24
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [En Heraldo de Arag&#243;n,  hablando de blogs](http://fernand0.blogalia.com//historias/78788) - 2023-11-20
