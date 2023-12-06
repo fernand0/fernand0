@@ -36,6 +36,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [¿Un ataque sofisticado o ‘paso de contarte lo que sucedió’?](http://fernand0.github.io//ataque-sofisticado-escusa/) - 2023-12-05
 * [El phishing: los usuarios lo tienen realmente difícil](http://fernand0.github.io//las-urls-y-el-phishing/) - 2023-11-29
 * [Un par de informes sobre ciberseguridad del año 2022](http://fernand0.github.io//informes-2022/) - 2023-11-23
 * [La codificación de los mensajes y el phishing](http://fernand0.github.io//phishing-escritura/) - 2023-11-16
@@ -45,9 +46,9 @@
 * [Phishing y diplomáticos: cambiando los objetivos](http://fernand0.github.io//phishing-diplomaticos/) - 2023-10-11
 * [Las inteligencias artificiales y los desarrolladores segun McKinsey](http://fernand0.github.io//desarrolladores-ia/) - 2023-10-04
 * [Una breve historia de los números aleatorios](http://fernand0.github.io//otra-historia-numeros-aleatorios/) - 2023-09-05
-* [Descubrimiento de secretos a partir de la iluminación de los LED](http://fernand0.github.io//leds-criptoanalisis/) - 2023-08-14
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En el encuentro de expertos para debatir sobre nuevos perfiles profesionales](http://fernand0.blogalia.com//historias/78793) - 2023-12-05
 * [En Buenos D&#237;as Arag&#243;n, hablando de lo (poqu&#237;simo) que sabemos sobre los incidentes de Redsys](http://fernand0.blogalia.com//historias/78791) - 2023-11-29
 * [En Heraldo de Arag&#243;n,  hablando de blogs](http://fernand0.blogalia.com//historias/78788) - 2023-11-20
 * [En Buenos D&#237;as Arag&#243;n, de Arag&#243;n TV, hablando de vigilancia masiva en Europa](http://fernand0.blogalia.com//historias/78785) - 2023-11-16
@@ -57,7 +58,6 @@
 * [Nuestra presencia en internet y las plataformas: consejos de supervivencia](http://fernand0.blogalia.com//historias/78773) - 2023-10-16
 * [El trabajo de la Inteligencia Artificial](http://fernand0.blogalia.com//historias/78770) - 2023-10-11
 * [En el Peri&#243;dico de Arag&#243;n hablando de Ciberseguridad](http://fernand0.blogalia.com//historias/78767) - 2023-10-04
-* [Una introducci&#243;n a la ciberseguridad en Turqu&#237;a](http://fernand0.blogalia.com//historias/78764) - 2023-09-26
 <!-- blog ends -->
 
 ### Twitter 
