@@ -36,6 +36,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Lo que todo programador debería saber sobre la memoria](http://fernand0.github.io//programadores-memoria/) - 2023-12-21
 * [Seguridad de las contraseñas: los sitios y lo que se sabe](http://fernand0.github.io//politicas-seguridad/) - 2023-12-13
 * [¿Un ataque sofisticado o ‘paso de contarte lo que sucedió’?](http://fernand0.github.io//ataque-sofisticado-escusa/) - 2023-12-05
 * [El phishing: los usuarios lo tienen realmente difícil](http://fernand0.github.io//las-urls-y-el-phishing/) - 2023-11-29
@@ -45,9 +46,9 @@
 * [La superficie de ataque de la Inteligencia Artificial](http://fernand0.github.io//superficie-ataque-ia/) - 2023-11-02
 * [Las vulnerabilidades y su estudio para mejorar la seguridad](http://fernand0.github.io//fallos-dia-cero/) - 2023-10-16
 * [Phishing y diplomáticos: cambiando los objetivos](http://fernand0.github.io//phishing-diplomaticos/) - 2023-10-11
-* [Las inteligencias artificiales y los desarrolladores segun McKinsey](http://fernand0.github.io//desarrolladores-ia/) - 2023-10-04
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En Charletas, hablando de nativos digitales y uso de la tecnolog&#237;a](http://fernand0.blogalia.com//historias/78798) - 2023-12-21
 * [En Despierta Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78796) - 2023-12-13
 * [En el encuentro de expertos para debatir sobre nuevos perfiles profesionales](http://fernand0.blogalia.com//historias/78793) - 2023-12-05
 * [En Buenos D&#237;as Arag&#243;n, hablando de lo (poqu&#237;simo) que sabemos sobre los incidentes de Redsys](http://fernand0.blogalia.com//historias/78791) - 2023-11-29
@@ -57,7 +58,6 @@
 * [En las XXII Jornadas de Informaci&#243;n sobre consumo en los municipios, hablando de criptomonedas](http://fernand0.blogalia.com//historias/78777) - 2023-10-31
 * [En Arag&#243;n TV hablando de diversos ataques inform&#225;ticos](http://fernand0.blogalia.com//historias/78776) - 2023-10-31
 * [Nuestra presencia en internet y las plataformas: consejos de supervivencia](http://fernand0.blogalia.com//historias/78773) - 2023-10-16
-* [El trabajo de la Inteligencia Artificial](http://fernand0.blogalia.com//historias/78770) - 2023-10-11
 <!-- blog ends -->
 
 ### Twitter 
