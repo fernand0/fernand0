@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2023-12-28
+* [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2023-12-29
 * [packaging.python.org](https://github.com/fernand0/packaging.python.org),  Python Packaging User Guide- 2023-12-23
 * [linkedin-api-python-client](https://github.com/fernand0/linkedin-api-python-client),  Official Python client library for LinkedIn APIs- 2023-06-29
 * [python-linkedin-v2](https://github.com/fernand0/python-linkedin-v2),  Python interface to the LinkedIn API - V2- 2023-06-21
