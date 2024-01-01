@@ -24,7 +24,7 @@
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
 
 ## repositoriesContributedTo
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-12-18
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-12-31
 * [SI](https://github.com/simber72/SI),  None- 2023-12-10
 * [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-11-18
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-07-20
@@ -48,6 +48,7 @@
 * [Phishing y diplomáticos: cambiando los objetivos](http://fernand0.github.io//phishing-diplomaticos/) - 2023-10-11
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Resumen de 2023.](http://fernand0.blogalia.com//historias/78799) - 2023-12-31
 * [En Charletas, hablando de nativos digitales y uso de la tecnolog&#237;a](http://fernand0.blogalia.com//historias/78798) - 2023-12-21
 * [En Despierta Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78796) - 2023-12-13
 * [En el encuentro de expertos para debatir sobre nuevos perfiles profesionales](http://fernand0.blogalia.com//historias/78793) - 2023-12-05
@@ -57,7 +58,6 @@
 * [La inteligencia artificial y lo que podemos aprender de los veh&#237;culos aut&#243;nomos](http://fernand0.blogalia.com//historias/78780) - 2023-11-06
 * [En las XXII Jornadas de Informaci&#243;n sobre consumo en los municipios, hablando de criptomonedas](http://fernand0.blogalia.com//historias/78777) - 2023-10-31
 * [En Arag&#243;n TV hablando de diversos ataques inform&#225;ticos](http://fernand0.blogalia.com//historias/78776) - 2023-10-31
-* [Nuestra presencia en internet y las plataformas: consejos de supervivencia](http://fernand0.blogalia.com//historias/78773) - 2023-10-16
 <!-- blog ends -->
 
 ### Twitter 
