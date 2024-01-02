@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2023-12-29
+* [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-01-01
 * [packaging.python.org](https://github.com/fernand0/packaging.python.org),  Python Packaging User Guide- 2023-12-23
 * [linkedin-api-python-client](https://github.com/fernand0/linkedin-api-python-client),  Official Python client library for LinkedIn APIs- 2023-06-29
 * [python-linkedin-v2](https://github.com/fernand0/python-linkedin-v2),  Python interface to the LinkedIn API - V2- 2023-06-21
@@ -24,7 +24,7 @@
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
 
 ## repositoriesContributedTo
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2023-12-31
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2024-01-01
 * [SI](https://github.com/simber72/SI),  None- 2023-12-10
 * [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-11-18
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2023-07-20
