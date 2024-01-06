@@ -24,7 +24,7 @@
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
 
 ## repositoriesContributedTo
-* [sieve](https://github.com/thsmi/sieve),  Sieve Script Editor- 2024-01-04
+* [sieve](https://github.com/thsmi/sieve),  Sieve Script Editor- 2024-01-05
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2024-01-01
 * [SI](https://github.com/simber72/SI),  None- 2023-12-10
 * [Mastodon.py](https://github.com/halcy/Mastodon.py),  Python wrapper for the Mastodon ( https://github.com/mastodon/mastodon/ ) API.- 2023-11-18
@@ -49,6 +49,7 @@
 * [Las vulnerabilidades y su estudio para mejorar la seguridad](http://fernand0.github.io//fallos-dia-cero/) - 2023-10-16
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En las Noticias de Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78801) - 2024-01-05
 * [&#191;Nos destruir&#225; la inteligencia artificial?](http://fernand0.blogalia.com//historias/78800) - 2024-01-02
 * [Resumen de 2023.](http://fernand0.blogalia.com//historias/78799) - 2023-12-31
 * [En Charletas, hablando de nativos digitales y uso de la tecnolog&#237;a](http://fernand0.blogalia.com//historias/78798) - 2023-12-21
@@ -58,7 +59,6 @@
 * [En Heraldo de Arag&#243;n,  hablando de blogs](http://fernand0.blogalia.com//historias/78788) - 2023-11-20
 * [En Buenos D&#237;as Arag&#243;n, de Arag&#243;n TV, hablando de vigilancia masiva en Europa](http://fernand0.blogalia.com//historias/78785) - 2023-11-16
 * [La inteligencia artificial y lo que podemos aprender de los veh&#237;culos aut&#243;nomos](http://fernand0.blogalia.com//historias/78780) - 2023-11-06
-* [En las XXII Jornadas de Informaci&#243;n sobre consumo en los municipios, hablando de criptomonedas](http://fernand0.blogalia.com//historias/78777) - 2023-10-31
 <!-- blog ends -->
 
 ### Twitter 
