@@ -37,6 +37,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Un ataque para viajar todo lo que se quiera en el metro de Boston](http://fernand0.github.io//metro-boston-viajes-gratis/) - 2024-01-11
 * [Vale la pena optimizar en el momento adecuado](http://fernand0.github.io//alphadev-ia-programacion/) - 2024-01-02
 * [Lo que todo programador debería saber sobre la memoria](http://fernand0.github.io//programadores-memoria/) - 2023-12-21
 * [Seguridad de las contraseñas: los sitios y lo que se sabe](http://fernand0.github.io//politicas-seguridad/) - 2023-12-13
@@ -46,9 +47,9 @@
 * [La codificación de los mensajes y el phishing](http://fernand0.github.io//phishing-escritura/) - 2023-11-16
 * [Comprendiendo mejor las baterías](http://fernand0.github.io//comprender-baterias/) - 2023-11-06
 * [La superficie de ataque de la Inteligencia Artificial](http://fernand0.github.io//superficie-ataque-ia/) - 2023-11-02
-* [Las vulnerabilidades y su estudio para mejorar la seguridad](http://fernand0.github.io//fallos-dia-cero/) - 2023-10-16
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [El no tan lento declive de las licencias libres](http://fernand0.blogalia.com//historias/78804) - 2024-01-11
 * [En las Noticias de Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78801) - 2024-01-05
 * [&#191;Nos destruir&#225; la inteligencia artificial?](http://fernand0.blogalia.com//historias/78800) - 2024-01-02
 * [Resumen de 2023.](http://fernand0.blogalia.com//historias/78799) - 2023-12-31
@@ -58,7 +59,6 @@
 * [En Buenos D&#237;as Arag&#243;n, hablando de lo (poqu&#237;simo) que sabemos sobre los incidentes de Redsys](http://fernand0.blogalia.com//historias/78791) - 2023-11-29
 * [En Heraldo de Arag&#243;n,  hablando de blogs](http://fernand0.blogalia.com//historias/78788) - 2023-11-20
 * [En Buenos D&#237;as Arag&#243;n, de Arag&#243;n TV, hablando de vigilancia masiva en Europa](http://fernand0.blogalia.com//historias/78785) - 2023-11-16
-* [La inteligencia artificial y lo que podemos aprender de los veh&#237;culos aut&#243;nomos](http://fernand0.blogalia.com//historias/78780) - 2023-11-06
 <!-- blog ends -->
 
 ### Twitter 
