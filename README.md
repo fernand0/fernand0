@@ -12,13 +12,13 @@
 
 
 ## repositories
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-01-13
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-01-07
 * [sieve](https://github.com/fernand0/sieve),  Sieve Script Editor- 2024-01-04
 * [packaging.python.org](https://github.com/fernand0/packaging.python.org),  Python Packaging User Guide- 2023-12-23
 * [linkedin-api-python-client](https://github.com/fernand0/linkedin-api-python-client),  Official Python client library for LinkedIn APIs- 2023-06-29
 * [python-linkedin-v2](https://github.com/fernand0/python-linkedin-v2),  Python interface to the LinkedIn API - V2- 2023-06-21
 * [GitterPy](https://github.com/fernand0/GitterPy),  Python interface for the Gitter API- 2021-12-27
-* [minutes-of-meeting-markdown](https://github.com/fernand0/minutes-of-meeting-markdown),  This is a general markdown template of minutes of meeting useful to help you get started quickly- 2021-03-18
 * [err-home](https://github.com/fernand0/err-home),  Some commands to manage some home devices.- 2021-02-11
 * [err-sensors](https://github.com/fernand0/err-sensors),  Show the results of reading sensors attached to my Raspberry Pi.- 2021-01-29
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
