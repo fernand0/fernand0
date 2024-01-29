@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-01-28
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-01-29
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-01-17
 * [sieve](https://github.com/fernand0/sieve),  Sieve Script Editor- 2024-01-04
 * [packaging.python.org](https://github.com/fernand0/packaging.python.org),  Python Packaging User Guide- 2023-12-23
@@ -50,6 +50,7 @@
 * [La superficie de ataque de la Inteligencia Artificial](http://fernand0.github.io//superficie-ataque-ia/) - 2023-11-02
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [22](http://fernand0.blogalia.com//historias/78812) - 2024-01-28
 * [El no tan lento declive de las licencias libres](http://fernand0.blogalia.com//historias/78804) - 2024-01-11
 * [En las Noticias de Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78801) - 2024-01-05
 * [&#191;Nos destruir&#225; la inteligencia artificial?](http://fernand0.blogalia.com//historias/78800) - 2024-01-02
@@ -59,7 +60,6 @@
 * [En el encuentro de expertos para debatir sobre nuevos perfiles profesionales](http://fernand0.blogalia.com//historias/78793) - 2023-12-05
 * [En Buenos D&#237;as Arag&#243;n, hablando de lo (poqu&#237;simo) que sabemos sobre los incidentes de Redsys](http://fernand0.blogalia.com//historias/78791) - 2023-11-29
 * [En Heraldo de Arag&#243;n,  hablando de blogs](http://fernand0.blogalia.com//historias/78788) - 2023-11-20
-* [En Buenos D&#237;as Arag&#243;n, de Arag&#243;n TV, hablando de vigilancia masiva en Europa](http://fernand0.blogalia.com//historias/78785) - 2023-11-16
 <!-- blog ends -->
 
 ### Twitter 
