@@ -12,7 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-02-01
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-02-02
+* [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2024-02-01
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-01-17
 * [sieve](https://github.com/fernand0/sieve),  Sieve Script Editor- 2024-01-04
 * [packaging.python.org](https://github.com/fernand0/packaging.python.org),  Python Packaging User Guide- 2023-12-23
@@ -20,15 +21,15 @@
 * [python-linkedin-v2](https://github.com/fernand0/python-linkedin-v2),  Python interface to the LinkedIn API - V2- 2023-06-21
 * [GitterPy](https://github.com/fernand0/GitterPy),  Python interface for the Gitter API- 2021-12-27
 * [err-home](https://github.com/fernand0/err-home),  Some commands to manage some home devices.- 2021-02-11
-* [err-sensors](https://github.com/fernand0/err-sensors),  Show the results of reading sensors attached to my Raspberry Pi.- 2021-01-29
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
 
 ## repositoriesContributedTo
-* [AB](https://github.com/simber72/AB),  None- 2024-01-31
+* [AB](https://github.com/simber72/AB),  None- 2024-02-01
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2024-01-30
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2024-01-22
 * [SI](https://github.com/simber72/SI),  None- 2024-01-20
 * [sieve](https://github.com/thsmi/sieve),  Sieve Script Editor- 2024-01-06
+* [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2021-02-03
 <!-- recent_releases ends -->
 
 # On my blog (in Spanish)
@@ -37,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Ciberseguridad, cumplimiento y gestión de recursos](http://fernand0.github.io//cumplimiento-ciberseguridad/) - 2024-02-01
 * [Un ataque para viajar todo lo que se quiera en el metro de Boston](http://fernand0.github.io//metro-boston-viajes-gratis/) - 2024-01-11
 * [Vale la pena optimizar en el momento adecuado](http://fernand0.github.io//alphadev-ia-programacion/) - 2024-01-02
 * [Lo que todo programador debería saber sobre la memoria](http://fernand0.github.io//programadores-memoria/) - 2023-12-21
@@ -46,9 +48,9 @@
 * [Un par de informes sobre ciberseguridad del año 2022](http://fernand0.github.io//informes-2022/) - 2023-11-23
 * [La codificación de los mensajes y el phishing](http://fernand0.github.io//phishing-escritura/) - 2023-11-16
 * [Comprendiendo mejor las baterías](http://fernand0.github.io//comprender-baterias/) - 2023-11-06
-* [La superficie de ataque de la Inteligencia Artificial](http://fernand0.github.io//superficie-ataque-ia/) - 2023-11-02
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Los j&#243;venes, los algoritmos: siempre habr&#225; trucos.](http://fernand0.blogalia.com//historias/78815) - 2024-02-01
 * [22](http://fernand0.blogalia.com//historias/78812) - 2024-01-28
 * [El no tan lento declive de las licencias libres](http://fernand0.blogalia.com//historias/78804) - 2024-01-11
 * [En las Noticias de Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78801) - 2024-01-05
@@ -58,7 +60,6 @@
 * [En Despierta Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78796) - 2023-12-13
 * [En el encuentro de expertos para debatir sobre nuevos perfiles profesionales](http://fernand0.blogalia.com//historias/78793) - 2023-12-05
 * [En Buenos D&#237;as Arag&#243;n, hablando de lo (poqu&#237;simo) que sabemos sobre los incidentes de Redsys](http://fernand0.blogalia.com//historias/78791) - 2023-11-29
-* [En Heraldo de Arag&#243;n,  hablando de blogs](http://fernand0.blogalia.com//historias/78788) - 2023-11-20
 <!-- blog ends -->
 
 ### Twitter 
