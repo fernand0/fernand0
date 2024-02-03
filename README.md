@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-02-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-02-03
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2024-02-01
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-01-17
 * [sieve](https://github.com/fernand0/sieve),  Sieve Script Editor- 2024-01-04
@@ -24,7 +24,7 @@
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2019-12-09
 
 ## repositoriesContributedTo
-* [AB](https://github.com/simber72/AB),  None- 2024-02-01
+* [AB](https://github.com/simber72/AB),  None- 2024-02-02
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2024-01-30
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2024-01-22
 * [SI](https://github.com/simber72/SI),  None- 2024-01-20
@@ -50,6 +50,7 @@
 * [Comprendiendo mejor las baterías](http://fernand0.github.io//comprender-baterias/) - 2023-11-06
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En Radio Zaragoza hablando de phishing](http://fernand0.blogalia.com//historias/78816) - 2024-02-02
 * [Los j&#243;venes, los algoritmos: siempre habr&#225; trucos.](http://fernand0.blogalia.com//historias/78815) - 2024-02-01
 * [22](http://fernand0.blogalia.com//historias/78812) - 2024-01-28
 * [El no tan lento declive de las licencias libres](http://fernand0.blogalia.com//historias/78804) - 2024-01-11
@@ -59,7 +60,6 @@
 * [En Charletas, hablando de nativos digitales y uso de la tecnolog&#237;a](http://fernand0.blogalia.com//historias/78798) - 2023-12-21
 * [En Despierta Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78796) - 2023-12-13
 * [En el encuentro de expertos para debatir sobre nuevos perfiles profesionales](http://fernand0.blogalia.com//historias/78793) - 2023-12-05
-* [En Buenos D&#237;as Arag&#243;n, hablando de lo (poqu&#237;simo) que sabemos sobre los incidentes de Redsys](http://fernand0.blogalia.com//historias/78791) - 2023-11-29
 <!-- blog ends -->
 
 ### Twitter 
