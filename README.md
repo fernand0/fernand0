@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-03-01
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-03-02
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-02-11
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2024-02-01
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-01-17
@@ -24,7 +24,7 @@
 * [erlEA](https://github.com/fernand0/erlEA),  None- 2013-03-18
 
 ## repositoriesContributedTo
-* [AB](https://github.com/simber72/AB),  None- 2024-02-29
+* [AB](https://github.com/simber72/AB),  None- 2024-03-01
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2024-02-29
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2024-01-30
 * [SI](https://github.com/simber72/SI),  None- 2024-01-20
@@ -50,6 +50,7 @@
 * [La codificación de los mensajes y el phishing](http://fernand0.github.io//phishing-escritura/) - 2023-11-16
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
 * [En Conexi&#243;n Arag&#243;n hablando sobre contrase&#241;as](http://fernand0.blogalia.com//historias/78823) - 2024-02-16
 * [En SER Huesca hablando sobre el curso de Ciberseguridad en la Nube](http://fernand0.blogalia.com//historias/78822) - 2024-02-16
 * [En Radio Zaragoza hablando de phishing](http://fernand0.blogalia.com//historias/78816) - 2024-02-02
@@ -59,7 +60,6 @@
 * [En las Noticias de Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78801) - 2024-01-05
 * [&#191;Nos destruir&#225; la inteligencia artificial?](http://fernand0.blogalia.com//historias/78800) - 2024-01-02
 * [Resumen de 2023.](http://fernand0.blogalia.com//historias/78799) - 2023-12-31
-* [En Charletas, hablando de nativos digitales y uso de la tecnolog&#237;a](http://fernand0.blogalia.com//historias/78798) - 2023-12-21
 <!-- blog ends -->
 
 ### Twitter 
