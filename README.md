@@ -12,7 +12,7 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-03-19
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-03-20
 * [blog-emei](https://github.com/fernand0/blog-emei),  A content-first, sliding sidebar theme for Jekyll.- 2024-03-11
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-02-11
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2024-02-01
@@ -24,9 +24,9 @@
 * [erlEA](https://github.com/fernand0/erlEA),  None- 2013-03-18
 
 ## repositoriesContributedTo
+* [AB](https://github.com/simber72/AB),  None- 2024-03-19
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2024-03-18
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2024-03-18
-* [AB](https://github.com/simber72/AB),  None- 2024-03-13
 * [SI](https://github.com/simber72/SI),  None- 2024-01-20
 * [sieve](https://github.com/thsmi/sieve),  Sieve Script Editor- 2024-01-06
 * [err-backend-gitter](https://github.com/errbotio/err-backend-gitter),  gitter.im backend for err- 2021-02-03
@@ -38,6 +38,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [En el congreso Industria 4.0 hablando de Ciberseguridad Industrial](http://fernand0.github.io//congreso-industria-40/) - 2024-03-19
 * [XS-Leaks. XSS para extraer información sobre los usuarios](http://fernand0.github.io//fugas-cruzadas-datos/) - 2024-03-11
 * [Seguridad, facilidad de uso y pensar en las personas](http://fernand0.github.io//ciberseguridad-usabilidad-economia/) - 2024-03-04
 * [Generación de paquetes Android, seguridad y tranquilidad](http://fernand0.github.io//f-droid/) - 2024-02-11
@@ -47,7 +48,6 @@
 * [Lo que todo programador debería saber sobre la memoria](http://fernand0.github.io//programadores-memoria/) - 2023-12-21
 * [Seguridad de las contraseñas: los sitios y lo que se sabe](http://fernand0.github.io//politicas-seguridad/) - 2023-12-13
 * [¿Un ataque sofisticado o ‘paso de contarte lo que sucedió’?](http://fernand0.github.io//ataque-sofisticado-escusa/) - 2023-12-05
-* [El phishing: los usuarios lo tienen realmente difícil](http://fernand0.github.io//las-urls-y-el-phishing/) - 2023-11-29
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 <!-- blog ends -->
