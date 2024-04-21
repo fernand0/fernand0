@@ -12,14 +12,14 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-04-20
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-04-21
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-04-20
 * [blog-emei](https://github.com/fernand0/blog-emei),  A content-first, sliding sidebar theme for Jekyll.- 2024-03-25
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-02-11
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2024-02-01
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-01-17
 * [sieve](https://github.com/fernand0/sieve),  Sieve Script Editor- 2024-01-04
 * [packaging.python.org](https://github.com/fernand0/packaging.python.org),  Python Packaging User Guide- 2023-12-23
-* [linkedin-api-python-client](https://github.com/fernand0/linkedin-api-python-client),  Official Python client library for LinkedIn APIs- 2023-06-29
 * [GitterPy](https://github.com/fernand0/GitterPy),  Python interface for the Gitter API- 2021-12-27
 * [erlEA](https://github.com/fernand0/erlEA),  None- 2013-03-18
 
