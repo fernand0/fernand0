@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-05-02
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-05-01
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-05-03
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-05-02
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2024-04-29
 * [blog-emei](https://github.com/fernand0/blog-emei),  A content-first, sliding sidebar theme for Jekyll.- 2024-03-25
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-02-11
@@ -24,8 +24,8 @@
 * [erlEA](https://github.com/fernand0/erlEA),  None- 2013-03-18
 
 ## repositoriesContributedTo
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2024-05-02
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2024-04-29
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2024-04-29
 * [AB](https://github.com/simber72/AB),  None- 2024-04-28
 * [scripts-autoevaluacion](https://github.com/ricardojrdez/scripts-autoevaluacion),  Scripts para autoevaluación (prácticas EINA)- 2024-03-21
 * [SI](https://github.com/simber72/SI),  None- 2024-01-20
