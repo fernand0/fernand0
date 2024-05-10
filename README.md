@@ -12,14 +12,14 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-05-09
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-05-08
-* [blog-emei](https://github.com/fernand0/blog-emei),  A content-first, sliding sidebar theme for Jekyll.- 2024-05-03
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-05-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-05-10
+* [blog-emei](https://github.com/fernand0/blog-emei),  A content-first, sliding sidebar theme for Jekyll.- 2024-05-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-05-09
+* [upodder](https://github.com/fernand0/upodder),  simple console/terminal podcast downloader- 2024-05-09
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-05-09
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2024-04-29
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-02-11
 * [err-backend-discord](https://github.com/fernand0/err-backend-discord),  Backend for Discord for Errbot - 2024-02-01
-* [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-01-17
 * [sieve](https://github.com/fernand0/sieve),  Sieve Script Editor- 2024-01-04
 * [erlEA](https://github.com/fernand0/erlEA),  None- 2013-03-18
 
@@ -39,6 +39,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Algunas ideas sobre seguridad en Flask](http://fernand0.github.io//proteger-aplicaciones-flask/) - 2024-05-09
 * [Operación triangulación: un ataque con información detallada](http://fernand0.github.io//operacion-triangulacion/) - 2024-05-03
 * [Cadenas de bloques, contratos inteligentes y difusión de programas maliciosos](http://fernand0.github.io//contratos-inteligentes-malware/) - 2024-03-25
 * [En el congreso Industria 4.0 hablando de Ciberseguridad Industrial](http://fernand0.github.io//congreso-industria-40/) - 2024-03-19
@@ -48,7 +49,6 @@
 * [Ciberseguridad, cumplimiento y gestión de recursos](http://fernand0.github.io//cumplimiento-ciberseguridad/) - 2024-02-01
 * [Un ataque para viajar todo lo que se quiera en el metro de Boston](http://fernand0.github.io//metro-boston-viajes-gratis/) - 2024-01-11
 * [Vale la pena optimizar en el momento adecuado](http://fernand0.github.io//alphadev-ia-programacion/) - 2024-01-02
-* [Lo que todo programador debería saber sobre la memoria](http://fernand0.github.io//programadores-memoria/) - 2023-12-21
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 <!-- blog ends -->
