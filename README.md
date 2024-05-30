@@ -12,8 +12,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-05-29
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-05-28
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-05-30
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-05-29
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2024-05-26
 * [blog-emei](https://github.com/fernand0/blog-emei),  A content-first, sliding sidebar theme for Jekyll.- 2024-05-20
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-05-20
@@ -24,7 +24,7 @@
 * [erlEA](https://github.com/fernand0/erlEA),  None- 2013-03-18
 
 ## repositoriesContributedTo
-* [AB](https://github.com/simber72/AB),  None- 2024-05-27
+* [AB](https://github.com/simber72/AB),  None- 2024-05-29
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2024-05-24
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2024-05-20
 * [opensky-api](https://github.com/openskynetwork/opensky-api),  Python and Java bindings for the OpenSky Network REST API- 2024-05-18
