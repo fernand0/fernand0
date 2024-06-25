@@ -12,11 +12,11 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-06-24
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-06-23
-* [blog-emei](https://github.com/fernand0/blog-emei),  A content-first, sliding sidebar theme for Jekyll.- 2024-06-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-06-25
+* [blog-emei](https://github.com/fernand0/blog-emei),  A content-first, sliding sidebar theme for Jekyll.- 2024-06-24
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-06-24
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-06-24
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2024-05-26
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-05-20
 * [opensky-api](https://github.com/fernand0/opensky-api),  Python and Java bindings for the OpenSky Network REST API- 2024-05-18
 * [upodder](https://github.com/fernand0/upodder),  simple console/terminal podcast downloader- 2024-05-09
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-02-11
@@ -24,7 +24,7 @@
 * [erlEA](https://github.com/fernand0/erlEA),  None- 2013-03-18
 
 ## repositoriesContributedTo
-* [AB](https://github.com/simber72/AB),  None- 2024-06-23
+* [AB](https://github.com/simber72/AB),  None- 2024-06-24
 * [SI](https://github.com/simber72/SI),  None- 2024-06-08
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2024-06-03
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2024-05-20
@@ -40,6 +40,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Las limitaciones de los analizadores de código para la seguridad](http://fernand0.github.io//analisis-web-herramientas-manual/) - 2024-06-24
 * [Un método sencillo de generación de números seudoaleatorios](http://fernand0.github.io//generador-numeros-aleatorios-cerebro/) - 2024-05-20
 * [Algunas ideas sobre seguridad en Flask](http://fernand0.github.io//proteger-aplicaciones-flask/) - 2024-05-09
 * [Operación triangulación: un ataque con información detallada](http://fernand0.github.io//operacion-triangulacion/) - 2024-05-03
@@ -49,7 +50,6 @@
 * [Seguridad, facilidad de uso y pensar en las personas](http://fernand0.github.io//ciberseguridad-usabilidad-economia/) - 2024-03-04
 * [Generación de paquetes Android, seguridad y tranquilidad](http://fernand0.github.io//f-droid/) - 2024-02-11
 * [Ciberseguridad, cumplimiento y gestión de recursos](http://fernand0.github.io//cumplimiento-ciberseguridad/) - 2024-02-01
-* [Un ataque para viajar todo lo que se quiera en el metro de Boston](http://fernand0.github.io//metro-boston-viajes-gratis/) - 2024-01-11
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 <!-- blog ends -->
