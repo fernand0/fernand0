@@ -12,14 +12,14 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-07-29
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-07-28
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-07-30
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-07-29
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-07-29
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2024-07-27
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2024-07-26
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-07-24
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2024-07-23
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2024-07-15
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-06-24
 * [opensky-api](https://github.com/fernand0/opensky-api),  Python and Java bindings for the OpenSky Network REST API- 2024-05-18
 * [AENA_Info_Vuelos](https://github.com/fernand0/AENA_Info_Vuelos),  None- 2018-11-19
 
@@ -40,6 +40,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Algunas ideas sobre problemas de seguridad habituales en WordPress](http://fernand0.github.io//wordpress-problemas-frecuentes-seguridad/) - 2024-07-29
 * [Las limitaciones de los analizadores de código para la seguridad](http://fernand0.github.io//analisis-web-herramientas-manual/) - 2024-06-24
 * [Un método sencillo de generación de números seudoaleatorios](http://fernand0.github.io//generador-numeros-aleatorios-cerebro/) - 2024-05-20
 * [Algunas ideas sobre seguridad en Flask](http://fernand0.github.io//proteger-aplicaciones-flask/) - 2024-05-09
@@ -49,7 +50,6 @@
 * [XS-Leaks. XSS para extraer información sobre los usuarios](http://fernand0.github.io//fugas-cruzadas-datos/) - 2024-03-11
 * [Seguridad, facilidad de uso y pensar en las personas](http://fernand0.github.io//ciberseguridad-usabilidad-economia/) - 2024-03-04
 * [Generación de paquetes Android, seguridad y tranquilidad](http://fernand0.github.io//f-droid/) - 2024-02-11
-* [Ciberseguridad, cumplimiento y gestión de recursos](http://fernand0.github.io//cumplimiento-ciberseguridad/) - 2024-02-01
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
