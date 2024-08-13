@@ -12,11 +12,11 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-08-12
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-08-11
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2024-08-11
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-08-13
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-08-12
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2024-08-12
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-08-12
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2024-08-08
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-08-05
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-07-24
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2024-07-23
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2024-07-15
@@ -40,8 +40,9 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Los protocolos de la web explicados](http://fernand0.github.io//protocolo-http-evoluciones/) - 2024-08-12
+* [Las amenazas en los tiempos de la IA](http://fernand0.github.io//amenazas-tiempos-IA/) - 2024-08-05
 * [Algunas ideas sobre problemas de seguridad habituales en WordPress](http://fernand0.github.io//wordpress-problemas-frecuentes-seguridad/) - 2024-07-29
-* [Las amenazas en los tiempos de la IA](http://fernand0.github.io//amenazas-tiempos-IA/) - 2024-07-29
 * [Las limitaciones de los analizadores de código para la seguridad](http://fernand0.github.io//analisis-web-herramientas-manual/) - 2024-06-24
 * [Un método sencillo de generación de números seudoaleatorios](http://fernand0.github.io//generador-numeros-aleatorios-cerebro/) - 2024-05-20
 * [Algunas ideas sobre seguridad en Flask](http://fernand0.github.io//proteger-aplicaciones-flask/) - 2024-05-09
@@ -49,7 +50,6 @@
 * [Cadenas de bloques, contratos inteligentes y difusión de programas maliciosos](http://fernand0.github.io//contratos-inteligentes-malware/) - 2024-03-25
 * [En el congreso Industria 4.0 hablando de Ciberseguridad Industrial](http://fernand0.github.io//congreso-industria-40/) - 2024-03-19
 * [XS-Leaks. XSS para extraer información sobre los usuarios](http://fernand0.github.io//fugas-cruzadas-datos/) - 2024-03-11
-* [Seguridad, facilidad de uso y pensar en las personas](http://fernand0.github.io//ciberseguridad-usabilidad-economia/) - 2024-03-04
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
