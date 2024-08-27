@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-08-26
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2024-08-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-08-25
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-08-20
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-08-27
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2024-08-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-08-26
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-08-26
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2024-08-08
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-07-24
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2024-07-23
@@ -40,6 +40,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Operaciones modulares y sesgos en la aleatoriedad](http://fernand0.github.io//modulo-sesgo/) - 2024-08-26
 * [Los peligros del correo con HTML y CSS](http://fernand0.github.io//html-email-peligroso/) - 2024-08-20
 * [Los protocolos de la web explicados](http://fernand0.github.io//protocolo-http-evoluciones/) - 2024-08-12
 * [Las amenazas en los tiempos de la IA](http://fernand0.github.io//amenazas-tiempos-IA/) - 2024-08-05
@@ -49,7 +50,6 @@
 * [Algunas ideas sobre seguridad en Flask](http://fernand0.github.io//proteger-aplicaciones-flask/) - 2024-05-09
 * [Operación triangulación: un ataque con información detallada](http://fernand0.github.io//operacion-triangulacion/) - 2024-05-03
 * [Cadenas de bloques, contratos inteligentes y difusión de programas maliciosos](http://fernand0.github.io//contratos-inteligentes-malware/) - 2024-03-25
-* [En el congreso Industria 4.0 hablando de Ciberseguridad Industrial](http://fernand0.github.io//congreso-industria-40/) - 2024-03-19
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
