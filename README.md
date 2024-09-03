@@ -12,20 +12,20 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-09-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-09-03
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-09-02
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-09-02
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2024-09-01
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-09-01
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2024-09-01
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2024-08-31
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-08-26
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-07-24
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2024-07-15
 * [opensky-api](https://github.com/fernand0/opensky-api),  Python and Java bindings for the OpenSky Network REST API- 2024-05-18
 * [AENA_Info_Vuelos](https://github.com/fernand0/AENA_Info_Vuelos),  None- 2018-11-19
 
 ## repositoriesContributedTo
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2024-09-01
-* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2024-07-15
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2024-09-03
+* [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2024-09-02
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2024-07-15
 * [AB](https://github.com/simber72/AB),  None- 2024-06-24
 * [SI](https://github.com/simber72/SI),  None- 2024-06-08
@@ -41,6 +41,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Interesante visualización de contraseñas frecuentes](http://fernand0.github.io//500-claves-mas-habituales/) - 2024-09-02
 * [Operaciones modulares y sesgos en la aleatoriedad](http://fernand0.github.io//modulo-sesgo/) - 2024-08-26
 * [Los peligros del correo con HTML y CSS](http://fernand0.github.io//html-email-peligroso/) - 2024-08-20
 * [Los protocolos de la web explicados](http://fernand0.github.io//protocolo-http-evoluciones/) - 2024-08-12
@@ -50,7 +51,6 @@
 * [Un método sencillo de generación de números seudoaleatorios](http://fernand0.github.io//generador-numeros-aleatorios-cerebro/) - 2024-05-20
 * [Algunas ideas sobre seguridad en Flask](http://fernand0.github.io//proteger-aplicaciones-flask/) - 2024-05-09
 * [Operación triangulación: un ataque con información detallada](http://fernand0.github.io//operacion-triangulacion/) - 2024-05-03
-* [Cadenas de bloques, contratos inteligentes y difusión de programas maliciosos](http://fernand0.github.io//contratos-inteligentes-malware/) - 2024-03-25
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
