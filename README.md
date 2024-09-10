@@ -12,16 +12,16 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-09-09
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-09-08
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-09-08
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-09-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-09-10
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-09-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-09-09
+* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-09-09
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-09-09
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2024-09-01
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2024-09-01
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2024-08-31
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-07-24
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2024-07-15
-* [opensky-api](https://github.com/fernand0/opensky-api),  Python and Java bindings for the OpenSky Network REST API- 2024-05-18
 
 ## repositoriesContributedTo
 * [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2024-09-09
@@ -41,6 +41,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Los nombres son importantes en la nube](http://fernand0.github.io//los-nombres-ejemplo/) - 2024-09-09
 * [Interesante visualización de contraseñas frecuentes](http://fernand0.github.io//500-claves-mas-habituales/) - 2024-09-02
 * [Operaciones modulares y sesgos en la aleatoriedad](http://fernand0.github.io//modulo-sesgo/) - 2024-08-26
 * [Los peligros del correo con HTML y CSS](http://fernand0.github.io//html-email-peligroso/) - 2024-08-20
@@ -50,7 +51,6 @@
 * [Las limitaciones de los analizadores de código para la seguridad](http://fernand0.github.io//analisis-web-herramientas-manual/) - 2024-06-24
 * [Un método sencillo de generación de números seudoaleatorios](http://fernand0.github.io//generador-numeros-aleatorios-cerebro/) - 2024-05-20
 * [Algunas ideas sobre seguridad en Flask](http://fernand0.github.io//proteger-aplicaciones-flask/) - 2024-05-09
-* [Operación triangulación: un ataque con información detallada](http://fernand0.github.io//operacion-triangulacion/) - 2024-05-03
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
