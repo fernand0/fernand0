@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-09-18
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-09-17
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-09-17
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-09-19
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-09-18
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-09-18
 * [err-pim](https://github.com/fernand0/err-pim),  A plugin for a personal information manager for errbot- 2024-09-17
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2024-09-16
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-09-09
