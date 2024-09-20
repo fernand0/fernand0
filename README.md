@@ -12,19 +12,19 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-09-19
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-09-18
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-09-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-09-20
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-09-19
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-09-19
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-09-19
 * [err-pim](https://github.com/fernand0/err-pim),  A plugin for a personal information manager for errbot- 2024-09-17
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2024-09-16
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-09-09
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-09-09
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2024-09-01
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2024-09-01
 * [botMedallero](https://github.com/fernand0/botMedallero),  Bot para ir mostrando el medallero.- 2024-08-31
 
 ## repositoriesContributedTo
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2024-09-17
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2024-09-19
 * [SI](https://github.com/simber72/SI),  None- 2024-09-12
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2024-09-02
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2024-07-15
@@ -41,6 +41,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Abuso de los comentarios en GitHub](http://fernand0.github.io//comentarios-github-abuso/) - 2024-09-19
 * [Los nombres son importantes en la nube](http://fernand0.github.io//los-nombres-ejemplo/) - 2024-09-09
 * [Interesante visualización de contraseñas frecuentes](http://fernand0.github.io//500-claves-mas-habituales/) - 2024-09-02
 * [Operaciones modulares y sesgos en la aleatoriedad](http://fernand0.github.io//modulo-sesgo/) - 2024-08-26
@@ -50,7 +51,6 @@
 * [Algunas ideas sobre problemas de seguridad habituales en WordPress](http://fernand0.github.io//wordpress-problemas-frecuentes-seguridad/) - 2024-07-29
 * [Las limitaciones de los analizadores de código para la seguridad](http://fernand0.github.io//analisis-web-herramientas-manual/) - 2024-06-24
 * [Un método sencillo de generación de números seudoaleatorios](http://fernand0.github.io//generador-numeros-aleatorios-cerebro/) - 2024-05-20
-* [Algunas ideas sobre seguridad en Flask](http://fernand0.github.io//proteger-aplicaciones-flask/) - 2024-05-09
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
