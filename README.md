@@ -12,11 +12,11 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-09-26
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-09-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-09-25
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-09-27
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-09-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-09-26
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-09-26
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2024-09-24
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-09-19
 * [err-pim](https://github.com/fernand0/err-pim),  A plugin for a personal information manager for errbot- 2024-09-17
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2024-09-16
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-09-09
@@ -41,6 +41,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Factor múltiple de autentificación y algunos problemas](http://fernand0.github.io//mfa-problemas-y-riesgos/) - 2024-09-26
 * [Abuso de los comentarios en GitHub](http://fernand0.github.io//comentarios-github-abuso/) - 2024-09-19
 * [Los nombres son importantes en la nube](http://fernand0.github.io//los-nombres-ejemplo/) - 2024-09-09
 * [Interesante visualización de contraseñas frecuentes](http://fernand0.github.io//500-claves-mas-habituales/) - 2024-09-02
@@ -50,7 +51,6 @@
 * [Las amenazas en los tiempos de la IA](http://fernand0.github.io//amenazas-tiempos-IA/) - 2024-08-05
 * [Algunas ideas sobre problemas de seguridad habituales en WordPress](http://fernand0.github.io//wordpress-problemas-frecuentes-seguridad/) - 2024-07-29
 * [Las limitaciones de los analizadores de código para la seguridad](http://fernand0.github.io//analisis-web-herramientas-manual/) - 2024-06-24
-* [Un método sencillo de generación de números seudoaleatorios](http://fernand0.github.io//generador-numeros-aleatorios-cerebro/) - 2024-05-20
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
