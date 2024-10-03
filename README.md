@@ -12,9 +12,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-10-02
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-10-01
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-10-01
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-10-03
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-10-02
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-10-02
 * [botAeropuerto](https://github.com/fernand0/botAeropuerto),  A bot for publishing updates in an airport using some APIs- 2024-09-30
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-09-30
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2024-09-24
