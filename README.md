@@ -12,10 +12,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-10-14
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-10-13
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-10-13
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-10-07
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-10-15
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-10-14
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-10-14
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-10-14
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2024-10-07
 * [botAeropuerto](https://github.com/fernand0/botAeropuerto),  None- 2024-10-03
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2024-09-24
@@ -42,6 +42,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Despliegue de URLs, interacción en Slack y sus riesgos](http://fernand0.github.io//desplegado-urls/) - 2024-10-14
 * [Entrada a los programas, visibilidad y posibilidades de espiar](http://fernand0.github.io//entrada-estandar-programas-parametros/) - 2024-10-07
 * [Cross-site scripting y OAuth… ¿problemas?](http://fernand0.github.io//xss-sigue-vivo/) - 2024-09-30
 * [Factor múltiple de autentificación y algunos problemas](http://fernand0.github.io//mfa-problemas-y-riesgos/) - 2024-09-26
@@ -51,7 +52,6 @@
 * [Operaciones modulares y sesgos en la aleatoriedad](http://fernand0.github.io//modulo-sesgo/) - 2024-08-26
 * [Los peligros del correo con HTML y CSS](http://fernand0.github.io//html-email-peligroso/) - 2024-08-20
 * [Los protocolos de la web explicados](http://fernand0.github.io//protocolo-http-evoluciones/) - 2024-08-12
-* [Las amenazas en los tiempos de la IA](http://fernand0.github.io//amenazas-tiempos-IA/) - 2024-08-05
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
