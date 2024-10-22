@@ -15,9 +15,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-10-21
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-10-20
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-10-20
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-10-22
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-10-21
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-10-21
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2024-10-16
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-10-14
 * [botAeropuerto](https://github.com/fernand0/botAeropuerto),  None- 2024-10-03
@@ -27,7 +27,7 @@
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-09-09
 
 ## repositoriesContributedTo
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2024-10-18
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2024-10-21
 * [errbot](https://github.com/errbotio/errbot),  Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.- 2024-10-07
 * [SI](https://github.com/simber72/SI),  None- 2024-09-12
 * [ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy),  A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.- 2024-09-04
@@ -57,6 +57,7 @@
 * [Los protocolos de la web explicados](http://fernand0.github.io//protocolo-http-evoluciones/) - 2024-08-12
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
+* [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
 * [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
 * [En Conexi&#243;n Arag&#243;n hablando sobre contrase&#241;as](http://fernand0.blogalia.com//historias/78823) - 2024-02-16
 * [En SER Huesca hablando sobre el curso de Ciberseguridad en la Nube](http://fernand0.blogalia.com//historias/78822) - 2024-02-16
@@ -66,7 +67,6 @@
 * [El no tan lento declive de las licencias libres](http://fernand0.blogalia.com//historias/78804) - 2024-01-11
 * [En las Noticias de Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78801) - 2024-01-05
 * [&#191;Nos destruir&#225; la inteligencia artificial?](http://fernand0.blogalia.com//historias/78800) - 2024-01-02
-* [Resumen de 2023.](http://fernand0.blogalia.com//historias/78799) - 2023-12-31
 <!-- blog ends -->
 
 ### Twitter 
