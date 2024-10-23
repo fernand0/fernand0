@@ -15,9 +15,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-10-22
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-10-21
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-10-21
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-10-23
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-10-22
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-10-22
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2024-10-16
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-10-14
 * [botAeropuerto](https://github.com/fernand0/botAeropuerto),  None- 2024-10-03
@@ -57,16 +57,6 @@
 * [Los protocolos de la web explicados](http://fernand0.github.io//protocolo-http-evoluciones/) - 2024-08-12
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
-* [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
-* [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
-* [En Conexi&#243;n Arag&#243;n hablando sobre contrase&#241;as](http://fernand0.blogalia.com//historias/78823) - 2024-02-16
-* [En SER Huesca hablando sobre el curso de Ciberseguridad en la Nube](http://fernand0.blogalia.com//historias/78822) - 2024-02-16
-* [En Radio Zaragoza hablando de phishing](http://fernand0.blogalia.com//historias/78816) - 2024-02-02
-* [Los j&#243;venes, los algoritmos: siempre habr&#225; trucos.](http://fernand0.blogalia.com//historias/78815) - 2024-02-01
-* [22](http://fernand0.blogalia.com//historias/78812) - 2024-01-28
-* [El no tan lento declive de las licencias libres](http://fernand0.blogalia.com//historias/78804) - 2024-01-11
-* [En las Noticias de Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78801) - 2024-01-05
-* [&#191;Nos destruir&#225; la inteligencia artificial?](http://fernand0.blogalia.com//historias/78800) - 2024-01-02
 <!-- blog ends -->
 
 ### Twitter 
