@@ -15,14 +15,14 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-11-10
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-11-09
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-11-09
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-11-09
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-11-11
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-11-10
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-11-10
+* [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2024-11-10
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-11-10
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2024-11-03
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2024-10-16
 * [botAeropuerto](https://github.com/fernand0/botAeropuerto),  None- 2024-10-03
-* [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2024-09-24
 * [err-pim](https://github.com/fernand0/err-pim),  A plugin for a personal information manager for errbot- 2024-09-17
 * [err-social](https://github.com/fernand0/err-social),  Posting in some social networks from errbot- 2024-09-16
 
@@ -44,6 +44,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Diez años por aquí](http://fernand0.github.io//diez-aniversario/) - 2024-11-10
 * [La seguridad de esos servicios que utiliza y conoce poca gente](http://fernand0.github.io//aeropuerto-SQL-seguridad/) - 2024-11-07
 * [Cuidado con los secretos divulgados en las nubes](http://fernand0.github.io//secretos-en-la-nube/) - 2024-10-28
 * [Despliegue de URLs, interacción en Slack y sus riesgos](http://fernand0.github.io//desplegado-urls/) - 2024-10-14
@@ -53,7 +54,6 @@
 * [Abuso de los comentarios en GitHub](http://fernand0.github.io//comentarios-github-abuso/) - 2024-09-19
 * [Los nombres son importantes en la nube](http://fernand0.github.io//los-nombres-ejemplo/) - 2024-09-09
 * [Interesante visualización de contraseñas frecuentes](http://fernand0.github.io//500-claves-mas-habituales/) - 2024-09-02
-* [Operaciones modulares y sesgos en la aleatoriedad](http://fernand0.github.io//modulo-sesgo/) - 2024-08-26
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
