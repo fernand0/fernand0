@@ -15,12 +15,12 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-12-24
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-12-23
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-12-23
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2024-12-25
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2024-12-24
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2024-12-24
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-12-24
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-12-23
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2024-12-21
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2024-12-16
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2024-11-10
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2024-11-03
 * [err-calendar](https://github.com/fernand0/err-calendar),  ErrBot plugin to interact with Google Calendar- 2024-10-16
@@ -43,6 +43,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Las extensiones de los navegadores y algunos consejos sobre su seguridad](http://fernand0.github.io//ataques-extensiones-navegador/) - 2024-12-23
 * [Los generadores de números seudoaleatorios y la seguridad](http://fernand0.github.io//generadores-numeros-aleatorios/) - 2024-12-16
 * [Los vehículos, los nuevos servicios y los mismos fallos de siempre](http://fernand0.github.io//ataques-vehiculos-conectados/) - 2024-12-02
 * [Diez años por aquí](http://fernand0.github.io//diez-aniversario/) - 2024-11-10
@@ -52,7 +53,6 @@
 * [Cuidado con los secretos divulgados en las nubes](http://fernand0.github.io//secretos-en-la-nube/) - 2024-10-28
 * [Despliegue de URLs, interacción en Slack y sus riesgos](http://fernand0.github.io//desplegado-urls/) - 2024-10-14
 * [Entrada a los programas, visibilidad y posibilidades de espiar](http://fernand0.github.io//entrada-estandar-programas-parametros/) - 2024-10-07
-* [Cross-site scripting y OAuth… ¿problemas?](http://fernand0.github.io//xss-sigue-vivo/) - 2024-09-30
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
