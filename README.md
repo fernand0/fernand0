@@ -15,11 +15,11 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-01-09
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-01-08
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-01-08
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-01-10
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-01-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-01-09
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-01-09
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-01-07
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-01-02
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-12-23
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2024-12-21
 * [err-buffer](https://github.com/fernand0/err-buffer),  A plugin to manage our buffer account with the bot (at least some features, this is not a translation for the whole API).- 2024-11-10
@@ -42,6 +42,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Confundiendo a los usuarios usando sitios habituales de alojamiento de información](http://fernand0.github.io//alojamientos-ficheros-y-ataques/) - 2025-01-09
 * [Polución de parámetros en distintas tecnologías](http://fernand0.github.io//polucion-parametros-2024/) - 2025-01-02
 * [Las extensiones de los navegadores y algunos consejos sobre su seguridad](http://fernand0.github.io//ataques-extensiones-navegador/) - 2024-12-23
 * [Los generadores de números seudoaleatorios y la seguridad](http://fernand0.github.io//generadores-numeros-aleatorios/) - 2024-12-16
@@ -51,7 +52,6 @@
 * [¿De quién es la responsabilidad de los fallos de seguridad?](http://fernand0.github.io//responsabilidad-ciberseguridad/) - 2024-11-10
 * [La seguridad de esos servicios que utiliza y conoce poca gente](http://fernand0.github.io//aeropuerto-SQL-seguridad/) - 2024-11-07
 * [Cuidado con los secretos divulgados en las nubes](http://fernand0.github.io//secretos-en-la-nube/) - 2024-10-28
-* [Despliegue de URLs, interacción en Slack y sus riesgos](http://fernand0.github.io//desplegado-urls/) - 2024-10-14
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
