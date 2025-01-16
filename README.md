@@ -15,10 +15,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-01-15
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-01-14
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-01-14
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-01-09
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-01-16
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-01-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-01-15
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-01-15
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-01-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-12-23
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2024-12-21
@@ -27,7 +27,7 @@
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-07-24
 
 ## repositoriesContributedTo
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2025-01-14
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2025-01-15
 * [AB](https://github.com/simber72/AB),  None- 2025-01-10
 * [ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy),  A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.- 2024-12-02
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2024-07-15
@@ -42,6 +42,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Viene con un regalo: no todo es lo que parece](http://fernand0.github.io//ataques-puntos-entrada/) - 2025-01-15
 * [Confundiendo a los usuarios usando sitios habituales de alojamiento de información](http://fernand0.github.io//alojamientos-ficheros-y-ataques/) - 2025-01-09
 * [Polución de parámetros en distintas tecnologías](http://fernand0.github.io//polucion-parametros-2024/) - 2025-01-02
 * [Las extensiones de los navegadores y algunos consejos sobre su seguridad](http://fernand0.github.io//ataques-extensiones-navegador/) - 2024-12-23
@@ -51,7 +52,6 @@
 * [¿80-20 o mejor… tanto como puedas?](http://fernand0.github.io//regla-80-20-atencion/) - 2024-11-10
 * [¿De quién es la responsabilidad de los fallos de seguridad?](http://fernand0.github.io//responsabilidad-ciberseguridad/) - 2024-11-10
 * [La seguridad de esos servicios que utiliza y conoce poca gente](http://fernand0.github.io//aeropuerto-SQL-seguridad/) - 2024-11-07
-* [Cuidado con los secretos divulgados en las nubes](http://fernand0.github.io//secretos-en-la-nube/) - 2024-10-28
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
