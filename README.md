@@ -15,8 +15,8 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-04-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-04-24
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-04-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-04-25
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-04-23
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-04-21
 * [click-app](https://github.com/fernand0/click-app),  Cookiecutter template for creating new Click command-line tools- 2025-04-19
@@ -27,7 +27,7 @@
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-07-24
 
 ## repositoriesContributedTo
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2025-04-24
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2025-04-25
 * [opensky-api](https://github.com/openskynetwork/opensky-api),  Python and Java bindings for the OpenSky Network REST API- 2025-04-19
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2025-04-11
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools- 2025-04-10
@@ -54,16 +54,6 @@
 * [¿80-20 o mejor… tanto como puedas?](http://fernand0.github.io//regla-80-20-atencion/) - 2024-11-10
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
-* [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
-* [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
-* [En Conexi&#243;n Arag&#243;n hablando sobre contrase&#241;as](http://fernand0.blogalia.com//historias/78823) - 2024-02-16
-* [En SER Huesca hablando sobre el curso de Ciberseguridad en la Nube](http://fernand0.blogalia.com//historias/78822) - 2024-02-16
-* [En Radio Zaragoza hablando de phishing](http://fernand0.blogalia.com//historias/78816) - 2024-02-02
-* [Los j&#243;venes, los algoritmos: siempre habr&#225; trucos.](http://fernand0.blogalia.com//historias/78815) - 2024-02-01
-* [22](http://fernand0.blogalia.com//historias/78812) - 2024-01-28
-* [El no tan lento declive de las licencias libres](http://fernand0.blogalia.com//historias/78804) - 2024-01-11
-* [En las Noticias de Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78801) - 2024-01-05
-* [&#191;Nos destruir&#225; la inteligencia artificial?](http://fernand0.blogalia.com//historias/78800) - 2024-01-02
 <!-- blog ends -->
 
 ### Twitter 
