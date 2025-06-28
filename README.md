@@ -15,21 +15,21 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-06-27
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-06-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-06-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-06-27
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-06-27
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-06-21
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-06-11
 * [www-community](https://github.com/fernand0/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-06-10
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-05-22
 * [click-app](https://github.com/fernand0/click-app),  Cookiecutter template for creating new Click command-line tools- 2025-04-19
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-12-23
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2024-12-21
 * [err-weather](https://github.com/fernand0/err-weather),  This plugin is for checking weather in the OpenWeatherMap API- 2024-07-24
 
 ## repositoriesContributedTo
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-06-27
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-06-28
+* [AB](https://github.com/simber72/AB),  None- 2025-06-27
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2025-06-26
-* [AB](https://github.com/simber72/AB),  None- 2025-06-24
 * [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2025-06-20
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools- 2025-04-10
 * [ReadabiliPy](https://github.com/alan-turing-institute/ReadabiliPy),  A simple HTML content extractor in Python. Can be run as a wrapper for Mozilla's Readability.js package or in pure-python mode.- 2024-12-02
@@ -41,6 +41,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [En contra del /tmp](http://fernand0.github.io//contra-tmp/) - 2025-06-27
 * [Desentrañando los CAPTCHA de 4chan con una IA](http://fernand0.github.io//captcha-4chan/) - 2025-05-22
 * [Las políticas de contraseñas, errores de hace muchos años](http://fernand0.github.io//claves-y-politicas/) - 2025-03-26
 * [Este ZIP podría contener algo que no te gustará](http://fernand0.github.io//encadenamiento-ficheros-zip/) - 2025-01-21
@@ -50,7 +51,6 @@
 * [Las extensiones de los navegadores y algunos consejos sobre su seguridad](http://fernand0.github.io//ataques-extensiones-navegador/) - 2024-12-23
 * [Los generadores de números seudoaleatorios y la seguridad](http://fernand0.github.io//generadores-numeros-aleatorios/) - 2024-12-16
 * [Los vehículos, los nuevos servicios y los mismos fallos de siempre](http://fernand0.github.io//ataques-vehiculos-conectados/) - 2024-12-02
-* [Diez años por aquí](http://fernand0.github.io//diez-aniversario/) - 2024-11-10
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
