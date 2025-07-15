@@ -15,19 +15,19 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-07-14
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-07-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-07-14
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-07-14
+* [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-07-14
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-07-13
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-07-13
-* [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-07-12
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-07-11
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-07-07
 * [www-community](https://github.com/fernand0/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-06-10
 * [click-app](https://github.com/fernand0/click-app),  Cookiecutter template for creating new Click command-line tools- 2025-04-19
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-12-23
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2024-12-21
 
 ## repositoriesContributedTo
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-07-14
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-07-15
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2025-07-11
 * [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2025-07-08
 * [AB](https://github.com/simber72/AB),  None- 2025-06-27
@@ -41,6 +41,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Los datos de los mapas de Google, la privacidad y su persistencia](http://fernand0.github.io//errores-fallos-localizacion-google/) - 2025-07-14
 * [Los gestores de proyectos de software libre y la presión](http://fernand0.github.io//software-libre-y-presiones/) - 2025-07-07
 * [En contra del /tmp](http://fernand0.github.io//contra-tmp/) - 2025-06-27
 * [Desentrañando los CAPTCHA de 4chan con una IA](http://fernand0.github.io//captcha-4chan/) - 2025-05-22
@@ -50,7 +51,6 @@
 * [Confundiendo a los usuarios usando sitios habituales de alojamiento de información](http://fernand0.github.io//alojamientos-ficheros-y-ataques/) - 2025-01-09
 * [Polución de parámetros en distintas tecnologías](http://fernand0.github.io//polucion-parametros-2024/) - 2025-01-02
 * [Las extensiones de los navegadores y algunos consejos sobre su seguridad](http://fernand0.github.io//ataques-extensiones-navegador/) - 2024-12-23
-* [Los generadores de números seudoaleatorios y la seguridad](http://fernand0.github.io//generadores-numeros-aleatorios/) - 2024-12-16
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
