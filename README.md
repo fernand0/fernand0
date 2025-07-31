@@ -15,9 +15,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-07-30
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-07-31
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-07-30
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-07-29
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-07-29
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-07-28
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-07-25
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2025-07-24
@@ -27,8 +27,8 @@
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2024-12-23
 
 ## repositoriesContributedTo
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-07-30
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2025-07-29
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2025-07-31
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-07-31
 * [botse.github.io](https://github.com/botse/botse.github.io),  None- 2025-07-28
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2025-07-15
 * [AB](https://github.com/simber72/AB),  None- 2025-06-27
