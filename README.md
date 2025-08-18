@@ -15,10 +15,10 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-08-17
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-08-16
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-08-16
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-08-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-08-18
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-08-17
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-08-17
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-08-17
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-08-11
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-07-25
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2025-07-24
@@ -27,8 +27,8 @@
 * [click-app](https://github.com/fernand0/click-app),  Cookiecutter template for creating new Click command-line tools- 2025-04-19
 
 ## repositoriesContributedTo
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2025-08-17
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-08-17
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2025-08-18
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-08-18
 * [botse.github.io](https://github.com/botse/botse.github.io),  None- 2025-07-28
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2025-07-15
 * [AB](https://github.com/simber72/AB),  None- 2025-06-27
@@ -54,16 +54,6 @@
 * [Este ZIP podría contener algo que no te gustará](http://fernand0.github.io//encadenamiento-ficheros-zip/) - 2025-01-21
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
-* [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
-* [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
-* [En Conexi&#243;n Arag&#243;n hablando sobre contrase&#241;as](http://fernand0.blogalia.com//historias/78823) - 2024-02-16
-* [En SER Huesca hablando sobre el curso de Ciberseguridad en la Nube](http://fernand0.blogalia.com//historias/78822) - 2024-02-16
-* [En Radio Zaragoza hablando de phishing](http://fernand0.blogalia.com//historias/78816) - 2024-02-02
-* [Los j&#243;venes, los algoritmos: siempre habr&#225; trucos.](http://fernand0.blogalia.com//historias/78815) - 2024-02-01
-* [22](http://fernand0.blogalia.com//historias/78812) - 2024-01-28
-* [El no tan lento declive de las licencias libres](http://fernand0.blogalia.com//historias/78804) - 2024-01-11
-* [En las Noticias de Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78801) - 2024-01-05
-* [&#191;Nos destruir&#225; la inteligencia artificial?](http://fernand0.blogalia.com//historias/78800) - 2024-01-02
 <!-- blog ends -->
 
 ### Twitter 
