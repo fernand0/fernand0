@@ -15,11 +15,11 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-08-18
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-08-17
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-08-17
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-08-17
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-08-11
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-08-19
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-08-18
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-08-18
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-08-18
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-08-18
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-07-25
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2025-07-24
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-07-11
@@ -27,8 +27,8 @@
 * [click-app](https://github.com/fernand0/click-app),  Cookiecutter template for creating new Click command-line tools- 2025-04-19
 
 ## repositoriesContributedTo
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2025-08-18
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-08-18
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot),  We have made you a wrapper you can't refuse- 2025-08-19
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-08-19
 * [botse.github.io](https://github.com/botse/botse.github.io),  None- 2025-07-28
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2025-07-15
 * [AB](https://github.com/simber72/AB),  None- 2025-06-27
@@ -42,6 +42,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Evaluación de métodos para generar las claves RSA](http://fernand0.github.io//claves-RSA/) - 2025-08-18
 * [Manejo de errores en aplicaciones: algunas ideas y estrategias](http://fernand0.github.io//manejo-errores-python/) - 2025-08-11
 * [Cuando los que nos protegen la lían](http://fernand0.github.io//protegerse-ataques/) - 2025-08-04
 * [Algunos conceptos básicos de cifrado](http://fernand0.github.io//cifrado-ideas-principales/) - 2025-07-28
@@ -51,7 +52,6 @@
 * [En contra del /tmp](http://fernand0.github.io//contra-tmp/) - 2025-06-27
 * [Desentrañando los CAPTCHA de 4chan con una IA](http://fernand0.github.io//captcha-4chan/) - 2025-05-22
 * [Las políticas de contraseñas, errores de hace muchos años](http://fernand0.github.io//claves-y-politicas/) - 2025-03-26
-* [Este ZIP podría contener algo que no te gustará](http://fernand0.github.io//encadenamiento-ficheros-zip/) - 2025-01-21
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 <!-- blog ends -->
