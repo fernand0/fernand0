@@ -15,19 +15,19 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-09-01
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-08-31
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-08-31
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-08-31
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-09-02
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-09-01
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-09-01
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-09-01
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-09-01
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-08-26
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-08-26
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-08-25
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor- 2025-08-22
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting.- 2025-07-24
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2024-11-03
 
 ## repositoriesContributedTo
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-09-01
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-09-02
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2025-08-28
 * [botse.github.io](https://github.com/botse/botse.github.io),  None- 2025-08-27
 * [AB](https://github.com/simber72/AB),  None- 2025-06-27
@@ -41,6 +41,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [La policía puede limpiar tu sistema](http://fernand0.github.io//fbi-reparando-errores/) - 2025-09-01
 * [Inteligencia de fuentes abiertas en Bluesky](http://fernand0.github.io//osint-inteligencia-bluesky/) - 2025-08-25
 * [Evaluación de métodos para generar las claves RSA](http://fernand0.github.io//claves-RSA/) - 2025-08-18
 * [Manejo de errores en aplicaciones: algunas ideas y estrategias](http://fernand0.github.io//manejo-errores-python/) - 2025-08-11
@@ -50,7 +51,6 @@
 * [Los datos de los mapas de Google, la privacidad y su persistencia](http://fernand0.github.io//errores-fallos-localizacion-google/) - 2025-07-14
 * [Los gestores de proyectos de software libre y la presión](http://fernand0.github.io//software-libre-y-presiones/) - 2025-07-07
 * [En contra del /tmp](http://fernand0.github.io//contra-tmp/) - 2025-06-27
-* [Desentrañando los CAPTCHA de 4chan con una IA](http://fernand0.github.io//captcha-4chan/) - 2025-05-22
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 <!-- blog ends -->
