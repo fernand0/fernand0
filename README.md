@@ -15,15 +15,15 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-09-30
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-09-29
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-09-29
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-10-01
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-09-30
+* [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-09-30
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-09-30
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-09-30
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-09-30
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-09-28
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-09-24
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders- 2025-09-23
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor- 2025-09-22
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-09-19
-* [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-08-26
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2024-11-03
 
 ## repositoriesContributedTo
@@ -40,6 +40,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Revocación de certificados, el fin de OCSP](http://fernand0.github.io//certificados-ocsp-cifrado-web/) - 2025-09-30
 * [Atacando a atacantes poco habilidosos](http://fernand0.github.io//ataque-script-kiddies/) - 2025-09-24
 * [La policía puede limpiar tu sistema](http://fernand0.github.io//fbi-reparando-errores/) - 2025-09-01
 * [Asegurando y promoviendo la innovación en ciberseguridad. En EEUU.](http://fernand0.github.io//orden-fortalezimiento-ciberseguridad/) - 2025-09-01
@@ -49,7 +50,6 @@
 * [Cuando los que nos protegen la lían](http://fernand0.github.io//protegerse-ataques/) - 2025-08-04
 * [Algunos conceptos básicos de cifrado](http://fernand0.github.io//cifrado-ideas-principales/) - 2025-07-28
 * [Complejidades y carga cognitiva](http://fernand0.github.io//carga-cognitiva/) - 2025-07-24
-* [Los datos de los mapas de Google, la privacidad y su persistencia](http://fernand0.github.io//errores-fallos-localizacion-google/) - 2025-07-14
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
