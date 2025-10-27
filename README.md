@@ -15,9 +15,9 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-10-26
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-10-25
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-10-25
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-10-27
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-10-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-10-26
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-10-21
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-10-15
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-10-10
