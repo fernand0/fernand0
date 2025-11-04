@@ -15,12 +15,12 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-11-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-11-04
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-11-03
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-11-03
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-11-03
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-11-02
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-11-02
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-10-31
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-10-30
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-10-27
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-10-10
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders- 2025-09-23
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor- 2025-09-22
@@ -40,6 +40,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Código generado con IAs y seguridad: necesita mejorar](http://fernand0.github.io//codigo-seguro-ia/) - 2025-11-03
 * [Del ‘no-code’ al código dirigido por preguntas con ayuda de las IAs](http://fernand0.github.io//low-code-no-code/) - 2025-10-27
 * [Contra chat control](http://fernand0.github.io//contra-chat-control/) - 2025-10-15
 * [Aprender a programar, ¿para todo el mundo?](http://fernand0.github.io//seras-bueno-programacion/) - 2025-10-06
@@ -49,7 +50,6 @@
 * [Asegurando y promoviendo la innovación en ciberseguridad. En EEUU.](http://fernand0.github.io//orden-fortalezimiento-ciberseguridad/) - 2025-09-01
 * [Inteligencia de fuentes abiertas en Bluesky](http://fernand0.github.io//osint-inteligencia-bluesky/) - 2025-08-25
 * [Evaluación de métodos para generar las claves RSA](http://fernand0.github.io//claves-RSA/) - 2025-08-18
-* [Manejo de errores en aplicaciones: algunas ideas y estrategias](http://fernand0.github.io//manejo-errores-python/) - 2025-08-11
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
