@@ -15,11 +15,11 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-11-26
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-11-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-11-25
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-11-20
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-11-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-11-27
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-11-26
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-11-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-11-26
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-11-26
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-10-30
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-10-10
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders- 2025-09-23
@@ -27,7 +27,7 @@
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2024-11-03
 
 ## repositoriesContributedTo
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-11-18
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-11-26
 * [botse.github.io](https://github.com/botse/botse.github.io),  None- 2025-10-27
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools- 2025-10-09
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2025-08-28
@@ -40,6 +40,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Protección de ataques en el hardware: más allá de la aleatorización](https://fernand0.github.io//proteccion-codigo-ejecucion/) - 2025-11-26
 * [Ataques usando canales laterales: tus auriculares de cable](https://fernand0.github.io//auriculares-espionaje/) - 2025-11-20
 * [Código generado con IAs y seguridad: necesita mejorar](https://fernand0.github.io//codigo-seguro-ia/) - 2025-11-03
 * [Del ‘no-code’ al código dirigido por preguntas con ayuda de las IAs](https://fernand0.github.io//low-code-no-code/) - 2025-10-27
@@ -49,7 +50,6 @@
 * [Atacando a atacantes poco habilidosos](https://fernand0.github.io//ataque-script-kiddies/) - 2025-09-24
 * [La policía puede limpiar tu sistema](https://fernand0.github.io//fbi-reparando-errores/) - 2025-09-01
 * [Asegurando y promoviendo la innovación en ciberseguridad. En EEUU.](https://fernand0.github.io//orden-fortalezimiento-ciberseguridad/) - 2025-09-01
-* [Inteligencia de fuentes abiertas en Bluesky](https://fernand0.github.io//osint-inteligencia-bluesky/) - 2025-08-25
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
