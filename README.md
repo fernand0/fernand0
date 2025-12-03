@@ -15,12 +15,12 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-12-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-12-03
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-12-02
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-12-02
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-12-02
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-12-01
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-12-01
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-12-01
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-12-01
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-11-26
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-10-10
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders- 2025-09-23
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor- 2025-09-22
@@ -40,6 +40,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Los drones en la guerra: nuevos usos y ciberseguridad](https://fernand0.github.io//drones-guerra-electronica/) - 2025-12-02
 * [Protección de ataques en el hardware: más allá de la aleatorización](https://fernand0.github.io//proteccion-codigo-ejecucion/) - 2025-11-26
 * [Ataques usando canales laterales: tus auriculares de cable](https://fernand0.github.io//auriculares-espionaje/) - 2025-11-20
 * [Código generado con IAs y seguridad: necesita mejorar](https://fernand0.github.io//codigo-seguro-ia/) - 2025-11-03
@@ -49,7 +50,6 @@
 * [Revocación de certificados, el fin de OCSP](https://fernand0.github.io//certificados-ocsp-cifrado-web/) - 2025-09-30
 * [Atacando a atacantes poco habilidosos](https://fernand0.github.io//ataque-script-kiddies/) - 2025-09-24
 * [La policía puede limpiar tu sistema](https://fernand0.github.io//fbi-reparando-errores/) - 2025-09-01
-* [Asegurando y promoviendo la innovación en ciberseguridad. En EEUU.](https://fernand0.github.io//orden-fortalezimiento-ciberseguridad/) - 2025-09-01
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
