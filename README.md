@@ -15,16 +15,16 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-12-05
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-12-04
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-12-06
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-12-05
+* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2025-12-05
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-12-05
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders- 2025-12-04
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-12-04
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor- 2025-12-04
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-12-02
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-12-01
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-12-01
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-10-10
-* [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible.- 2024-11-03
 
 ## repositoriesContributedTo
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-12-03
@@ -52,16 +52,6 @@
 * [La policía puede limpiar tu sistema](https://fernand0.github.io//fbi-reparando-errores/) - 2025-09-01
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
-* [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
-* [En Buenos D&#237;as Arag&#243;n hablando sobre el 15 aniversario del 'me gusta' de Facebook](http://fernand0.blogalia.com//historias/78830) - 2024-03-01
-* [En Conexi&#243;n Arag&#243;n hablando sobre contrase&#241;as](http://fernand0.blogalia.com//historias/78823) - 2024-02-16
-* [En SER Huesca hablando sobre el curso de Ciberseguridad en la Nube](http://fernand0.blogalia.com//historias/78822) - 2024-02-16
-* [En Radio Zaragoza hablando de phishing](http://fernand0.blogalia.com//historias/78816) - 2024-02-02
-* [Los j&#243;venes, los algoritmos: siempre habr&#225; trucos.](http://fernand0.blogalia.com//historias/78815) - 2024-02-01
-* [22](http://fernand0.blogalia.com//historias/78812) - 2024-01-28
-* [El no tan lento declive de las licencias libres](http://fernand0.blogalia.com//historias/78804) - 2024-01-11
-* [En las Noticias de Arag&#243;n hablando de empleo en ciberseguridad](http://fernand0.blogalia.com//historias/78801) - 2024-01-05
-* [&#191;Nos destruir&#225; la inteligencia artificial?](http://fernand0.blogalia.com//historias/78800) - 2024-01-02
 <!-- blog ends -->
 
 ### Twitter 
