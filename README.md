@@ -15,16 +15,16 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-12-10
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-12-09
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-12-11
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-12-10
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-12-10
+* [linkblog](https://github.com/fernand0/linkblog),  None- 2025-12-10
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-12-09
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-12-09
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2025-12-07
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders- 2025-12-04
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor- 2025-12-04
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-12-02
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-12-01
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-10-10
 
 ## repositoriesContributedTo
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-12-03
@@ -40,6 +40,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Identificadores de seguridad: autorización vs autentificación](https://fernand0.github.io//objetos-identificacion/) - 2025-12-10
 * [Los drones en la guerra: nuevos usos y ciberseguridad](https://fernand0.github.io//drones-guerra-electronica/) - 2025-12-02
 * [Protección de ataques en el hardware: más allá de la aleatorización](https://fernand0.github.io//proteccion-codigo-ejecucion/) - 2025-11-26
 * [Ataques usando canales laterales: tus auriculares de cable](https://fernand0.github.io//auriculares-espionaje/) - 2025-11-20
@@ -49,7 +50,6 @@
 * [Aprender a programar, ¿para todo el mundo?](https://fernand0.github.io//seras-bueno-programacion/) - 2025-10-06
 * [Revocación de certificados, el fin de OCSP](https://fernand0.github.io//certificados-ocsp-cifrado-web/) - 2025-09-30
 * [Atacando a atacantes poco habilidosos](https://fernand0.github.io//ataque-script-kiddies/) - 2025-09-24
-* [La policía puede limpiar tu sistema](https://fernand0.github.io//fbi-reparando-errores/) - 2025-09-01
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 <!-- blog ends -->
