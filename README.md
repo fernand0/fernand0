@@ -15,21 +15,21 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-12-16
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2025-12-15
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-12-15
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-12-15
-* [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-12-15
-* [linkblog](https://github.com/fernand0/linkblog),  None- 2025-12-15
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-12-17
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-12-16
+* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders- 2025-12-16
+* [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-12-16
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-12-16
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-12-16
+* [linkblog](https://github.com/fernand0/linkblog),  None- 2025-12-16
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-12-14
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor- 2025-12-14
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2025-12-13
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-12-10
 
 ## repositoriesContributedTo
+* [botse.github.io](https://github.com/botse/botse.github.io),  None- 2025-12-16
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-12-15
 * [AB](https://github.com/simber72/AB),  None- 2025-12-12
-* [botse.github.io](https://github.com/botse/botse.github.io),  None- 2025-10-27
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools- 2025-10-09
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2025-08-28
 <!-- recent_releases ends -->
@@ -40,6 +40,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Alucinanciones de las Inteligencias Artificiales y sus consecuencias en el desarrollo de código](https://fernand0.github.io//codigo-generado-ia/) - 2025-12-16
 * [Identificadores de seguridad: autorización vs autentificación](https://fernand0.github.io//objetos-identificacion/) - 2025-12-10
 * [Los drones en la guerra: nuevos usos y ciberseguridad](https://fernand0.github.io//drones-guerra-electronica/) - 2025-12-02
 * [Protección de ataques en el hardware: más allá de la aleatorización](https://fernand0.github.io//proteccion-codigo-ejecucion/) - 2025-11-26
@@ -49,7 +50,6 @@
 * [Contra chat control](https://fernand0.github.io//contra-chat-control/) - 2025-10-15
 * [Aprender a programar, ¿para todo el mundo?](https://fernand0.github.io//seras-bueno-programacion/) - 2025-10-06
 * [Revocación de certificados, el fin de OCSP](https://fernand0.github.io//certificados-ocsp-cifrado-web/) - 2025-09-30
-* [Atacando a atacantes poco habilidosos](https://fernand0.github.io//ataque-script-kiddies/) - 2025-09-24
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 <!-- blog ends -->
