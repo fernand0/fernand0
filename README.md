@@ -15,11 +15,11 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-12-21
-* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-12-20
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-12-20
-* [linkblog](https://github.com/fernand0/linkblog),  None- 2025-12-20
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-12-19
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-12-22
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-12-21
+* [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-12-21
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-12-21
+* [linkblog](https://github.com/fernand0/linkblog),  None- 2025-12-21
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2025-12-18
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders- 2025-12-16
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-12-16
@@ -27,7 +27,7 @@
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor- 2025-12-14
 
 ## repositoriesContributedTo
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-12-19
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2025-12-21
 * [botse.github.io](https://github.com/botse/botse.github.io),  None- 2025-12-16
 * [AB](https://github.com/simber72/AB),  None- 2025-12-12
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools- 2025-10-09
