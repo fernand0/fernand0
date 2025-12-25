@@ -15,12 +15,12 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-12-24
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-12-23
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2025-12-25
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2025-12-24
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-12-24
+* [linkblog](https://github.com/fernand0/linkblog),  None- 2025-12-24
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-12-23
-* [linkblog](https://github.com/fernand0/linkblog),  None- 2025-12-23
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2025-12-22
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2025-12-21
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2025-12-18
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders- 2025-12-16
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-12-16
