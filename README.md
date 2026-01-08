@@ -15,23 +15,23 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2026-01-07
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2026-01-06
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2026-01-06
-* [linkblog](https://github.com/fernand0/linkblog),  None- 2026-01-06
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2026-01-08
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2026-01-07
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2026-01-07
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2026-01-07
+* [linkblog](https://github.com/fernand0/linkblog),  None- 2026-01-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2026-01-05
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2026-01-04
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-12-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders- 2025-12-16
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-12-16
-* [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor- 2025-12-14
 
 ## repositoriesContributedTo
+* [botse.github.io](https://github.com/botse/botse.github.io),  None- 2026-01-07
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2026-01-07
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2026-01-02
-* [botse.github.io](https://github.com/botse/botse.github.io),  None- 2025-12-16
 * [AB](https://github.com/simber72/AB),  None- 2025-12-12
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools- 2025-10-09
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2025-08-28
 <!-- recent_releases ends -->
 
 # On my blog (in Spanish)
