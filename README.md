@@ -15,19 +15,19 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2026-01-14
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2026-01-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2026-01-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2026-01-14
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2026-01-14
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2026-01-14
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2026-01-14
+* [linkblog](https://github.com/fernand0/linkblog),  None- 2026-01-14
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor- 2026-01-13
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2026-01-13
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2026-01-13
-* [linkblog](https://github.com/fernand0/linkblog),  None- 2026-01-13
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2026-01-05
 * [personalAggregator](https://github.com/fernand0/personalAggregator),  A bootstrap based minimal jekyll theme- 2026-01-04
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2025-12-23
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2025-12-16
 
 ## repositoriesContributedTo
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2026-01-12
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2026-01-14
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2026-01-12
 * [botse.github.io](https://github.com/botse/botse.github.io),  None- 2026-01-08
 * [AB](https://github.com/simber72/AB),  None- 2026-01-08
@@ -40,6 +40,7 @@
 
 
 ## [fernand0@GitHub](https://fernand0.github.io/)
+* [Vibe coding y programación asistida por LLMs](https://fernand0.github.io//vibe-coding-ia/) - 2026-01-14
 * [MCP y la interacción de las IAs con otros sistemas](https://fernand0.github.io//mcp-que-es/) - 2025-12-23
 * [Alucinanciones de las Inteligencias Artificiales y sus consecuencias en el desarrollo de código](https://fernand0.github.io//codigo-generado-ia/) - 2025-12-16
 * [Identificadores de seguridad: autorización vs autentificación](https://fernand0.github.io//objetos-identificacion/) - 2025-12-10
@@ -49,7 +50,6 @@
 * [Código generado con IAs y seguridad: necesita mejorar](https://fernand0.github.io//codigo-seguro-ia/) - 2025-11-03
 * [Del ‘no-code’ al código dirigido por preguntas con ayuda de las IAs](https://fernand0.github.io//low-code-no-code/) - 2025-10-27
 * [Contra chat control](https://fernand0.github.io//contra-chat-control/) - 2025-10-15
-* [Aprender a programar, ¿para todo el mundo?](https://fernand0.github.io//seras-bueno-programacion/) - 2025-10-06
 
 ## [Reflexiones e Irreflexiones](http://fernand0.blogalia.com/)
 * [Mientras Blogalia no estaba...](http://fernand0.blogalia.com//historias/78899) - 2024-10-21
