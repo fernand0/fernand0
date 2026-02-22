@@ -15,19 +15,19 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2026-02-21
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2026-02-20
-* [linkblog](https://github.com/fernand0/linkblog),  None- 2026-02-20
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2026-02-22
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2026-02-21
+* [projects](https://github.com/fernand0/projects),  Web site for projects.- 2026-02-21
+* [linkblog](https://github.com/fernand0/linkblog),  None- 2026-02-21
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot- 2026-02-17
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app- 2026-02-16
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites.- 2026-02-13
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2026-02-13
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages- 2026-02-12
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2026-02-12
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme.- 2026-01-14
+* [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-05-31
+* [PubwichFork](https://github.com/fernand0/PubwichFork),  PubwichFork is an open-source PHP Web application that allows you to aggregate your published data from multiple websites and social services into a single HTML page.- 2016-09-03
 
 ## repositoriesContributedTo
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2026-02-20
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content.- 2026-02-21
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA)- 2026-02-20
 * [botse.github.io](https://github.com/botse/botse.github.io),  None- 2026-02-18
 * [AB](https://github.com/simber72/AB),  None- 2026-02-18
