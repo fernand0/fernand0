@@ -15,14 +15,14 @@
 
 
 ## repositories
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2026-02-22
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2026-02-21
-* [projects](https://github.com/fernand0/projects),  Web site for projects.- 2026-02-21
-* [linkblog](https://github.com/fernand0/linkblog),  None- 2026-02-21
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana....- 2026-02-23
+* [projects](https://github.com/fernand0/projects),  Web site for projects.- 2026-02-22
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme. - 2026-02-22
+* [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites- 2026-02-22
+* [linkblog](https://github.com/fernand0/linkblog),  None- 2026-02-22
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot- 2026-02-17
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app- 2026-02-16
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text.- 2026-02-13
-* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal.- 2026-02-12
 * [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá- 2022-05-31
 * [PubwichFork](https://github.com/fernand0/PubwichFork),  PubwichFork is an open-source PHP Web application that allows you to aggregate your published data from multiple websites and social services into a single HTML page.- 2016-09-03
 
