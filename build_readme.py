@@ -536,7 +536,7 @@ def test_feeds() -> None:
     # Test Mastodon feed
     if DEFAULT_MASTODON:
         posts = fetch_mastodon_posts(DEFAULT_MASTODON)
-        logger.info("Mastodon @%s: %d posts", DEFAULT_MASTODON.username, len(posts))
+        logger.info("Links shared in Mastodon @%s: %d posts (and other social networks)", DEFAULT_MASTODON.username, len(posts))
         for post in posts[:2]:
             logger.info("  - %s (%s)", post.title, post.published)
 
