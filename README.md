@@ -12,54 +12,61 @@
 
 # Recent Contributions
 <!-- recent_releases starts -->
-## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-02-27
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-02-27
-* [linkblog](https://github.com/fernand0/linkblog),  No description - 2026-02-26
-* [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
-* [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
-* [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-02-17
-* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-02-16
-* [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text. - 2026-02-13
-* [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá - 2022-05-31
-* [PubwichFork](https://github.com/fernand0/PubwichFork),  PubwichFork is an open-source PHP Web application that allows you to aggregate your published data from multiple websites and social services into a single HTML page. - 2016-09-03
-
-## repositoriesContributedTo
-
-* [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-02-26
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-02-26
-* [AB](https://github.com/simber72/AB),  No description - 2026-02-26
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-02-20
-* [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
 
 # On my blog (in Spanish)
 
 <!-- blog starts -->
-## [fernand0@GitHub](https://fernand0.github.io/)
+## [fernand0@dev.to](https://dev.to)/
 
-* [Vibe coding y programación asistida por LLMs](https://fernand0.github.io//vibe-coding-ia/) - 2026-01-14
+* [So you would like to digitise your CD collection? (& Part 4)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-4-4kem) - 2025-04-08
 
-* [MCP y la interacción de las IAs con otros sistemas](https://fernand0.github.io//mcp-que-es/) - 2025-12-23
+* [So you would like to digitise your CD collection? (Part 3)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-3-505f) - 2025-03-09
 
-* [Alucinanciones de las Inteligencias Artificiales y sus consecuencias en el desarrollo de código](https://fernand0.github.io//codigo-generado-ia/) - 2025-12-16
+* [So you would like to digitise your CD collection? (Part 2)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-2-4ang) - 2025-01-31
 
-* [Identificadores de seguridad: autorización vs autentificación](https://fernand0.github.io//objetos-identificacion/) - 2025-12-10
+* [So you would like to digitise your CD collection? (Part 1)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-1-4i2m) - 2025-01-25
 
-* [Los drones en la guerra: nuevos usos y ciberseguridad](https://fernand0.github.io//drones-guerra-electronica/) - 2025-12-02
+* [So, you want to publish in Bluesky with a python program?](https://dev.to/fernand0/so-you-want-to-publish-in-bluesky-with-a-python-program-3bea) - 2023-11-02
 
-* [Protección de ataques en el hardware: más allá de la aleatorización](https://fernand0.github.io//proteccion-codigo-ejecucion/) - 2025-11-26
+* [So, you want to refresh thumbnails in nautilus?](https://dev.to/fernand0/so-you-want-to-refresh-thumbnails-in-nautilus-3n8o) - 2023-08-09
 
-* [Ataques usando canales laterales: tus auriculares de cable](https://fernand0.github.io//auriculares-espionaje/) - 2025-11-20
+* [So, yo wan to build a personal aggregator with Jekyll?](https://dev.to/fernand0/so-yo-wan-to-build-a-personal-aggregator-with-jekyll-ia3) - 2022-11-06
 
-* [Código generado con IAs y seguridad: necesita mejorar](https://fernand0.github.io//codigo-seguro-ia/) - 2025-11-03
+* [So, you want a RSS feed with the activity in GitHub?](https://dev.to/fernand0/so-you-want-a-rss-feed-with-the-activity-in-github-2pa8) - 2022-10-13
 
-* [Del ‘no-code’ al código dirigido por preguntas con ayuda de las IAs](https://fernand0.github.io//low-code-no-code/) - 2025-10-27
+* [So, you want to control your android from your linux desktop?](https://dev.to/fernand0/so-you-want-to-control-your-android-from-your-linux-desktop-3lan) - 2022-01-21
 
-* [Contra chat control](https://fernand0.github.io//contra-chat-control/) - 2025-10-15
+* [So, you want to restart the sound system in Fedora?](https://dev.to/fernand0/so-you-want-to-restart-the-sound-system-in-fedora-51pa) - 2021-10-28
 
-## [Bitácora de fernand0](https://blog.elmundoesimperfecto.com/)
+* [So, you want to delete old log files in your Fedora system?](https://dev.to/fernand0/so-you-want-to-delete-old-log-files-in-your-fedora-system-37ne) - 2021-10-02
+
+* [So, you want to launch several threads in Python and something does not work?](https://dev.to/fernand0/so-you-want-to-launch-several-threads-in-python-and-something-does-not-work-193d) - 2021-07-19
+
+## [fernand0@GitHub](https://fernand0.github.io)/
+
+* [Vibe coding y programación asistida por LLMs](https://fernand0.github.io/vibe-coding-ia/) - 2026-01-14
+
+* [MCP y la interacción de las IAs con otros sistemas](https://fernand0.github.io/mcp-que-es/) - 2025-12-23
+
+* [Alucinanciones de las Inteligencias Artificiales y sus consecuencias en el desarrollo de código](https://fernand0.github.io/codigo-generado-ia/) - 2025-12-16
+
+* [Identificadores de seguridad: autorización vs autentificación](https://fernand0.github.io/objetos-identificacion/) - 2025-12-10
+
+* [Los drones en la guerra: nuevos usos y ciberseguridad](https://fernand0.github.io/drones-guerra-electronica/) - 2025-12-02
+
+* [Protección de ataques en el hardware: más allá de la aleatorización](https://fernand0.github.io/proteccion-codigo-ejecucion/) - 2025-11-26
+
+* [Ataques usando canales laterales: tus auriculares de cable](https://fernand0.github.io/auriculares-espionaje/) - 2025-11-20
+
+* [Código generado con IAs y seguridad: necesita mejorar](https://fernand0.github.io/codigo-seguro-ia/) - 2025-11-03
+
+* [Del ‘no-code’ al código dirigido por preguntas con ayuda de las IAs](https://fernand0.github.io/low-code-no-code/) - 2025-10-27
+
+* [Contra chat control](https://fernand0.github.io/contra-chat-control/) - 2025-10-15
+
+## [Bitácora de fernand0](https://blog.elmundoesimperfecto.com)/
 
 * [En Buenos Días Aragón hablando de reconocimiento automático de contenido (ACR)](https://blog.elmundoesimperfecto.com/2026/01/29/en-buenos-dias-aragon-acr/) - 2026-01-29
 
