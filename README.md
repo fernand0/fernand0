@@ -10,14 +10,6 @@
 <a href="https://elmundoesimperfecto.com/" rel="me">El Mundo Es Imperfecto</a> is my homepage.
 </div>
 
-## Social Networks
-
-- **LinkedIn**: [linkedin.com/in/fernand0](https://www.linkedin.com/in/fernand0)
-- **Twitter/X**: [@fernand0](https://www.twitter.com/fernand0)
-- **Mastodon**: [@fernand0@mastodon.social](https://mastodon.social/@fernand0)
-- **Flickr**: [flickr.com/fernand0](https://flickr.com/fernand0)
-- **DEV.TO**: [dev.to/fernand0](https://dev.to/fernand0)
-
 # Recent Contributions
 <!-- recent_releases starts -->
 
