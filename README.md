@@ -56,7 +56,12 @@
 # From my Mastodon
 
 <!-- mastodon starts -->
-
+## [fernand0@mastodon.social](https://mastodon.social/@fernand0)
+* [<p>F-35 Software Could Be Jailbreaked Like An iPhone: Dutch Defense Secretary <a href="https://www.twz.com/air/f-35-software-could-be-jailbreaked-like-an-iphone-dutch-defense-minister" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">twz.com/air/f-35-software-coul</span><span class="invisible">d-be-jailbreaked-like-an-iphone-dutch-defense-minister</span></a></p>](https://mastodon.social/@fernand0/116142341934761646) - 2026-02-27
+* [<p>Open source registries underfunded as security costs rise <a href="https://www.theregister.com/2026/02/16/open_source_registries_fund_security/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">theregister.com/2026/02/16/ope</span><span class="invisible">n_source_registries_fund_security/</span></a></p>](https://mastodon.social/@fernand0/116142084971377739) - 2026-02-27
+* [<p>Using a Raspberry Pi to run OpenClaw makes no sense <a href="https://www.theregister.com/2026/02/20/raspberry_pi_meme_stock_disorder/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">theregister.com/2026/02/20/ras</span><span class="invisible">pberry_pi_meme_stock_disorder/</span></a></p>](https://mastodon.social/@fernand0/116141874872792832) - 2026-02-27
+* [<p>Sam Altman would like to remind you that humans use a lot of energy, too | TechCrunch <a href="https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">techcrunch.com/2026/02/21/sam-</span><span class="invisible">altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/</span></a></p>](https://mastodon.social/@fernand0/116140220303984909) - 2026-02-27
+* [<p>Goldman Sachs, Morgan Stanley Calculate AI's Contribution To U.S. Growth May Be Basically Zero - Slashdot <a href="https://news.slashdot.org/story/26/02/23/1342216/goldman-sachs-morgan-stanley-calculate-ais-contribution-to-us-growth-may-be-basically-zero" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">news.slashdot.org/story/26/02/</span><span class="invisible">23/1342216/goldman-sachs-morgan-stanley-calculate-ais-contribution-to-us-growth-may-be-basically-zero</span></a></p>](https://mastodon.social/@fernand0/116138379829917854) - 2026-02-26
 <!-- mastodon ends -->
 
 ---

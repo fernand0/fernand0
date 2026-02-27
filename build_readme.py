@@ -245,7 +245,7 @@ def format_blog_entry(entry: dict[str, Any]) -> BlogEntry | None:
         return None
 
     return BlogEntry(
-        title=entry.get("title", "Untitled"),
+        title=entry.get("title", entry.get("description")),
         url=entry.get("link", "").split("#")[0],
         published=formatted_date,
     )
