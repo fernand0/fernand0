@@ -354,25 +354,12 @@ def fetch_mastodon_posts(config: MastodonConfig) -> list[BlogEntry]:
     Returns:
         List of BlogEntry objects representing Mastodon posts.
     """
-    if not validate_url(config.feed_url):
-        logger.warning("Invalid Mastodon feed URL: %s", config.feed_url)
-        return []
-
-    try:
-        feed = feedparser.parse(config.feed_url)
-        posts: list[BlogEntry] = []
-
-        for entry in feed.get("entries", []):
-            post = format_blog_entry(entry)
-            if post:
-                posts.append(post)
-
-        logger.info("Fetched %d posts from Mastodon @%s", len(posts), config.username)
-        return posts
-
-    except Exception as e:
-        logger.error("Failed to fetch Mastodon feed: %s", e)
-        return []
+    # Reuse fetch_blog_entries with a single-item dict
+    blogs_dict = {"mastodon": BlogConfig(feed_url=config.feed_url)}
+    result = fetch_blog_entries(blogs_dict)
+    posts = result.get("mastodon", [])
+    logger.info("Fetched %d posts from Mastodon @%s", len(posts), config.username)
+    return posts
 
 
 # --- Formatting functions ---
