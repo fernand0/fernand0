@@ -18,7 +18,7 @@
 # On my blogs
 
 <!-- blog starts -->
-## [fernand0@dev.to](https://dev.to)/
+## [fernand0@dev.to (in English)](https://dev.to)
 
 * [So you would like to digitise your CD collection? (& Part 4)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-4-4kem) - 2025-04-08
 
@@ -30,7 +30,7 @@
 
 * [So, you want to publish in Bluesky with a python program?](https://dev.to/fernand0/so-you-want-to-publish-in-bluesky-with-a-python-program-3bea) - 2023-11-02
 
-## [fernand0@GitHub](https://fernand0.github.io)/
+## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
 * [Vibe coding y programación asistida por LLMs](https://fernand0.github.io/vibe-coding-ia/) - 2026-01-14
 
@@ -42,7 +42,7 @@
 
 * [Los drones en la guerra: nuevos usos y ciberseguridad](https://fernand0.github.io/drones-guerra-electronica/) - 2025-12-02
 
-## [Bitácora de fernand0](https://blog.elmundoesimperfecto.com)/
+## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
 
 * [En Buenos Días Aragón hablando de reconocimiento automático de contenido (ACR)](https://blog.elmundoesimperfecto.com/2026/01/29/en-buenos-dias-aragon-acr/) - 2026-01-29
 
