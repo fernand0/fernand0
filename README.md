@@ -30,20 +30,6 @@
 
 * [So, you want to publish in Bluesky with a python program?](https://dev.to/fernand0/so-you-want-to-publish-in-bluesky-with-a-python-program-3bea) - 2023-11-02
 
-* [So, you want to refresh thumbnails in nautilus?](https://dev.to/fernand0/so-you-want-to-refresh-thumbnails-in-nautilus-3n8o) - 2023-08-09
-
-* [So, yo wan to build a personal aggregator with Jekyll?](https://dev.to/fernand0/so-yo-wan-to-build-a-personal-aggregator-with-jekyll-ia3) - 2022-11-06
-
-* [So, you want a RSS feed with the activity in GitHub?](https://dev.to/fernand0/so-you-want-a-rss-feed-with-the-activity-in-github-2pa8) - 2022-10-13
-
-* [So, you want to control your android from your linux desktop?](https://dev.to/fernand0/so-you-want-to-control-your-android-from-your-linux-desktop-3lan) - 2022-01-21
-
-* [So, you want to restart the sound system in Fedora?](https://dev.to/fernand0/so-you-want-to-restart-the-sound-system-in-fedora-51pa) - 2021-10-28
-
-* [So, you want to delete old log files in your Fedora system?](https://dev.to/fernand0/so-you-want-to-delete-old-log-files-in-your-fedora-system-37ne) - 2021-10-02
-
-* [So, you want to launch several threads in Python and something does not work?](https://dev.to/fernand0/so-you-want-to-launch-several-threads-in-python-and-something-does-not-work-193d) - 2021-07-19
-
 ## [fernand0@GitHub](https://fernand0.github.io)/
 
 * [Vibe coding y programación asistida por LLMs](https://fernand0.github.io/vibe-coding-ia/) - 2026-01-14
@@ -56,16 +42,6 @@
 
 * [Los drones en la guerra: nuevos usos y ciberseguridad](https://fernand0.github.io/drones-guerra-electronica/) - 2025-12-02
 
-* [Protección de ataques en el hardware: más allá de la aleatorización](https://fernand0.github.io/proteccion-codigo-ejecucion/) - 2025-11-26
-
-* [Ataques usando canales laterales: tus auriculares de cable](https://fernand0.github.io/auriculares-espionaje/) - 2025-11-20
-
-* [Código generado con IAs y seguridad: necesita mejorar](https://fernand0.github.io/codigo-seguro-ia/) - 2025-11-03
-
-* [Del ‘no-code’ al código dirigido por preguntas con ayuda de las IAs](https://fernand0.github.io/low-code-no-code/) - 2025-10-27
-
-* [Contra chat control](https://fernand0.github.io/contra-chat-control/) - 2025-10-15
-
 ## [Bitácora de fernand0](https://blog.elmundoesimperfecto.com)/
 
 * [En Buenos Días Aragón hablando de reconocimiento automático de contenido (ACR)](https://blog.elmundoesimperfecto.com/2026/01/29/en-buenos-dias-aragon-acr/) - 2026-01-29
@@ -77,132 +53,6 @@
 * [Buscando sitios cómodos en internet](https://blog.elmundoesimperfecto.com/2025/12/23/web-acogedora/) - 2025-12-23
 
 * [Las inteligencias artificiales, la web abierta y nosotros](https://blog.elmundoesimperfecto.com/2025/12/16/fin-web-ia/) - 2025-12-16
-
-* [La gobernanza de las universidades y la política (en EEUU)](https://blog.elmundoesimperfecto.com/2025/12/10/universidades-politica/) - 2025-12-10
-
-* [La preservación digital y los riesgos actuales](https://blog.elmundoesimperfecto.com/2025/12/02/borrado-web/) - 2025-12-02
-
-* [Cuando los datos pasan de la nube a tu dispositivo y algo va mal](https://blog.elmundoesimperfecto.com/2025/11/26/migraciones-complicadas/) - 2025-11-26
-
-* [Cómo los científicos utilizan la IA para sus programas y qué habría que enseñarles](https://blog.elmundoesimperfecto.com/2025/11/20/cientificos-informatica-llm/) - 2025-11-20
-
-* [La forma en que programamos va a cambiar](https://blog.elmundoesimperfecto.com/2025/11/03/fin-programacion/) - 2025-11-03
-
-* [YouTube: ¿qué sube la gente normal y para qué lo usa?](https://blog.elmundoesimperfecto.com/2025/10/27/algoritmo-youtube/) - 2025-10-27
-
-* [En Buenos Días Aragón hablando de la caída de AWS](https://blog.elmundoesimperfecto.com/2025/10/21/buenos-dias-aragon-aws/) - 2025-10-21
-
-* [Contra Chat Control](https://blog.elmundoesimperfecto.com/2025/10/15/contra-chatcontrol/) - 2025-10-15
-
-* [Un calendario en un fichero de texto](https://blog.elmundoesimperfecto.com/2025/10/06/calendarios/) - 2025-10-06
-
-* [Conocer y aprender a detectar los 'patrones oscuros' de la web](https://blog.elmundoesimperfecto.com/2025/09/24/patrones-oscuros/) - 2025-09-24
-
-* [¿Lento o rápido? Nuestra experiencia con los sistemas informáticos](https://blog.elmundoesimperfecto.com/2025/09/24/velocidad-computadores/) - 2025-09-24
-
-* [Algunos datos sobre el internet de 2024](https://blog.elmundoesimperfecto.com/2025/09/16/internet-cloudflare/) - 2025-09-16
-
-* [Creatividad y reseñas de internet. No todo está perdido.](https://blog.elmundoesimperfecto.com/2025/09/01/creatividad-revisiones/) - 2025-09-01
-
-* [Cuando la música se convierte en una forma de ganar dinero se buscan medios para conseguirla más barata](https://blog.elmundoesimperfecto.com/2025/08/25/musicos-fantasmas/) - 2025-08-25
-
-* [Algunos cambios en la forma de contratar con las IAs](https://blog.elmundoesimperfecto.com/2025/08/18/empleo-IA-generativa/) - 2025-08-18
-
-* [La IA como ayudante y la sospecha sobre quién ha trabajado](https://blog.elmundoesimperfecto.com/2025/08/11/universidades-ia-generativa/) - 2025-08-11
-
-* [Información, datos y sus límites](https://blog.elmundoesimperfecto.com/2025/08/04/limites-datos/) - 2025-08-04
-
-* [¿Qué escuchas en el coche?](https://blog.elmundoesimperfecto.com/2025/07/28/escuchar-musica-coche/) - 2025-07-28
-
-* [Internet y la preservación de información](https://blog.elmundoesimperfecto.com/2025/07/24/internet-era-documentada/) - 2025-07-24
-
-* [Las definiciones son importantes: IAs 'open source'](https://blog.elmundoesimperfecto.com/2025/07/14/ai-open-source/) - 2025-07-14
-
-* [Las aplicaciones pueden delatar tu posición. O la de alguien con el que vas](https://blog.elmundoesimperfecto.com/2025/07/07/localizacion-aplicaciones/) - 2025-07-07
-
-* [En la web de RTVE hablando sobre redes sociales](https://blog.elmundoesimperfecto.com/2025/07/04/en-RTVE-hablando-redes-sociales/) - 2025-07-04
-
-* [Lo que importa (en internet y la indie web)](https://blog.elmundoesimperfecto.com/2025/06/27/lo-que-importa/) - 2025-06-27
-
-* [Las inteligencias artificiales y la revisión por pares](https://blog.elmundoesimperfecto.com/2025/05/22/revision-pares-ia/) - 2025-05-22
-
-* [En tecnolocuras hablando del blog](https://blog.elmundoesimperfecto.com/2025/03/26/en-tecnolocuras-conversaciones/) - 2025-03-26
-
-* [En la 2ª Edición del Encuentro Ciberseguridad 360º](https://blog.elmundoesimperfecto.com/2025/02/11/en-encuentro-ciberseguridad-360/) - 2025-02-11
-
-* [En la Jornada sobre Ciberseguridad en la era de la IA: retos y oportunidades](https://blog.elmundoesimperfecto.com/2025/01/24/en-jornada-ciberseguridad-ia/) - 2025-01-24
-
-* [La información digital, la web y la permanencia](https://blog.elmundoesimperfecto.com/2025/01/15/desaparicion-contenido-internet/) - 2025-01-15
-
-* [Algunas estadísticas y datos sobre chatGPT](https://blog.elmundoesimperfecto.com/2025/01/09/algunos-numeros-y-datos-chatGPT/) - 2025-01-09
-
-* [Manteniendo el jardín digital](https://blog.elmundoesimperfecto.com/2025/01/02/jardin-digital/) - 2025-01-02
-
-* [Esos viejos discos duros ya no tienen la información, ¿y ahora qué?](https://blog.elmundoesimperfecto.com/2024/12/23/preservacion-digital/) - 2024-12-23
-
-* [Menos básicos de lo que pensamos: educación y pareja](https://blog.elmundoesimperfecto.com/2024/12/16/citas-en-linea-desigualdad/) - 2024-12-16
-
-* [¿Seguirá tu nuevo coche funcionando en unos años?](https://blog.elmundoesimperfecto.com/2024/12/02/cierre-empresas-coches/) - 2024-12-02
-
-* [Juan Palomo algorítmico](https://blog.elmundoesimperfecto.com/2024/11/18/ia-industria-musical/) - 2024-11-18
-
-* [En las Mesas de Debate AICAR ADICAE sobre ciberseguridad](https://blog.elmundoesimperfecto.com/2024/11/14/en-mesa-debate-aicar-adicae/) - 2024-11-14
-
-* [El correo como sistema de acceso sin contraseña](https://blog.elmundoesimperfecto.com/2024/11/11/nuevas-tendencias-autenticacion/) - 2024-11-11
-
-* [No puedo asistir a la reunión, mi asistente lo hará por mi](https://blog.elmundoesimperfecto.com/2024/11/07/reunion-ia-bot/) - 2024-11-07
-
-* [En ENISE, moderando una mesa sobre ciberseguridad](https://blog.elmundoesimperfecto.com/2024/10/23/en-enise-mesa-ciberseguridad/) - 2024-10-23
-
-* [En el día mundial del cifrado con los Cibervoluntarios](https://blog.elmundoesimperfecto.com/2024/10/21/dia-global-cifrado-cibervoluntarios/) - 2024-10-21
-
-* [¿Están sesgadas las discusiones sobre los sesgos de las inteligencias artificiales?](https://blog.elmundoesimperfecto.com/2024/10/14/sesgos-ia/) - 2024-10-14
-
-* [En el foro 'Claves Para Entender El Nuevo Mercado Laboral'](https://blog.elmundoesimperfecto.com/2024/10/07/foro-mercado-laboral/) - 2024-10-07
-
-* [El enlace, la atribución y el flujo de información](https://blog.elmundoesimperfecto.com/2024/10/07/enlazar-y-atribuir/) - 2024-10-07
-
-* [Contando cantidades muy grandes con la ayuda de una moneda](https://blog.elmundoesimperfecto.com/2024/09/30/contar-y-aleatoriedad/) - 2024-09-30
-
-* [Tiempos complicados, malos comportamientos y vigilancia](https://blog.elmundoesimperfecto.com/2024/09/26/indicios-tiempos-complicados/) - 2024-09-26
-
-* [Los modelos de lenguaje, los datos y las instrucciones](https://blog.elmundoesimperfecto.com/2024/09/19/datos-control-seguridad-llms/) - 2024-09-19
-
-* [La inteligencia artificial y algunos argumentos alrededor de ella](https://blog.elmundoesimperfecto.com/2024/09/09/inteligencia-artificial-imitacion/) - 2024-09-09
-
-* [Abundancia de información, difusión, y granularidad](https://blog.elmundoesimperfecto.com/2024/09/02/abundancia-o-escasez-internet/) - 2024-09-02
-
-* [Podcasts y oportunidades... ¿Perdidas?](https://blog.elmundoesimperfecto.com/2024/08/26/podcasts-o-no-podcats/) - 2024-08-26
-
-* [¿Desconexión digital o tomar el control?](https://blog.elmundoesimperfecto.com/2024/08/20/detox-desintoxicacion-digital/) - 2024-08-20
-
-* [Apple, los espías, la intimidad y los jueces](https://blog.elmundoesimperfecto.com/2024/08/12/apple-privacidad-jueces/) - 2024-08-12
-
-* [¿Eres humano? La web cada vez más difícil de usar](https://blog.elmundoesimperfecto.com/2024/08/05/eres-humano/) - 2024-08-05
-
-* [Las inteligencias artificiales, la confianza y quién nos la devolverá cuando la perdamos](https://blog.elmundoesimperfecto.com/2024/07/29/IA-confianza/) - 2024-07-29
-
-* [Crowdstrike: hacer las cosas (más o menos) bien y aún así...](https://blog.elmundoesimperfecto.com/2024/07/24/enAragon-TV-hablando-crowdstrike/) - 2024-07-24
-
-* [En la web de Aragón Noticias, de Aragón TV, hablando sobre robos de datos](https://blog.elmundoesimperfecto.com/2024/06/21/webNoticiasAragonRoboDatos/) - 2024-06-21
-
-* [En Objetivo, de Aragón TV hablando sobre espionaje](https://blog.elmundoesimperfecto.com/2024/06/01/objetivoAragonEspias/) - 2024-06-01
-
-* [Estudiantes y canales alternativos de comunicación](https://blog.elmundoesimperfecto.com/2024/05/30/canales-alternativos-informacion/) - 2024-05-30
-
-* [La copia, las inteligencias artificiales y el aprendizaje](https://blog.elmundoesimperfecto.com/2024/05/20/trabajos-academicos-ia/) - 2024-05-20
-
-* [Por lo tanto, descarga, archiva, conserva ...](https://blog.elmundoesimperfecto.com/2024/05/09/descarga-lo-que-amas/) - 2024-05-09
-
-* [Nada es eterno en internet, parece](https://blog.elmundoesimperfecto.com/2024/05/03/nada-es-eterno-en-internet/) - 2024-05-03
-
-* [Medios sociales e inteligencia colectiva, ¿hemos fracasado?](https://blog.elmundoesimperfecto.com/2024/03/25/inteligencia-colectiva-algoritmos/) - 2024-03-25
-
-* [Future Politics. Algunos párrafos que señalé mientras lo leía.](https://blog.elmundoesimperfecto.com/2024/03/11/el-futuro-politica/) - 2024-03-11
-
-* [Automatización: contenido automático, publicidad programada y tú ¿también eres un robot?](https://blog.elmundoesimperfecto.com/2024/03/08/automatizacion-publicidad-programada-robot/) - 2024-03-08
-
-* [Hola mundo](https://blog.elmundoesimperfecto.com/2024/03/07/hola-mundo/) - 2024-03-07
 <!-- blog ends -->
 
 ---
