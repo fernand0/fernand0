@@ -1,5 +1,7 @@
 ### Hi there -- ¡Hola!
 
+[![Build README](https://github.com/fernand0/fernand0/actions/workflows/build.yml/badge.svg)](https://github.com/fernand0/fernand0/actions/workflows/build.yml)
+
 <a href="mailto:ftricas@unizar.es" title="e-mail"><img src="https://img.shields.io/badge/email-ftricas@unizar.es-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/fernand0" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://twitter.com/fernand0" title="Twitter/X"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
