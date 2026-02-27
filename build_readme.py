@@ -31,6 +31,7 @@ DEFAULT_CONFIG = {
     "max_repositories": 10,
     "max_contributions": 20,
     "max_blog_entries": 5,
+    "max_mastodon_posts": 5,
 }
 
 
@@ -53,6 +54,30 @@ DEFAULT_BLOGS: dict[str, BlogConfig] = {
         feed_url="https://blog.elmundoesimperfecto.com/atom.xml",
     ),
 }
+
+
+@dataclass
+class MastodonConfig:
+    """Configuration for a Mastodon account."""
+    username: str
+    server: str = "mastodon.social"
+    display_url: str | None = None  # Optional: override display URL
+
+    @property
+    def feed_url(self) -> str:
+        """Generate RSS feed URL for Mastodon posts."""
+        return f"https://{self.server}/@{self.username}.rss"
+
+    @property
+    def profile_url(self) -> str:
+        """Generate profile URL."""
+        return f"https://{self.server}/@{self.username}"
+
+
+DEFAULT_MASTODON: MastodonConfig | None = MastodonConfig(
+    username="fernand0",
+    server="mastodon.social",
+)
 
 REPO_LIMITS = {
     "repositories": 10,
@@ -320,6 +345,36 @@ def fetch_blog_entries(blogs: dict[str, BlogConfig]) -> dict[str, list[BlogEntry
     return result
 
 
+def fetch_mastodon_posts(config: MastodonConfig) -> list[BlogEntry]:
+    """Fetch recent posts from a Mastodon account via RSS feed.
+
+    Args:
+        config: MastodonConfig with username and server.
+
+    Returns:
+        List of BlogEntry objects representing Mastodon posts.
+    """
+    if not validate_url(config.feed_url):
+        logger.warning("Invalid Mastodon feed URL: %s", config.feed_url)
+        return []
+
+    try:
+        feed = feedparser.parse(config.feed_url)
+        posts: list[BlogEntry] = []
+
+        for entry in feed.get("entries", []):
+            post = format_blog_entry(entry)
+            if post:
+                posts.append(post)
+
+        logger.info("Fetched %d posts from Mastodon @%s", len(posts), config.username)
+        return posts
+
+    except Exception as e:
+        logger.error("Failed to fetch Mastodon feed: %s", e)
+        return []
+
+
 # --- Formatting functions ---
 
 def format_repositories_md(
@@ -400,6 +455,37 @@ def format_blog_entries_md(
     return "\n\n".join(entries_md_parts)
 
 
+def format_mastodon_posts_md(
+    posts: list[BlogEntry],
+    config: MastodonConfig,
+    max_posts: int = 5,
+) -> str:
+    """Format Mastodon posts as Markdown.
+
+    Args:
+        posts: List of Mastodon post entries.
+        config: MastodonConfig with profile information.
+        max_posts: Maximum number of posts to include.
+
+    Returns:
+        Formatted Markdown string.
+    """
+    if not posts:
+        return ""
+
+    md_parts: list[str] = []
+    base_url = config.display_url if config.display_url else config.profile_url
+    md_parts.append(f"## [{config.username}@{config.server}]({base_url})")
+
+    for post in posts[:max_posts]:
+        clean_url = re.sub(r"(?<!:)/{2,}", "/", post.url)
+        md_parts.append(
+            "* [{}]({}) - {}".format(post.title, clean_url, post.published)
+        )
+
+    return "\n".join(md_parts)
+
+
 # --- Main entry point ---
 
 def main() -> None:
@@ -409,6 +495,7 @@ def main() -> None:
     token = config["token"]
     readme_path = pathlib.Path(__file__).parent.resolve() / config["readme_file"]
     max_blog_entries = config.get("max_blog_entries", 5)
+    max_mastodon_posts = config.get("max_mastodon_posts", 5)
 
     logger.info("Starting README update for user: %s", username)
 
@@ -427,6 +514,14 @@ def main() -> None:
     blogs = fetch_blog_entries(DEFAULT_BLOGS)
     entries_md = format_blog_entries_md(blogs, DEFAULT_BLOGS, max_blog_entries)
     rewritten = replace_chunk(rewritten, "blog", entries_md)
+
+    # Fetch and format Mastodon posts
+    if DEFAULT_MASTODON:
+        mastodon_posts = fetch_mastodon_posts(DEFAULT_MASTODON)
+        mastodon_md = format_mastodon_posts_md(
+            mastodon_posts, DEFAULT_MASTODON, max_mastodon_posts
+        )
+        rewritten = replace_chunk(rewritten, "mastodon", mastodon_md)
 
     # Write updated README
     readme_path.write_text(rewritten, encoding="utf-8")

@@ -53,6 +53,12 @@
 * [Las inteligencias artificiales, la web abierta y nosotros](https://blog.elmundoesimperfecto.com/2025/12/16/fin-web-ia/) - 2025-12-16
 <!-- blog ends -->
 
+# From my Mastodon
+
+<!-- mastodon starts -->
+
+<!-- mastodon ends -->
+
 ---
 
 *This README is auto-generated using a workflow inspired by [Simon Willison](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).*
