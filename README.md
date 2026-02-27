@@ -56,7 +56,7 @@
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
-## Links published in: [fernand0@mastodon.social](https://mastodon.social/@fernand0) (and another social networks)
+## [fernand0@mastodon.social](https://mastodon.social/@fernand0)
 * [Gary Vaynerchuk says Gen Z mental health was ruined by this common family issue—so stop blaming social media <a href="https://www.fastcompany.com/91494605/gary-v-vaynerchuk-says-gen-z-teen-mental-health-wasnt-ruined-by-social-media-parenting" rel="nofollow noopener" target="_blank">https://www.fastcompany.com/91494605/gary-v-vaynerchuk-says-gen-z-teen-mental-health-wasnt-ruined-by-social-media-parenting</a>](https://mastodon.social/@fernand0/116144023749286645) - 2026-02-27
 * [Madrid 2026 - RootedCON  <a href="https://rootedcon.com/agenda/madrid-2026/" rel="nofollow noopener" target="_blank">https://rootedcon.com/agenda/madrid-2026/</a>](https://mastodon.social/@fernand0/116143692801984372) - 2026-02-27
 * [Mezquita azul y hotel <a href="https://www.flickr.com/photos/fernand0/55109723133/" rel="nofollow noopener" target="_blank">https://www.flickr.com/photos/fernand0/55109723133/</a>](https://mastodon.social/@fernand0/116143549299867818) - 2026-02-27
