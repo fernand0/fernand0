@@ -53,7 +53,7 @@
 * [Las inteligencias artificiales, la web abierta y nosotros](https://blog.elmundoesimperfecto.com/2025/12/16/fin-web-ia/) - 2025-12-16
 <!-- blog ends -->
 
-# From my Mastodon
+# Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## Links published in: [fernand0@mastodon.social](https://mastodon.social/@fernand0) (and another social networks)
