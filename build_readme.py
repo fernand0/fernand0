@@ -5,16 +5,20 @@ Fetches recent GitHub repositories and blog posts to update README.md.
 Inspired by https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 """
 
+from __future__ import annotations
+
 import logging
 import os
 import pathlib
 import re
 import sys
 from dataclasses import dataclass
-from typing import Any
+from typing import Any, TypedDict
 from urllib.parse import urlsplit
 
 import feedparser
+import yaml
+from bs4 import BeautifulSoup
 from dateutil.parser import parse
 from python_graphql_client import GraphqlClient
 
@@ -23,37 +27,12 @@ from python_graphql_client import GraphqlClient
 GITHUB_GRAPHQL_ENDPOINT = "https://api.github.com/graphql"
 GITHUB_API_VERSION = "2023-12-28"
 
-DEFAULT_CONFIG = {
-    "github_username": "fernand0",
-    "token_env_var": "FERNAND0_TOKEN",
-    "username_env_var": "GITHUB_USERNAME",
-    "readme_file": "README.md",
-    "max_repositories": 10,
-    "max_contributions": 20,
-    "max_blog_entries": 5,
-    "max_mastodon_posts": 5,
-}
-
 
 @dataclass
 class BlogConfig:
     """Configuration for a blog source."""
     feed_url: str
     display_url: str | None = None  # Optional: override display URL
-
-
-DEFAULT_BLOGS: dict[str, BlogConfig] = {
-    "fernand0@dev.to (in English)": BlogConfig(
-        feed_url="https://dev.to/feed/fernand0",
-        display_url="https://dev.to/fernand0",
-    ),
-    "fernand0@GitHub (in Spanish)": BlogConfig(
-        feed_url="https://fernand0.github.io/feed.xml",
-    ),
-    "Bitácora de fernand0 (in Spanish)": BlogConfig(
-        feed_url="https://blog.elmundoesimperfecto.com/atom.xml",
-    ),
-}
 
 
 @dataclass
@@ -74,12 +53,50 @@ class MastodonConfig:
         return f"https://{self.server}/@{self.username}"
 
 
-DEFAULT_MASTODON: MastodonConfig | None = MastodonConfig(
-    username="fernand0",
-    server="mastodon.social",
+@dataclass
+class Config:
+    """Application configuration loaded from config.yaml."""
+    github_username: str
+    token_env_var: str
+    readme_file: str
+    max_repositories: int
+    max_contributions: int
+    max_blog_entries: int
+    max_mastodon_posts: int
+    blogs: dict[str, BlogConfig]
+    mastodon: MastodonConfig | None = None
+
+    @property
+    def token(self) -> str:
+        """Get GitHub token from environment variable."""
+        return os.environ.get(self.token_env_var, "")
+
+
+DEFAULT_CONFIG = Config(
+    github_username="fernand0",
+    token_env_var="FERNAND0_TOKEN",
+    readme_file="README.md",
+    max_repositories=10,
+    max_contributions=20,
+    max_blog_entries=5,
+    max_mastodon_posts=5,
+    blogs={
+        "fernand0@dev.to (in English)": BlogConfig(
+            feed_url="https://dev.to/feed/fernand0",
+            display_url="https://dev.to/fernand0",
+        ),
+        "fernand0@GitHub (in Spanish)": BlogConfig(
+            feed_url="https://fernand0.github.io/feed.xml",
+        ),
+        "Bitácora de fernand0 (in Spanish)": BlogConfig(
+            feed_url="https://blog.elmundoesimperfecto.com/atom.xml",
+        ),
+    },
+    mastodon=MastodonConfig(username="fernand0", server="mastodon.social"),
 )
 
-REPO_LIMITS = {
+
+REPO_LIMITS: dict[str, int] = {
     "repositories": 10,
     "repositoriesContributedTo": 20,
 }
@@ -91,6 +108,57 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s",
 )
 logger = logging.getLogger(__name__)
+
+
+# --- Type definitions ---
+
+
+class TokenValidationError(Exception):
+    """Raised when GitHub token validation fails."""
+    pass
+
+
+class GraphQLRepoNode(TypedDict, total=False):
+    """Type for a repository node in GraphQL response."""
+    name: str
+    description: str | None
+    url: str
+    pushedAt: str
+
+
+class GraphQLRepoEdge(TypedDict):
+    """Type for a repository edge in GraphQL response."""
+    node: GraphQLRepoNode
+
+
+class GraphQLRepoConnection(TypedDict, total=False):
+    """Type for a repository connection in GraphQL response."""
+    edges: list[GraphQLRepoEdge]
+
+
+class GraphQLUser(TypedDict, total=False):
+    """Type for user data in GraphQL response."""
+    repositories: GraphQLRepoConnection
+    repositoriesContributedTo: GraphQLRepoConnection
+
+
+class GraphQLData(TypedDict):
+    """Type for GraphQL response data."""
+    user: GraphQLUser | None
+
+
+class GraphQLResponse(TypedDict, total=False):
+    """Type for GraphQL API response."""
+    data: GraphQLData | None
+
+
+class FeedEntry(TypedDict, total=False):
+    """Type for feedparser entry."""
+    title: str
+    description: str
+    link: str
+    published: str
+    updated: str
 
 
 # --- Data classes ---
@@ -116,6 +184,181 @@ class BlogEntry:
 
 # --- Helper functions ---
 
+
+def load_config(config_path: pathlib.Path | None = None) -> Config:
+    """Load configuration from config.yaml file.
+
+    Falls back to DEFAULT_CONFIG if file doesn't exist or is invalid.
+
+    Args:
+        config_path: Optional path to config file. Defaults to config.yaml
+                    in the same directory as this script.
+
+    Returns:
+        Config object with all configuration settings.
+    """
+    if config_path is None:
+        config_path = pathlib.Path(__file__).parent / "config.yaml"
+
+    if not config_path.exists():
+        logger.info("Config file not found at %s, using defaults", config_path)
+        return DEFAULT_CONFIG
+
+    try:
+        with open(config_path, "r", encoding="utf-8") as f:
+            data = yaml.safe_load(f)
+
+        if not data:
+            logger.warning("Config file is empty, using defaults")
+            return DEFAULT_CONFIG
+
+        # Parse blogs configuration
+        blogs: dict[str, BlogConfig] = {}
+        blogs_data = data.get("blogs", {})
+        for blog_name, blog_config in blogs_data.items():
+            if isinstance(blog_config, dict):
+                blogs[blog_name] = BlogConfig(
+                    feed_url=blog_config.get("feed_url", ""),
+                    display_url=blog_config.get("display_url"),
+                )
+
+        # Parse Mastodon configuration
+        mastodon: MastodonConfig | None = None
+        mastodon_data = data.get("mastodon")
+        if mastodon_data and isinstance(mastodon_data, dict):
+            mastodon = MastodonConfig(
+                username=mastodon_data.get("username", ""),
+                server=mastodon_data.get("server", "mastodon.social"),
+                display_url=mastodon_data.get("display_url"),
+            )
+
+        # Parse GitHub configuration
+        github_data = data.get("github", {})
+        readme_data = data.get("readme", {})
+
+        config = Config(
+            github_username=github_data.get("username", DEFAULT_CONFIG.github_username),
+            token_env_var=github_data.get("token_env_var", DEFAULT_CONFIG.token_env_var),
+            readme_file=readme_data.get("file", DEFAULT_CONFIG.readme_file),
+            max_repositories=readme_data.get(
+                "max_repositories", DEFAULT_CONFIG.max_repositories
+            ),
+            max_contributions=readme_data.get(
+                "max_contributions", DEFAULT_CONFIG.max_contributions
+            ),
+            max_blog_entries=readme_data.get(
+                "max_blog_entries", DEFAULT_CONFIG.max_blog_entries
+            ),
+            max_mastodon_posts=readme_data.get(
+                "max_mastodon_posts", DEFAULT_CONFIG.max_mastodon_posts
+            ),
+            blogs=blogs if blogs else DEFAULT_CONFIG.blogs,
+            mastodon=mastodon if mastodon else DEFAULT_CONFIG.mastodon,
+        )
+
+        logger.info("Configuration loaded from %s", config_path)
+        return config
+
+    except yaml.YAMLError as e:
+        logger.error("Error parsing config file: %s. Using defaults.", e)
+        return DEFAULT_CONFIG
+    except Exception as e:
+        logger.error("Error loading config file: %s. Using defaults.", e)
+        return DEFAULT_CONFIG
+
+
+def validate_token_format(token: str) -> bool:
+    """Validate GitHub token format.
+
+    GitHub tokens have specific formats:
+    - Classic: ghp_ followed by 36 alphanumeric characters
+    - Fine-grained: github_pat_ followed by alphanumeric string
+
+    Args:
+        token: The token to validate.
+
+    Returns:
+        True if the token format is valid, False otherwise.
+    """
+    if not token:
+        return False
+
+    # Classic personal access token (ghp_)
+    classic_pattern = re.compile(r"^ghp_[a-zA-Z0-9]{36}$")
+    # Fine-grained personal access token (github_pat_)
+    fine_grained_pattern = re.compile(r"^github_pat_[a-zA-Z0-9_]+$")
+
+    return bool(classic_pattern.match(token) or fine_grained_pattern.match(token))
+
+
+def validate_token(token: str, username: str) -> None:
+    """Validate GitHub token by making a test API call.
+
+    Args:
+        token: The GitHub personal access token.
+        username: The GitHub username to verify access for.
+
+    Raises:
+        TokenValidationError: If the token is invalid or lacks required permissions.
+    """
+    if not token:
+        raise TokenValidationError(
+            f"GitHub token is missing. Set the {DEFAULT_CONFIG.token_env_var} "
+            f"environment variable with a valid personal access token.\n"
+            f"Create one at: https://github.com/settings/tokens\n"
+            f"Required scope: public_repo (or repo for private repos)"
+        )
+
+    if not validate_token_format(token):
+        raise TokenValidationError(
+            f"GitHub token format is invalid.\n"
+            f"Classic tokens start with 'ghp_' followed by 36 characters.\n"
+            f"Fine-grained tokens start with 'github_pat_'.\n"
+            f"Please check your token is correctly set in the environment."
+        )
+
+    # Test the token with a lightweight API call
+    client = GraphqlClient(endpoint=GITHUB_GRAPHQL_ENDPOINT)
+    test_query = """
+    query ValidateToken {
+      viewer {
+        login
+        name
+      }
+    }
+    """
+
+    try:
+        response = client.execute(
+            query=test_query,
+            headers={
+                "Authorization": f"Bearer {token}",
+                "X-GitHub-Api-Version": GITHUB_API_VERSION,
+            },
+        )
+    except Exception as e:
+        raise TokenValidationError(
+            f"Failed to connect to GitHub API: {e}\n"
+            f"Check your network connection and token validity."
+        ) from e
+
+    if not response or "data" not in response or not response.get("data") or not response["data"].get("viewer"):
+        raise TokenValidationError(
+            "GitHub token is invalid or expired.\n"
+            "Please generate a new token at: https://github.com/settings/tokens"
+        )
+
+    viewer_login = response["data"]["viewer"]["login"]
+    if viewer_login.lower() != username.lower():
+        logger.warning(
+            "Token belongs to user '%s' but GITHUB_USERNAME is '%s'. "
+            "This may cause permission issues.",
+            viewer_login,
+            username,
+        )
+
+    logger.info("GitHub token validated successfully for user: %s", viewer_login)
+
 def validate_url(url: str) -> bool:
     """Validate that a URL is well-formed.
 
@@ -132,19 +375,13 @@ def validate_url(url: str) -> bool:
         return False
 
 
-def get_config() -> dict[str, Any]:
-    """Load configuration from environment variables with defaults.
+def get_config() -> Config:
+    """Load configuration from config.yaml or environment variables.
 
     Returns:
-        Configuration dictionary with all required settings.
+        Config object with all configuration settings.
     """
-    config = DEFAULT_CONFIG.copy()
-    config["github_username"] = os.environ.get(
-        config["username_env_var"],
-        config["github_username"],
-    )
-    config["token"] = os.environ.get(config["token_env_var"], "")
-    return config
+    return load_config()
 
 
 def replace_chunk(content: str, marker: str, chunk: str) -> str:
@@ -190,7 +427,7 @@ query MyQuery {{
         }}
       }}
     }}
-    repositoriesContributedTo(last: {REPO_LIMITS["contributions"]}, orderBy: {{field: PUSHED_AT, direction: DESC}}) {{
+    repositoriesContributedTo(last: {REPO_LIMITS["repositoriesContributedTo"]}, orderBy: {{field: PUSHED_AT, direction: DESC}}) {{
       edges {{
         node {{
           name
@@ -205,7 +442,7 @@ query MyQuery {{
 """
 
 
-def format_repository(repo_node: dict[str, Any]) -> RepositoryEntry:
+def format_repository(repo_node: GraphQLRepoNode) -> RepositoryEntry:
     """Format a repository node from GraphQL response.
 
     Args:
@@ -222,7 +459,7 @@ def format_repository(repo_node: dict[str, Any]) -> RepositoryEntry:
     )
 
 
-def format_blog_entry(entry: dict[str, Any]) -> BlogEntry | None:
+def format_blog_entry(entry: FeedEntry) -> BlogEntry | None:
     """Format a blog entry from RSS/Atom feed.
 
     Args:
@@ -244,10 +481,9 @@ def format_blog_entry(entry: dict[str, Any]) -> BlogEntry | None:
         logger.warning("Could not parse date: %s", time_published)
         return None
 
-    print(entry)
-    url=entry.get("link", "").split("#")[0]
+    url = entry.get("link", "").split("#")[0]
     return BlogEntry(
-        title=entry.get("title", entry.get("description")),
+        title=entry.get("title", entry.get("description", "")),
         url=url,
         published=formatted_date,
     )
@@ -283,7 +519,7 @@ def fetch_repos(oauth_token: str, username: str) -> dict[str, list[RepositoryEnt
         logger.error("Failed to fetch repositories: %s", e)
         return {"repositories": [], "repositoriesContributedTo": []}
 
-    if not data or "data" not in data or "user" not in data.get("data", {}):
+    if not data or "data" not in data or not data.get("data") or "user" not in data.get("data", {}):
         logger.error("Invalid response from GitHub API")
         return {"repositories": [], "repositoriesContributedTo": []}
 
@@ -469,11 +705,10 @@ def format_mastodon_posts_md(
     for post in posts[:max_posts]:
         clean_url = re.sub(r"(?<!:)/{2,}", "/", post.url)
         text = "* [{}]({}) - {}".format(post.title, clean_url, post.published)
-        from bs4 import BeautifulSoup
         soup = BeautifulSoup(text, "html.parser")
-        for span in soup.find_all("span"): 
+        for span in soup.find_all("span"):
             span.unwrap()
-        for p in soup.find_all("p"): 
+        for p in soup.find_all("p"):
             p.unwrap()
         md_parts.append(str(soup))
 
@@ -485,13 +720,20 @@ def format_mastodon_posts_md(
 def main() -> None:
     """Main entry point for README generation."""
     config = get_config()
-    username = config["github_username"]
-    token = config["token"]
-    readme_path = pathlib.Path(__file__).parent.resolve() / config["readme_file"]
-    max_blog_entries = config.get("max_blog_entries", 5)
-    max_mastodon_posts = config.get("max_mastodon_posts", 5)
+    username = config.github_username
+    token = config.token
+    readme_path = pathlib.Path(__file__).parent.resolve() / config.readme_file
+    max_blog_entries = config.max_blog_entries
+    max_mastodon_posts = config.max_mastodon_posts
 
     logger.info("Starting README update for user: %s", username)
+
+    # Validate token before any operations
+    try:
+        validate_token(token, username)
+    except TokenValidationError as e:
+        logger.error("Token validation failed: %s", e)
+        sys.exit(1)
 
     if not readme_path.exists():
         logger.error("README.md not found at %s", readme_path)
@@ -505,15 +747,15 @@ def main() -> None:
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
     # Fetch and format blog entries
-    blogs = fetch_blog_entries(DEFAULT_BLOGS)
-    entries_md = format_blog_entries_md(blogs, DEFAULT_BLOGS, max_blog_entries)
+    blogs = fetch_blog_entries(config.blogs)
+    entries_md = format_blog_entries_md(blogs, config.blogs, max_blog_entries)
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
     # Fetch and format Mastodon posts
-    if DEFAULT_MASTODON:
-        mastodon_posts = fetch_mastodon_posts(DEFAULT_MASTODON)
+    if config.mastodon:
+        mastodon_posts = fetch_mastodon_posts(config.mastodon)
         mastodon_md = format_mastodon_posts_md(
-            mastodon_posts, DEFAULT_MASTODON, max_mastodon_posts
+            mastodon_posts, config.mastodon, max_mastodon_posts
         )
         rewritten = replace_chunk(rewritten, "mastodon", mastodon_md)
 
@@ -523,20 +765,32 @@ def main() -> None:
 
 
 def test_feeds() -> None:
-    """Test fetching blog and Mastodon feeds without updating README."""
+    """Test fetching blog and Mastodon feeds without updating README.
+
+    This function skips GitHub API calls and token validation,
+    making it useful for testing feed configuration without
+    requiring a GitHub token.
+    """
     logger.info("Testing feed fetching (no GitHub API, no README write)")
 
+    # Load configuration
+    config = get_config()
+
     # Test blog feeds
-    blogs = fetch_blog_entries(DEFAULT_BLOGS)
+    blogs = fetch_blog_entries(config.blogs)
     for blog_name, entries in blogs.items():
         logger.info("%s: %d entries", blog_name, len(entries))
         for entry in entries[:2]:
             logger.info("  - %s (%s)", entry.title, entry.published)
 
     # Test Mastodon feed
-    if DEFAULT_MASTODON:
-        posts = fetch_mastodon_posts(DEFAULT_MASTODON)
-        logger.info("Links shared in Mastodon @%s: %d posts (and other social networks)", DEFAULT_MASTODON.username, len(posts))
+    if config.mastodon:
+        posts = fetch_mastodon_posts(config.mastodon)
+        logger.info(
+            "Links shared in Mastodon @%s: %d posts (and other social networks)",
+            config.mastodon.username,
+            len(posts),
+        )
         for post in posts[:2]:
             logger.info("  - %s (%s)", post.title, post.published)
 

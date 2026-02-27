@@ -20,18 +20,50 @@ jobs:
       with:
         python-version: '3.12'
         cache: 'pip'
-    - name: Install Python dependencies
+    - name: Install project
       run: |
         python -m pip install --upgrade pip
-        python -m pip install -r requirements.txt
+        pip install -e ".[dev]"
+    - name: Run linters (optional, non-blocking)
+      run: |
+        ruff check . || true
+        mypy build_readme.py || true
     - name: Update README
       env:
         FERNAND0_TOKEN: ${{ secrets.FERNAND0_TOKEN }}
         GITHUB_USERNAME: ${{ github.repository_owner }}
       run: |
         python build_readme.py
-    - name: Commit and push if README changed
+
+    - name: Check for content changes
+      id: changes
+      run: |
+        # Save original README content hash
+        ORIGINAL_HASH=$(git show HEAD:README.md 2>/dev/null | sha256sum | cut -d' ' -f1)
+        NEW_HASH=$(sha256sum README.md | cut -d' ' -f1)
+        
+        echo "original_hash=$ORIGINAL_HASH" >> $GITHUB_OUTPUT
+        echo "new_hash=$NEW_HASH" >> $GITHUB_OUTPUT
+        
+        if [ "$ORIGINAL_HASH" = "$NEW_HASH" ]; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "✓ README content unchanged, skipping commit"
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "✗ README content changed, will commit"
+        fi
+
+    - name: Commit and push if content changed
+      if: steps.changes.outputs.changed == 'true'
       run: |
         git config --global user.email "fernand0+bot@elmundoesimperfecto.com"
         git config --global user.name "fernand0-bot"
-        git diff --quiet || (git add README.md && git commit -m "Updated README" && git push)
+        git add README.md
+        git commit -m "Updated README with latest content"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Skip commit (no changes)
+      if: steps.changes.outputs.changed == 'false'
+      run: echo "No changes to commit"

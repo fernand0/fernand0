@@ -1,0 +1,33 @@
+# Configuration for fernand0 README generator
+# Copy this file to config.yaml and customize for your use
+
+github:
+  username: "fernand0"
+  token_env_var: "FERNAND0_TOKEN"
+
+readme:
+  file: "README.md"
+  max_repositories: 10
+  max_contributions: 20
+  max_blog_entries: 5
+  max_mastodon_posts: 5
+
+blogs:
+  # Add your blog RSS/Atom feeds here
+  # Each blog has a display name and feed URL
+  "fernand0@dev.to (in English)":
+    feed_url: "https://dev.to/feed/fernand0"
+    display_url: "https://dev.to/fernand0"
+  
+  "fernand0@GitHub (in Spanish)":
+    feed_url: "https://fernand0.github.io/feed.xml"
+  
+  "Bitácora de fernand0 (in Spanish)":
+    feed_url: "https://blog.elmundoesimperfecto.com/atom.xml"
+
+mastodon:
+  # Your Mastodon account details
+  username: "fernand0"
+  server: "mastodon.social"
+  # Optional: custom display URL (defaults to profile URL)
+  # display_url: "https://custom.url/@username"
