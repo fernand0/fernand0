@@ -515,5 +515,27 @@ def main() -> None:
     logger.info("README updated successfully")
 
 
+def test_feeds() -> None:
+    """Test fetching blog and Mastodon feeds without updating README."""
+    logger.info("Testing feed fetching (no GitHub API, no README write)")
+
+    # Test blog feeds
+    blogs = fetch_blog_entries(DEFAULT_BLOGS)
+    for blog_name, entries in blogs.items():
+        logger.info("%s: %d entries", blog_name, len(entries))
+        for entry in entries[:2]:
+            logger.info("  - %s (%s)", entry.title, entry.published)
+
+    # Test Mastodon feed
+    if DEFAULT_MASTODON:
+        posts = fetch_mastodon_posts(DEFAULT_MASTODON)
+        logger.info("Mastodon @%s: %d posts", DEFAULT_MASTODON.username, len(posts))
+        for post in posts[:2]:
+            logger.info("  - %s (%s)", post.title, post.published)
+
+
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) > 1 and sys.argv[1] == "--test":
+        test_feeds()
+    else:
+        main()
