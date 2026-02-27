@@ -30,6 +30,7 @@ DEFAULT_CONFIG = {
     "readme_file": "README.md",
     "max_repositories": 10,
     "max_contributions": 20,
+    "max_blog_entries": 5,
 }
 
 DEFAULT_BLOGS: dict[str, str] = {
@@ -341,12 +342,14 @@ def format_repositories_md(
 def format_blog_entries_md(
     blogs: dict[str, list[BlogEntry]],
     feed_urls: dict[str, str],
+    max_entries: int = 5,
 ) -> str:
     """Format blog entries as Markdown.
 
     Args:
         blogs: Dictionary of blog entry lists.
         feed_urls: Mapping of blog names to feed URLs.
+        max_entries: Maximum number of entries to include per blog.
 
     Returns:
         Formatted Markdown string.
@@ -364,7 +367,8 @@ def format_blog_entries_md(
             "## " + "[{0}]({1})/".format(blog_name, base_url)
         )
 
-        for entry in entries:
+        # Limit to max_entries
+        for entry in entries[:max_entries]:
             # Clean up double slashes in URLs
             clean_url = re.sub(r"(?<!:)/{2,}", "/", entry.url)
             entries_md_parts.append(
@@ -382,6 +386,7 @@ def main() -> None:
     username = config["github_username"]
     token = config["token"]
     readme_path = pathlib.Path(__file__).parent.resolve() / config["readme_file"]
+    max_blog_entries = config.get("max_blog_entries", 5)
 
     logger.info("Starting README update for user: %s", username)
 
@@ -398,7 +403,7 @@ def main() -> None:
 
     # Fetch and format blog entries
     blogs = fetch_blog_entries(DEFAULT_BLOGS)
-    entries_md = format_blog_entries_md(blogs, DEFAULT_BLOGS)
+    entries_md = format_blog_entries_md(blogs, DEFAULT_BLOGS, max_blog_entries)
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
     # Write updated README
