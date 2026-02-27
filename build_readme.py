@@ -148,7 +148,9 @@ if __name__ == "__main__":
     rewritten = replace_chunk(readme_contents, "recent_releases", md)
 
     myBlogs = {'fernand0@GitHub':'https://fernand0.github.io/feed.xml',
-            'Reflexiones e Irreflexiones':'http://fernand0.blogalia.com/rss20.xml'}
+             #'Reflexiones e Irreflexiones':'http://fernand0.blogalia.com/rss20.xml'}
+             'Bitácora de fernand0':'https://blog.elmundoesimperfecto.com/atom.xml'
+               }
     blogs = fetch_blog_entries(myBlogs)#[:5]
     entries_md = "" 
     for blog in blogs:
