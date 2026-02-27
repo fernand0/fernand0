@@ -7,6 +7,7 @@ Inspired by https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 
 from __future__ import annotations
 
+import argparse
 import logging
 import os
 import pathlib
@@ -103,12 +104,7 @@ REPO_LIMITS: dict[str, int] = {
     "repositoriesContributedTo": 20,
 }
 
-# --- Logging setup ---
-
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
+# Logger instance (configured in main())
 logger = logging.getLogger(__name__)
 
 
@@ -377,13 +373,16 @@ def validate_url(url: str) -> bool:
         return False
 
 
-def get_config() -> Config:
+def get_config(config_path: pathlib.Path | None = None) -> Config:
     """Load configuration from config.yaml or environment variables.
+
+    Args:
+        config_path: Optional path to configuration file.
 
     Returns:
         Config object with all configuration settings.
     """
-    return load_config()
+    return load_config(config_path)
 
 
 def replace_chunk(content: str, marker: str, chunk: str) -> str:
@@ -790,9 +789,88 @@ def format_mastodon_posts_md(
 
 # --- Main entry point ---
 
+def create_parser() -> argparse.ArgumentParser:
+    """Create command-line argument parser.
+
+    Returns:
+        Configured ArgumentParser instance.
+    """
+    parser = argparse.ArgumentParser(
+        prog="build_readme",
+        description="Self-updating GitHub profile README generator",
+        epilog="Examples:\n"
+               "  %(prog)s                    # Run with default config\n"
+               "  %(prog)s --dry-run          # Preview without writing\n"
+               "  %(prog)s --verbose          # Show debug output\n"
+               "  %(prog)s --clear-cache      # Clear API cache\n"
+               "  %(prog)s --config custom.yaml  # Use custom config\n",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="Generate README content but don't write to file",
+    )
+
+    parser.add_argument(
+        "--verbose", "-v",
+        action="store_true",
+        help="Enable verbose/debug output",
+    )
+
+    parser.add_argument(
+        "--clear-cache",
+        action="store_true",
+        help="Clear the API response cache and exit",
+    )
+
+    parser.add_argument(
+        "--config", "-c",
+        type=pathlib.Path,
+        metavar="FILE",
+        help="Path to configuration file (default: config.yaml)",
+    )
+
+    parser.add_argument(
+        "--stats",
+        action="store_true",
+        help="Show cache statistics and exit",
+    )
+
+    return parser
+
+
 def main() -> None:
     """Main entry point for README generation."""
-    config = get_config()
+    parser = create_parser()
+    args = parser.parse_args()
+
+    # Handle --clear-cache
+    if args.clear_cache:
+        from cache import clear_cache
+        cleared = clear_cache()
+        print(f"Cleared {cleared} cache file(s)")
+        sys.exit(0)
+
+    # Handle --stats
+    if args.stats:
+        from cache import get_cache_stats
+        stats = get_cache_stats()
+        print(f"Cache statistics:")
+        print(f"  Files: {stats['files']}")
+        print(f"  Size: {stats['size_kb']} KB")
+        sys.exit(0)
+
+    # Configure logging
+    log_level = logging.DEBUG if args.verbose else logging.INFO
+    logging.basicConfig(
+        level=log_level,
+        format="%(asctime)s - %(levelname)s - %(message)s",
+    )
+
+    # Load configuration
+    config = get_config(args.config) if args.config else get_config()
     username = config.github_username
     token = config.token
     readme_path = pathlib.Path(__file__).parent.resolve() / config.readme_file
@@ -832,9 +910,15 @@ def main() -> None:
         )
         rewritten = replace_chunk(rewritten, "mastodon", mastodon_md)
 
-    # Write updated README
-    readme_path.write_text(rewritten, encoding="utf-8")
-    logger.info("README updated successfully")
+    # Write updated README (or preview in dry-run mode)
+    if args.dry_run:
+        print("=== DRY RUN: Generated README content ===")
+        print(rewritten[:500] + "..." if len(rewritten) > 500 else rewritten)
+        print("=== End of preview ===")
+        logger.info("Dry run complete (no files written)")
+    else:
+        readme_path.write_text(rewritten, encoding="utf-8")
+        logger.info("README updated successfully")
 
 
 def test_feeds() -> None:
@@ -869,6 +953,25 @@ def test_feeds() -> None:
 
 
 if __name__ == "__main__":
+    parser = create_parser()
+    args = parser.parse_args()
+
+    # Handle special commands
+    if args.clear_cache:
+        from cache import clear_cache
+        cleared = clear_cache()
+        print(f"Cleared {cleared} cache file(s)")
+        sys.exit(0)
+
+    if args.stats:
+        from cache import get_cache_stats
+        stats = get_cache_stats()
+        print(f"Cache statistics:")
+        print(f"  Files: {stats['files']}")
+        print(f"  Size: {stats['size_kb']} KB")
+        sys.exit(0)
+
+    # Run test feeds mode
     if len(sys.argv) > 1 and sys.argv[1] == "--test":
         test_feeds()
     else:
