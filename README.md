@@ -26,7 +26,7 @@
 # On my blogs
 
 <!-- blog starts -->
-## [fernand0@dev.to (in English)](https://dev.to)
+## [fernand0@dev.to (in English)](https://dev.to/fernand0)
 
 * [So you would like to digitise your CD collection? (& Part 4)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-4-4kem) - 2025-04-08
 
