@@ -22,6 +22,8 @@ from bs4 import BeautifulSoup
 from dateutil.parser import parse
 from python_graphql_client import GraphqlClient
 
+from cache import get_cache_key, load_cache, save_cache, DEFAULT_TTL
+
 # --- Configuration ---
 
 GITHUB_GRAPHQL_ENDPOINT = "https://api.github.com/graphql"
@@ -505,6 +507,13 @@ def fetch_repos(oauth_token: str, username: str) -> dict[str, list[RepositoryEnt
         logger.error("GitHub token not provided")
         return {"repositories": [], "repositoriesContributedTo": []}
 
+    # Check cache first
+    cache_key = get_cache_key("github", {"username": username, "query": make_query(username)})
+    cached_data = load_cache(cache_key)
+    if cached_data is not None:
+        logger.info("Using cached GitHub API response")
+        return _convert_cached_repos(cached_data)
+
     client = GraphqlClient(endpoint=GITHUB_GRAPHQL_ENDPOINT)
 
     try:
@@ -523,6 +532,9 @@ def fetch_repos(oauth_token: str, username: str) -> dict[str, list[RepositoryEnt
         logger.error("Invalid response from GitHub API")
         return {"repositories": [], "repositoriesContributedTo": []}
 
+    # Save to cache
+    save_cache(cache_key, data, DEFAULT_TTL["github"])
+
     user_data = data["data"]["user"]
     releases: dict[str, list[RepositoryEntry]] = {
         "repositories": [],
@@ -531,6 +543,38 @@ def fetch_repos(oauth_token: str, username: str) -> dict[str, list[RepositoryEnt
 
     seen_repos: set[str] = set()
 
+    for repo in user_data.get("repositories", {}).get("edges", []):
+        name = repo["node"]["name"]
+        if name not in seen_repos:
+            seen_repos.add(name)
+            releases["repositories"].append(format_repository(repo["node"]))
+
+    seen_repos = set()
+    for repo in user_data.get("repositoriesContributedTo", {}).get("edges", []):
+        name = repo["node"]["name"]
+        if name not in seen_repos:
+            seen_repos.add(name)
+            releases["repositoriesContributedTo"].append(format_repository(repo["node"]))
+
+    return releases
+
+
+def _convert_cached_repos(data: dict[str, Any]) -> dict[str, list[RepositoryEntry]]:
+    """Convert cached GitHub API response to RepositoryEntry objects.
+
+    Args:
+        data: Cached API response data.
+
+    Returns:
+        Dictionary with repository lists.
+    """
+    user_data = data["data"]["user"]
+    releases: dict[str, list[RepositoryEntry]] = {
+        "repositories": [],
+        "repositoriesContributedTo": [],
+    }
+
+    seen_repos: set[str] = set()
     for repo in user_data.get("repositories", {}).get("edges", []):
         name = repo["node"]["name"]
         if name not in seen_repos:
@@ -564,6 +608,14 @@ def fetch_blog_entries(blogs: dict[str, BlogConfig]) -> dict[str, list[BlogEntry
             result[blog_name] = []
             continue
 
+        # Check cache first
+        cache_key = get_cache_key("blog", {"feed_url": config.feed_url})
+        cached_data = load_cache(cache_key)
+        if cached_data is not None:
+            logger.info("Using cached feed for %s", blog_name)
+            result[blog_name] = _convert_cached_blog_entries(cached_data)
+            continue
+
         try:
             feed = feedparser.parse(config.feed_url)
             entries: list[BlogEntry] = []
@@ -574,6 +626,10 @@ def fetch_blog_entries(blogs: dict[str, BlogConfig]) -> dict[str, list[BlogEntry
                     entries.append(blog_entry)
 
             result[blog_name] = entries
+            
+            # Save to cache
+            save_cache(cache_key, {"entries": feed.get("entries", [])}, DEFAULT_TTL["blog"])
+            
             logger.info("Fetched %d entries from %s", len(entries), blog_name)
 
         except Exception as e:
@@ -581,6 +637,23 @@ def fetch_blog_entries(blogs: dict[str, BlogConfig]) -> dict[str, list[BlogEntry
             result[blog_name] = []
 
     return result
+
+
+def _convert_cached_blog_entries(data: dict[str, Any]) -> list[BlogEntry]:
+    """Convert cached feed entries to BlogEntry objects.
+
+    Args:
+        data: Cached feed data with 'entries' key.
+
+    Returns:
+        List of BlogEntry objects.
+    """
+    entries: list[BlogEntry] = []
+    for entry in data.get("entries", []):
+        blog_entry = format_blog_entry(entry)
+        if blog_entry:
+            entries.append(blog_entry)
+    return entries
 
 
 def fetch_mastodon_posts(config: MastodonConfig) -> list[BlogEntry]:

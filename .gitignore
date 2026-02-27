@@ -78,6 +78,9 @@ dmypy.json
 # ruff
 .ruff_cache/
 
+# Cache directory (fernand0 README)
+.cache/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 

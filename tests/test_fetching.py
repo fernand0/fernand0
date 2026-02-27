@@ -1,6 +1,7 @@
 """Tests for data fetching functions."""
 
 from unittest.mock import patch, MagicMock
+import pytest
 from build_readme import (
     fetch_repos,
     fetch_blog_entries,
@@ -8,6 +9,15 @@ from build_readme import (
     BlogConfig,
     MastodonConfig,
 )
+from cache import clear_cache
+
+
+@pytest.fixture(autouse=True)
+def clear_cache_before_each_test():
+    """Clear cache before each test to ensure clean state."""
+    clear_cache()
+    yield
+    clear_cache()
 
 
 class TestFetchRepos:
