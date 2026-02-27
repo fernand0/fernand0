@@ -353,7 +353,7 @@ def format_blog_entries_md(
     """
     entries_md_parts: list[str] = []
 
-    for blog_name, entries in blogs.items()[:5]:
+    for blog_name, entries in blogs.items():
         if not entries:
             continue
 
