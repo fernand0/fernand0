@@ -30,27 +30,27 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
-* [Vibe coding y programación asistida por LLMs](https://fernand0.github.io/vibe-coding-ia/) - 2026-01-14
+* [Vibe coding y programación asistida por LLMs](https://fernand0.github.io/vibe-coding-ia) - 2026-01-14
 
-* [MCP y la interacción de las IAs con otros sistemas](https://fernand0.github.io/mcp-que-es/) - 2025-12-23
+* [MCP y la interacción de las IAs con otros sistemas](https://fernand0.github.io/mcp-que-es) - 2025-12-23
 
-* [Alucinanciones de las Inteligencias Artificiales y sus consecuencias en el desarrollo de código](https://fernand0.github.io/codigo-generado-ia/) - 2025-12-16
+* [Alucinanciones de las Inteligencias Artificiales y sus consecuencias en el desarrollo de código](https://fernand0.github.io/codigo-generado-ia) - 2025-12-16
 
-* [Identificadores de seguridad: autorización vs autentificación](https://fernand0.github.io/objetos-identificacion/) - 2025-12-10
+* [Identificadores de seguridad: autorización vs autentificación](https://fernand0.github.io/objetos-identificacion) - 2025-12-10
 
-* [Los drones en la guerra: nuevos usos y ciberseguridad](https://fernand0.github.io/drones-guerra-electronica/) - 2025-12-02
+* [Los drones en la guerra: nuevos usos y ciberseguridad](https://fernand0.github.io/drones-guerra-electronica) - 2025-12-02
 
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
 
-* [En Buenos Días Aragón hablando de reconocimiento automático de contenido (ACR)](https://blog.elmundoesimperfecto.com/2026/01/29/en-buenos-dias-aragon-acr/) - 2026-01-29
+* [En Buenos Días Aragón hablando de reconocimiento automático de contenido (ACR)](https://blog.elmundoesimperfecto.com/2026/01/29/en-buenos-dias-aragon-acr) - 2026-01-29
 
-* [En la sesión sobre 'Tecnología en la competencia global' del título 'Geopolítica Aplicada a la Empresa'](https://blog.elmundoesimperfecto.com/2026/01/28/tecnologia-geopolitica/) - 2026-01-28
+* [En la sesión sobre 'Tecnología en la competencia global' del título 'Geopolítica Aplicada a la Empresa'](https://blog.elmundoesimperfecto.com/2026/01/28/tecnologia-geopolitica) - 2026-01-28
 
-* [Las IAs como consejeras o ayudantes](https://blog.elmundoesimperfecto.com/2026/01/14/ia-gobiernos-usos/) - 2026-01-14
+* [Las IAs como consejeras o ayudantes](https://blog.elmundoesimperfecto.com/2026/01/14/ia-gobiernos-usos) - 2026-01-14
 
-* [Buscando sitios cómodos en internet](https://blog.elmundoesimperfecto.com/2025/12/23/web-acogedora/) - 2025-12-23
+* [Buscando sitios cómodos en internet](https://blog.elmundoesimperfecto.com/2025/12/23/web-acogedora) - 2025-12-23
 
-* [Las inteligencias artificiales, la web abierta y nosotros](https://blog.elmundoesimperfecto.com/2025/12/16/fin-web-ia/) - 2025-12-16
+* [Las inteligencias artificiales, la web abierta y nosotros](https://blog.elmundoesimperfecto.com/2025/12/16/fin-web-ia) - 2025-12-16
 <!-- blog ends -->
 
 # From my Mastodon
