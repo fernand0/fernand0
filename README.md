@@ -15,7 +15,7 @@
 
 <!-- recent_releases ends -->
 
-# On my blog (in Spanish)
+# On my blogs
 
 <!-- blog starts -->
 ## [fernand0@dev.to](https://dev.to)/

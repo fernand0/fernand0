@@ -34,9 +34,9 @@ DEFAULT_CONFIG = {
 }
 
 DEFAULT_BLOGS: dict[str, str] = {
-    "fernand0@dev.to": "https://dev.to/feed/fernand0",
-    "fernand0@GitHub": "https://fernand0.github.io/feed.xml",
-    "Bitácora de fernand0": "https://blog.elmundoesimperfecto.com/atom.xml",
+    "fernand0@dev.to (in English)": "https://dev.to/feed/fernand0",
+    "fernand0@GitHub (in Spanish)": "https://fernand0.github.io/feed.xml",
+    "Bitácora de fernand0 (in Spanish)": "https://blog.elmundoesimperfecto.com/atom.xml",
 }
 
 REPO_LIMITS = {
@@ -364,7 +364,7 @@ def format_blog_entries_md(
         parsed = urlsplit(feed_url)
         base_url = "{0.scheme}://{0.netloc}".format(parsed)
         entries_md_parts.append(
-            "## " + "[{0}]({1})/".format(blog_name, base_url)
+            "## " + "[{0}]({1})".format(blog_name, base_url)
         )
 
         # Limit to max_entries
