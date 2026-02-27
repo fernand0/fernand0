@@ -33,6 +33,7 @@ DEFAULT_CONFIG = {
 }
 
 DEFAULT_BLOGS: dict[str, str] = {
+    "fernand0@dev.to": "https://dev.to/feed/fernand0",
     "fernand0@GitHub": "https://fernand0.github.io/feed.xml",
     "Bitácora de fernand0": "https://blog.elmundoesimperfecto.com/atom.xml",
 }
@@ -352,7 +353,7 @@ def format_blog_entries_md(
     """
     entries_md_parts: list[str] = []
 
-    for blog_name, entries in blogs.items():
+    for blog_name, entries in blogs.items()[:5]:
         if not entries:
             continue
 
