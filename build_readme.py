@@ -157,7 +157,7 @@ if __name__ == "__main__":
         entries_md = entries_md + "\n\n" + "## " + "[{0}]({1.scheme}://{1.netloc}/)".format(blog,urlsplit(myBlogs[blog]))
         for entry in blogs[blog]:
             date_published = entry['published']
-            entries_md = entries_md+"\n" + "* [{}]({}) - {}".format(entry['title'],entry['url'],entry.updated)
+            entries_md = entries_md+"\n" + "* [{}]({}) - {}".format(entry['title'],entry['url'],date_published)
     rewritten = replace_chunk(rewritten, "blog", entries_md)
 
     print(rewritten)
