@@ -468,9 +468,14 @@ def format_mastodon_posts_md(
 
     for post in posts[:max_posts]:
         clean_url = re.sub(r"(?<!:)/{2,}", "/", post.url)
-        md_parts.append(
-            "* [{}]({}) - {}".format(post.title, clean_url, post.published)
-        )
+        text = "* [{}]({}) - {}".format(post.title, clean_url, post.published)
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(text, "html.parser")
+        for span in soup.find_all("span"): 
+            span.unwrap()
+        for p in soup.find_all("p"): 
+            p.unwrap()
+        md_parts.append(str(soup))
 
     return "\n".join(md_parts)
 
