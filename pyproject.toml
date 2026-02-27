@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "fernand0-readme"
-version = "1.0.0"
+version = "1.1.0"
 description = "Self-updating GitHub profile README generator that fetches repositories, blog posts, and social media updates"
 readme = "README.md"
 license = {text = "MIT"}

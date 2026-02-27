@@ -194,6 +194,10 @@ The script looks for these HTML comments to inject content:
 
 Add these markers to your README where you want content to appear.
 
+## 📝 Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for a detailed history of changes.
+
 ---
 
 *This README is auto-generated using a workflow inspired by [Simon Willison](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).*
