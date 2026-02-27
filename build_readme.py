@@ -33,10 +33,25 @@ DEFAULT_CONFIG = {
     "max_blog_entries": 5,
 }
 
-DEFAULT_BLOGS: dict[str, str] = {
-    "fernand0@dev.to (in English)": "https://dev.to/feed/fernand0",
-    "fernand0@GitHub (in Spanish)": "https://fernand0.github.io/feed.xml",
-    "Bitácora de fernand0 (in Spanish)": "https://blog.elmundoesimperfecto.com/atom.xml",
+
+@dataclass
+class BlogConfig:
+    """Configuration for a blog source."""
+    feed_url: str
+    display_url: str | None = None  # Optional: override display URL
+
+
+DEFAULT_BLOGS: dict[str, BlogConfig] = {
+    "fernand0@dev.to (in English)": BlogConfig(
+        feed_url="https://dev.to/feed/fernand0",
+        display_url="https://dev.to/fernand0",
+    ),
+    "fernand0@GitHub (in Spanish)": BlogConfig(
+        feed_url="https://fernand0.github.io/feed.xml",
+    ),
+    "Bitácora de fernand0 (in Spanish)": BlogConfig(
+        feed_url="https://blog.elmundoesimperfecto.com/atom.xml",
+    ),
 }
 
 REPO_LIMITS = {
@@ -269,25 +284,25 @@ def fetch_repos(oauth_token: str, username: str) -> dict[str, list[RepositoryEnt
     return releases
 
 
-def fetch_blog_entries(blogs: dict[str, str]) -> dict[str, list[BlogEntry]]:
+def fetch_blog_entries(blogs: dict[str, BlogConfig]) -> dict[str, list[BlogEntry]]:
     """Fetch and parse blog entries from RSS/Atom feeds.
 
     Args:
-        blogs: Dictionary mapping blog names to feed URLs.
+        blogs: Dictionary mapping blog names to BlogConfig objects.
 
     Returns:
         Dictionary mapping blog names to lists of BlogEntry objects.
     """
     result: dict[str, list[BlogEntry]] = {}
 
-    for blog_name, feed_url in blogs.items():
-        if not validate_url(feed_url):
-            logger.warning("Invalid feed URL for %s: %s", blog_name, feed_url)
+    for blog_name, config in blogs.items():
+        if not validate_url(config.feed_url):
+            logger.warning("Invalid feed URL for %s: %s", blog_name, config.feed_url)
             result[blog_name] = []
             continue
 
         try:
-            feed = feedparser.parse(feed_url)
+            feed = feedparser.parse(config.feed_url)
             entries: list[BlogEntry] = []
 
             for entry in feed.get("entries", []):
@@ -299,7 +314,7 @@ def fetch_blog_entries(blogs: dict[str, str]) -> dict[str, list[BlogEntry]]:
             logger.info("Fetched %d entries from %s", len(entries), blog_name)
 
         except Exception as e:
-            logger.error("Failed to fetch feed %s: %s", feed_url, e)
+            logger.error("Failed to fetch feed %s: %s", config.feed_url, e)
             result[blog_name] = []
 
     return result
@@ -341,14 +356,14 @@ def format_repositories_md(
 
 def format_blog_entries_md(
     blogs: dict[str, list[BlogEntry]],
-    feed_urls: dict[str, str],
+    blog_configs: dict[str, BlogConfig],
     max_entries: int = 5,
 ) -> str:
     """Format blog entries as Markdown.
 
     Args:
         blogs: Dictionary of blog entry lists.
-        feed_urls: Mapping of blog names to feed URLs.
+        blog_configs: Dictionary mapping blog names to BlogConfig objects.
         max_entries: Maximum number of entries to include per blog.
 
     Returns:
@@ -360,9 +375,16 @@ def format_blog_entries_md(
         if not entries:
             continue
 
-        feed_url = feed_urls.get(blog_name, "")
-        parsed = urlsplit(feed_url)
-        base_url = "{0.scheme}://{0.netloc}".format(parsed)
+        config = blog_configs.get(blog_name)
+        if config and config.display_url:
+            # Use custom display URL if provided
+            base_url = config.display_url
+        else:
+            # Extract domain from feed URL
+            feed_url = config.feed_url if config else ""
+            parsed = urlsplit(feed_url)
+            base_url = "{0.scheme}://{0.netloc}".format(parsed)
+
         entries_md_parts.append(
             "## " + "[{0}]({1})".format(blog_name, base_url)
         )
