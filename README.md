@@ -122,29 +122,6 @@
 * [Hola mundo](https://blog.elmundoesimperfecto.com/2024/03/07/hola-mundo/) - 2024-03-07
 <!-- blog ends -->
 
-### Twitter 
+---
 
-You can follow me at Twitter [@fernand0](https://twitter.com/fernand0) and also at [@makingfernand0](https://twitter.com/fernand0). Better the first one.
-
-Will I be able to insert my tweets? We'll see.
-
-I'm testing auto-update of my profile inspired by [Simon Willison](https://simonwillison.net/) published at: [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).
-
-The icons have been inspired by [Michael Hoffmann](https://www.mokkapps.de/).
-
-Some work needs to be done.
-
-<!--
-**fernand0/fernand0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*This README is auto-generated using a workflow inspired by [Simon Willison](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).*
