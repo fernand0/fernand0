@@ -30,38 +30,38 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
-* [Vibe coding y programación asistida por LLMs](https://fernand0.github.io/vibe-coding-ia) - 2026-01-14
+* [Vibe coding y programación asistida por LLMs](https://fernand0.github.io/vibe-coding-ia/) - 2026-01-14
 
-* [MCP y la interacción de las IAs con otros sistemas](https://fernand0.github.io/mcp-que-es) - 2025-12-23
+* [MCP y la interacción de las IAs con otros sistemas](https://fernand0.github.io/mcp-que-es/) - 2025-12-23
 
-* [Alucinanciones de las Inteligencias Artificiales y sus consecuencias en el desarrollo de código](https://fernand0.github.io/codigo-generado-ia) - 2025-12-16
+* [Alucinanciones de las Inteligencias Artificiales y sus consecuencias en el desarrollo de código](https://fernand0.github.io/codigo-generado-ia/) - 2025-12-16
 
-* [Identificadores de seguridad: autorización vs autentificación](https://fernand0.github.io/objetos-identificacion) - 2025-12-10
+* [Identificadores de seguridad: autorización vs autentificación](https://fernand0.github.io/objetos-identificacion/) - 2025-12-10
 
-* [Los drones en la guerra: nuevos usos y ciberseguridad](https://fernand0.github.io/drones-guerra-electronica) - 2025-12-02
+* [Los drones en la guerra: nuevos usos y ciberseguridad](https://fernand0.github.io/drones-guerra-electronica/) - 2025-12-02
 
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
 
-* [En Buenos Días Aragón hablando de reconocimiento automático de contenido (ACR)](https://blog.elmundoesimperfecto.com/2026/01/29/en-buenos-dias-aragon-acr) - 2026-01-29
+* [En Buenos Días Aragón hablando de reconocimiento automático de contenido (ACR)](https://blog.elmundoesimperfecto.com/2026/01/29/en-buenos-dias-aragon-acr/) - 2026-01-29
 
-* [En la sesión sobre 'Tecnología en la competencia global' del título 'Geopolítica Aplicada a la Empresa'](https://blog.elmundoesimperfecto.com/2026/01/28/tecnologia-geopolitica) - 2026-01-28
+* [En la sesión sobre 'Tecnología en la competencia global' del título 'Geopolítica Aplicada a la Empresa'](https://blog.elmundoesimperfecto.com/2026/01/28/tecnologia-geopolitica/) - 2026-01-28
 
-* [Las IAs como consejeras o ayudantes](https://blog.elmundoesimperfecto.com/2026/01/14/ia-gobiernos-usos) - 2026-01-14
+* [Las IAs como consejeras o ayudantes](https://blog.elmundoesimperfecto.com/2026/01/14/ia-gobiernos-usos/) - 2026-01-14
 
-* [Buscando sitios cómodos en internet](https://blog.elmundoesimperfecto.com/2025/12/23/web-acogedora) - 2025-12-23
+* [Buscando sitios cómodos en internet](https://blog.elmundoesimperfecto.com/2025/12/23/web-acogedora/) - 2025-12-23
 
-* [Las inteligencias artificiales, la web abierta y nosotros](https://blog.elmundoesimperfecto.com/2025/12/16/fin-web-ia) - 2025-12-16
+* [Las inteligencias artificiales, la web abierta y nosotros](https://blog.elmundoesimperfecto.com/2025/12/16/fin-web-ia/) - 2025-12-16
 <!-- blog ends -->
 
 # From my Mastodon
 
 <!-- mastodon starts -->
 ## [fernand0@mastodon.social](https://mastodon.social/@fernand0)
-* [<p>F-35 Software Could Be Jailbreaked Like An iPhone: Dutch Defense Secretary <a href="https://www.twz.com/air/f-35-software-could-be-jailbreaked-like-an-iphone-dutch-defense-minister" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">twz.com/air/f-35-software-coul</span><span class="invisible">d-be-jailbreaked-like-an-iphone-dutch-defense-minister</span></a></p>](https://mastodon.social/@fernand0/116142341934761646) - 2026-02-27
-* [<p>Open source registries underfunded as security costs rise <a href="https://www.theregister.com/2026/02/16/open_source_registries_fund_security/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">theregister.com/2026/02/16/ope</span><span class="invisible">n_source_registries_fund_security/</span></a></p>](https://mastodon.social/@fernand0/116142084971377739) - 2026-02-27
-* [<p>Using a Raspberry Pi to run OpenClaw makes no sense <a href="https://www.theregister.com/2026/02/20/raspberry_pi_meme_stock_disorder/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">theregister.com/2026/02/20/ras</span><span class="invisible">pberry_pi_meme_stock_disorder/</span></a></p>](https://mastodon.social/@fernand0/116141874872792832) - 2026-02-27
-* [<p>Sam Altman would like to remind you that humans use a lot of energy, too | TechCrunch <a href="https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">techcrunch.com/2026/02/21/sam-</span><span class="invisible">altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/</span></a></p>](https://mastodon.social/@fernand0/116140220303984909) - 2026-02-27
-* [<p>Goldman Sachs, Morgan Stanley Calculate AI's Contribution To U.S. Growth May Be Basically Zero - Slashdot <a href="https://news.slashdot.org/story/26/02/23/1342216/goldman-sachs-morgan-stanley-calculate-ais-contribution-to-us-growth-may-be-basically-zero" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">news.slashdot.org/story/26/02/</span><span class="invisible">23/1342216/goldman-sachs-morgan-stanley-calculate-ais-contribution-to-us-growth-may-be-basically-zero</span></a></p>](https://mastodon.social/@fernand0/116138379829917854) - 2026-02-26
+* [<p>Gary Vaynerchuk says Gen Z mental health was ruined by this common family issue—so stop blaming social media <a href="https://www.fastcompany.com/91494605/gary-v-vaynerchuk-says-gen-z-teen-mental-health-wasnt-ruined-by-social-media-parenting" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">fastcompany.com/91494605/gary-</span><span class="invisible">v-vaynerchuk-says-gen-z-teen-mental-health-wasnt-ruined-by-social-media-parenting</span></a></p>](https://mastodon.social/@fernand0/116144023749286645) - 2026-02-27
+* [<p>Madrid 2026 - RootedCON  <a href="https://rootedcon.com/agenda/madrid-2026/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">rootedcon.com/agenda/madrid-20</span><span class="invisible">26/</span></a></p>](https://mastodon.social/@fernand0/116143692801984372) - 2026-02-27
+* [<p>Mezquita azul y hotel <a href="https://www.flickr.com/photos/fernand0/55109723133/" rel="nofollow noopener" target="_blank"><span class="invisible">https://www.</span><span class="ellipsis">flickr.com/photos/fernand0/551</span><span class="invisible">09723133/</span></a></p>](https://mastodon.social/@fernand0/116143549299867818) - 2026-02-27
+* [<p>Code.org President Steps Down Citing 'Upending' of CS By AI - Slashdot <a href="https://news.slashdot.org/story/26/02/21/1932253/codeorg-president-steps-down-citing-upending-of-cs-by-ai" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">news.slashdot.org/story/26/02/</span><span class="invisible">21/1932253/codeorg-president-steps-down-citing-upending-of-cs-by-ai</span></a></p>](https://mastodon.social/@fernand0/116143470766360702) - 2026-02-27
+* [<p>Montón. <a href="https://asavecesunafoto.wordpress.com/2026/02/27/monton/" rel="nofollow noopener" target="_blank"><span class="invisible">https://</span><span class="ellipsis">asavecesunafoto.wordpress.com/</span><span class="invisible">2026/02/27/monton/</span></a></p>](https://mastodon.social/@fernand0/116143444903355191) - 2026-02-27
 <!-- mastodon ends -->
 
 ---

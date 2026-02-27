@@ -245,11 +245,7 @@ def format_blog_entry(entry: dict[str, Any]) -> BlogEntry | None:
         return None
 
     print(entry)
-    link = entry.get("id", "")
-    if link.startswith("http"):
-        url = link
-    else:
-        url=entry.get("link", "").split("#")[0]
+    url=entry.get("link", "").split("#")[0]
     return BlogEntry(
         title=entry.get("title", entry.get("description")),
         url=url,
