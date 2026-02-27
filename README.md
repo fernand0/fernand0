@@ -56,7 +56,12 @@
 # From my Mastodon
 
 <!-- mastodon starts -->
-
+## [fernand0@mastodon.social](https://mastodon.social/@fernand0)
+* [Untitled](https://mastodon.social/@fernand0/116141874872792832) - 2026-02-27
+* [Untitled](https://mastodon.social/@fernand0/116140220303984909) - 2026-02-27
+* [Untitled](https://mastodon.social/@fernand0/116138379829917854) - 2026-02-26
+* [Untitled](https://mastodon.social/@fernand0/116138205419312464) - 2026-02-26
+* [Untitled](https://mastodon.social/@fernand0/116137875801792893) - 2026-02-26
 <!-- mastodon ends -->
 
 ---
