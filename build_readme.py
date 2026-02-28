@@ -44,6 +44,7 @@ class MastodonConfig:
     username: str
     server: str = "mastodon.social"
     display_url: str | None = None  # Optional: override display URL
+    title: str | None = None  # Optional: custom title for the section
 
     @property
     def feed_url(self) -> str:
@@ -95,7 +96,7 @@ DEFAULT_CONFIG = Config(
             feed_url="https://blog.elmundoesimperfecto.com/atom.xml",
         ),
     },
-    mastodon=MastodonConfig(username="fernand0", server="mastodon.social"),
+    mastodon=MastodonConfig(username="fernand0", server="mastodon.social", title="fernand0@mastodon.social"),
 )
 
 
@@ -228,6 +229,7 @@ def load_config(config_path: pathlib.Path | None = None) -> Config:
                 username=mastodon_data.get("username", ""),
                 server=mastodon_data.get("server", "mastodon.social"),
                 display_url=mastodon_data.get("display_url"),
+                title=mastodon_data.get("title"),
             )
 
         # Parse GitHub configuration
@@ -772,7 +774,14 @@ def format_mastodon_posts_md(
 
     md_parts: list[str] = []
     base_url = config.display_url if config.display_url else config.profile_url
-    md_parts.append(f"## [{config.username}@{config.server}]({base_url})")
+    
+    # Use custom title if provided, otherwise default to @username@server
+    if config.title:
+        header_text = config.title
+    else:
+        header_text = f"{config.username}@{config.server}"
+    
+    md_parts.append(f"## [{header_text}]({base_url})")
 
     for post in posts[:max_posts]:
         clean_url = re.sub(r"(?<!:)/{2,}", "/", post.url)

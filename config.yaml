@@ -29,5 +29,7 @@ mastodon:
   # Your Mastodon account details
   username: "fernand0"
   server: "mastodon.social"
+  # Optional: custom title for the section (defaults to @username@server)
+  title: "Links published in my social networks"
   # Optional: custom display URL (defaults to profile URL)
   # display_url: "https://custom.url/@username"

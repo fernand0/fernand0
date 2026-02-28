@@ -46,6 +46,7 @@ blogs:
 mastodon:
   username: "yourusername"
   server: "mastodon.social"  # or your instance
+  title: "Your Custom Title"  # optional: defaults to @username@server
 ```
 
 **5. Update your social links**
