@@ -179,6 +179,7 @@ class BlogEntry:
     title: str
     url: str
     published: str
+    description: str = ""  # Raw HTML description for Mastodon posts
 
 
 # --- Helper functions ---
@@ -489,6 +490,7 @@ def format_blog_entry(entry: FeedEntry) -> BlogEntry | None:
         title=entry.get("title", entry.get("description", "")),
         url=url,
         published=formatted_date,
+        description=entry.get("description", ""),
     )
 
 
@@ -774,25 +776,40 @@ def format_mastodon_posts_md(
 
     md_parts: list[str] = []
     base_url = config.display_url if config.display_url else config.profile_url
-    
+
     # Use custom title if provided, otherwise default to @username@server
     if config.title:
         header_text = config.title
     else:
         header_text = f"{config.username}@{config.server}"
-    
+
     md_parts.append(f"## [{header_text}]({base_url})")
 
     for post in posts[:max_posts]:
-        clean_url = re.sub(r"(?<!:)/{2,}", "/", post.url)
-        # text = "* [{}]({}) - {}".format(post.title, clean_url, post.published)
-        text = "*  - {}".format(post.title, post.published)
-        soup = BeautifulSoup(text, "html.parser")
+        # Parse HTML description to extract text and links
+        soup = BeautifulSoup(post.description, "html.parser")
+        
+        # Remove unwanted span elements (used for URL truncation in Mastodon)
         for span in soup.find_all("span"):
             span.unwrap()
         for p in soup.find_all("p"):
             p.unwrap()
-        md_parts.append(str(soup))
+        
+        # Convert HTML links to markdown format
+        for link in soup.find_all("a"):
+            href = link.get("href", "")
+            if href:
+                # Replace the link with markdown format
+                link.replace_with(f" {href} ")
+        
+        # Get the cleaned text and normalize whitespace
+        text_content = " ".join(soup.get_text().split())
+        
+        # Format: text content - date
+        if text_content:
+            md_parts.append(f"* {text_content} - {post.published}")
+        else:
+            md_parts.append(f"* - {post.published}")
 
     return "\n".join(md_parts)
 
