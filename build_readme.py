@@ -803,7 +803,8 @@ def format_mastodon_posts_md(
                 link.replace_with(f" {href} ")
         
         # Get the cleaned text and normalize whitespace
-        text_content = " ".join(soup.get_text().split())
+        text_link = soup.get_text().split()
+        text_content = f"[{text_link[0]}]({text_link[1]})"
         
         # Format: text content - date
         if text_content:
@@ -829,6 +830,7 @@ def create_parser() -> argparse.ArgumentParser:
                "  %(prog)s                    # Run with default config\n"
                "  %(prog)s --dry-run          # Preview without writing\n"
                "  %(prog)s --verbose          # Show debug output\n"
+               "  %(prog)s --test             # Test feed fetching (no token needed)\n"
                "  %(prog)s --clear-cache      # Clear API cache\n"
                "  %(prog)s --config custom.yaml  # Use custom config\n",
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -863,6 +865,12 @@ def create_parser() -> argparse.ArgumentParser:
         "--stats",
         action="store_true",
         help="Show cache statistics and exit",
+    )
+
+    parser.add_argument(
+        "--test",
+        action="store_true",
+        help="Test feed fetching (no GitHub API, no README write)",
     )
 
     return parser
@@ -948,13 +956,23 @@ def main() -> None:
         logger.info("README updated successfully")
 
 
-def test_feeds() -> None:
+def test_feeds(args: argparse.Namespace) -> None:
     """Test fetching blog and Mastodon feeds without updating README.
 
     This function skips GitHub API calls and token validation,
     making it useful for testing feed configuration without
     requiring a GitHub token.
+    
+    Args:
+        args: Parsed command-line arguments.
     """
+    # Configure logging
+    log_level = logging.DEBUG if args.verbose else logging.INFO
+    logging.basicConfig(
+        level=log_level,
+        format="%(asctime)s - %(levelname)s - %(message)s",
+    )
+    
     logger.info("Testing feed fetching (no GitHub API, no README write)")
 
     # Load configuration
@@ -999,7 +1017,7 @@ if __name__ == "__main__":
         sys.exit(0)
 
     # Run test feeds mode
-    if len(sys.argv) > 1 and sys.argv[1] == "--test":
-        test_feeds()
+    if args.test:
+        test_feeds(args)
     else:
         main()
