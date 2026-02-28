@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Scientists](found) - 2026-02-28
-* [Santa](Sofía,) - 2026-02-28
+* [Scientists found a way to cool quantum computers using noise](https://www.sciencedaily.com/releases/2026/01/260129080418.htm) - 2026-02-28
+* [Santa Sofía, torres y edificios](https://www.flickr.com/photos/fernand0/55109517786/) - 2026-02-28
 * [Cordero.](https://asavecesunafoto.wordpress.com/2026/02/28/cordero/) - 2026-02-28
-* [Amazon’s](cloud) - 2026-02-28
-* [New](Study) - 2026-02-28
+* [Amazon’s cloud ‘hit by two outages caused by AI tools last year’](https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws) - 2026-02-28
+* [New Study Tracks How Businesses Quietly Replaced Freelancers With AI Tools - Slashdot](https://slashdot.org/story/26/02/19/1735218/new-study-tracks-how-businesses-quietly-replaced-freelancers-with-ai-tools) - 2026-02-28
 <!-- mastodon ends -->
 
 ---
