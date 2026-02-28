@@ -28,7 +28,7 @@
 ## repositoriesContributedTo
 
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-02-28
-* [AB](https://github.com/simber72/AB),  No description - 2026-02-27
+* [AB](https://github.com/simber72/AB),  No description - 2026-02-28
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-02-27
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-02-26
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
@@ -77,12 +77,12 @@
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
-## [fernand0@mastodon.social](https://mastodon.social/@fernand0)
+## [Links published in my social networks](https://mastodon.social/@fernand0)
+* [Scientists found a way to cool quantum computers using noise <a href="https://www.sciencedaily.com/releases/2026/01/260129080418.htm" rel="nofollow noopener" target="_blank">https://www.sciencedaily.com/releases/2026/01/260129080418.htm</a>](https://mastodon.social/@fernand0/116149512489383916) - 2026-02-28
 * [Santa Sofía, torres y edificios <a href="https://www.flickr.com/photos/fernand0/55109517786/" rel="nofollow noopener" target="_blank">https://www.flickr.com/photos/fernand0/55109517786/</a>](https://mastodon.social/@fernand0/116149453222234631) - 2026-02-28
 * [Cordero. <a href="https://asavecesunafoto.wordpress.com/2026/02/28/cordero/" rel="nofollow noopener" target="_blank">https://asavecesunafoto.wordpress.com/2026/02/28/cordero/</a>](https://mastodon.social/@fernand0/116149281473258122) - 2026-02-28
 * [Amazon’s cloud ‘hit by two outages caused by AI tools last year’ <a href="https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws" rel="nofollow noopener" target="_blank">https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws</a>](https://mastodon.social/@fernand0/116149231041415616) - 2026-02-28
 * [New Study Tracks How Businesses Quietly Replaced Freelancers With AI Tools - Slashdot <a href="https://slashdot.org/story/26/02/19/1735218/new-study-tracks-how-businesses-quietly-replaced-freelancers-with-ai-tools" rel="nofollow noopener" target="_blank">https://slashdot.org/story/26/02/19/1735218/new-study-tracks-how-businesses-quietly-replaced-freelancers-with-ai-tools</a>](https://mastodon.social/@fernand0/116148949158817092) - 2026-02-28
-* [LLM-generated passwords 'fundamentally weak,' experts say <a href="https://www.theregister.com/2026/02/18/generating_passwords_with_llms/" rel="nofollow noopener" target="_blank">https://www.theregister.com/2026/02/18/generating_passwords_with_llms/</a>](https://mastodon.social/@fernand0/116148223148374403) - 2026-02-28
 <!-- mastodon ends -->
 
 ---
