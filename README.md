@@ -15,7 +15,7 @@
 ## repositories
 
 * [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-02-28
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-02-27
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-02-28
 * [linkblog](https://github.com/fernand0/linkblog),  No description - 2026-02-27
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-02-27
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-02-28
 * [AB](https://github.com/simber72/AB),  No description - 2026-02-27
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-02-27
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-02-26
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [fernand0@mastodon.social](https://mastodon.social/@fernand0)
-* [Association of screen time with attention-deficit/hyperactivity disorder symptoms and their development: the mediating role of brain structure - PubMed  <a href="https://pubmed.ncbi.nlm.nih.gov/41173869/" rel="nofollow noopener" target="_blank">https://pubmed.ncbi.nlm.nih.gov/41173869/</a>](https://mastodon.social/@fernand0/116145884621341496) - 2026-02-28
-* [Gary Vaynerchuk says Gen Z mental health was ruined by this common family issue—so stop blaming social media <a href="https://www.fastcompany.com/91494605/gary-v-vaynerchuk-says-gen-z-teen-mental-health-wasnt-ruined-by-social-media-parenting" rel="nofollow noopener" target="_blank">https://www.fastcompany.com/91494605/gary-v-vaynerchuk-says-gen-z-teen-mental-health-wasnt-ruined-by-social-media-parenting</a>](https://mastodon.social/@fernand0/116144023749286645) - 2026-02-27
-* [Madrid 2026 - RootedCON  <a href="https://rootedcon.com/agenda/madrid-2026/" rel="nofollow noopener" target="_blank">https://rootedcon.com/agenda/madrid-2026/</a>](https://mastodon.social/@fernand0/116143692801984372) - 2026-02-27
-* [Mezquita azul y hotel <a href="https://www.flickr.com/photos/fernand0/55109723133/" rel="nofollow noopener" target="_blank">https://www.flickr.com/photos/fernand0/55109723133/</a>](https://mastodon.social/@fernand0/116143549299867818) - 2026-02-27
-* [Code.org President Steps Down Citing 'Upending' of CS By AI - Slashdot <a href="https://news.slashdot.org/story/26/02/21/1932253/codeorg-president-steps-down-citing-upending-of-cs-by-ai" rel="nofollow noopener" target="_blank">https://news.slashdot.org/story/26/02/21/1932253/codeorg-president-steps-down-citing-upending-of-cs-by-ai</a>](https://mastodon.social/@fernand0/116143470766360702) - 2026-02-27
+* [Santa Sofía, torres y edificios <a href="https://www.flickr.com/photos/fernand0/55109517786/" rel="nofollow noopener" target="_blank">https://www.flickr.com/photos/fernand0/55109517786/</a>](https://mastodon.social/@fernand0/116149453222234631) - 2026-02-28
+* [Cordero. <a href="https://asavecesunafoto.wordpress.com/2026/02/28/cordero/" rel="nofollow noopener" target="_blank">https://asavecesunafoto.wordpress.com/2026/02/28/cordero/</a>](https://mastodon.social/@fernand0/116149281473258122) - 2026-02-28
+* [Amazon’s cloud ‘hit by two outages caused by AI tools last year’ <a href="https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws" rel="nofollow noopener" target="_blank">https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws</a>](https://mastodon.social/@fernand0/116149231041415616) - 2026-02-28
+* [New Study Tracks How Businesses Quietly Replaced Freelancers With AI Tools - Slashdot <a href="https://slashdot.org/story/26/02/19/1735218/new-study-tracks-how-businesses-quietly-replaced-freelancers-with-ai-tools" rel="nofollow noopener" target="_blank">https://slashdot.org/story/26/02/19/1735218/new-study-tracks-how-businesses-quietly-replaced-freelancers-with-ai-tools</a>](https://mastodon.social/@fernand0/116148949158817092) - 2026-02-28
+* [LLM-generated passwords 'fundamentally weak,' experts say <a href="https://www.theregister.com/2026/02/18/generating_passwords_with_llms/" rel="nofollow noopener" target="_blank">https://www.theregister.com/2026/02/18/generating_passwords_with_llms/</a>](https://mastodon.social/@fernand0/116148223148374403) - 2026-02-28
 <!-- mastodon ends -->
 
 ---
