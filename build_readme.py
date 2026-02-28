@@ -785,7 +785,8 @@ def format_mastodon_posts_md(
 
     for post in posts[:max_posts]:
         clean_url = re.sub(r"(?<!:)/{2,}", "/", post.url)
-        text = "* [{}]({}) - {}".format(post.title, clean_url, post.published)
+        # text = "* [{}]({}) - {}".format(post.title, clean_url, post.published)
+        text = "*  - {}".format(post.title, post.published)
         soup = BeautifulSoup(text, "html.parser")
         for span in soup.find_all("span"):
             span.unwrap()
