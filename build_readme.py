@@ -804,7 +804,8 @@ def format_mastodon_posts_md(
         
         # Get the cleaned text and normalize whitespace
         text_link = soup.get_text().split()
-        text_content = f"[{text_link[0]}]({text_link[1]})"
+        text = " ".join(text_link[:-1])
+        text_content = f"[{text}]({text_link[-1]})"
         
         # Format: text content - date
         if text_content:
