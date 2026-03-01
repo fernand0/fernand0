@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-02-28
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-01
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-02-28
-* [linkblog](https://github.com/fernand0/linkblog),  No description - 2026-02-27
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-02-28
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-02-17
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
+* [Este es el viaje en tren más largo de Europa: 21 horas y un recorrido que atraviesa cuatro países](https://cadenaser.com/nacional/hype/2026/01/17/este-es-el-viaje-en-tren-mas-largo-de-europa-21-horas-y-un-recorrido-que-atraviesa-cuatro-paises-cadena-ser/) - 2026-03-01
+* [Can We Slow Global Warming By Phasing Out Super-Pollutant HFCs? - Slashdot](https://news.slashdot.org/story/26/01/31/054224/can-we-slow-global-warming-by-phasing-out-super-pollutant-hfcs) - 2026-02-28
 * [Scientists found a way to cool quantum computers using noise](https://www.sciencedaily.com/releases/2026/01/260129080418.htm) - 2026-02-28
 * [Santa Sofía, torres y edificios](https://www.flickr.com/photos/fernand0/55109517786/) - 2026-02-28
 * [Cordero.](https://asavecesunafoto.wordpress.com/2026/02/28/cordero/) - 2026-02-28
-* [Amazon’s cloud ‘hit by two outages caused by AI tools last year’](https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws) - 2026-02-28
-* [New Study Tracks How Businesses Quietly Replaced Freelancers With AI Tools - Slashdot](https://slashdot.org/story/26/02/19/1735218/new-study-tracks-how-businesses-quietly-replaced-freelancers-with-ai-tools) - 2026-02-28
 <!-- mastodon ends -->
 
 ---
