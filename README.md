@@ -14,21 +14,21 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-02
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-01
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-01
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-03
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-02
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-02
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-02
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-02-17
-* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-02-16
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2024-11-03
 * [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá - 2022-05-31
 * [PubwichFork](https://github.com/fernand0/PubwichFork),  PubwichFork is an open-source PHP Web application that allows you to aggregate your published data from multiple websites and social services into a single HTML page. - 2016-09-03
 
 ## repositoriesContributedTo
 
+* [AB](https://github.com/simber72/AB),  No description - 2026-03-02
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-02-28
-* [AB](https://github.com/simber72/AB),  No description - 2026-02-28
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-02-27
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-02-26
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
@@ -51,6 +51,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [Secuestro de datos en el entorno industrial: un gran problema](https://fernand0.github.io/consecuencias-secuestro-datos/) - 2026-03-02
+
 * [Vibe coding y programación asistida por LLMs](https://fernand0.github.io/vibe-coding-ia/) - 2026-01-14
 
 * [MCP y la interacción de las IAs con otros sistemas](https://fernand0.github.io/mcp-que-es/) - 2025-12-23
@@ -59,9 +61,9 @@
 
 * [Identificadores de seguridad: autorización vs autentificación](https://fernand0.github.io/objetos-identificacion/) - 2025-12-10
 
-* [Los drones en la guerra: nuevos usos y ciberseguridad](https://fernand0.github.io/drones-guerra-electronica/) - 2025-12-02
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [Fatiga regulatoria, riesgos y consecuencias](https://blog.elmundoesimperfecto.com/2026/03/02/cumplimiento-fatiga/) - 2026-03-02
 
 * [En Buenos Días Aragón hablando de reconocimiento automático de contenido (ACR)](https://blog.elmundoesimperfecto.com/2026/01/29/en-buenos-dias-aragon-acr/) - 2026-01-29
 
@@ -70,19 +72,17 @@
 * [Las IAs como consejeras o ayudantes](https://blog.elmundoesimperfecto.com/2026/01/14/ia-gobiernos-usos/) - 2026-01-14
 
 * [Buscando sitios cómodos en internet](https://blog.elmundoesimperfecto.com/2025/12/23/web-acogedora/) - 2025-12-23
-
-* [Las inteligencias artificiales, la web abierta y nosotros](https://blog.elmundoesimperfecto.com/2025/12/16/fin-web-ia/) - 2025-12-16
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Americans are destroying Flock surveillance cameras | TechCrunch](https://techcrunch.com/2026/02/23/americans-are-destroying-flock-surveillance-cameras/) - 2026-03-02
-* [Faro de Ahırkapı](https://www.flickr.com/photos/fernand0/55109777949/) - 2026-03-02
-* [Why do older CDs usually have a 0.33 second pregap before the first track? | Steve Hoffman Music Forums](https://forums.stevehoffman.tv/threads/why-do-older-cds-usually-have-a-0-33-second-pregap-before-the-first-track.1178267/) - 2026-03-01
-* [Americans are leaving the country in record numbers](https://qz.com/american-expats-hit-an-all-time-high) - 2026-03-01
-* [AI gets good at finding bugs, not as good at fixing them](https://www.theregister.com/2026/02/24/ai_finding_bugs/) - 2026-03-01
+* [What’s the Point of School When AI Can Do Your Homework?](https://www.404media.co/whats-the-point-of-school-when-ai-can-do-your-homework/) - 2026-03-03
+* [Jack Dorsey’s Block cuts nearly half of its staff in AI gamble](https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai) - 2026-03-02
+* [LinkedIn | Pat Yongpradit](https://www.linkedin.com/posts/patyongpradit_linkedin-activity-7432103281989988353-MSJt) - 2026-03-02
+* [Incorporating AI impacts in BLS employment projections: occupational case studies : Monthly Labor Review : U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/mlr/2025/article/incorporating-ai-impacts-in-bls-employment-projections.htm) - 2026-03-02
+* [La turra que está dando Flickr por correo con el MODE ese no es ni medio normal. Sobre todo porque la mayoría de los que la recibimos no estamos ni remotamente cerca de donde es (ni tenemos muchas ganas de ir por allí, si me](preguntan)....) - 2026-03-02
 <!-- mastodon ends -->
 
 ---
