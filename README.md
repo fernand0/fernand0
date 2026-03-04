@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-03
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-04
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-03
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-03
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-02
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-02
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-02-17
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [AB](https://github.com/simber72/AB),  No description - 2026-03-02
+* [AB](https://github.com/simber72/AB),  No description - 2026-03-03
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-02-28
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-02-27
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-02-26
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [What’s the Point of School When AI Can Do Your Homework?](https://www.404media.co/whats-the-point-of-school-when-ai-can-do-your-homework/) - 2026-03-03
-* [Jack Dorsey’s Block cuts nearly half of its staff in AI gamble](https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai) - 2026-03-02
-* [LinkedIn | Pat Yongpradit](https://www.linkedin.com/posts/patyongpradit_linkedin-activity-7432103281989988353-MSJt) - 2026-03-02
-* [Incorporating AI impacts in BLS employment projections: occupational case studies : Monthly Labor Review : U.S. Bureau of Labor Statistics](https://www.bls.gov/opub/mlr/2025/article/incorporating-ai-impacts-in-bls-employment-projections.htm) - 2026-03-02
-* [La turra que está dando Flickr por correo con el MODE ese no es ni medio normal. Sobre todo porque la mayoría de los que la recibimos no estamos ni remotamente cerca de donde es (ni tenemos muchas ganas de ir por allí, si me](preguntan)....) - 2026-03-02
+* [America Used Anthropic's AI for Its Attack On Iran, One Day After Banning It - Slashdot](https://tech.slashdot.org/story/26/03/01/1945208/america-used-anthropics-ai-for-its-attack-on-iran-one-day-after-banning-it) - 2026-03-04
+* [Americans now listen to podcasts more often than talk radio, study shows | TechCrunch](https://techcrunch.com/2026/02/25/americans-now-listen-to-podcasts-more-often-than-talk-radio-study-shows/) - 2026-03-03
+* [Podcasts Lead AM/FM in Spoken-Word Listening, Marking a First](https://www.edisonresearch.com/podcasts-lead-am-fm-in-spoken-word-listening-marking-a-first/) - 2026-03-03
+* [Digital products and services are getting worse – but the trend can be reversed](https://www.forbrukerradet.no/news-in-english/digital-products-and-services-are-getting-worse-but-the-trend-can-be-reversed/) - 2026-03-03
+* [En cuanto salió el sol](https://asavecesunafoto.wordpress.com/2026/03/03/en-cuanto-salio-el-sol/) - 2026-03-03
 <!-- mastodon ends -->
 
 ---
