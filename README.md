@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-04
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-03
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-05
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-04
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-04
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-02
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
@@ -27,9 +27,9 @@
 
 ## repositoriesContributedTo
 
-* [AB](https://github.com/simber72/AB),  No description - 2026-03-03
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-02-28
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-02-27
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-04
+* [AB](https://github.com/simber72/AB),  No description - 2026-03-04
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-04
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-02-26
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [America Used Anthropic's AI for Its Attack On Iran, One Day After Banning It - Slashdot](https://tech.slashdot.org/story/26/03/01/1945208/america-used-anthropics-ai-for-its-attack-on-iran-one-day-after-banning-it) - 2026-03-04
-* [Americans now listen to podcasts more often than talk radio, study shows | TechCrunch](https://techcrunch.com/2026/02/25/americans-now-listen-to-podcasts-more-often-than-talk-radio-study-shows/) - 2026-03-03
-* [Podcasts Lead AM/FM in Spoken-Word Listening, Marking a First](https://www.edisonresearch.com/podcasts-lead-am-fm-in-spoken-word-listening-marking-a-first/) - 2026-03-03
-* [Digital products and services are getting worse – but the trend can be reversed](https://www.forbrukerradet.no/news-in-english/digital-products-and-services-are-getting-worse-but-the-trend-can-be-reversed/) - 2026-03-03
-* [En cuanto salió el sol](https://asavecesunafoto.wordpress.com/2026/03/03/en-cuanto-salio-el-sol/) - 2026-03-03
+* [Perplexity announces "Computer," an AI agent that assigns work to other AI agents](https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/) - 2026-03-05
+* [Separación.](https://asavecesunafoto.wordpress.com/2026/03/04/separacion/) - 2026-03-04
+* [Former USAF fighter pilot arrested for training Chinese aviators](https://www.flightglobal.com/fixed-wing/former-usaf-fighter-pilot-arrested-for-training-chinese-aviators/166466.article) - 2026-03-04
+* [Previously harmless Google API keys now expose Gemini AI data](https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/) - 2026-03-04
+* ['Depths of Wikipedia' Creator Annie Rauwerda on 'Fragile' Internet Citations | Internet Archive Blogs](https://blog.archive.org/2026/02/05/depths-of-wikipedia-creator-annie-rauwerda-on-fragile-internet-citations/) - 2026-03-04
 <!-- mastodon ends -->
 
 ---
