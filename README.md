@@ -15,8 +15,8 @@
 ## repositories
 
 * [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-05
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-04
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-04
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-05
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-05
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-02
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
@@ -39,6 +39,8 @@
 <!-- blog starts -->
 ## [fernand0@dev.to (in English)](https://dev.to/fernand0)
 
+* [So, you want to vibecode a linkblog?](https://dev.to/fernand0/so-you-want-to-vibecode-a-linkblog-245n) - 2026-03-05
+
 * [So you would like to digitise your CD collection? (& Part 4)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-4-4kem) - 2025-04-08
 
 * [So you would like to digitise your CD collection? (Part 3)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-3-505f) - 2025-03-09
@@ -46,8 +48,6 @@
 * [So you would like to digitise your CD collection? (Part 2)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-2-4ang) - 2025-01-31
 
 * [So you would like to digitise your CD collection? (Part 1)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-1-4i2m) - 2025-01-25
-
-* [So, you want to publish in Bluesky with a python program?](https://dev.to/fernand0/so-you-want-to-publish-in-bluesky-with-a-python-program-3bea) - 2023-11-02
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Perplexity announces "Computer," an AI agent that assigns work to other AI agents](https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/) - 2026-03-05
-* [Separación.](https://asavecesunafoto.wordpress.com/2026/03/04/separacion/) - 2026-03-04
-* [Former USAF fighter pilot arrested for training Chinese aviators](https://www.flightglobal.com/fixed-wing/former-usaf-fighter-pilot-arrested-for-training-chinese-aviators/166466.article) - 2026-03-04
-* [Previously harmless Google API keys now expose Gemini AI data](https://www.bleepingcomputer.com/news/security/previously-harmless-google-api-keys-now-expose-gemini-ai-data/) - 2026-03-04
-* ['Depths of Wikipedia' Creator Annie Rauwerda on 'Fragile' Internet Citations | Internet Archive Blogs](https://blog.archive.org/2026/02/05/depths-of-wikipedia-creator-annie-rauwerda-on-fragile-internet-citations/) - 2026-03-04
+* [Apple starts testing end-to-end encrypted RCS messages on iPhone](https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted) - 2026-03-05
+* [Los cardos se han despertado.](https://asavecesunafoto.wordpress.com/2026/03/05/los-cardos-se-han-despertado/) - 2026-03-05
+* [Graphs are maximally expressive for higher-order interactions](https://arxiv.org/abs/2602.16937) - 2026-03-05
+* [EU entrepreneurs launch social media infrastructure to liberate Europe from US tech monopolies — eurosky](https://www.eurosky.tech/blog/eurosky-launch-social-media-infrastructure) - 2026-03-05
+* [Manuel, un aragonés que trabaja para Google en Silicon Valley y ha logrado una ayuda para su pueblo: 'Guardo mucho cariño de la gente de Codo'](https://www.elperiodicodearagon.com/aragon/2026/02/28/manuel-aragones-trabaja-google-silicon-127243640.html) - 2026-03-05
 <!-- mastodon ends -->
 
 ---
