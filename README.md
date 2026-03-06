@@ -14,7 +14,7 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-05
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-06
 * [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-05
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-05
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-02
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
+* [UK fines Reddit for not checking user ages aggressively enough](https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/) - 2026-03-06
 * [Apple starts testing end-to-end encrypted RCS messages on iPhone](https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted) - 2026-03-05
 * [Los cardos se han despertado.](https://asavecesunafoto.wordpress.com/2026/03/05/los-cardos-se-han-despertado/) - 2026-03-05
 * [Graphs are maximally expressive for higher-order interactions](https://arxiv.org/abs/2602.16937) - 2026-03-05
 * [EU entrepreneurs launch social media infrastructure to liberate Europe from US tech monopolies — eurosky](https://www.eurosky.tech/blog/eurosky-launch-social-media-infrastructure) - 2026-03-05
-* [Manuel, un aragonés que trabaja para Google en Silicon Valley y ha logrado una ayuda para su pueblo: 'Guardo mucho cariño de la gente de Codo'](https://www.elperiodicodearagon.com/aragon/2026/02/28/manuel-aragones-trabaja-google-silicon-127243640.html) - 2026-03-05
 <!-- mastodon ends -->
 
 ---
