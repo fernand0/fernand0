@@ -14,22 +14,22 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-06
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-05
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-05
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-07
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-06
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-06
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-02
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
-* [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-02-17
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2024-11-03
 * [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá - 2022-05-31
 * [PubwichFork](https://github.com/fernand0/PubwichFork),  PubwichFork is an open-source PHP Web application that allows you to aggregate your published data from multiple websites and social services into a single HTML page. - 2016-09-03
 
 ## repositoriesContributedTo
 
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-06
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-04
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-04
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-04
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-02-26
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [UK fines Reddit for not checking user ages aggressively enough](https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/) - 2026-03-06
-* [Apple starts testing end-to-end encrypted RCS messages on iPhone](https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted) - 2026-03-05
-* [Los cardos se han despertado.](https://asavecesunafoto.wordpress.com/2026/03/05/los-cardos-se-han-despertado/) - 2026-03-05
-* [Graphs are maximally expressive for higher-order interactions](https://arxiv.org/abs/2602.16937) - 2026-03-05
-* [EU entrepreneurs launch social media infrastructure to liberate Europe from US tech monopolies — eurosky](https://www.eurosky.tech/blog/eurosky-launch-social-media-infrastructure) - 2026-03-05
+* [Worldwide Smartphone Market to Decline 13% in 2026, Marking the Largest Drop Ever Due to the Memory Shortage Crisis, according to IDC](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/) - 2026-03-07
+* [Keep Android Open](https://keepandroidopen.org/) - 2026-03-06
+* [Los restos.](https://asavecesunafoto.wordpress.com/2026/03/06/los-restos/) - 2026-03-06
+* [The "LLM-as-Analyst" Trap: A Technical Deep-Dive into Agentic Data Systems](https://appliedingenuity.substack.com/p/the-llm-as-analyst-trap-a-technical) - 2026-03-06
+* [Fragments: February 13](https://martinfowler.com/fragments/2026-02-13.html) - 2026-03-06
 <!-- mastodon ends -->
 
 ---
