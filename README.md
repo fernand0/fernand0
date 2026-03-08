@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-07
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-06
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-08
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-07
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-07
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-06
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-02
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
@@ -27,8 +27,8 @@
 
 ## repositoriesContributedTo
 
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-07
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-06
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-04
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-04
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-02-26
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Worldwide Smartphone Market to Decline 13% in 2026, Marking the Largest Drop Ever Due to the Memory Shortage Crisis, according to IDC](https://www.idc.com/resource-center/press-releases/wwsmartphoneforecast4q25/) - 2026-03-07
-* [Keep Android Open](https://keepandroidopen.org/) - 2026-03-06
-* [Los restos.](https://asavecesunafoto.wordpress.com/2026/03/06/los-restos/) - 2026-03-06
-* [The "LLM-as-Analyst" Trap: A Technical Deep-Dive into Agentic Data Systems](https://appliedingenuity.substack.com/p/the-llm-as-analyst-trap-a-technical) - 2026-03-06
-* [Fragments: February 13](https://martinfowler.com/fragments/2026-02-13.html) - 2026-03-06
+* [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/) - 2026-03-08
+* [Donald Trump’s State of the Union Was Long and Wrong](https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-state-of-the-union-was-long-and-wrong) - 2026-03-07
+* [The Republican Party Has a Nazi Problem](https://www.theatlantic.com/magazine/2026/04/republican-party-nazi-problem/686055/) - 2026-03-07
+* [Sushi](https://asavecesunafoto.wordpress.com/2026/03/07/sushi/) - 2026-03-07
+* [THE 2028 GLOBAL INTELLIGENCE CRISIS](https://www.citriniresearch.com/p/2028gic) - 2026-03-07
 <!-- mastodon ends -->
 
 ---
