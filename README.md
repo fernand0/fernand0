@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-08
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-07
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-07
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-08
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-08
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-02
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/) - 2026-03-08
-* [Donald Trump’s State of the Union Was Long and Wrong](https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-state-of-the-union-was-long-and-wrong) - 2026-03-07
-* [The Republican Party Has a Nazi Problem](https://www.theatlantic.com/magazine/2026/04/republican-party-nazi-problem/686055/) - 2026-03-07
-* [Sushi](https://asavecesunafoto.wordpress.com/2026/03/07/sushi/) - 2026-03-07
-* [THE 2028 GLOBAL INTELLIGENCE CRISIS](https://www.citriniresearch.com/p/2028gic) - 2026-03-07
+* [The UK paid £4.1 million for a bookmarks site](https://mahadk.com/posts/ai-skills-hub) - 2026-03-09
+* [White House Scraps 'Burdensome' Software Security Rules - SecurityWeek](https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/) - 2026-03-08
+* [Enigma de papel.](https://asavecesunafoto.wordpress.com/2026/03/08/enigma-de-papel/) - 2026-03-08
+* [GNU gettext Reaches Version 1.0 After 30+ Years In Development - Adds LLM Features](https://www.phoronix.com/news/GNU-gettext-1.0) - 2026-03-08
+* [UK’s first rapid-charging battery train ready for boarding this weekend](https://www.theguardian.com/business/2026/jan/30/uk-first-rapid-charging-battery-train) - 2026-03-08
 <!-- mastodon ends -->
 
 ---
