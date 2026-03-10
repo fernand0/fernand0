@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-09
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-08
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-08
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-10
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-09
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-09
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-02
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -27,9 +27,9 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-07
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-09
+* [AB](https://github.com/simber72/AB),  No description - 2026-03-09
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-06
-* [AB](https://github.com/simber72/AB),  No description - 2026-03-04
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-02-26
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [The UK paid £4.1 million for a bookmarks site](https://mahadk.com/posts/ai-skills-hub) - 2026-03-09
-* [White House Scraps 'Burdensome' Software Security Rules - SecurityWeek](https://www.securityweek.com/white-house-scraps-burdensome-software-security-rules/) - 2026-03-08
-* [Enigma de papel.](https://asavecesunafoto.wordpress.com/2026/03/08/enigma-de-papel/) - 2026-03-08
-* [GNU gettext Reaches Version 1.0 After 30+ Years In Development - Adds LLM Features](https://www.phoronix.com/news/GNU-gettext-1.0) - 2026-03-08
-* [UK’s first rapid-charging battery train ready for boarding this weekend](https://www.theguardian.com/business/2026/jan/30/uk-first-rapid-charging-battery-train) - 2026-03-08
+* [30 months to 3MWh - some more home battery stats](https://shkspr.mobi/blog/2026/02/30-months-to-3mwh-some-more-home-battery-stats/) - 2026-03-10
+* [Zuckerberg’s AI glasses ‘spy on people on the toilet’](https://www.telegraph.co.uk/business/2026/03/03/zuckerbergs-ai-glasses-spy-on-people-on-the-toilet/) - 2026-03-09
+* [Descendencia.](https://asavecesunafoto.wordpress.com/2026/03/09/descendencia/) - 2026-03-09
+* [An Animated Introduction to the Antikythera Mechanism: The World’s First Analog Computer from Ancient Greece](https://www.openculture.com/2026/02/an-animated-introduction-to-the-antikythera-mechanism.html) - 2026-03-09
+* [Exposición TRASH + Animales fantásticos y donde encontrarlos](https://eina.unizar.es/noticia/exposicion-trash-animales-fantasticos-y-donde-encontrarlos) - 2026-03-09
 <!-- mastodon ends -->
 
 ---
