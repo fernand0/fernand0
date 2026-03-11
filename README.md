@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-10
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-09
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-09
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-11
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-10
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-10
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-02
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -27,10 +27,10 @@
 
 ## repositoriesContributedTo
 
+* [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
+* [AB](https://github.com/simber72/AB),  No description - 2026-03-10
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-09
-* [AB](https://github.com/simber72/AB),  No description - 2026-03-09
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-06
-* [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-02-26
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
 
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [30 months to 3MWh - some more home battery stats](https://shkspr.mobi/blog/2026/02/30-months-to-3mwh-some-more-home-battery-stats/) - 2026-03-10
-* [Zuckerberg’s AI glasses ‘spy on people on the toilet’](https://www.telegraph.co.uk/business/2026/03/03/zuckerbergs-ai-glasses-spy-on-people-on-the-toilet/) - 2026-03-09
-* [Descendencia.](https://asavecesunafoto.wordpress.com/2026/03/09/descendencia/) - 2026-03-09
-* [An Animated Introduction to the Antikythera Mechanism: The World’s First Analog Computer from Ancient Greece](https://www.openculture.com/2026/02/an-animated-introduction-to-the-antikythera-mechanism.html) - 2026-03-09
-* [Exposición TRASH + Animales fantásticos y donde encontrarlos](https://eina.unizar.es/noticia/exposicion-trash-animales-fantasticos-y-donde-encontrarlos) - 2026-03-09
+* [How “Deep Industry Research Agents” Can Change Your Organization](https://hbr.org/2026/03/how-deep-industry-research-agents-can-change-your-organization) - 2026-03-11
+* [She Came Out of the Bathroom Naked, Employee Says](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything) - 2026-03-10
+* [Exploring Solutions to Tackle Low-Quality Contributions on GitHub · community · Discussion #185387](https://github.com/orgs/community/discussions/185387) - 2026-03-10
+* [Rocío.](https://asavecesunafoto.wordpress.com/2026/03/10/rocio/) - 2026-03-10
+* [Book Review: 20 Goto 10 - 10101001 facts about retro computers by Steven Goodwin](https://shkspr.mobi/blog/2026/02/book-review-20-goto-10-10101001-facts-about-retro-computers-by-steven-goodwin/) - 2026-03-10
 <!-- mastodon ends -->
 
 ---
