@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-12
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-11
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-11
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-13
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-12
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-12
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-12
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-02
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2024-11-03
@@ -27,10 +27,10 @@
 
 ## repositoriesContributedTo
 
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-12
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-12
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-11
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-09
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-06
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
 
@@ -51,6 +51,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [Usando IAs para portar código](https://fernand0.github.io/criptografia-ia/) - 2026-03-12
+
 * [Secuestro de datos en el entorno industrial: un gran problema](https://fernand0.github.io/consecuencias-secuestro-datos/) - 2026-03-02
 
 * [Vibe coding y programación asistida por LLMs](https://fernand0.github.io/vibe-coding-ia/) - 2026-01-14
@@ -59,9 +61,9 @@
 
 * [Alucinanciones de las Inteligencias Artificiales y sus consecuencias en el desarrollo de código](https://fernand0.github.io/codigo-generado-ia/) - 2025-12-16
 
-* [Identificadores de seguridad: autorización vs autentificación](https://fernand0.github.io/objetos-identificacion/) - 2025-12-10
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [Un poco de soberanía tecnológica: ejecuta una IA en tu PC](https://blog.elmundoesimperfecto.com/2026/03/12/ejecuta-tu-propia-ia/) - 2026-03-12
 
 * [Fatiga regulatoria, riesgos y consecuencias](https://blog.elmundoesimperfecto.com/2026/03/02/cumplimiento-fatiga/) - 2026-03-02
 
@@ -70,19 +72,17 @@
 * [En la sesión sobre 'Tecnología en la competencia global' del título 'Geopolítica Aplicada a la Empresa'](https://blog.elmundoesimperfecto.com/2026/01/28/tecnologia-geopolitica/) - 2026-01-28
 
 * [Las IAs como consejeras o ayudantes](https://blog.elmundoesimperfecto.com/2026/01/14/ia-gobiernos-usos/) - 2026-01-14
-
-* [Buscando sitios cómodos en internet](https://blog.elmundoesimperfecto.com/2025/12/23/web-acogedora/) - 2025-12-23
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Bad Bunny rewriting the ‘rules’ of American popstardom](https://www.reuters.com/graphics/FOOTBALL-NFL-SUPERBOWL/HALFTIME-BADBUNNY/zdvxjmdjnvx/) - 2026-03-12
-* [Prandium amicorum. Falso libro de cocina, verdadero tratado de amistad - Rolde](https://www.roldedeestudiosaragoneses.org/producto/prandium-amicorum-falso-libro-de-cocina-verdadero-tratado-de-amistad) - 2026-03-11
-* [These charts show how Trump is isolating the US on the world stage](https://www.theguardian.com/world/ng-interactive/2026/feb/13/these-charts-show-how-trump-is-isolating-the-us-on-the-world-stage) - 2026-03-11
-* [De película - Los robots](https://play.rtve.es/v/5498415) - 2026-03-11
-* [Baja.](https://asavecesunafoto.wordpress.com/2026/03/11/baja/) - 2026-03-11
+* [AI-Powered Disinformation Swarms Are Coming for Democracy](https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/) - 2026-03-13
+* [Jack Dorsey Is Ready to Explain the Block Layoffs](https://www.wired.com/story/jack-dorsey-explains-block-layoffs/) - 2026-03-12
+* [Mezquita de Beylerbeyi](https://www.flickr.com/photos/fernand0/55135771633/) - 2026-03-12
+* [Usando IAs para portar código](https://fernand0.github.io//criptografia-ia/) - 2026-03-12
+* [Why Aren’t Passengers Who Evacuate With Bags Being Punished?](https://www.gatechecked.com/why-arent-passengers-who-evacuate-with-bags-being-punished-11499?ref=flightaware) - 2026-03-12
 <!-- mastodon ends -->
 
 ---
