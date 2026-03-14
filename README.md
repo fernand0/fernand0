@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-13
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-12
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-14
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-13
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-13
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-12
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-12
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-12
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-13
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-12
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-11
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
@@ -39,6 +39,8 @@
 <!-- blog starts -->
 ## [fernand0@dev.to (in English)](https://dev.to/fernand0)
 
+* [Links for 2026-03-12 (Testing RSS importing feature)](https://dev.to/fernand0/links-for-2026-03-12-testing-rss-importing-feature-58j6) - 2026-03-12
+
 * [So, you want to vibecode a linkblog?](https://dev.to/fernand0/so-you-want-to-vibecode-a-linkblog-245n) - 2026-03-05
 
 * [So you would like to digitise your CD collection? (& Part 4)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-4-4kem) - 2025-04-08
@@ -46,8 +48,6 @@
 * [So you would like to digitise your CD collection? (Part 3)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-3-505f) - 2025-03-09
 
 * [So you would like to digitise your CD collection? (Part 2)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-2-4ang) - 2025-01-31
-
-* [So you would like to digitise your CD collection? (Part 1)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-1-4i2m) - 2025-01-25
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [AI-Powered Disinformation Swarms Are Coming for Democracy](https://www.wired.com/story/ai-powered-disinformation-swarms-are-coming-for-democracy/) - 2026-03-13
-* [Jack Dorsey Is Ready to Explain the Block Layoffs](https://www.wired.com/story/jack-dorsey-explains-block-layoffs/) - 2026-03-12
-* [Mezquita de Beylerbeyi](https://www.flickr.com/photos/fernand0/55135771633/) - 2026-03-12
-* [Usando IAs para portar código](https://fernand0.github.io//criptografia-ia/) - 2026-03-12
-* [Why Aren’t Passengers Who Evacuate With Bags Being Punished?](https://www.gatechecked.com/why-arent-passengers-who-evacuate-with-bags-being-punished-11499?ref=flightaware) - 2026-03-12
+* [The First Robot Movie: Watch a Newly Discovered Georges Méliès Film from 1897](https://www.openculture.com/2026/03/the-first-robot-movie-georges-melies.html) - 2026-03-14
+* [Embarcadero de Turyol en Üsküdar](https://www.flickr.com/photos/fernand0/55135585601/) - 2026-03-14
+* [Why toxic positivity is making us miserable](https://bigthink.com/the-well/why-toxic-positivity-is-making-us-miserable/) - 2026-03-13
+* [Algunas claves para que Europa pueda recuperar el liderazgo tecnológico](https://www.realinstitutoelcano.org/analisis/algunas-claves-para-que-europa-pueda-recuperar-el-liderazgo-tecnologico/) - 2026-03-13
+* [Plantitas.](https://asavecesunafoto.wordpress.com/2026/03/13/plantitas/) - 2026-03-13
 <!-- mastodon ends -->
 
 ---
