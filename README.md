@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-14
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-13
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-14
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-14
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-12
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-13
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-14
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-12
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-11
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [The First Robot Movie: Watch a Newly Discovered Georges Méliès Film from 1897](https://www.openculture.com/2026/03/the-first-robot-movie-georges-melies.html) - 2026-03-14
-* [Embarcadero de Turyol en Üsküdar](https://www.flickr.com/photos/fernand0/55135585601/) - 2026-03-14
-* [Why toxic positivity is making us miserable](https://bigthink.com/the-well/why-toxic-positivity-is-making-us-miserable/) - 2026-03-13
-* [Algunas claves para que Europa pueda recuperar el liderazgo tecnológico](https://www.realinstitutoelcano.org/analisis/algunas-claves-para-que-europa-pueda-recuperar-el-liderazgo-tecnologico/) - 2026-03-13
-* [Plantitas.](https://asavecesunafoto.wordpress.com/2026/03/13/plantitas/) - 2026-03-13
+* [Salón-Bar](https://www.flickr.com/photos/fernand0/55134697947/) - 2026-03-15
+* [England: Time to replace Computer Science with Computing](https://computinged.wordpress.com/2026/02/24/england-time-to-replace-computer-science-with-computing/) - 2026-03-15
+* [GenAI as automobile for the mind, and exercise as the antidote: A metaphor for predicting GenAI’s impact](https://computinged.wordpress.com/2026/02/16/genai-as-automobile-for-the-mind-and-exercise-as-the-antidote-a-metaphor-for-predicting-genais-impact/) - 2026-03-14
+* [LeakBase cerrado: FBI y Europol desmantelan foro hacker - El Ecosistema Startup](https://ecosistemastartup.com/leakbase-cerrado-fbi-y-europol-desmantelan-foro-hacker/) - 2026-03-14
+* [KomikoAI Data Breach Exposes Over One Million Users - Daily Dark Web](https://dailydarkweb.net/komikoai-data-breach-exposes-over-one-million-users/) - 2026-03-14
 <!-- mastodon ends -->
 
 ---
