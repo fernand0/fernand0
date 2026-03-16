@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-15
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-14
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-14
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-16
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-15
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-15
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-12
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Salón-Bar](https://www.flickr.com/photos/fernand0/55134697947/) - 2026-03-15
-* [England: Time to replace Computer Science with Computing](https://computinged.wordpress.com/2026/02/24/england-time-to-replace-computer-science-with-computing/) - 2026-03-15
-* [GenAI as automobile for the mind, and exercise as the antidote: A metaphor for predicting GenAI’s impact](https://computinged.wordpress.com/2026/02/16/genai-as-automobile-for-the-mind-and-exercise-as-the-antidote-a-metaphor-for-predicting-genais-impact/) - 2026-03-14
-* [LeakBase cerrado: FBI y Europol desmantelan foro hacker - El Ecosistema Startup](https://ecosistemastartup.com/leakbase-cerrado-fbi-y-europol-desmantelan-foro-hacker/) - 2026-03-14
-* [KomikoAI Data Breach Exposes Over One Million Users - Daily Dark Web](https://dailydarkweb.net/komikoai-data-breach-exposes-over-one-million-users/) - 2026-03-14
+* [Vocalinux: Offline Voice Dictation for Linux](https://vocalinux.com/) - 2026-03-16
+* [Microsoft Locks Down Discord Server Over “Microslop” Posts](https://itsfoss.com/news/microsoft-angry-over-microslop/) - 2026-03-15
+* [Sellos. Mujeres en la escuela Cajal.](https://asavecesunafoto.wordpress.com/2026/03/15/sellos-mujeres-en-la-escuela-cajal/) - 2026-03-15
+* [Amazon: Drone strikes damaged AWS data centers in Middle East](https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/) - 2026-03-15
+* [A new Share button](https://blog.joinmastodon.org/2026/03/a-new-share-button/) - 2026-03-15
 <!-- mastodon ends -->
 
 ---
