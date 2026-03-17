@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-16
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-15
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-15
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-17
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-16
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-16
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-12
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-14
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-16
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-12
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-11
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Vocalinux: Offline Voice Dictation for Linux](https://vocalinux.com/) - 2026-03-16
-* [Microsoft Locks Down Discord Server Over “Microslop” Posts](https://itsfoss.com/news/microsoft-angry-over-microslop/) - 2026-03-15
-* [Sellos. Mujeres en la escuela Cajal.](https://asavecesunafoto.wordpress.com/2026/03/15/sellos-mujeres-en-la-escuela-cajal/) - 2026-03-15
-* [Amazon: Drone strikes damaged AWS data centers in Middle East](https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/) - 2026-03-15
-* [A new Share button](https://blog.joinmastodon.org/2026/03/a-new-share-button/) - 2026-03-15
+* [Maybe there is no AI bubble - AlgorithmWatch](https://algorithmwatch.org/en/maybe-there-is-no-ai-bubble/) - 2026-03-17
+* [La mayoría de los ciudadanos españoles considera que la inteligencia artificial potenciará y complementará el trabajo de las personas en vez de sustituirlas - Fundación BBVA](https://www.fbbva.es/noticias/estudio-opinion-publica-inteligencia-artificial-espana/) - 2026-03-16
+* [El móvil se ha convertido en el centro de coordinación de la vida digital](https://www.fbbva.es/noticias/estudio-actitudes-tecnologia-telefono-movil-centro-coordinacion-vida-digital-ciudadanos/) - 2026-03-16
+* [Limpieza.](https://asavecesunafoto.wordpress.com/2026/03/16/limpieza/) - 2026-03-16
+* [Exahash, Zettahash, Yottahash](https://www.johndcook.com/blog/2026/02/22/zettahash/) - 2026-03-16
 <!-- mastodon ends -->
 
 ---
