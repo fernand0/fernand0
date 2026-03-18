@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-17
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-16
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-18
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-17
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-17
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-12
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -27,9 +27,9 @@
 
 ## repositoriesContributedTo
 
+* [AB](https://github.com/simber72/AB),  No description - 2026-03-17
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-16
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-12
-* [AB](https://github.com/simber72/AB),  No description - 2026-03-11
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Maybe there is no AI bubble - AlgorithmWatch](https://algorithmwatch.org/en/maybe-there-is-no-ai-bubble/) - 2026-03-17
-* [La mayoría de los ciudadanos españoles considera que la inteligencia artificial potenciará y complementará el trabajo de las personas en vez de sustituirlas - Fundación BBVA](https://www.fbbva.es/noticias/estudio-opinion-publica-inteligencia-artificial-espana/) - 2026-03-16
-* [El móvil se ha convertido en el centro de coordinación de la vida digital](https://www.fbbva.es/noticias/estudio-actitudes-tecnologia-telefono-movil-centro-coordinacion-vida-digital-ciudadanos/) - 2026-03-16
-* [Limpieza.](https://asavecesunafoto.wordpress.com/2026/03/16/limpieza/) - 2026-03-16
-* [Exahash, Zettahash, Yottahash](https://www.johndcook.com/blog/2026/02/22/zettahash/) - 2026-03-16
+* [Proton Mail Helped FBI Unmask Anonymous ‘Stop Cop City’ Protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/) - 2026-03-18
+* [‘Something we’re looking into’ — as Samsung packs the S26 with more AI than ever, I asked if it might bring vibe coding directly to its phones](https://www.techradar.com/phones/samsung-galaxy-phones/samsung-exec-says-vibe-coding-is-very-interesting-and-something-were-looking-into-as-an-option-on-galaxy-phones-in-the-future) - 2026-03-17
+* [Workers who love ‘synergizing paradigms’ might be bad at their jobs | Cornell Chronicle](https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs) - 2026-03-17
+* [Grúa.](https://asavecesunafoto.wordpress.com/2026/03/17/grua/) - 2026-03-17
+* [This weekend’s US clock change is a problem, and there’s a deep divide on how to fix it](https://apnews.com/article/daylight-saving-time-states-congress-standard-4cd5b467eed4ad1f112f0834aee3d45b) - 2026-03-17
 <!-- mastodon ends -->
 
 ---
