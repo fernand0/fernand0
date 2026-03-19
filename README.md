@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-18
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-17
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-17
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-19
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-18
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-12
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Proton Mail Helped FBI Unmask Anonymous ‘Stop Cop City’ Protester](https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/) - 2026-03-18
-* [‘Something we’re looking into’ — as Samsung packs the S26 with more AI than ever, I asked if it might bring vibe coding directly to its phones](https://www.techradar.com/phones/samsung-galaxy-phones/samsung-exec-says-vibe-coding-is-very-interesting-and-something-were-looking-into-as-an-option-on-galaxy-phones-in-the-future) - 2026-03-17
-* [Workers who love ‘synergizing paradigms’ might be bad at their jobs | Cornell Chronicle](https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs) - 2026-03-17
-* [Grúa.](https://asavecesunafoto.wordpress.com/2026/03/17/grua/) - 2026-03-17
-* [This weekend’s US clock change is a problem, and there’s a deep divide on how to fix it](https://apnews.com/article/daylight-saving-time-states-congress-standard-4cd5b467eed4ad1f112f0834aee3d45b) - 2026-03-17
+* [Computer Scientists Caution Against Internet Age-Verification Mandates - Slashdot](https://tech.slashdot.org/story/26/03/04/197220/computer-scientists-caution-against-internet-age-verification-mandates) - 2026-03-19
+* [Inside the Web Infrastructure of Dynamic Pricing | HackerNoon](https://hackernoon.com/inside-the-web-infrastructure-of-dynamic-pricing) - 2026-03-18
+* [Empezó.](https://asavecesunafoto.wordpress.com/2026/03/18/empezo/) - 2026-03-18
+* [FBI investigating breach that reportedly hit wiretapping net](https://www.theregister.com/2026/03/08/fbi_investigates_wiretap_system_breach/) - 2026-03-18
+* [AdaCore Software Supply Chain Security Evolution](https://www.adacore.com/blog/adacore-software-supply-chain-security-evolution) - 2026-03-18
 <!-- mastodon ends -->
 
 ---
