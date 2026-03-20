@@ -14,20 +14,20 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-19
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-18
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-20
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-19
+* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-19
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-19
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-12
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2024-11-03
-* [paseos-por-venecia](https://github.com/fernand0/paseos-por-venecia),  Una guía para dos o tres paseos por Venecia. Para uso personal por lo pronto, luego ya se verá - 2022-05-31
 * [PubwichFork](https://github.com/fernand0/PubwichFork),  PubwichFork is an open-source PHP Web application that allows you to aggregate your published data from multiple websites and social services into a single HTML page. - 2016-09-03
 
 ## repositoriesContributedTo
 
-* [AB](https://github.com/simber72/AB),  No description - 2026-03-17
+* [AB](https://github.com/simber72/AB),  No description - 2026-03-19
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-16
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-12
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Computer Scientists Caution Against Internet Age-Verification Mandates - Slashdot](https://tech.slashdot.org/story/26/03/04/197220/computer-scientists-caution-against-internet-age-verification-mandates) - 2026-03-19
-* [Inside the Web Infrastructure of Dynamic Pricing | HackerNoon](https://hackernoon.com/inside-the-web-infrastructure-of-dynamic-pricing) - 2026-03-18
-* [Empezó.](https://asavecesunafoto.wordpress.com/2026/03/18/empezo/) - 2026-03-18
-* [FBI investigating breach that reportedly hit wiretapping net](https://www.theregister.com/2026/03/08/fbi_investigates_wiretap_system_breach/) - 2026-03-18
-* [AdaCore Software Supply Chain Security Evolution](https://www.adacore.com/blog/adacore-software-supply-chain-security-evolution) - 2026-03-18
+* [Binary Math Tricks: Shifting To Divide By Ten Ain’t Easy](https://hackaday.com/2020/06/12/binary-math-tricks-shifting-to-divide-by-ten-aint-easy/) - 2026-03-20
+* [OpenAI building GitHub alternative after frequent platform outages and disruptions — a public OpenAI code repository would directly compete with one of its biggest investors](https://www.tomshardware.com/tech-industry/openai-building-github-alternative-after-outages-disrupted-engineers) - 2026-03-19
+* [Microsoft Azure CTO says Claude found vulns in Apple II code](https://www.theregister.com/2026/03/09/claude_legacy_code_vulns/?td=rt-3a) - 2026-03-19
+* [Silicon Valley is buzzing about this new idea: AI compute as compensation](https://www.businessinsider.com/ai-compute-compensation-software-engineers-greg-brockman-2026-3) - 2026-03-19
+* [Tony Hoare, Turing Award-Winning Computer Scientist Behind QuickSort, Dies At 92 - Slashdot](https://developers.slashdot.org/story/26/03/10/2038225/tony-hoare-turing-award-winning-computer-scientist-behind-quicksort-dies-at-92) - 2026-03-19
 <!-- mastodon ends -->
 
 ---
