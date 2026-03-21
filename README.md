@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-20
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-19
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-21
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-20
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-20
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-19
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-19
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-12
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -27,9 +27,9 @@
 
 ## repositoriesContributedTo
 
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-20
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-19
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-16
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-12
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Binary Math Tricks: Shifting To Divide By Ten Ain’t Easy](https://hackaday.com/2020/06/12/binary-math-tricks-shifting-to-divide-by-ten-aint-easy/) - 2026-03-20
-* [OpenAI building GitHub alternative after frequent platform outages and disruptions — a public OpenAI code repository would directly compete with one of its biggest investors](https://www.tomshardware.com/tech-industry/openai-building-github-alternative-after-outages-disrupted-engineers) - 2026-03-19
-* [Microsoft Azure CTO says Claude found vulns in Apple II code](https://www.theregister.com/2026/03/09/claude_legacy_code_vulns/?td=rt-3a) - 2026-03-19
-* [Silicon Valley is buzzing about this new idea: AI compute as compensation](https://www.businessinsider.com/ai-compute-compensation-software-engineers-greg-brockman-2026-3) - 2026-03-19
-* [Tony Hoare, Turing Award-Winning Computer Scientist Behind QuickSort, Dies At 92 - Slashdot](https://developers.slashdot.org/story/26/03/10/2038225/tony-hoare-turing-award-winning-computer-scientist-behind-quicksort-dies-at-92) - 2026-03-19
+* [14,000 routers are infected by malware that's highly resistant to takedowns](https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/) - 2026-03-21
+* [Verde y rosa.](https://asavecesunafoto.wordpress.com/2026/03/20/verde-y-rosa/) - 2026-03-20
+* [Torsional flexibility of the thoracic spine is superior to that of the lumbar spine in cats: Implications for the falling cat problem.](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.70165) - 2026-03-20
+* [Paseo del puerto de Galata](https://www.flickr.com/photos/fernand0/55135821529/) - 2026-03-20
+* [Siguiente charla del ciclo Chateando con la Ciencia, con el investigador Carlos Sánchez Somolinos](https://www.unizar.es/actualidad/vernoticia_ng.php?id=95539&amp;idh=13333&amp;pk_campaign=iunizar20260311&amp;pk_source=iunizar-personalunizar) - 2026-03-20
 <!-- mastodon ends -->
 
 ---
