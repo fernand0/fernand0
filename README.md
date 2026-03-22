@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-21
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-20
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-20
-* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-19
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-22
+* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-21
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-21
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-21
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-12
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [14,000 routers are infected by malware that's highly resistant to takedowns](https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/) - 2026-03-21
-* [Verde y rosa.](https://asavecesunafoto.wordpress.com/2026/03/20/verde-y-rosa/) - 2026-03-20
-* [Torsional flexibility of the thoracic spine is superior to that of the lumbar spine in cats: Implications for the falling cat problem.](https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ar.70165) - 2026-03-20
-* [Paseo del puerto de Galata](https://www.flickr.com/photos/fernand0/55135821529/) - 2026-03-20
-* [Siguiente charla del ciclo Chateando con la Ciencia, con el investigador Carlos Sánchez Somolinos](https://www.unizar.es/actualidad/vernoticia_ng.php?id=95539&amp;idh=13333&amp;pk_campaign=iunizar20260311&amp;pk_source=iunizar-personalunizar) - 2026-03-20
+* [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e) - 2026-03-22
+* [De Marruecos.](https://asavecesunafoto.wordpress.com/2026/03/21/de-marruecos/) - 2026-03-21
+* [10,000,000th Fibonacci number](https://www.johndcook.com/blog/2026/02/21/f10000000/) - 2026-03-21
+* [The Geopolitics of the Digital Revolution: Europe’s Defining Test](https://www.ie.edu/cgc/news-and-events/news/the-geopolitics-of-the-digital-revolution-europes-defining-test/) - 2026-03-21
+* [Barco Şehit İker Karter](https://www.flickr.com/photos/fernand0/55135980855/) - 2026-03-21
 <!-- mastodon ends -->
 
 ---
