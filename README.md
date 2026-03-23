@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-22
-* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-21
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-21
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-21
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-23
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-22
+* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-22
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-22
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-22
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-12
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-06
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2024-11-03
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-20
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-22
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-19
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-16
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e) - 2026-03-22
-* [De Marruecos.](https://asavecesunafoto.wordpress.com/2026/03/21/de-marruecos/) - 2026-03-21
-* [10,000,000th Fibonacci number](https://www.johndcook.com/blog/2026/02/21/f10000000/) - 2026-03-21
-* [The Geopolitics of the Digital Revolution: Europe’s Defining Test](https://www.ie.edu/cgc/news-and-events/news/the-geopolitics-of-the-digital-revolution-europes-defining-test/) - 2026-03-21
-* [Barco Şehit İker Karter](https://www.flickr.com/photos/fernand0/55135980855/) - 2026-03-21
+* [Starbucks Data Breach - Hundreds of Users' Personal Data Exposed](https://cybersecuritynews.com/starbucks-data-breach/) - 2026-03-23
+* [Are We Finally At The Point Where Phones Can Replace Computers?](https://hackaday.com/2026/03/11/are-we-finally-at-the-point-where-phones-can-replace-computers/) - 2026-03-22
+* [Embarcadero de Eminönü](https://www.flickr.com/photos/fernand0/55135586166/) - 2026-03-22
+* [Introduction to Dev.to API](https://dev.to/chapterchase/introduction-to-devto-api-28l3) - 2026-03-22
+* [Más saldos.](https://asavecesunafoto.wordpress.com/2026/03/22/mas-saldos/) - 2026-03-22
 <!-- mastodon ends -->
 
 ---
