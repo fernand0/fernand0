@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-23
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-24
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-23
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-23
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-22
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-22
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-22
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-12
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2024-11-03
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-22
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-23
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-19
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-16
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
@@ -51,6 +51,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [IMAP: leyendo correos desde nuestra terminal](https://fernand0.github.io/protocolo-correo/) - 2026-03-23
+
 * [Usando IAs para portar código](https://fernand0.github.io/criptografia-ia/) - 2026-03-12
 
 * [Secuestro de datos en el entorno industrial: un gran problema](https://fernand0.github.io/consecuencias-secuestro-datos/) - 2026-03-02
@@ -59,9 +61,9 @@
 
 * [MCP y la interacción de las IAs con otros sistemas](https://fernand0.github.io/mcp-que-es/) - 2025-12-23
 
-* [Alucinanciones de las Inteligencias Artificiales y sus consecuencias en el desarrollo de código](https://fernand0.github.io/codigo-generado-ia/) - 2025-12-16
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [Nombrando amenazas: Microsoft y la meteorología](https://blog.elmundoesimperfecto.com/2026/03/23/nombres-amenazas-microsoft/) - 2026-03-23
 
 * [Un poco de soberanía tecnológica: ejecuta una IA en tu PC](https://blog.elmundoesimperfecto.com/2026/03/12/ejecuta-tu-propia-ia/) - 2026-03-12
 
@@ -70,19 +72,17 @@
 * [En Buenos Días Aragón hablando de reconocimiento automático de contenido (ACR)](https://blog.elmundoesimperfecto.com/2026/01/29/en-buenos-dias-aragon-acr/) - 2026-01-29
 
 * [En la sesión sobre 'Tecnología en la competencia global' del título 'Geopolítica Aplicada a la Empresa'](https://blog.elmundoesimperfecto.com/2026/01/28/tecnologia-geopolitica/) - 2026-01-28
-
-* [Las IAs como consejeras o ayudantes](https://blog.elmundoesimperfecto.com/2026/01/14/ia-gobiernos-usos/) - 2026-01-14
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Starbucks Data Breach - Hundreds of Users' Personal Data Exposed](https://cybersecuritynews.com/starbucks-data-breach/) - 2026-03-23
-* [Are We Finally At The Point Where Phones Can Replace Computers?](https://hackaday.com/2026/03/11/are-we-finally-at-the-point-where-phones-can-replace-computers/) - 2026-03-22
-* [Embarcadero de Eminönü](https://www.flickr.com/photos/fernand0/55135586166/) - 2026-03-22
-* [Introduction to Dev.to API](https://dev.to/chapterchase/introduction-to-devto-api-28l3) - 2026-03-22
-* [Más saldos.](https://asavecesunafoto.wordpress.com/2026/03/22/mas-saldos/) - 2026-03-22
+* [Gamblers trying to win a bet on Polymarket are vowing to kill me if I don’t rewrite an Iran missile story](https://www.timesofisrael.com/gamblers-trying-to-win-a-bet-on-polymarket-are-vowing-to-kill-me-if-i-dont-rewrite-an-iran-missile-story/) - 2026-03-24
+* [What Is A Computer?](https://hackaday.com/2026/03/14/what-is-a-computer/) - 2026-03-23
+* [Embarcadero de Karaköy](https://www.flickr.com/photos/fernand0/55135586256/) - 2026-03-23
+* [Nombrando amenazas: Microsoft y la meteorología](https://blog.elmundoesimperfecto.com/2026/03/23/nombres-amenazas-microsoft/) - 2026-03-23
+* [IMAP: leyendo correos desde nuestra terminal](https://fernand0.github.io//protocolo-correo/) - 2026-03-23
 <!-- mastodon ends -->
 
 ---
