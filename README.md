@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-24
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-24
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-24
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-25
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-25
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-25
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-22
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-24
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-25
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-24
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-24
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Puerta y ventanas en Topkapi](https://www.flickr.com/photos/fernand0/55164489888/) - 2026-03-25
-* [¿Por qué se celebra el 17 de marzo el Día del Cómic y del Tebeo?](https://www.julianmarquina.es/por-que-se-celebra-el-17-de-marzo-el-dia-del-comic-y-del-tebeo/) - 2026-03-25
-* [Online Plant Database for SCCSS Members - MOPDB - SCCSS](https://southcoastcss.org/online-plant-database-for-sccss-members-mopdb/) - 2026-03-24
-* [Mini-Show Succulent May 2026: Agave, Manfreda, (inc. × Mangave) - SCCSS](https://southcoastcss.org/mini-show-succulent-may-2026-agave-manfreda-inc-x-mangave/) - 2026-03-24
-* [Tiempo de florecillas.](https://asavecesunafoto.wordpress.com/2026/03/24/tiempo-de-florecillas/) - 2026-03-24
+* [Sam Loyd and the 15 Puzzle](https://mathematicalmysterytour.blogspot.com/2014/10/sam-loyd-and-15-puzzle.html) - 2026-03-26
+* [Les États-Unis ne sont plus une démocratie libérale](https://legrandcontinent.eu/fr/2026/03/17/les-etats-unis-ne-sont-plus-une-democratie-liberale-selon-linstitut-v-dem/) - 2026-03-25
+* [Grande.](https://asavecesunafoto.wordpress.com/2026/03/25/grande/) - 2026-03-25
+* [New! Did Not Finish Shelf is On Its Way](https://www.goodreads.com/blog/show/3092-new-did-not-finish-shelf-is-on-its-way) - 2026-03-25
+* [1,7 mil millones de contraseñas comprometidas: incluso las “fuertes” se filtran en ataques de 'infostealers'](https://specopssoft.com/es/blog/contrasenas-fuertes-filtradas-ataques-de-infostealers/) - 2026-03-25
 <!-- mastodon ends -->
 
 ---
