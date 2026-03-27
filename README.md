@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-26
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-25
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-27
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-26
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-26
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-25
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-25
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-22
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -27,9 +27,9 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-25
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-26
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-26
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-24
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-24
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Sam Loyd and the 15 Puzzle](https://mathematicalmysterytour.blogspot.com/2014/10/sam-loyd-and-15-puzzle.html) - 2026-03-26
-* [Les États-Unis ne sont plus une démocratie libérale](https://legrandcontinent.eu/fr/2026/03/17/les-etats-unis-ne-sont-plus-une-democratie-liberale-selon-linstitut-v-dem/) - 2026-03-25
-* [Grande.](https://asavecesunafoto.wordpress.com/2026/03/25/grande/) - 2026-03-25
-* [New! Did Not Finish Shelf is On Its Way](https://www.goodreads.com/blog/show/3092-new-did-not-finish-shelf-is-on-its-way) - 2026-03-25
-* [1,7 mil millones de contraseñas comprometidas: incluso las “fuertes” se filtran en ataques de 'infostealers'](https://specopssoft.com/es/blog/contrasenas-fuertes-filtradas-ataques-de-infostealers/) - 2026-03-25
+* [Privacidad no es anonimato: lo que los gobiernos pueden exigirle a tu VPN - alt43](https://alt43.es/privacidad-no-es-anonimato-lo-que-los-gobiernos-pueden-exigirle-a-tu-vpn/) - 2026-03-27
+* [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html) - 2026-03-26
+* [Multiplicación.](https://asavecesunafoto.wordpress.com/2026/03/26/multiplicacion/) - 2026-03-26
+* [UAT-9244 targets South American telecommunication providers with three new malware implants](https://blog.talosintelligence.com/uat-9244/) - 2026-03-26
+* [MyPublicInbox adquiere la plataforma LinkMusic (LnkMsc.com)](https://mypublicinbox.com/press-releases/mypublicinbox-adquiere-la-plataforma-linkmusic-lnkmsc-com) - 2026-03-26
 <!-- mastodon ends -->
 
 ---
