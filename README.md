@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-27
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-26
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-27
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-27
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-25
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-22
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-26
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-27
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-26
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-24
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Privacidad no es anonimato: lo que los gobiernos pueden exigirle a tu VPN - alt43](https://alt43.es/privacidad-no-es-anonimato-lo-que-los-gobiernos-pueden-exigirle-a-tu-vpn/) - 2026-03-27
-* [Ubuntu CVE-2026-3888 Bug Lets Attackers Gain Root via systemd Cleanup Timing Exploit](https://thehackernews.com/2026/03/ubuntu-cve-2026-3888-bug-lets-attackers.html) - 2026-03-26
-* [Multiplicación.](https://asavecesunafoto.wordpress.com/2026/03/26/multiplicacion/) - 2026-03-26
-* [UAT-9244 targets South American telecommunication providers with three new malware implants](https://blog.talosintelligence.com/uat-9244/) - 2026-03-26
-* [MyPublicInbox adquiere la plataforma LinkMusic (LnkMsc.com)](https://mypublicinbox.com/press-releases/mypublicinbox-adquiere-la-plataforma-linkmusic-lnkmsc-com) - 2026-03-26
+* [Linux Distributions Begin Blocking Brazil Access Over New Digital Law](https://linuxiac.com/linux-distributions-begin-blocking-brazil-access-over-new-digital-law/) - 2026-03-28
+* [Muchos quieren matar al HDMI pero aún no tiene sustituto. Estas son las mejores alternativas que tenemos a mano](https://www.xatakahome.com/la-red-local/muchos-quieren-matar-al-hdmi-no-tiene-sustituto-estas-mejores-alternativas-que-tenemos-a-mano) - 2026-03-27
+* [Renfe estrena una web para seguir la posición de sus trenes en tiempo real](https://vialibre-ffe.com/noticias.asp?not=48486) - 2026-03-27
+* [En esta casa se hace cuscús.](https://asavecesunafoto.wordpress.com/2026/03/27/en-esta-casa-se-hace-cuscus/) - 2026-03-27
+* [Nvidia says it can shrink LLM memory 20x without changing model weights.](https://venturebeat.com/orchestration/nvidia-shrinks-llm-memory-20x-without-changing-model-weights) - 2026-03-27
 <!-- mastodon ends -->
 
 ---
