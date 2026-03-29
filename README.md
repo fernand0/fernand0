@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-28
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-27
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-27
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-29
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-28
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-28
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-25
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-22
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Linux Distributions Begin Blocking Brazil Access Over New Digital Law](https://linuxiac.com/linux-distributions-begin-blocking-brazil-access-over-new-digital-law/) - 2026-03-28
-* [Muchos quieren matar al HDMI pero aún no tiene sustituto. Estas son las mejores alternativas que tenemos a mano](https://www.xatakahome.com/la-red-local/muchos-quieren-matar-al-hdmi-no-tiene-sustituto-estas-mejores-alternativas-que-tenemos-a-mano) - 2026-03-27
-* [Renfe estrena una web para seguir la posición de sus trenes en tiempo real](https://vialibre-ffe.com/noticias.asp?not=48486) - 2026-03-27
-* [En esta casa se hace cuscús.](https://asavecesunafoto.wordpress.com/2026/03/27/en-esta-casa-se-hace-cuscus/) - 2026-03-27
-* [Nvidia says it can shrink LLM memory 20x without changing model weights.](https://venturebeat.com/orchestration/nvidia-shrinks-llm-memory-20x-without-changing-model-weights) - 2026-03-27
+* [The Moralization of Artificial Intelligence](https://osf.io/preprints/psyarxiv/5mwre_v9) - 2026-03-29
+* [SpainTrainRadar | Mapa y radar de trenes en España](https://spaintrainradar.com/) - 2026-03-28
+* [You're a Dumb Security Leader if You Mandate Password Rotation](https://georgeguimaraes.com/youre-dumb-security-leader-if-you-mandate-password-rotation/) - 2026-03-28
+* [AI-generated population-scale is changing how we study cancer](https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/) - 2026-03-28
+* [Castillo de Loarre.](https://asavecesunafoto.wordpress.com/2026/03/28/castillo-de-loarre/) - 2026-03-28
 <!-- mastodon ends -->
 
 ---
