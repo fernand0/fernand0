@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-29
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-28
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-30
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-29
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-29
 * [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-28
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-25
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-22
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [The Moralization of Artificial Intelligence](https://osf.io/preprints/psyarxiv/5mwre_v9) - 2026-03-29
-* [SpainTrainRadar | Mapa y radar de trenes en España](https://spaintrainradar.com/) - 2026-03-28
-* [You're a Dumb Security Leader if You Mandate Password Rotation](https://georgeguimaraes.com/youre-dumb-security-leader-if-you-mandate-password-rotation/) - 2026-03-28
-* [AI-generated population-scale is changing how we study cancer](https://www.microsoft.com/en-us/research/blog/gigatime-scaling-tumor-microenvironment-modeling-using-virtual-population-generated-by-multimodal-ai/) - 2026-03-28
-* [Castillo de Loarre.](https://asavecesunafoto.wordpress.com/2026/03/28/castillo-de-loarre/) - 2026-03-28
+* [Movistar vuelve a hacer sufrir a sus clientes los bloqueos del fútbol incluso en horario laboral cuando no hay partidos](https://bandaancha.eu/articulos/movistar-vuelve-hacer-sufrir-clientes-11706) - 2026-03-30
+* [Indra firma el contrato de la gestión de venta de billetes y ticketing del transporte público de Londres](https://vialibre-ffe.com/noticias.asp?not=48549) - 2026-03-29
+* [OnlyFans owner Leonid Radvinsky dies at 43](https://www.bbc.com/news/articles/c33le6yv7pno) - 2026-03-29
+* [Doble.](https://asavecesunafoto.wordpress.com/2026/03/29/doble/) - 2026-03-29
+* [A Handbook for the Practice of Cyber Diplomacy :: EU Cyber Direct](https://eucyberdirect.eu/research/a-handbook-for-the-practice-of-cyber-diplomacy) - 2026-03-29
 <!-- mastodon ends -->
 
 ---
