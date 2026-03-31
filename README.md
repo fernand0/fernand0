@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-30
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-29
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-29
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-28
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-31
+* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-30
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-30
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-30
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-30
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
-* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-22
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2024-11-03
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-27
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-30
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-26
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-24
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Movistar vuelve a hacer sufrir a sus clientes los bloqueos del fútbol incluso en horario laboral cuando no hay partidos](https://bandaancha.eu/articulos/movistar-vuelve-hacer-sufrir-clientes-11706) - 2026-03-30
-* [Indra firma el contrato de la gestión de venta de billetes y ticketing del transporte público de Londres](https://vialibre-ffe.com/noticias.asp?not=48549) - 2026-03-29
-* [OnlyFans owner Leonid Radvinsky dies at 43](https://www.bbc.com/news/articles/c33le6yv7pno) - 2026-03-29
-* [Doble.](https://asavecesunafoto.wordpress.com/2026/03/29/doble/) - 2026-03-29
-* [A Handbook for the Practice of Cyber Diplomacy :: EU Cyber Direct](https://eucyberdirect.eu/research/a-handbook-for-the-practice-of-cyber-diplomacy) - 2026-03-29
+* [Orange lanza el modo VIP del 5G. Bonos para navegar por delante del resto de usuarios de la red móvil en eventos multitudinarios](https://bandaancha.eu/articulos/orange-lanza-modo-vip-5g-bonos-navegar-11707) - 2026-03-31
+* [Sirât | Crítica | Cine Divergente](https://cinedivergente.com/sirat/) - 2026-03-30
+* [Los conciertos de Radio 3 - Micromambo](https://www.rtve.es/play/videos/los-conciertos-de-radio-3-en-la-2/micromambo/16976717/) - 2026-03-30
+* [Fantasma.](https://asavecesunafoto.wordpress.com/2026/03/30/fantasma/) - 2026-03-30
+* [Everyone but Trump Understands What He’s Done](https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/) - 2026-03-30
 <!-- mastodon ends -->
 
 ---
