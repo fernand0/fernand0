@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-03-31
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-01
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-31
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-31
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-30
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-03-30
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-30
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-03-30
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-30
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-31
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-26
 * [AB](https://github.com/simber72/AB),  No description - 2026-03-24
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Orange lanza el modo VIP del 5G. Bonos para navegar por delante del resto de usuarios de la red móvil en eventos multitudinarios](https://bandaancha.eu/articulos/orange-lanza-modo-vip-5g-bonos-navegar-11707) - 2026-03-31
-* [Sirât | Crítica | Cine Divergente](https://cinedivergente.com/sirat/) - 2026-03-30
-* [Los conciertos de Radio 3 - Micromambo](https://www.rtve.es/play/videos/los-conciertos-de-radio-3-en-la-2/micromambo/16976717/) - 2026-03-30
-* [Fantasma.](https://asavecesunafoto.wordpress.com/2026/03/30/fantasma/) - 2026-03-30
-* [Everyone but Trump Understands What He’s Done](https://www.theatlantic.com/ideas/2026/03/trump-iran-war-allies/686423/) - 2026-03-30
+* [Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens](https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/) - 2026-04-01
+* [Legado digital - Navegápolis](https://navegapolis.com/website/legado-digital/) - 2026-03-31
+* [If you read 1 thing about Social Media Bans this week, it should be Rod Wilson’s magisterial letter to the WSJ; extract, text & link below](https://alecmuffett.com/article/147467) - 2026-03-31
+* [When "technically true" becomes "actually misleading"](https://www.theargumentmag.com/p/when-technically-true-becomes-actually) - 2026-03-31
+* [Porcelana](https://www.flickr.com/photos/fernand0/55164705220/) - 2026-03-31
 <!-- mastodon ends -->
 
 ---
