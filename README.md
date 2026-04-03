@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-02
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-01
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-01
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-03
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-02
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-02
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-30
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-30
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [The Most Secure, Modern Computer Might Be A Mac](https://hackaday.com/2026/03/25/the-most-secure-modern-computer-might-be-a-mac/) - 2026-04-02
-* [Major conference catches illicit AI use — and rejects hundreds of papers](https://www.nature.com/articles/d41586-026-00893-2) - 2026-04-01
-* [Las cocinas y las chimeneas](https://www.flickr.com/photos/fernand0/55164705325/) - 2026-04-01
-* [WebRTC Skimmer Bypasses CSP to Steal Payment Data from E-Commerce Sites](https://thehackernews.com/2026/03/webrtc-skimmer-bypasses-csp-to-steal.html) - 2026-04-01
-* [Testing Severely Neglected VHS Tapes And CDs](https://hackaday.com/2026/03/25/testing-severely-neglected-vhs-tapes-and-cds/) - 2026-04-01
+* [An Introduction to Brutalism: The Iconic Postwar Architectural Style That Combined Utopianism and Concrete](https://www.openculture.com/2026/03/an-introduction-to-brutalism.html) - 2026-04-03
+* [Morteros para café](https://www.flickr.com/photos/fernand0/55164705530/) - 2026-04-02
+* [Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place | TechCrunch](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/) - 2026-04-02
+* [Amarilla.](https://asavecesunafoto.wordpress.com/2026/04/02/amarilla/) - 2026-04-02
+* [Potential US-built hacking tools obtained by foreign spies and cybercriminals, research says](https://www.nextgov.com/cybersecurity/2026/03/potential-us-built-hacking-tools-obtained-foreign-spies-and-cybercriminals-research-says/411861/) - 2026-04-02
 <!-- mastodon ends -->
 
 ---
