@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-03
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-02
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-04
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-03
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-03
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-30
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-30
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
@@ -27,9 +27,9 @@
 
 ## repositoriesContributedTo
 
+* [AB](https://github.com/simber72/AB),  No description - 2026-04-03
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-31
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-26
-* [AB](https://github.com/simber72/AB),  No description - 2026-03-24
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [An Introduction to Brutalism: The Iconic Postwar Architectural Style That Combined Utopianism and Concrete](https://www.openculture.com/2026/03/an-introduction-to-brutalism.html) - 2026-04-03
-* [Morteros para café](https://www.flickr.com/photos/fernand0/55164705530/) - 2026-04-02
-* [Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place | TechCrunch](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/) - 2026-04-02
-* [Amarilla.](https://asavecesunafoto.wordpress.com/2026/04/02/amarilla/) - 2026-04-02
-* [Potential US-built hacking tools obtained by foreign spies and cybercriminals, research says](https://www.nextgov.com/cybersecurity/2026/03/potential-us-built-hacking-tools-obtained-foreign-spies-and-cybercriminals-research-says/411861/) - 2026-04-02
+* [Brasero y fuelle](https://www.flickr.com/photos/fernand0/55164568639/) - 2026-04-04
+* [AI Perfected Chess. Humans Made It Unpredictable Again](https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6) - 2026-04-04
+* [¿Eres nuevo por aquí?](https://asavecesunafoto.wordpress.com/2026/04/03/eres-nuevo-por-aqui/) - 2026-04-03
+* [European Commission confirms cyberattack after hackers claim data breach | TechCrunch](https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/) - 2026-04-03
+* [Iran-backed hackers breach FBI director Kash Patel's emails](https://www.bbc.com/news/articles/cvgl4yk7vgpo) - 2026-04-03
 <!-- mastodon ends -->
 
 ---
