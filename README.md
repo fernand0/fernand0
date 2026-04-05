@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-04
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-03
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-05
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-04
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-04
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-30
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-03-30
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Brasero y fuelle](https://www.flickr.com/photos/fernand0/55164568639/) - 2026-04-04
-* [AI Perfected Chess. Humans Made It Unpredictable Again](https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6) - 2026-04-04
-* [¿Eres nuevo por aquí?](https://asavecesunafoto.wordpress.com/2026/04/03/eres-nuevo-por-aqui/) - 2026-04-03
-* [European Commission confirms cyberattack after hackers claim data breach | TechCrunch](https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/) - 2026-04-03
-* [Iran-backed hackers breach FBI director Kash Patel's emails](https://www.bbc.com/news/articles/cvgl4yk7vgpo) - 2026-04-03
+* [Molinillos de café](https://www.flickr.com/photos/fernand0/55164568844/) - 2026-04-05
+* [Google Search is now using AI to replace headlines](https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment) - 2026-04-05
+* [In a ‘Test’, Google Is Automatically Rewriting News Headlines in Its Search Results – Pixel Envy](https://pxlnv.com/linklog/google-rewriting-headlines-search/) - 2026-04-04
+* [De Ecuador.](https://asavecesunafoto.wordpress.com/2026/04/04/de-ecuador/) - 2026-04-04
+* [The Grant Application Is Dead. What Comes Next?](https://tomcw.xyz/the-grant-application-is-dead-what-comes-next/) - 2026-04-04
 <!-- mastodon ends -->
 
 ---
