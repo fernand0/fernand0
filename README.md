@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-06
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-05
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-07
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-06
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-06
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-05
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-05
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-30
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [AB](https://github.com/simber72/AB),  No description - 2026-04-03
+* [AB](https://github.com/simber72/AB),  No description - 2026-04-06
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-31
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-26
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Santiago Ramón y Cajal como faro del Salamanca Tech Summit 2026 · Santiago Ramón y Cajal](https://www.santiagoramonycajal.org/2026/03/17/santiago-ramon-y-cajal-como-faro-del-salamanca-tech-summit-2026/) - 2026-04-06
-* [Un atraco con machete en un bar de Málaga acaba en burlas y sin botín al creer que era una broma | Canarias7](https://www.canarias7.es/sociedad/atraco-machete-bar-malaga-acaba-burlas-botin-20260329104717-ntrc.html) - 2026-04-05
-* [La orquídea.](https://asavecesunafoto.wordpress.com/2026/04/05/la-orquidea/) - 2026-04-05
-* [AI Perfected Chess. Humans Made It Unpredictable Again](https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6) - 2026-04-05
-* [European Commission confirms cyberattack after hackers claim data breach | TechCrunch](https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/) - 2026-04-05
+* [Avoiding the attractiveness of Generative AI in essay writing: A combined view from a student and a tutor - Teaching Matters](https://blogs.ed.ac.uk/teaching-matters/avoiding-the-attractiveness-of-generative-ai-in-essay-writing-a-combined-view-from-a-student-and-a-tutor/) - 2026-04-07
+* [Decolonizing Your Reading List: A Practical Starting Guide | IDDblog: Instructional Design Tips, Advice, & Trends for Online & Distance Learning | Educational Technology and Online Course Design Help](https://www.iddblog.org/decolonizing-your-reading-list-a-practical-starting-guide/) - 2026-04-06
+* [Con raíz.](https://asavecesunafoto.wordpress.com/2026/04/06/con-raiz/) - 2026-04-06
+* [https://mastodon.social/tags/ia https://mastodon.social/tags/llm https://mastodon.social/tags/inteligenciaartificial | Jesús Mora Mondejar | 18 comentarios](https://www.linkedin.com/posts/jes%C3%BAs-mora-mondejar_ia-llm-inteligenciaartificial-activity-7435599210118311936-yV1E) - 2026-04-06
+* [In a ‘Test’, Google Is Automatically Rewriting News Headlines in Its Search Results – Pixel Envy](https://pxlnv.com/linklog/google-rewriting-headlines-search/) - 2026-04-06
 <!-- mastodon ends -->
 
 ---
