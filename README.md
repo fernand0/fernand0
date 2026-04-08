@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-07
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-06
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-06
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-08
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-07
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-07
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-05
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-30
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Avoiding the attractiveness of Generative AI in essay writing: A combined view from a student and a tutor - Teaching Matters](https://blogs.ed.ac.uk/teaching-matters/avoiding-the-attractiveness-of-generative-ai-in-essay-writing-a-combined-view-from-a-student-and-a-tutor/) - 2026-04-07
-* [Decolonizing Your Reading List: A Practical Starting Guide | IDDblog: Instructional Design Tips, Advice, & Trends for Online & Distance Learning | Educational Technology and Online Course Design Help](https://www.iddblog.org/decolonizing-your-reading-list-a-practical-starting-guide/) - 2026-04-06
-* [Con raíz.](https://asavecesunafoto.wordpress.com/2026/04/06/con-raiz/) - 2026-04-06
-* [https://mastodon.social/tags/ia https://mastodon.social/tags/llm https://mastodon.social/tags/inteligenciaartificial | Jesús Mora Mondejar | 18 comentarios](https://www.linkedin.com/posts/jes%C3%BAs-mora-mondejar_ia-llm-inteligenciaartificial-activity-7435599210118311936-yV1E) - 2026-04-06
-* [In a ‘Test’, Google Is Automatically Rewriting News Headlines in Its Search Results – Pixel Envy](https://pxlnv.com/linklog/google-rewriting-headlines-search/) - 2026-04-06
+* [We’re removing the paywall. Here’s how it will work](https://www.sltrib.com/news/business/2026/03/31/tribune-paywall-removal-details/) - 2026-04-08
+* [About Eurosky](https://eurosky.tech/about/) - 2026-04-07
+* [Verónica.](https://asavecesunafoto.wordpress.com/2026/04/07/veronica/) - 2026-04-07
+* [The Revenge of the Data Scientist – Hamel’s Blog - Hamel Husain](https://hamel.dev/blog/posts/revenge/) - 2026-04-07
+* [What AI Asks of Open Access - The Scholarly Kitchen](https://scholarlykitchen.sspnet.org/2026/03/31/what-ai-asks-of-open-access/) - 2026-04-07
 <!-- mastodon ends -->
 
 ---
