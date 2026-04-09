@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-08
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-07
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-07
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-08
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-08
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-05
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-30
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [AB](https://github.com/simber72/AB),  No description - 2026-04-06
+* [AB](https://github.com/simber72/AB),  No description - 2026-04-08
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-31
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-26
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [We’re removing the paywall. Here’s how it will work](https://www.sltrib.com/news/business/2026/03/31/tribune-paywall-removal-details/) - 2026-04-08
-* [About Eurosky](https://eurosky.tech/about/) - 2026-04-07
-* [Verónica.](https://asavecesunafoto.wordpress.com/2026/04/07/veronica/) - 2026-04-07
-* [The Revenge of the Data Scientist – Hamel’s Blog - Hamel Husain](https://hamel.dev/blog/posts/revenge/) - 2026-04-07
-* [What AI Asks of Open Access - The Scholarly Kitchen](https://scholarlykitchen.sspnet.org/2026/03/31/what-ai-asks-of-open-access/) - 2026-04-07
+* [Who (Or What) Filled Out Your Course Evaluation?](https://marcwatkins.substack.com/p/who-or-what-filled-out-your-course) - 2026-04-09
+* [Para rescatar al piloto perdido en Irán, EEUU ha contado una historia digna de Spielberg. Unas imágenes explosivas cuentan otra muy distinta](https://www.xataka.com/magnet/para-rescatar-al-piloto-perdido-iran-eeuu-ha-contado-historia-digna-spielberg-otra-han-contado-unas-imagenes-explosivas) - 2026-04-08
+* [Wikipedia bans AI-generated content in its online encyclopedia](https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai) - 2026-04-08
+* [Structural Blindness: Why Neither Humans Nor AI Reason as Well as We Think](https://www.stevehargadon.com/2026/03/structural-blindness-why-neither-humans.html) - 2026-04-08
+* [Otro peludo.](https://asavecesunafoto.wordpress.com/2026/04/08/otro-peludo/) - 2026-04-08
 <!-- mastodon ends -->
 
 ---
