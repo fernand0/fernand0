@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-09
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-08
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-08
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-05
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-10
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-09
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-09
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-09
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-09
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-30
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-03-23
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2024-11-03
@@ -27,10 +27,10 @@
 
 ## repositoriesContributedTo
 
+* [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 * [AB](https://github.com/simber72/AB),  No description - 2026-04-08
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-31
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-26
-* [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-03-10
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
 
@@ -51,6 +51,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [Mensajes que misteriosamente no llegan](https://fernand0.github.io/un-fallo-curioso/) - 2026-04-09
+
 * [IMAP: leyendo correos desde nuestra terminal](https://fernand0.github.io/protocolo-correo/) - 2026-03-23
 
 * [Usando IAs para portar código](https://fernand0.github.io/criptografia-ia/) - 2026-03-12
@@ -59,9 +61,9 @@
 
 * [Vibe coding y programación asistida por LLMs](https://fernand0.github.io/vibe-coding-ia/) - 2026-01-14
 
-* [MCP y la interacción de las IAs con otros sistemas](https://fernand0.github.io/mcp-que-es/) - 2025-12-23
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [La IA y algunos argumentos en contra (respondidos)](https://blog.elmundoesimperfecto.com/2026/04/09/escepticismo-ia/) - 2026-04-09
 
 * [Nombrando amenazas: Microsoft y la meteorología](https://blog.elmundoesimperfecto.com/2026/03/23/nombres-amenazas-microsoft/) - 2026-03-23
 
@@ -70,19 +72,17 @@
 * [Fatiga regulatoria, riesgos y consecuencias](https://blog.elmundoesimperfecto.com/2026/03/02/cumplimiento-fatiga/) - 2026-03-02
 
 * [En Buenos Días Aragón hablando de reconocimiento automático de contenido (ACR)](https://blog.elmundoesimperfecto.com/2026/01/29/en-buenos-dias-aragon-acr/) - 2026-01-29
-
-* [En la sesión sobre 'Tecnología en la competencia global' del título 'Geopolítica Aplicada a la Empresa'](https://blog.elmundoesimperfecto.com/2026/01/28/tecnologia-geopolitica/) - 2026-01-28
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Who (Or What) Filled Out Your Course Evaluation?](https://marcwatkins.substack.com/p/who-or-what-filled-out-your-course) - 2026-04-09
-* [Para rescatar al piloto perdido en Irán, EEUU ha contado una historia digna de Spielberg. Unas imágenes explosivas cuentan otra muy distinta](https://www.xataka.com/magnet/para-rescatar-al-piloto-perdido-iran-eeuu-ha-contado-historia-digna-spielberg-otra-han-contado-unas-imagenes-explosivas) - 2026-04-08
-* [Wikipedia bans AI-generated content in its online encyclopedia](https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai) - 2026-04-08
-* [Structural Blindness: Why Neither Humans Nor AI Reason as Well as We Think](https://www.stevehargadon.com/2026/03/structural-blindness-why-neither-humans.html) - 2026-04-08
-* [Otro peludo.](https://asavecesunafoto.wordpress.com/2026/04/08/otro-peludo/) - 2026-04-08
+* [A Rising New Era of Personal Tools - Interdependent Thoughts](https://www.zylstra.org/blog/2026/03/a-rising-new-era-of-personal-tools/) - 2026-04-10
+* [Markdown Ate the World](https://matduggan.com/markdown-ate-the-world/) - 2026-04-09
+* [Experimenting with human.json](https://www.paulwalk.net/2026/experimenting-with-human.json/) - 2026-04-09
+* [La IA y algunos argumentos en contra (respondidos)](https://blog.elmundoesimperfecto.com/2026/04/09/escepticismo-ia/) - 2026-04-09
+* [Teachers Move Beyond AI Basics to More Sophisticated Instructional Uses](https://www.edweek.org/technology/teachers-move-beyond-ai-basics-to-more-sophisticated-instructional-uses/2026/03) - 2026-04-09
 <!-- mastodon ends -->
 
 ---
