@@ -14,22 +14,22 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-10
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-09
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-11
+* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-10
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-10
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-10
+* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-10
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-10
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-09
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-09
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-09
-* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-03-30
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2024-11-03
-* [PubwichFork](https://github.com/fernand0/PubwichFork),  PubwichFork is an open-source PHP Web application that allows you to aggregate your published data from multiple websites and social services into a single HTML page. - 2016-09-03
 
 ## repositoriesContributedTo
 
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-10
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 * [AB](https://github.com/simber72/AB),  No description - 2026-04-08
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-03-31
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-26
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [A Rising New Era of Personal Tools - Interdependent Thoughts](https://www.zylstra.org/blog/2026/03/a-rising-new-era-of-personal-tools/) - 2026-04-10
-* [Markdown Ate the World](https://matduggan.com/markdown-ate-the-world/) - 2026-04-09
-* [Experimenting with human.json](https://www.paulwalk.net/2026/experimenting-with-human.json/) - 2026-04-09
-* [La IA y algunos argumentos en contra (respondidos)](https://blog.elmundoesimperfecto.com/2026/04/09/escepticismo-ia/) - 2026-04-09
-* [Teachers Move Beyond AI Basics to More Sophisticated Instructional Uses](https://www.edweek.org/technology/teachers-move-beyond-ai-basics-to-more-sophisticated-instructional-uses/2026/03) - 2026-04-09
+* [Libro. Taquicardia](https://fotografiasenmovimiento.wordpress.com/2026/04/10/libro-taquicardia/) - 2026-04-11
+* [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/) - 2026-04-11
+* [Astral to join OpenAI](https://astral.sh/blog/openai) - 2026-04-10
+* [OpenAI to acquire Astral](https://openai.com/index/openai-to-acquire-astral/) - 2026-04-10
+* [Puerta del saludo desde el interior](https://www.flickr.com/photos/fernand0/55190769064/) - 2026-04-10
 <!-- mastodon ends -->
 
 ---
