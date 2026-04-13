@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-12
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-13
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-12
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-11
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-11
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-11
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-11
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-10
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-09
 * [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-10
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-12
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 * [AB](https://github.com/simber72/AB),  No description - 2026-04-08
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-26
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Chinese Hackers Use Anthropic's AI to Launch Automated Cyber Espionage Campaign](https://thehackernews.com/2025/11/chinese-hackers-use-anthropics-ai-to.html) - 2026-04-12
-* [Libro. Paisajeros: Veinte viajes en tren y sus protagonistas](https://fotografiasenmovimiento.wordpress.com/2026/04/11/libro-paisajeros-veinte-viajes-en-tren-y-sus-protagonistas/) - 2026-04-12
-* [Beyond ‘Blame the Student’: Correspondence Bias in University Attrition Activities](https://beerc.wordpress.com/2026/03/18/beyond-blame-the-student-correspondence-bias-in-university-attrition-activities/) - 2026-04-11
-* [CodePen TV secrets](https://dev.to/ivorjetski/codepen-tv-secrets-fib) - 2026-04-11
-* [Artesonado del Diván](https://www.flickr.com/photos/fernand0/55190665853/) - 2026-04-11
+* [Libro. Train World – Des machines et des hommes – À la découverte du monde des trains](https://fotografiasenmovimiento.wordpress.com/2026/04/12/libro-train-world-des-machines-et-des-hommes-a-la-decouverte-du-monde-des-trains/) - 2026-04-13
+* [Robots Didn't Kill the Internet](https://hybridhorizons.substack.com/p/robots-didnt-kill-the-internet) - 2026-04-13
+* [Puertas del Diván](https://www.flickr.com/photos/fernand0/55189632817/) - 2026-04-12
+* [The Trust Tax: Why Every AI Deployment in Education Fails or Succeeds on a Single Variable](https://www.skepticism.ai/p/the-trust-tax-why-every-ai-deployment?triedRedirect=true) - 2026-04-12
+* [‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/) - 2026-04-12
 <!-- mastodon ends -->
 
 ---
