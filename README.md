@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-14
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-13
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-13
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-12
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-13
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-11
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-11
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-10
@@ -27,10 +27,10 @@
 
 ## repositoriesContributedTo
 
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-13
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-12
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 * [AB](https://github.com/simber72/AB),  No description - 2026-04-08
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-03-26
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
 
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Libro. Train World – Des machines et des hommes – À la découverte du monde des trains](https://fotografiasenmovimiento.wordpress.com/2026/04/12/libro-train-world-des-machines-et-des-hommes-a-la-decouverte-du-monde-des-trains/) - 2026-04-13
-* [Robots Didn't Kill the Internet](https://hybridhorizons.substack.com/p/robots-didnt-kill-the-internet) - 2026-04-13
-* [Puertas del Diván](https://www.flickr.com/photos/fernand0/55189632817/) - 2026-04-12
-* [The Trust Tax: Why Every AI Deployment in Education Fails or Succeeds on a Single Variable](https://www.skepticism.ai/p/the-trust-tax-why-every-ai-deployment?triedRedirect=true) - 2026-04-12
-* [‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images](https://www.popsci.com/technology/pokemon-go-delivery-robots-crowdsourcing/) - 2026-04-12
+* [Decoración de la cúpula](https://www.flickr.com/photos/fernand0/55189632887/) - 2026-04-14
+* [The Death of Spotify: Part II](https://joelgouveia.substack.com/p/the-death-of-spotify-part-ii) - 2026-04-14
+* [EL PLATANITO (I)](https://historiastren.blogspot.com/2026/04/el-platanito-i.html) - 2026-04-13
+* [FR#157 – Social Software Distribution](https://connectedplaces.online/reports/fr157-social-software-distribution/) - 2026-04-13
+* [Openness, transparency and reach: three reasons why public institutions should embrace the Fediverse](https://blog.elenarossini.com/openness-transparency-and-reach-three-reasons-why-public-institutions-should-embrace-the-fediverse/) - 2026-04-13
 <!-- mastodon ends -->
 
 ---
