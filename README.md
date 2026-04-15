@@ -14,23 +14,23 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-14
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-13
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-14
+* [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text. - 2026-04-14
+* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-14
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-14
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-11
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-11
-* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-10
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-09
-* [projects](https://github.com/fernand0/projects),  Web site for projects. - 2026-02-22
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2024-11-03
 
 ## repositoriesContributedTo
 
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-13
+* [AB](https://github.com/simber72/AB),  No description - 2026-04-14
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-14
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-12
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
-* [AB](https://github.com/simber72/AB),  No description - 2026-04-08
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
 
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Decoración de la cúpula](https://www.flickr.com/photos/fernand0/55189632887/) - 2026-04-14
-* [The Death of Spotify: Part II](https://joelgouveia.substack.com/p/the-death-of-spotify-part-ii) - 2026-04-14
-* [EL PLATANITO (I)](https://historiastren.blogspot.com/2026/04/el-platanito-i.html) - 2026-04-13
-* [FR#157 – Social Software Distribution](https://connectedplaces.online/reports/fr157-social-software-distribution/) - 2026-04-13
-* [Openness, transparency and reach: three reasons why public institutions should embrace the Fediverse](https://blog.elenarossini.com/openness-transparency-and-reach-three-reasons-why-public-institutions-should-embrace-the-fediverse/) - 2026-04-13
+* [SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet](https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/) - 2026-04-15
+* [Inauguración de la XXIII Semana de las Letras y charla con Antonio Altarriba. Agenda Zaragoza. Ayuntamiento de Zaragoza](https://www.zaragoza.es/sede/servicio/cultura/evento/307278) - 2026-04-14
+* [RSA 2026: The Great Cooking](https://vibecoded.vc/cooked/) - 2026-04-14
+* [Device code phishing attacks surge 37x as new kits spread online](https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/) - 2026-04-14
+* [Believing that practice makes perfect is most important for succeeding in schoo](https://educationresearchreport.blogspot.com/2026/04/believing-that-practice-makes-perfect.html) - 2026-04-14
 <!-- mastodon ends -->
 
 ---
