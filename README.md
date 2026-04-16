@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-15
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-14
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-16
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-15
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-15
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text. - 2026-04-14
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-14
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-14
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-11
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-09
@@ -27,9 +27,9 @@
 
 ## repositoriesContributedTo
 
-* [AB](https://github.com/simber72/AB),  No description - 2026-04-14
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-14
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-12
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-15
+* [AB](https://github.com/simber72/AB),  No description - 2026-04-15
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-15
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet](https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/) - 2026-04-15
-* [Inauguración de la XXIII Semana de las Letras y charla con Antonio Altarriba. Agenda Zaragoza. Ayuntamiento de Zaragoza](https://www.zaragoza.es/sede/servicio/cultura/evento/307278) - 2026-04-14
-* [RSA 2026: The Great Cooking](https://vibecoded.vc/cooked/) - 2026-04-14
-* [Device code phishing attacks surge 37x as new kits spread online](https://www.bleepingcomputer.com/news/security/device-code-phishing-attacks-surge-37x-as-new-kits-spread-online/) - 2026-04-14
-* [Believing that practice makes perfect is most important for succeeding in schoo](https://educationresearchreport.blogspot.com/2026/04/believing-that-practice-makes-perfect.html) - 2026-04-14
+* [Fumaria](https://asavecesunafoto.wordpress.com/2026/04/15/fumaria/) - 2026-04-16
+* [Anthropic’s ‘Claude Mythos’ model sparks fear of AI doomsday if released to public: ‘Weapons we can’t even envision’](https://nypost.com/2026/04/08/business/anthropics-claude-mythos-model-sparks-fears-of-ai-doomsday-wave-of-devastating-hacks/) - 2026-04-16
+* [Breve e incompleta historia del desarrollo web](https://alex.corcoles.net/2026/04/breve-e-incompleta-historia-del-desarrollo-web) - 2026-04-15
+* [The machines are fine. I'm worried about us.](https://ergosphere.blog/posts/the-machines-are-fine/) - 2026-04-15
+* [Prepping for the endgame of the open web - The History of the Web](https://thehistoryoftheweb.com/prepping-for-the-endgame/) - 2026-04-15
 <!-- mastodon ends -->
 
 ---
