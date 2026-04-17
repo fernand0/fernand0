@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-16
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-15
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-15
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-17
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-16
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-16
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text. - 2026-04-14
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-14
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-11
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Fumaria](https://asavecesunafoto.wordpress.com/2026/04/15/fumaria/) - 2026-04-16
-* [Anthropic’s ‘Claude Mythos’ model sparks fear of AI doomsday if released to public: ‘Weapons we can’t even envision’](https://nypost.com/2026/04/08/business/anthropics-claude-mythos-model-sparks-fears-of-ai-doomsday-wave-of-devastating-hacks/) - 2026-04-16
-* [Breve e incompleta historia del desarrollo web](https://alex.corcoles.net/2026/04/breve-e-incompleta-historia-del-desarrollo-web) - 2026-04-15
-* [The machines are fine. I'm worried about us.](https://ergosphere.blog/posts/the-machines-are-fine/) - 2026-04-15
-* [Prepping for the endgame of the open web - The History of the Web](https://thehistoryoftheweb.com/prepping-for-the-endgame/) - 2026-04-15
+* [There's Gonna Be Another Internet Phone Book! - Kevin's Meandering Mind](https://dogtraxwrites.com/internetphonebook/theres-gonna-be-another-internet-phone-book/) - 2026-04-17
+* [Líneas.](https://asavecesunafoto.wordpress.com/2026/04/16/lineas/) - 2026-04-17
+* [Your Browser Becomes Your WordPress](https://wordpress.org/news/2026/03/announcing-my-wordpress/?ref=werd.io) - 2026-04-16
+* [The Shape of the Thing](https://www.oneusefulthing.org/p/the-shape-of-the-thing) - 2026-04-16
+* [Crawl entire websites with a single API call using Browser Rendering](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/) - 2026-04-16
 <!-- mastodon ends -->
 
 ---
