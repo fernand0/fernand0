@@ -14,22 +14,22 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-17
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-16
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-18
+* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-17
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-17
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-17
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-17
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text. - 2026-04-14
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-14
-* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-11
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-09
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2024-11-03
 
 ## repositoriesContributedTo
 
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-17
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-15
 * [AB](https://github.com/simber72/AB),  No description - 2026-04-15
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-15
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [There's Gonna Be Another Internet Phone Book! - Kevin's Meandering Mind](https://dogtraxwrites.com/internetphonebook/theres-gonna-be-another-internet-phone-book/) - 2026-04-17
-* [Líneas.](https://asavecesunafoto.wordpress.com/2026/04/16/lineas/) - 2026-04-17
-* [Your Browser Becomes Your WordPress](https://wordpress.org/news/2026/03/announcing-my-wordpress/?ref=werd.io) - 2026-04-16
-* [The Shape of the Thing](https://www.oneusefulthing.org/p/the-shape-of-the-thing) - 2026-04-16
-* [Crawl entire websites with a single API call using Browser Rendering](https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/) - 2026-04-16
+* [More transparency needed on misconduct](https://www.science.org/doi/10.1126/science.aeh7187) - 2026-04-18
+* [Escapada.](https://asavecesunafoto.wordpress.com/2026/04/17/escapada/) - 2026-04-18
+* [Scoop: Meta removes ads for social media addiction litigation](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads) - 2026-04-17
+* [Is higher education broken? Not exactly.](https://jondron.ca/is-higher-education-broken-not-exactly/) - 2026-04-17
+* [Pluralistic: The web is bearable with RSS (07 Mar 2026) - Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2026/03/07/reader-mode/) - 2026-04-17
 <!-- mastodon ends -->
 
 ---
