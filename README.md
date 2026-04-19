@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-19
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-18
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-18
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-18
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-17
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-17
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-17
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-17
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text. - 2026-04-14
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-14
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-09
@@ -27,9 +27,9 @@
 
 ## repositoriesContributedTo
 
+* [AB](https://github.com/simber72/AB),  No description - 2026-04-18
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-17
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-15
-* [AB](https://github.com/simber72/AB),  No description - 2026-04-15
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 * [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
@@ -78,11 +78,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [More transparency needed on misconduct](https://www.science.org/doi/10.1126/science.aeh7187) - 2026-04-18
-* [Escapada.](https://asavecesunafoto.wordpress.com/2026/04/17/escapada/) - 2026-04-18
-* [Scoop: Meta removes ads for social media addiction litigation](https://www.axios.com/2026/04/09/meta-social-media-addiction-ads) - 2026-04-17
-* [Is higher education broken? Not exactly.](https://jondron.ca/is-higher-education-broken-not-exactly/) - 2026-04-17
-* [Pluralistic: The web is bearable with RSS (07 Mar 2026) - Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/2026/03/07/reader-mode/) - 2026-04-17
+* [Jeffrey Zeldman Presents - Handwritten notes in the time of AI note takers - Working](https://zeldman.com/2026/04/09/handwritten-notes-in-the-time-of-ai-note-takers/) - 2026-04-19
+* [Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think](https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/) - 2026-04-18
+* [EFF is Leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x) - 2026-04-18
+* [Souveraineté numérique : l'État accélère la réduction de ses dépendances extra-européennes](http://numerique.gouv.fr) - 2026-04-18
+* [A Complete Guide to Bookmarklets | CSS-Tricks](https://css-tricks.com/a-complete-guide-to-bookmarklets/) - 2026-04-18
 <!-- mastodon ends -->
 
 ---
