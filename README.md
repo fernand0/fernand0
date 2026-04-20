@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-19
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-20
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-19
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-18
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-18
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-17
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text. - 2026-04-14
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-14
@@ -31,7 +31,6 @@
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-17
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-15
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
-* [click-app](https://github.com/simonw/click-app),  Cookiecutter template for creating new Click command-line tools - 2025-10-09
 <!-- recent_releases ends -->
 
 # On my blogs
@@ -78,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Jeffrey Zeldman Presents - Handwritten notes in the time of AI note takers - Working](https://zeldman.com/2026/04/09/handwritten-notes-in-the-time-of-ai-note-takers/) - 2026-04-19
-* [Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think](https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/) - 2026-04-18
-* [EFF is Leaving X](https://www.eff.org/deeplinks/2026/04/eff-leaving-x) - 2026-04-18
-* [Souveraineté numérique : l'État accélère la réduction de ses dépendances extra-européennes](http://numerique.gouv.fr) - 2026-04-18
-* [A Complete Guide to Bookmarklets | CSS-Tricks](https://css-tricks.com/a-complete-guide-to-bookmarklets/) - 2026-04-18
+* [EL PLATANITO (II)](https://historiastren.blogspot.com/2026/04/el-platanito-ii.html) - 2026-04-20
+* [Ecodiseño y deuda técnica: cómo sustituimos el escalado horizontal por un rediseño 100 veces más eficiente • Infomaniak](https://news.infomaniak.com/es/estudio-de-caso-ecodiseno/) - 2026-04-19
+* [LAS JORNADAS D+i 2026, EN NOVIEMBRE EN CAIXAFORUM ZARAGOZA | Jornadas de Divulgación Innovadora | Zaragoza 2024](https://www.divulgacioninnovadora.com/las-jornadas-di-2026-en-noviembre-en-caixaforum-zaragoza/) - 2026-04-19
+* [Hungary election live: Viktor Orbán concedes defeat in Hungarian election after 16 years in power](https://www.theguardian.com/world/live/2026/apr/12/hungary-election-latest-results-viktor-orban-peter-magyar-fidesz-tisza-russia-europe-live-news-updates?CMP=share_btn_url&amp;page=with%3Ablock-69dbf1ff8f08ff62487f805e#bloc) - 2026-04-19
+* [AI data centres can warm surrounding areas by up to 9.1°C](https://www.newscientist.com/article/2521256-ai-data-centres-can-warm-surrounding-areas-by-up-to-9-1c/) - 2026-04-19
 <!-- mastodon ends -->
 
 ---
