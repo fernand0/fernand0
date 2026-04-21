@@ -14,20 +14,20 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-20
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-19
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-19
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-21
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-20
+* [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-20
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-20
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-18
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-17
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text. - 2026-04-14
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-14
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-09
 * [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
-* [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2024-11-03
 
 ## repositoriesContributedTo
 
-* [AB](https://github.com/simber72/AB),  No description - 2026-04-18
+* [AB](https://github.com/simber72/AB),  No description - 2026-04-20
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-17
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-15
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
@@ -62,6 +62,8 @@
 
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
 
+* [En la Casa de la Mujer hablando de IA](https://blog.elmundoesimperfecto.com/2026/04/16/maria-moliner-ia/) - 2026-04-16
+
 * [La IA y algunos argumentos en contra (respondidos)](https://blog.elmundoesimperfecto.com/2026/04/09/escepticismo-ia/) - 2026-04-09
 
 * [Nombrando amenazas: Microsoft y la meteorología](https://blog.elmundoesimperfecto.com/2026/03/23/nombres-amenazas-microsoft/) - 2026-03-23
@@ -69,19 +71,17 @@
 * [Un poco de soberanía tecnológica: ejecuta una IA en tu PC](https://blog.elmundoesimperfecto.com/2026/03/12/ejecuta-tu-propia-ia/) - 2026-03-12
 
 * [Fatiga regulatoria, riesgos y consecuencias](https://blog.elmundoesimperfecto.com/2026/03/02/cumplimiento-fatiga/) - 2026-03-02
-
-* [En Buenos Días Aragón hablando de reconocimiento automático de contenido (ACR)](https://blog.elmundoesimperfecto.com/2026/01/29/en-buenos-dias-aragon-acr/) - 2026-01-29
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [EL PLATANITO (II)](https://historiastren.blogspot.com/2026/04/el-platanito-ii.html) - 2026-04-20
-* [Ecodiseño y deuda técnica: cómo sustituimos el escalado horizontal por un rediseño 100 veces más eficiente • Infomaniak](https://news.infomaniak.com/es/estudio-de-caso-ecodiseno/) - 2026-04-19
-* [LAS JORNADAS D+i 2026, EN NOVIEMBRE EN CAIXAFORUM ZARAGOZA | Jornadas de Divulgación Innovadora | Zaragoza 2024](https://www.divulgacioninnovadora.com/las-jornadas-di-2026-en-noviembre-en-caixaforum-zaragoza/) - 2026-04-19
-* [Hungary election live: Viktor Orbán concedes defeat in Hungarian election after 16 years in power](https://www.theguardian.com/world/live/2026/apr/12/hungary-election-latest-results-viktor-orban-peter-magyar-fidesz-tisza-russia-europe-live-news-updates?CMP=share_btn_url&amp;page=with%3Ablock-69dbf1ff8f08ff62487f805e#bloc) - 2026-04-19
-* [AI data centres can warm surrounding areas by up to 9.1°C](https://www.newscientist.com/article/2521256-ai-data-centres-can-warm-surrounding-areas-by-up-to-9-1c/) - 2026-04-19
+* [Significant raise of reports [](http://LWN.net) - 2026-04-21
+* [De Boise a Madrid y vuelta: una historia de amor con alguien a quién jamás has conocido en persona](https://www.gasteizhoy.com/de-boise-a-madrid-y-vuelta-cristina-juesas/) - 2026-04-20
+* [TRASH + Animales fantásticos y dónde encontrarlos.](https://asavecesunafoto.wordpress.com/2026/04/20/trash-animales-fantasticos-y-donde-encontrarlos/) - 2026-04-20
+* [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) - 2026-04-20
+* [En la Casa de la Mujer hablando de IA](https://blog.elmundoesimperfecto.com/2026/04/16/maria-moliner-ia/) - 2026-04-20
 <!-- mastodon ends -->
 
 ---
