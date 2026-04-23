@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-22
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-23
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-22
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-21
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-21
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-21
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-20
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-18
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text. - 2026-04-14
@@ -27,8 +27,8 @@
 
 ## repositoriesContributedTo
 
+* [AB](https://github.com/simber72/AB),  No description - 2026-04-22
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-21
-* [AB](https://github.com/simber72/AB),  No description - 2026-04-20
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-17
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Undefined behavior can result in time travel (among other things, but time travel is the funkiest) - The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20140627-00/?p=633) - 2026-04-22
-* [Minúsculas](https://asavecesunafoto.wordpress.com/2026/04/21/minusculas/) - 2026-04-21
-* [Hack at Booking.com; Customers' booking data accessed](https://nltimes.nl/2026/04/13/hack-bookingcom-customers-booking-data-accessed) - 2026-04-21
-* [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html) - 2026-04-21
-* [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/) - 2026-04-21
+* [TURBO.COM - 39,731 Bytes Deconstructed](http://TURBO.COM) - 2026-04-23
+* [Things That Turbo Pascal is Smaller Than](https://prog21.dadgum.com/116.html) - 2026-04-22
+* [Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/) - 2026-04-22
+* [Internet será irrespirable los días de fútbol y otros deportes. Telefónica extiende los bloqueos a Champions, tenis y golf.](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731) - 2026-04-22
+* [Paredes y tejados](https://www.flickr.com/photos/fernand0/55219761203/) - 2026-04-22
 <!-- mastodon ends -->
 
 ---
