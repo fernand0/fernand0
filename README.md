@@ -14,16 +14,16 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-23
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-22
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-22
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-24
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-23
+* [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-21
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-20
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-18
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text. - 2026-04-14
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-14
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-09
-* [elmundoesimperfecto-theme](https://github.com/fernand0/elmundoesimperfecto-theme),  Theme for elmundoesimperfecto.com sites - 2026-02-22
 
 ## repositoriesContributedTo
 
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [TURBO.COM - 39,731 Bytes Deconstructed](http://TURBO.COM) - 2026-04-23
-* [Things That Turbo Pascal is Smaller Than](https://prog21.dadgum.com/116.html) - 2026-04-22
-* [Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/) - 2026-04-22
-* [Internet será irrespirable los días de fútbol y otros deportes. Telefónica extiende los bloqueos a Champions, tenis y golf.](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731) - 2026-04-22
-* [Paredes y tejados](https://www.flickr.com/photos/fernand0/55219761203/) - 2026-04-22
+* [El Ayuntamiento de Zaragoza promociona una granja de ratones en el Palacio Real de Segovia como cantera del doctor Rocky](https://arainfo.org/zaragoza-promociona-granja-ratones-palacio-real-segovia-cantera-doctor-rocky/) - 2026-04-24
+* ["Conviction Collapse" and the End of Software as We Know It](https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/) - 2026-04-23
+* [Dormitorio de los guardias del harén](https://www.flickr.com/photos/fernand0/55218705942/) - 2026-04-23
+* [A Vape Break in the Bathroom Exposed a Passenger Who Was Stealing Wallets and Credit Cards Mid-Flight -](http://AeroXplorer.com) - 2026-04-23
+* [Unas preguntas que me hicieron sobre XML-JATS y mis repuestas tipo entrevista - plr blog](https://pedrolr.es/blog/unas-preguntas-que-me-hicieron-sobre-xml-jats-y-mis-repuestas-tipo-entrevista/) - 2026-04-23
 <!-- mastodon ends -->
 
 ---
