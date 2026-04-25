@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-24
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-23
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-25
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-24
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-24
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-21
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-20
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-18
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [El Ayuntamiento de Zaragoza promociona una granja de ratones en el Palacio Real de Segovia como cantera del doctor Rocky](https://arainfo.org/zaragoza-promociona-granja-ratones-palacio-real-segovia-cantera-doctor-rocky/) - 2026-04-24
-* ["Conviction Collapse" and the End of Software as We Know It](https://www.oreilly.com/radar/conviction-collapse-and-the-end-of-software-as-we-know-it/) - 2026-04-23
-* [Dormitorio de los guardias del harén](https://www.flickr.com/photos/fernand0/55218705942/) - 2026-04-23
-* [A Vape Break in the Bathroom Exposed a Passenger Who Was Stealing Wallets and Credit Cards Mid-Flight -](http://AeroXplorer.com) - 2026-04-23
-* [Unas preguntas que me hicieron sobre XML-JATS y mis repuestas tipo entrevista - plr blog](https://pedrolr.es/blog/unas-preguntas-que-me-hicieron-sobre-xml-jats-y-mis-repuestas-tipo-entrevista/) - 2026-04-23
+* [AI Coding Assistants Haven’t Sped up Delivery Because Coding Was Never the Bottleneck](https://www.infoq.com/news/2026/03/agoda-ai-code-bottleneck/) - 2026-04-25
+* [Techo con esfera decorativa](https://www.flickr.com/photos/fernand0/55219602236/) - 2026-04-24
+* [Uber Automates Design Documentation with Agentic Systems](https://www.infoq.com/news/2026/03/uber-ai-design/) - 2026-04-24
+* [AWS S3 Introduces Account-Regional Namespaces, Ending 18 Years of Global Bucket Name Collisions](https://www.infoq.com/news/2026/03/s3-account-regional-namespaces/) - 2026-04-24
+* [Vercel Releases JSON-Render: a Generative UI Framework for AI-Driven Interface Composition](https://www.infoq.com/news/2026/03/vercel-json-render/) - 2026-04-24
 <!-- mastodon ends -->
 
 ---
