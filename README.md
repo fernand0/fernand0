@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-24
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-24
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-25
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-25
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-21
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-20
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [AI Coding Assistants Haven’t Sped up Delivery Because Coding Was Never the Bottleneck](https://www.infoq.com/news/2026/03/agoda-ai-code-bottleneck/) - 2026-04-25
-* [Techo con esfera decorativa](https://www.flickr.com/photos/fernand0/55219602236/) - 2026-04-24
-* [Uber Automates Design Documentation with Agentic Systems](https://www.infoq.com/news/2026/03/uber-ai-design/) - 2026-04-24
-* [AWS S3 Introduces Account-Regional Namespaces, Ending 18 Years of Global Bucket Name Collisions](https://www.infoq.com/news/2026/03/s3-account-regional-namespaces/) - 2026-04-24
-* [Vercel Releases JSON-Render: a Generative UI Framework for AI-Driven Interface Composition](https://www.infoq.com/news/2026/03/vercel-json-render/) - 2026-04-24
+* [Cómo encender tu ordenador remotamente con Wake On LAN en Windows 10 - return(GiS);](https://www.returngis.net/2019/01/como-encender-tu-ordenador-remotamente-con-wake-on-lan-en-windows-10/) - 2026-04-26
+* [Placas decorativas con inscripciones](https://www.flickr.com/photos/fernand0/55219858924/) - 2026-04-25
+* [GitHub - opendataloader-project/opendataloader-pdf: PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.](https://github.com/opendataloader-project/opendataloader-pdf) - 2026-04-25
+* [18. Dresdner Dampfloktreffen](https://www.igbwdresdenaltstadt.de/index.php/de/dampfloktreffen) - 2026-04-25
+* [Microsoft exec suggests AI agents will need to buy software licenses, just like employees](https://www.businessinsider.com/microsoft-executive-suggests-ai-agents-buy-software-licenses-seats-2026-4) - 2026-04-25
 <!-- mastodon ends -->
 
 ---
