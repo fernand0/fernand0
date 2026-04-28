@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-27
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-26
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-27
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-27
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-21
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-20
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Pero ... La 'prioridad nacional', ¿No era el](fútbol?) - 2026-04-27
-* [Ventanas y decoración geométrica del techo de la habitación de las pipas](https://www.flickr.com/photos/fernand0/55219602381/) - 2026-04-27
-* [Response: Plain text copy of Peter Kyle's ChatGPT history -](http://GOV.UK) - 2026-04-27
-* [Quirky Electric Car Rides The Rails](https://hackaday.com/2026/04/19/quirky-electric-car-rides-the-rails/) - 2026-04-26
-* ["No puedes confiar en WhatsApp": Elon Musk y el CEO de Telegram estallan tras una demanda que acusa a Meta de espiar los chats](https://www.xatakamovil.com/movil-y-sociedad/no-puedes-confiar-whatsapp-elon-musk-ceo-telegram-estallan-demanda-que-acusa-a-meta-espiar-chats) - 2026-04-26
+* [Fuente con dos grifos](https://www.flickr.com/photos/fernand0/55218706262/) - 2026-04-28
+* [Orban Was Bad, Even Though We Don't Have A Perfect Word For His Badness](https://www.astralcodexten.com/p/orban-was-bad-even-though-we-dont) - 2026-04-28
+* [Fixing a 20-year-old bug in Enlightenment E16.](https://iczelia.net/posts/e16-20-year-old-bug/) - 2026-04-27
+* [Nationwide bill to put age verification in operating systems introduced in the US - OSnews](https://www.osnews.com/story/144803/nationwide-bill-to-put-age-verification-in-operating-systems-introduced-in-the-us/) - 2026-04-27
+* [Apple CEO Tim Cook Stepping Down, John Ternus Taking Over](https://www.macrumors.com/2026/04/20/tim-cook-stepping-down/) - 2026-04-27
 <!-- mastodon ends -->
 
 ---
