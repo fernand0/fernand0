@@ -14,16 +14,16 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-28
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-27
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-29
+* [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-28
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-28
 * [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-27
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-21
-* [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-20
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-18
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text. - 2026-04-14
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-14
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-09
 
 ## repositoriesContributedTo
 
@@ -50,6 +50,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [La seguridad en los tiempos de la IA y la sostenibilidad del software libre](https://fernand0.github.io/fallos-de-seguridad-ia/) - 2026-04-28
+
 * [Mensajes que misteriosamente no llegan](https://fernand0.github.io/un-fallo-curioso/) - 2026-04-09
 
 * [IMAP: leyendo correos desde nuestra terminal](https://fernand0.github.io/protocolo-correo/) - 2026-03-23
@@ -58,9 +60,9 @@
 
 * [Secuestro de datos en el entorno industrial: un gran problema](https://fernand0.github.io/consecuencias-secuestro-datos/) - 2026-03-02
 
-* [Vibe coding y programación asistida por LLMs](https://fernand0.github.io/vibe-coding-ia/) - 2026-01-14
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [Muchos usuarios odian a sus ordenadores](https://blog.elmundoesimperfecto.com/2026/04/28/medicos-ordenadores/) - 2026-04-28
 
 * [En la Casa de la Mujer hablando de IA](https://blog.elmundoesimperfecto.com/2026/04/16/maria-moliner-ia/) - 2026-04-16
 
@@ -69,19 +71,17 @@
 * [Nombrando amenazas: Microsoft y la meteorología](https://blog.elmundoesimperfecto.com/2026/03/23/nombres-amenazas-microsoft/) - 2026-03-23
 
 * [Un poco de soberanía tecnológica: ejecuta una IA en tu PC](https://blog.elmundoesimperfecto.com/2026/03/12/ejecuta-tu-propia-ia/) - 2026-03-12
-
-* [Fatiga regulatoria, riesgos y consecuencias](https://blog.elmundoesimperfecto.com/2026/03/02/cumplimiento-fatiga/) - 2026-03-02
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Fuente con dos grifos](https://www.flickr.com/photos/fernand0/55218706262/) - 2026-04-28
-* [Orban Was Bad, Even Though We Don't Have A Perfect Word For His Badness](https://www.astralcodexten.com/p/orban-was-bad-even-though-we-dont) - 2026-04-28
-* [Fixing a 20-year-old bug in Enlightenment E16.](https://iczelia.net/posts/e16-20-year-old-bug/) - 2026-04-27
-* [Nationwide bill to put age verification in operating systems introduced in the US - OSnews](https://www.osnews.com/story/144803/nationwide-bill-to-put-age-verification-in-operating-systems-introduced-in-the-us/) - 2026-04-27
-* [Apple CEO Tim Cook Stepping Down, John Ternus Taking Over](https://www.macrumors.com/2026/04/20/tim-cook-stepping-down/) - 2026-04-27
+* [Renfe, Trenitalia, SNCF... Les billets de train de tous les opérateurs pourront-ils bientôt être réservés sur une seule et même plateforme ?](https://www.franceinfo.fr/replay-jt/france-2/8-heures/renfe-trenitalia-sncf-les-billets-de-train-de-tous-les-operateurs-pourront-ils-bientot-etre-reserves-sur-une-seule-et-meme-plateforme_7939694.html) - 2026-04-29
+* [I used AI. It worked. I hated it.](https://taggart-tech.com/reckoning/) - 2026-04-29
+* [Plan 9 is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/) - 2026-04-28
+* [La seguridad en los tiempos de la IA y la sostenibilidad del software libre](https://fernand0.github.io//fallos-de-seguridad-ia/) - 2026-04-28
+* [Why do Macs ask you to press random keys when connecting a new keyboard? – Unsung](https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/) - 2026-04-28
 <!-- mastodon ends -->
 
 ---
