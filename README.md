@@ -14,8 +14,8 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-04-30
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-29
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-01
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-30
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-28
 * [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-27
@@ -27,8 +27,8 @@
 
 ## repositoriesContributedTo
 
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-30
 * [AB](https://github.com/simber72/AB),  No description - 2026-04-29
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-21
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-17
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Maryland becomes first state to pass bill banning ‘surveillance pricing’](https://www.denver7.com/life/money/maryland-becomes-first-state-to-pass-bill-banning-surveillance-pricing) - 2026-04-30
-* [Vercel confirms breach as hackers claim to be selling stolen data](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) - 2026-04-29
-* [Japanese man sentenced to prison for posting spoilers](https://www.theverge.com/entertainment/914984/godzilla-minus-one-overlord-coda-spoilers-lawsuit-toho-kadokawa-shoten) - 2026-04-29
-* [HIPPO Turns One Master Password Into Many Without Storing Any](https://spectrum.ieee.org/storeless-password-manager) - 2026-04-29
-* [Spencer Adams-Rand | Personal Website](https://www.spenceradamsrand.com/projects/scan-station) - 2026-04-29
+* [Why do Macs ask you to press random keys when connecting a new keyboard? – Unsung](https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/) - 2026-05-01
+* [Ojo. https://mastodon.social/@cmconseils/116494842378463747 Mis hijos y el grupo de WhatsApp de la familia en la imagen 😂😃 Y eso que estoy en](poquísimos) - 2026-04-30
+* [USB for Software Developers: An introduction to writing userspace USB drivers | WerWolv](https://werwolv.net/posts/usb_for_sw_devs/) - 2026-04-30
+* [Hoy en el python meetup.Un poco de lingüística, MCP y seguridad.Esther Fernández CarbayoJavier Martínez PisaVíctor Jiménez CerradaPresenta Laura](Alcober) - 2026-04-30
+* [The disturbing white paper Red Hat is trying to erase from the internet - OSnews](https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/) - 2026-04-30
 <!-- mastodon ends -->
 
 ---
