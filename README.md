@@ -14,13 +14,13 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-01
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-04-30
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-02
+* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-01
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-01
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-28
 * [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-27
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
-* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-04-21
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-18
 * [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text. - 2026-04-14
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-14
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Why do Macs ask you to press random keys when connecting a new keyboard? – Unsung](https://unsung.aresluna.org/why-do-macs-ask-you-to-press-random-keys-when-connecting-a-new-keyboard/) - 2026-05-01
-* [Ojo. https://mastodon.social/@cmconseils/116494842378463747 Mis hijos y el grupo de WhatsApp de la familia en la imagen 😂😃 Y eso que estoy en](poquísimos) - 2026-04-30
-* [USB for Software Developers: An introduction to writing userspace USB drivers | WerWolv](https://werwolv.net/posts/usb_for_sw_devs/) - 2026-04-30
-* [Hoy en el python meetup.Un poco de lingüística, MCP y seguridad.Esther Fernández CarbayoJavier Martínez PisaVíctor Jiménez CerradaPresenta Laura](Alcober) - 2026-04-30
-* [The disturbing white paper Red Hat is trying to erase from the internet - OSnews](https://www.osnews.com/story/144776/the-disturbing-white-paper-red-hat-is-trying-to-erase-from-the-internet/) - 2026-04-30
+* [HIPPO Turns One Master Password Into Many Without Storing Any](https://spectrum.ieee.org/storeless-password-manager) - 2026-05-02
+* [Spencer Adams-Rand | Personal Website](https://www.spenceradamsrand.com/projects/scan-station) - 2026-05-01
+* [Do We Really Need Another Development Board?](https://hackaday.com/2026/04/16/do-we-really-need-another-development-board/) - 2026-05-01
+* [Hubo que adaptarlo un poco, porque no habíamos invertido tiempo en manejar bien los](parámetros.) - 2026-05-01
+* [Mmmm. Para otra cosilla me gustaría guardar enlaces, pero... Ya tengo algo para guardar notas. ¿Y si lo anotamos con otro bot? (Y aprovechamos que hablan entre sí: el primero está en Telegram, el segundo en slack, pero da](igual).) - 2026-05-01
 <!-- mastodon ends -->
 
 ---
