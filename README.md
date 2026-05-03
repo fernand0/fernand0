@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-02
-* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-01
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-01
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-03
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-02
+* [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-02
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-28
 * [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-27
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [HIPPO Turns One Master Password Into Many Without Storing Any](https://spectrum.ieee.org/storeless-password-manager) - 2026-05-02
-* [Spencer Adams-Rand | Personal Website](https://www.spenceradamsrand.com/projects/scan-station) - 2026-05-01
-* [Do We Really Need Another Development Board?](https://hackaday.com/2026/04/16/do-we-really-need-another-development-board/) - 2026-05-01
-* [Hubo que adaptarlo un poco, porque no habíamos invertido tiempo en manejar bien los](parámetros.) - 2026-05-01
-* [Mmmm. Para otra cosilla me gustaría guardar enlaces, pero... Ya tengo algo para guardar notas. ¿Y si lo anotamos con otro bot? (Y aprovechamos que hablan entre sí: el primero está en Telegram, el segundo en slack, pero da](igual).) - 2026-05-01
+* [Home - Test Anything Protocol](https://testanything.org/) - 2026-05-03
+* [What I Learned at Melbourne's AI Engineering Unconference — Freshwater Futures](https://www.freshwaterfutures.com/blog/what-i-learned-at-melbournes-ai-engineering-unconference) - 2026-05-02
+* [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) - 2026-05-02
+* [AI Influence Level (AIL) v1.0](https://danielmiessler.com/blog/ai-influence-level-ail) - 2026-05-02
+* [Machine Learning and Complexity](https://blog.computationalcomplexity.org/2026/04/machine-learning-and-complexity.html) - 2026-05-02
 <!-- mastodon ends -->
 
 ---
