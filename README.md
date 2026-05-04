@@ -14,15 +14,15 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-03
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-02
-* [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-04
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-03
+* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-03
+* [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-03
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-28
 * [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-27
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-18
-* [news_manager](https://github.com/fernand0/news_manager),  A Python cli application to generate a news text from some text. - 2026-04-14
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-14
 
 ## repositoriesContributedTo
@@ -38,6 +38,8 @@
 <!-- blog starts -->
 ## [fernand0@dev.to (in English)](https://dev.to/fernand0)
 
+* [So, you want to vibecode another note taking app? (Part 1)](https://dev.to/fernand0/so-you-want-to-vibecode-another-note-taking-app-part-1-j2o) - 2026-05-03
+
 * [Links for 2026-03-12 (Testing RSS importing feature)](https://dev.to/fernand0/links-for-2026-03-12-testing-rss-importing-feature-58j6) - 2026-03-12
 
 * [So, you want to vibecode a linkblog?](https://dev.to/fernand0/so-you-want-to-vibecode-a-linkblog-245n) - 2026-03-05
@@ -45,8 +47,6 @@
 * [So you would like to digitise your CD collection? (& Part 4)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-4-4kem) - 2025-04-08
 
 * [So you would like to digitise your CD collection? (Part 3)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-3-505f) - 2025-03-09
-
-* [So you would like to digitise your CD collection? (Part 2)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-2-4ang) - 2025-01-31
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Home - Test Anything Protocol](https://testanything.org/) - 2026-05-03
-* [What I Learned at Melbourne's AI Engineering Unconference — Freshwater Futures](https://www.freshwaterfutures.com/blog/what-i-learned-at-melbournes-ai-engineering-unconference) - 2026-05-02
-* [Demystifying evals for AI agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents) - 2026-05-02
-* [AI Influence Level (AIL) v1.0](https://danielmiessler.com/blog/ai-influence-level-ail) - 2026-05-02
-* [Machine Learning and Complexity](https://blog.computationalcomplexity.org/2026/04/machine-learning-and-complexity.html) - 2026-05-02
+* [‘In two years, nobody will care’ if actors are AI or not, predicts La Haine director](https://www.theguardian.com/film/2026/apr/22/actors-ai-la-haine-director-mathieu-kassovitz?CMP=share_btn_url) - 2026-05-04
+* [](https://mastodon.social/@fernand0/116511027954772148) - 2026-05-03
+* [Washington roasted for using AI feature with heavily accented English instead of actual Spanish on state helpline | Fortune](https://fortune.com/2026/03/02/washington-state-accented-english-with-spanish-accent-amazon-web-services/) - 2026-05-03
+* [‘It was very real:’ Shopper targeted with A.I. deepfake video](https://www.clickorlando.com/news/local/2026/04/10/it-was-very-real-shopper-targeted-with-ai-deepfake-video/) - 2026-05-03
+* [UK government says 100 countries have spyware that can hack people's phones | TechCrunch](https://techcrunch.com/2026/04/22/uk-government-says-100-countries-have-spyware-that-can-hack-peoples-phones/) - 2026-05-03
 <!-- mastodon ends -->
 
 ---
