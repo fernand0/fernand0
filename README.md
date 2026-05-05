@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-04
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-03
-* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-05
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-04
+* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-04
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-03
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-28
@@ -27,8 +27,8 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-04-30
-* [AB](https://github.com/simber72/AB),  No description - 2026-04-29
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-04
+* [AB](https://github.com/simber72/AB),  No description - 2026-05-04
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-17
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [‘In two years, nobody will care’ if actors are AI or not, predicts La Haine director](https://www.theguardian.com/film/2026/apr/22/actors-ai-la-haine-director-mathieu-kassovitz?CMP=share_btn_url) - 2026-05-04
-* [](https://mastodon.social/@fernand0/116511027954772148) - 2026-05-03
-* [Washington roasted for using AI feature with heavily accented English instead of actual Spanish on state helpline | Fortune](https://fortune.com/2026/03/02/washington-state-accented-english-with-spanish-accent-amazon-web-services/) - 2026-05-03
-* [‘It was very real:’ Shopper targeted with A.I. deepfake video](https://www.clickorlando.com/news/local/2026/04/10/it-was-very-real-shopper-targeted-with-ai-deepfake-video/) - 2026-05-03
-* [UK government says 100 countries have spyware that can hack people's phones | TechCrunch](https://techcrunch.com/2026/04/22/uk-government-says-100-countries-have-spyware-that-can-hack-peoples-phones/) - 2026-05-03
+* [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html) - 2026-05-05
+* [Unas semanas de amarillo.](https://asavecesunafoto.wordpress.com/2026/05/04/unas-semanas-de-amarillo/) - 2026-05-04
+* [Deezer says 44% of songs uploaded to its platform daily are AI-generated | TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/) - 2026-05-04
+* [Meta to start capturing employee mouse movements, keystrokes for AI training data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) - 2026-05-04
+* [President of German parliament hit by Signal hack, report says](https://www.politico.eu/article/hackers-attack-phone-of-german-parliament-president-julia-klockner/) - 2026-05-04
 <!-- mastodon ends -->
 
 ---
