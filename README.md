@@ -14,13 +14,13 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-05
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-04
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-06
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-05
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-05
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-04
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-03
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-28
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-04-27
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-18
 * [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-14
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html) - 2026-05-05
-* [Unas semanas de amarillo.](https://asavecesunafoto.wordpress.com/2026/05/04/unas-semanas-de-amarillo/) - 2026-05-04
-* [Deezer says 44% of songs uploaded to its platform daily are AI-generated | TechCrunch](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/) - 2026-05-04
-* [Meta to start capturing employee mouse movements, keystrokes for AI training data](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) - 2026-05-04
-* [President of German parliament hit by Signal hack, report says](https://www.politico.eu/article/hackers-attack-phone-of-german-parliament-president-julia-klockner/) - 2026-05-04
+* [Independent Bookstore Day: Bookshop.org founder on how small retailers are taking on Amazon](https://www.fastcompany.com/91529634/independent-bookstore-day-bookshop-org-founder-on-how-small-retailers-are-taking-on-amazon) - 2026-05-06
+* [DeepSeek-V4 arrives with near state-of-the-art intelligence at 1/6th the cost of Opus 4.7, GPT-5.5](https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5) - 2026-05-05
+* [Even experts are surprised by AI’s latest ‘vibe-mathing’ advance](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) - 2026-05-05
+* [:coffee: #96 Entrevista a Python Zaragoza](https://onthenubs.com/blog/cafe-96-python-zaragoza/) - 2026-05-05
+* [Minarete, muros y tejados](https://www.flickr.com/photos/fernand0/55249746597/) - 2026-05-05
 <!-- mastodon ends -->
 
 ---
