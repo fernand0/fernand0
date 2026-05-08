@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-07
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-06
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-08
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-07
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-07
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-06
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-06
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-06
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-28
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Beware software brain](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation) - 2026-05-07
-* [What Will It Take to Get A.I. Out of Schools?](https://www.newyorker.com/culture/progress-report/what-will-it-take-to-get-ai-out-of-schools) - 2026-05-07
-* [Limonero.](https://asavecesunafoto.wordpress.com/2026/05/06/limonero/) - 2026-05-06
-* [Hola Fedora](44.) - 2026-05-06
-* [Tim Cook’s Impeccable Timing](https://stratechery.com/2026/tim-cooks-impeccable-timing/) - 2026-05-06
+* [¡Anota! El 7 De Mayo, Llega El 6º Congreso Industria 4.0 | COIIAR](https://coiiar.es/agenda/6-congreso-industria-40/) - 2026-05-08
+* [¿Te acuerdas de cuando te uniste a esta red?¡Yo tampoco! Pero lo tengo apuntado en el calendario. Eso sí, no apunté el año, lo tendría que mirar](:-D) - 2026-05-07
+* [Explotación rápida de una inyección SQL crítica en LiteLLM pone en riesgo claves de proveedores de LLM - Una Al Día](https://unaaldia.hispasec.com/2026/04/explotacion-rapida-de-una-inyeccion-sql-critica-en-litellm-pone-en-riesgo-claves-de-proveedores-de-llm.html) - 2026-05-07
+* [Ventanas y alero](https://www.flickr.com/photos/fernand0/55250791638/) - 2026-05-07
+* ["Software Fundamentals Matter More Than Ever" — Matt Pocock](https://youtu.be/v4F1gFy-hqg) - 2026-05-07
 <!-- mastodon ends -->
 
 ---
