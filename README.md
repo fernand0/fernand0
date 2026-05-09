@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-08
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-07
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-07
-* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-06
-* [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-06
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-08
+* [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
+* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-08
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-28
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
@@ -27,9 +27,9 @@
 
 ## repositoriesContributedTo
 
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-08
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-04
 * [AB](https://github.com/simber72/AB),  No description - 2026-05-04
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-04-17
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
 
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [¡Anota! El 7 De Mayo, Llega El 6º Congreso Industria 4.0 | COIIAR](https://coiiar.es/agenda/6-congreso-industria-40/) - 2026-05-08
-* [¿Te acuerdas de cuando te uniste a esta red?¡Yo tampoco! Pero lo tengo apuntado en el calendario. Eso sí, no apunté el año, lo tendría que mirar](:-D) - 2026-05-07
-* [Explotación rápida de una inyección SQL crítica en LiteLLM pone en riesgo claves de proveedores de LLM - Una Al Día](https://unaaldia.hispasec.com/2026/04/explotacion-rapida-de-una-inyeccion-sql-critica-en-litellm-pone-en-riesgo-claves-de-proveedores-de-llm.html) - 2026-05-07
-* [Ventanas y alero](https://www.flickr.com/photos/fernand0/55250791638/) - 2026-05-07
-* ["Software Fundamentals Matter More Than Ever" — Matt Pocock](https://youtu.be/v4F1gFy-hqg) - 2026-05-07
+* [What Are Those Weird Tubes On This KLM Embraer E195-E2?](https://www.gatechecked.com/what-are-those-weird-tubes-on-this-klm-embraer-e195-e2-11659?ref=flightaware) - 2026-05-09
+* [Fuentes](https://www.flickr.com/photos/fernand0/55251045255/) - 2026-05-08
+* [Humanoid robots start sorting luggage in Tokyo airport test amid labor shortage](https://arstechnica.com/ai/2026/04/japan-airlines-tests-having-robots-instead-of-humans-handle-travelers-luggage/) - 2026-05-08
+* [FlightAware's Role in Airspace Modernization](https://blog.flightaware.com/flightawares-role-in-airspace-modernization) - 2026-05-08
+* [Quantum Computers Are Not a Threat to 128-bit Symmetric Keys](https://words.filippo.io/128-bits/) - 2026-05-08
 <!-- mastodon ends -->
 
 ---
