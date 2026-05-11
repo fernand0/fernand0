@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-10
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-09
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-09
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-11
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-10
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [FlightAware's Role in Airspace Modernization](https://blog.flightaware.com/flightawares-role-in-airspace-modernization) - 2026-05-10
-* [Quantum Computers Are Not a Threat to 128-bit Symmetric Keys](https://words.filippo.io/128-bits/) - 2026-05-09
-* [GenAI Alone Isnât Enough: Rethinking AI in Cybersecurity | eSecurity Planet](https://www.esecurityplanet.com/artificial-intelligence/genai-alone-isnt-enough-rethinking-ai-in-cybersecurity/) - 2026-05-09
-* [V Jornadas - Aragón Privacidad](https://aragonprivacidad.com/v-jornadas/) - 2026-05-09
-* [Comer en Brujas.](https://asavecesunafoto.wordpress.com/2026/05/09/comer-en-brujas/) - 2026-05-09
+* [Smuggling Starlink tech into Iran to beat the internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo) - 2026-05-11
+* [La forma en que el metro de la Ciudad de México se está hundiendo es realmente peligrosa](https://es.wired.com/articulos/forma-en-que-metro-de-cdmx-se-esta-hundiendo-es-realmente-peligrosa) - 2026-05-10
+* [Addressing GitHub’s recent availability issues](https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/) - 2026-05-10
+* [Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks | TechCrunch](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/) - 2026-05-10
+* [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html) - 2026-05-10
 <!-- mastodon ends -->
 
 ---
