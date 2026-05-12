@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-11
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-10
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-10
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-12
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-11
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-11
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Smuggling Starlink tech into Iran to beat the internet blackout](https://www.bbc.com/news/articles/cvgzk91leweo) - 2026-05-11
-* [La forma en que el metro de la Ciudad de México se está hundiendo es realmente peligrosa](https://es.wired.com/articulos/forma-en-que-metro-de-cdmx-se-esta-hundiendo-es-realmente-peligrosa) - 2026-05-10
-* [Addressing GitHub’s recent availability issues](https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/) - 2026-05-10
-* [Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks | TechCrunch](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/) - 2026-05-10
-* [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html) - 2026-05-10
+* [Almost half of UK businesses hit by cyber attacks | Computer Weekly](https://www.computerweekly.com/news/366642507/Almost-half-of-UK-businesses-hit-by-cyber-attacks) - 2026-05-12
+* [15-year-old detained over massive data breach at French government agency - Help Net Security](https://www.helpnetsecurity.com/2026/05/04/france-titres-data-breach-teen-suspect/) - 2026-05-11
+* [AI threats in the wild: The current state of prompt injections on the web](https://blog.google/security/prompt-injections-web/) - 2026-05-11
+* [Protecting Cookies with Device Bound Session Credentials](https://blog.google/security/protecting-cookies-with-device-bound-session-credentials/) - 2026-05-11
+* [Entre los pelos.](https://asavecesunafoto.wordpress.com/2026/05/11/entre-los-pelos/) - 2026-05-11
 <!-- mastodon ends -->
 
 ---
