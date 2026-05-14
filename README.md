@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-13
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-12
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-12
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-14
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-13
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-13
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
@@ -27,8 +27,8 @@
 
 ## repositoriesContributedTo
 
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-14
 * [AB](https://github.com/simber72/AB),  No description - 2026-05-12
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-12
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-04
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [AI-generated shovels or second-order slop?](https://protocols-made-fun.com/llms/testing/2026/02/12/second-order-slop.html) - 2026-05-13
-* [Qui gouverne l'IA dans les universités ?](https://www.lalibre.be/debats/opinions/2026/03/20/qui-gouverne-lia-dans-les-universites-SCPNLHZVQNDQZLZRVGCQHLGEXI/) - 2026-05-12
-* [Fixing vulnerability data quality requires fixing the architecture first - Help Net Security](https://www.helpnetsecurity.com/2026/04/13/art-manion-tharros-vulnerability-data-quality/) - 2026-05-12
-* [Canadian election databases use "canary traps"—and they work](https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/) - 2026-05-12
-* [Por el monte.](https://asavecesunafoto.wordpress.com/2026/05/12/por-el-monte/) - 2026-05-12
+* [Learn Programming Without A Computer](https://hackaday.com/2026/05/06/learn-programming-without-a-computer/) - 2026-05-14
+* [An LLM From “Scratch”](https://hackaday.com/2026/05/07/an-llm-from-scratch/) - 2026-05-13
+* [dirtyfrag/README.md at master · V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag/blob/master/README.md) - 2026-05-13
+* [:chart_with_upwards_trend: Los Camp! Present Their Tour Accounts](https://loscampesinos.substack.com/p/los-camp-present-their-tour-accounts) - 2026-05-13
+* [Vuelve a Huesca el Tren Geológico del Prepirineo](https://www.diariodelaltoaragon.es/noticias/comarcas/2026/05/06/vuelve-huesca-tren-geologico-prepirineo-2017827.html) - 2026-05-13
 <!-- mastodon ends -->
 
 ---
