@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-14
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-13
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-14
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-14
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
@@ -27,8 +27,8 @@
 
 ## repositoriesContributedTo
 
+* [AB](https://github.com/simber72/AB),  No description - 2026-05-15
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-14
-* [AB](https://github.com/simber72/AB),  No description - 2026-05-12
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-04
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Learn Programming Without A Computer](https://hackaday.com/2026/05/06/learn-programming-without-a-computer/) - 2026-05-14
-* [An LLM From “Scratch”](https://hackaday.com/2026/05/07/an-llm-from-scratch/) - 2026-05-13
-* [dirtyfrag/README.md at master · V4bel/dirtyfrag](https://github.com/V4bel/dirtyfrag/blob/master/README.md) - 2026-05-13
-* [:chart_with_upwards_trend: Los Camp! Present Their Tour Accounts](https://loscampesinos.substack.com/p/los-camp-present-their-tour-accounts) - 2026-05-13
-* [Vuelve a Huesca el Tren Geológico del Prepirineo](https://www.diariodelaltoaragon.es/noticias/comarcas/2026/05/06/vuelve-huesca-tren-geologico-prepirineo-2017827.html) - 2026-05-13
+* [Diez medidas según el Decálogo Básico de Seguridad del CCN-CERT para empezar a establecer una cultura de la ciberseguridad en tu organización | ARAINTEL](https://araintel.com/articulos/diez-medidas-segun-el-decalogo-basico-de-seguridad-del-ccn-cert-para-empezar-a-establecer-una-cultura-de-la-ciberseguridad-en-tu-organizacion/) - 2026-05-15
+* [What to Know About the Canvas Cyberattack](https://time.com/article/2026/05/08/canvas-cyber-attack-shinyhunters-hack-what-to-know/) - 2026-05-14
+* [Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033) - 2026-05-14
+* [New Method Is the Fastest Way To Find the Best Routes](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/) - 2026-05-14
+* [Los cactus de mi padre.](https://asavecesunafoto.wordpress.com/2026/05/14/los-cactus-de-mi-padre/) - 2026-05-14
 <!-- mastodon ends -->
 
 ---
