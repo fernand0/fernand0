@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-16
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-15
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-15
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-17
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-16
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-16
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [AB](https://github.com/simber72/AB),  No description - 2026-05-15
+* [AB](https://github.com/simber72/AB),  No description - 2026-05-16
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-15
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-04
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [ONLYOFFICE flags license violations in “Euro-Office” project](https://www.onlyoffice.com/blog/2026/03/onlyoffice-flags-license-violations-in-euro-office-project-by-nextcloud-and-ionos) - 2026-05-16
-* [Office EU - Europe's Open-Source Productivity Suite](https://office.eu/) - 2026-05-15
-* [Ciberdefender UNIZAR | Entrevista al Grupo de Ciberseguridad de la Universidad de Zaragoza – ARAINTEL | ARAINTEL](https://araintel.com/articulos/ciberdefender-unizar-entrevista-al-grupo-de-ciberseguridad-de-la-universidad-de-zaragoza-araintel/) - 2026-05-15
-* [Entrada de luz](https://www.flickr.com/photos/fernand0/55250886314/) - 2026-05-15
-* [No falla.](https://asavecesunafoto.wordpress.com/2026/05/15/no-falla/) - 2026-05-15
+* [Sovereign cloud is only possible if you’re Chinese or American: Gartner](https://www.theregister.com/off-prem/2026/05/11/sovereign-cloud-is-only-possible-if-youre-chinese-or-american-gartner/5237660) - 2026-05-17
+* [European Commission investigates cyberattack on its websites](https://www.politico.eu/article/european-commission-website-cyber-attack-investigation/) - 2026-05-16
+* [IPv8 Explained: What We Know About the New Internet Draft | Serverspace](https://serverspace.io/about/blog/ipv8-explained-what-we-know-about-the-new-internet-draft/) - 2026-05-16
+* [Mihrab](https://www.flickr.com/photos/fernand0/55250886389/) - 2026-05-16
+* [Another Gift To The World From CERN: Their Entire Set Of KiCad Libraries](https://hackaday.com/2026/05/12/another-gift-to-the-world-from-cern-their-entire-set-of-kicad-libraries/) - 2026-05-16
 <!-- mastodon ends -->
 
 ---
