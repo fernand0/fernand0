@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-17
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-16
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-18
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-17
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-17
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [AB](https://github.com/simber72/AB),  No description - 2026-05-16
+* [AB](https://github.com/simber72/AB),  No description - 2026-05-17
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-15
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-04
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Sovereign cloud is only possible if you’re Chinese or American: Gartner](https://www.theregister.com/off-prem/2026/05/11/sovereign-cloud-is-only-possible-if-youre-chinese-or-american-gartner/5237660) - 2026-05-17
-* [European Commission investigates cyberattack on its websites](https://www.politico.eu/article/european-commission-website-cyber-attack-investigation/) - 2026-05-16
-* [IPv8 Explained: What We Know About the New Internet Draft | Serverspace](https://serverspace.io/about/blog/ipv8-explained-what-we-know-about-the-new-internet-draft/) - 2026-05-16
-* [Mihrab](https://www.flickr.com/photos/fernand0/55250886389/) - 2026-05-16
-* [Another Gift To The World From CERN: Their Entire Set Of KiCad Libraries](https://hackaday.com/2026/05/12/another-gift-to-the-world-from-cern-their-entire-set-of-kicad-libraries/) - 2026-05-16
+* [Espacio H - Primer encuentro AAEE: Andrés Pérez y Daniel H. Cabrera](https://club.heraldo.es/espacioh/primer-encuentro-aaee/) - 2026-05-18
+* [LLM Targeted Underperformance Disproportionately Impacts Vulnerable Users](https://arxiv.org/abs/2406.17737) - 2026-05-17
+* [Rosetón en el techo](https://www.flickr.com/photos/fernand0/55249747872/) - 2026-05-17
+* [La liga universitaria y de innovación que hace líder a China](https://www.lavanguardia.com/internacional/vanguardia-dossier/revista/20260514/11491137/liga-universitaria-innovacion-lider-china.html) - 2026-05-17
+* [Aquel último día de recorrido con pasajeros del tren correo Ponferrada-Villablino, el zaguero a vapor de Europa](https://www.infobierzo.com/reportajes/aniversario-ultimo-recorrido-pasajeros-tren-correo-ponferrada-villablino_1035404_102.html) - 2026-05-17
 <!-- mastodon ends -->
 
 ---
