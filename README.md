@@ -14,22 +14,22 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-19
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-18
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-20
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-19
+* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-28
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-18
-* [citasCitables](https://github.com/fernand0/citasCitables),  This is the source of a Pelican-powered blog to compile quotes that I find interesting. - 2026-04-14
 
 ## repositoriesContributedTo
 
-* [AB](https://github.com/simber72/AB),  No description - 2026-05-18
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-20
+* [AB](https://github.com/simber72/AB),  No description - 2026-05-19
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-18
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-04
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
 
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Shai Hulud attack ships signed malicious TanStack, Mistral npm packages](https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/) - 2026-05-19
-* [Frontier plane kills fence-jumping pedestrian during Denver takeoff - AOL](https://www.aol.com/news/frontier-plane-kills-fence-jumping-133257514.html) - 2026-05-19
-* [Pasaje de columnas](https://www.flickr.com/photos/fernand0/55251046125/) - 2026-05-19
-* [Unos aloes.](https://asavecesunafoto.wordpress.com/2026/05/18/unos-aloes/) - 2026-05-18
-* [Transforming Enterprise Through AI AI Hackathon |](http://lablab.ai) - 2026-05-18
+* [Endorse Colleagues in Meetings, and Other Actions for Allies](https://medium.com/@betterallies/endorse-colleagues-in-meetings-and-other-actions-for-allies-9fffde878a61) - 2026-05-20
+* [Tercer año, segundas flores.](https://asavecesunafoto.wordpress.com/2026/05/19/tercer-ano-segundas-flores/) - 2026-05-19
+* [An Archeology for the Future in Space](https://medium.com/design-fictions/an-archeology-for-the-future-in-space-9e5273923184) - 2026-05-19
+* [Configure Python & Lambda to Automatically Stop EC2 on a Schedule](https://medium.com/@kinseyparham/configure-python-lambda-to-automatically-stop-ec2-on-a-schedule-9be6fda680f1) - 2026-05-19
+* [Federal judge blocks US sanctions against UN expert on occupied Palestinian territories](https://www.theguardian.com/us-news/2026/may/13/un-francesca-albanese-sanctions) - 2026-05-19
 <!-- mastodon ends -->
 
 ---
