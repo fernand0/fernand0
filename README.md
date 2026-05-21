@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-20
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-19
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-21
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-20
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-20
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Endorse Colleagues in Meetings, and Other Actions for Allies](https://medium.com/@betterallies/endorse-colleagues-in-meetings-and-other-actions-for-allies-9fffde878a61) - 2026-05-20
-* [Tercer año, segundas flores.](https://asavecesunafoto.wordpress.com/2026/05/19/tercer-ano-segundas-flores/) - 2026-05-19
-* [An Archeology for the Future in Space](https://medium.com/design-fictions/an-archeology-for-the-future-in-space-9e5273923184) - 2026-05-19
-* [Configure Python & Lambda to Automatically Stop EC2 on a Schedule](https://medium.com/@kinseyparham/configure-python-lambda-to-automatically-stop-ec2-on-a-schedule-9be6fda680f1) - 2026-05-19
-* [Federal judge blocks US sanctions against UN expert on occupied Palestinian territories](https://www.theguardian.com/us-news/2026/may/13/un-francesca-albanese-sanctions) - 2026-05-19
+* [Parallel Asynchronous API Call in Python](https://medium.com/@sankhadip/parallel-asynchronous-api-call-in-python-f6aa663206c6) - 2026-05-21
+* [Four books I feel lucky I have read.](https://medium.com/@khuramksultan/four-books-i-feel-lucky-i-have-read-7dd564dd5dcb) - 2026-05-20
+* [How about using https://mastodon.social/@async ?](https://medium.com/javarevisited/how-about-using-async-c0ae1cb7b5fd) - 2026-05-20
+* [Asiento privilegiado.](https://asavecesunafoto.wordpress.com/2026/05/20/asiento-privilegiado/) - 2026-05-20
+* [Understanding Hexagonal Architecture With a Spring Boot Implementation](https://medium.com/@rbailen/hexagonal-architecture-with-spring-boot-74e93030eba3) - 2026-05-20
 <!-- mastodon ends -->
 
 ---
