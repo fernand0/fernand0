@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-21
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-20
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-20
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-22
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-21
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-21
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Parallel Asynchronous API Call in Python](https://medium.com/@sankhadip/parallel-asynchronous-api-call-in-python-f6aa663206c6) - 2026-05-21
-* [Four books I feel lucky I have read.](https://medium.com/@khuramksultan/four-books-i-feel-lucky-i-have-read-7dd564dd5dcb) - 2026-05-20
-* [How about using https://mastodon.social/@async ?](https://medium.com/javarevisited/how-about-using-async-c0ae1cb7b5fd) - 2026-05-20
-* [Asiento privilegiado.](https://asavecesunafoto.wordpress.com/2026/05/20/asiento-privilegiado/) - 2026-05-20
-* [Understanding Hexagonal Architecture With a Spring Boot Implementation](https://medium.com/@rbailen/hexagonal-architecture-with-spring-boot-74e93030eba3) - 2026-05-20
+* [How to manage your time effectively as a software engineer](https://medium.com/@eilonmor1/how-to-manage-your-time-effectively-as-a-software-engineer-a778c5421966) - 2026-05-22
+* [Web3 alternatives to Spotify, Youtube, Google, and Instagram](https://medium.com/@flintdotmoney/web3-alternatives-to-spotify-youtube-google-and-instagram-c84e1dbd6db8) - 2026-05-22
+* [Consistency in UI Design: 6 Basic Principles](https://medium.com/@FlowMapp/consistency-in-ui-design-6-basic-principles-abbd96b5cff8) - 2026-05-21
+* [Code like there is no if-statement](https://medium.com/@shirkavand/code-like-there-is-no-if-statement-36ca170c2b92) - 2026-05-21
+* [Common Mistakes When Dealing with Multiple Python Files](https://medium.com/@frankligy/common-mistakes-when-dealing-with-multiple-python-files-b4f4dc4d5643) - 2026-05-21
 <!-- mastodon ends -->
 
 ---
