@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-22
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-21
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-21
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-23
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-22
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [How to manage your time effectively as a software engineer](https://medium.com/@eilonmor1/how-to-manage-your-time-effectively-as-a-software-engineer-a778c5421966) - 2026-05-22
-* [Web3 alternatives to Spotify, Youtube, Google, and Instagram](https://medium.com/@flintdotmoney/web3-alternatives-to-spotify-youtube-google-and-instagram-c84e1dbd6db8) - 2026-05-22
-* [Consistency in UI Design: 6 Basic Principles](https://medium.com/@FlowMapp/consistency-in-ui-design-6-basic-principles-abbd96b5cff8) - 2026-05-21
-* [Code like there is no if-statement](https://medium.com/@shirkavand/code-like-there-is-no-if-statement-36ca170c2b92) - 2026-05-21
-* [Common Mistakes When Dealing with Multiple Python Files](https://medium.com/@frankligy/common-mistakes-when-dealing-with-multiple-python-files-b4f4dc4d5643) - 2026-05-21
+* [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) - 2026-05-23
+* [Send Emails in Python with Gmail](https://medium.com/@peter-jp-xie/automate-sending-emails-with-gmail-in-python-449cc0c3c317) - 2026-05-22
+* [Best way to speed up a bulk of HTTP requests in Python](https://medium.com/@gunardilin/best-way-to-speed-up-a-bulk-of-http-requests-in-python-4ec75badabed) - 2026-05-22
+* [How to Install and Manage Multiple Python Versions on Windows 10](https://medium.com/@david-littlefield/how-to-install-and-manage-multiple-python-versions-on-windows-10-c90098d7ba5a) - 2026-05-22
+* [Most Useful Software Architecture Patterns](https://medium.com/@shadman-jamil/most-useful-software-architecture-patterns-68e171405292) - 2026-05-22
 <!-- mastodon ends -->
 
 ---
