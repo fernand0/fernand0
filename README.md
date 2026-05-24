@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-23
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-22
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-22
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-24
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-23
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-20
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-23
 * [AB](https://github.com/simber72/AB),  No description - 2026-05-19
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-18
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/) - 2026-05-23
-* [Send Emails in Python with Gmail](https://medium.com/@peter-jp-xie/automate-sending-emails-with-gmail-in-python-449cc0c3c317) - 2026-05-22
-* [Best way to speed up a bulk of HTTP requests in Python](https://medium.com/@gunardilin/best-way-to-speed-up-a-bulk-of-http-requests-in-python-4ec75badabed) - 2026-05-22
-* [How to Install and Manage Multiple Python Versions on Windows 10](https://medium.com/@david-littlefield/how-to-install-and-manage-multiple-python-versions-on-windows-10-c90098d7ba5a) - 2026-05-22
-* [Most Useful Software Architecture Patterns](https://medium.com/@shadman-jamil/most-useful-software-architecture-patterns-68e171405292) - 2026-05-22
+* [Introducing talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie) - 2026-05-24
+* [Shostack + Friends Blog > LLM Threat Modeling Is Fun](https://shostack.org/blog/llm-threat-modeling-is-fun/) - 2026-05-24
+* [Queda inaugurada la temporada de piscina](...) - 2026-05-23
+* [Why I stopped using Gmail — and why should you too](https://medium.com/@be-ja/why-i-stopped-using-gmail-and-why-should-you-too-c542341ef8f1) - 2026-05-23
+* [All programmers do is copy and paste: Demystifying the myth](https://medium.com/@marvellousniyi123/all-programmers-do-is-copy-and-paste-demystifying-the-myth-1497c30271b7) - 2026-05-23
 <!-- mastodon ends -->
 
 ---
