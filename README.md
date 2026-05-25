@@ -14,16 +14,16 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-24
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-23
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-23
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-25
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-24
+* [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-24
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-24
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-28
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-04-18
 
 ## repositoriesContributedTo
 
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Introducing talkie: a 13B vintage language model from 1930](https://talkie-lm.com/introducing-talkie) - 2026-05-24
-* [Shostack + Friends Blog > LLM Threat Modeling Is Fun](https://shostack.org/blog/llm-threat-modeling-is-fun/) - 2026-05-24
-* [Queda inaugurada la temporada de piscina](...) - 2026-05-23
-* [Why I stopped using Gmail — and why should you too](https://medium.com/@be-ja/why-i-stopped-using-gmail-and-why-should-you-too-c542341ef8f1) - 2026-05-23
-* [All programmers do is copy and paste: Demystifying the myth](https://medium.com/@marvellousniyi123/all-programmers-do-is-copy-and-paste-demystifying-the-myth-1497c30271b7) - 2026-05-23
+* [2026 update of the national research and education FileSender deployment map | GÉANT CONNECT Online](https://connect.geant.org/2026/05/20/2026-update-of-the-national-research-and-education-filesender-deployment-map) - 2026-05-25
+* [Inside GÉANT’s IP network migration: design, automation and operational transformation | GÉANT CONNECT Online](https://connect.geant.org/2026/05/20/inside-geants-ip-network-migration-design-automation-and-operational-transformation) - 2026-05-25
+* [The Night Above Everything](https://blog.angelfux.com/p/triple-arch-at-4200m-matterhorn) - 2026-05-24
+* [In Memoriam: Peter G. Neumann](https://www.cs.columbia.edu/~smb/blog/2026-05/2026-05-19.html) - 2026-05-24
+* [Don't Get Hacked!](https://www.cs.columbia.edu/~smb/homesec/) - 2026-05-24
 <!-- mastodon ends -->
 
 ---
