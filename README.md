@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-24
-* [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-24
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-24
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-26
+* [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-25
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-25
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-23
+* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-25
 * [AB](https://github.com/simber72/AB),  No description - 2026-05-19
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-18
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [2026 update of the national research and education FileSender deployment map | GÉANT CONNECT Online](https://connect.geant.org/2026/05/20/2026-update-of-the-national-research-and-education-filesender-deployment-map) - 2026-05-25
-* [Inside GÉANT’s IP network migration: design, automation and operational transformation | GÉANT CONNECT Online](https://connect.geant.org/2026/05/20/inside-geants-ip-network-migration-design-automation-and-operational-transformation) - 2026-05-25
-* [The Night Above Everything](https://blog.angelfux.com/p/triple-arch-at-4200m-matterhorn) - 2026-05-24
-* [In Memoriam: Peter G. Neumann](https://www.cs.columbia.edu/~smb/blog/2026-05/2026-05-19.html) - 2026-05-24
-* [Don't Get Hacked!](https://www.cs.columbia.edu/~smb/homesec/) - 2026-05-24
+* [Why Student Test Scores Have Seen a Decade-Long Drop Across the U.S.](https://time.com/article/2026/05/16/student-test-scores-reading-math-us/) - 2026-05-26
+* [Steven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about it](https://apnews.com/article/john-lennon-steven-soderbergh-ai-cannes-documentary-7794a4344ed455cae4c5780fa6610860) - 2026-05-26
+* [OpenAI defeats Elon Musk's lawsuit, removes obstacle to IPO](https://www.reuters.com/legal/government/elon-musk-loses-lawsuit-against-openai-2026-05-18/) - 2026-05-25
+* [Microsoft surprises with its first server Linux distribution: Azure Linux 4.0](https://www.zdnet.com/article/microsoft-releases-its-first-server-linux-distribution-azure-linux-4-0/) - 2026-05-25
+* [Google accused of pushing 'free for life' G Suite users onto paid plans](https://www.theregister.com/applications/2026/05/19/google-accused-of-pushing-free-for-life-g-suite-users-onto-paid-plans/5242567) - 2026-05-25
 <!-- mastodon ends -->
 
 ---
