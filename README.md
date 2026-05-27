@@ -14,15 +14,15 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-27
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-26
 * [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-26
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-25
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-25
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 * [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-04-28
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
 
 ## repositoriesContributedTo
@@ -50,6 +50,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [Deepfakes para engañar a las empresas. El caso de LastPass](https://fernand0.github.io/lastpass-deepfakes/) - 2026-05-26
+
 * [La seguridad en los tiempos de la IA y la sostenibilidad del software libre](https://fernand0.github.io/fallos-de-seguridad-ia/) - 2026-04-28
 
 * [Mensajes que misteriosamente no llegan](https://fernand0.github.io/un-fallo-curioso/) - 2026-04-09
@@ -58,9 +60,9 @@
 
 * [Usando IAs para portar código](https://fernand0.github.io/criptografia-ia/) - 2026-03-12
 
-* [Secuestro de datos en el entorno industrial: un gran problema](https://fernand0.github.io/consecuencias-secuestro-datos/) - 2026-03-02
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [La IA, dónde gana y dónde le ganamos](https://blog.elmundoesimperfecto.com/2026/05/26/valor-IA/) - 2026-05-26
 
 * [Muchos usuarios odian a sus ordenadores](https://blog.elmundoesimperfecto.com/2026/04/28/medicos-ordenadores/) - 2026-04-28
 
@@ -69,19 +71,17 @@
 * [La IA y algunos argumentos en contra (respondidos)](https://blog.elmundoesimperfecto.com/2026/04/09/escepticismo-ia/) - 2026-04-09
 
 * [Nombrando amenazas: Microsoft y la meteorología](https://blog.elmundoesimperfecto.com/2026/03/23/nombres-amenazas-microsoft/) - 2026-03-23
-
-* [Un poco de soberanía tecnológica: ejecuta una IA en tu PC](https://blog.elmundoesimperfecto.com/2026/03/12/ejecuta-tu-propia-ia/) - 2026-03-12
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Why Student Test Scores Have Seen a Decade-Long Drop Across the U.S.](https://time.com/article/2026/05/16/student-test-scores-reading-math-us/) - 2026-05-26
-* [Steven Soderbergh used AI in a documentary about John Lennon. And he wants to talk about it](https://apnews.com/article/john-lennon-steven-soderbergh-ai-cannes-documentary-7794a4344ed455cae4c5780fa6610860) - 2026-05-26
-* [OpenAI defeats Elon Musk's lawsuit, removes obstacle to IPO](https://www.reuters.com/legal/government/elon-musk-loses-lawsuit-against-openai-2026-05-18/) - 2026-05-25
-* [Microsoft surprises with its first server Linux distribution: Azure Linux 4.0](https://www.zdnet.com/article/microsoft-releases-its-first-server-linux-distribution-azure-linux-4-0/) - 2026-05-25
-* [Google accused of pushing 'free for life' G Suite users onto paid plans](https://www.theregister.com/applications/2026/05/19/google-accused-of-pushing-free-for-life-g-suite-users-onto-paid-plans/5242567) - 2026-05-25
+* [El Tren Histórico del Duero regresa en Portugal con 51 viajes de junio a octubre](https://www.expreso.info/noticias/agenda/112521_el_tren_historico_del_duero_regresa_en_portugal_con_51_viajes_de_junio) - 2026-05-27
+* [Bezos brushes off concerns of an AI bubble: 'You shouldn't worry about it'](https://www.cnbc.com/2026/05/20/bezos-ai-bubble-concerns-amazon-prometheum-blue-origin.html?__source=twitter%7Ctech&amp;taid=6a0db5bcb912840001008194&amp;utm_campaign=trueanthem&amp;utm_medium=social&amp;utm_source=twitter) - 2026-05-26
+* [Magnets Are Bad For Hardware Again](https://hackaday.com/2026/05/21/magnets-are-bad-for-hardware-again/) - 2026-05-26
+* [Deepfakes para engañar a las empresas. El caso de LastPass](https://fernand0.github.io//lastpass-deepfakes/) - 2026-05-26
+* [Americans would rather have a nuclear plant in their backyard than a datacenter](https://www.theregister.com/on-prem/2026/05/14/americans-would-rather-have-a-nuclear-plant-in-their-backyard-than-a-datacenter/5240203) - 2026-05-26
 <!-- mastodon ends -->
 
 ---
