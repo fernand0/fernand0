@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-27
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-27
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-27
 * [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-26
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [El Tren Histórico del Duero regresa en Portugal con 51 viajes de junio a octubre](https://www.expreso.info/noticias/agenda/112521_el_tren_historico_del_duero_regresa_en_portugal_con_51_viajes_de_junio) - 2026-05-27
-* [Bezos brushes off concerns of an AI bubble: 'You shouldn't worry about it'](https://www.cnbc.com/2026/05/20/bezos-ai-bubble-concerns-amazon-prometheum-blue-origin.html?__source=twitter%7Ctech&amp;taid=6a0db5bcb912840001008194&amp;utm_campaign=trueanthem&amp;utm_medium=social&amp;utm_source=twitter) - 2026-05-26
-* [Magnets Are Bad For Hardware Again](https://hackaday.com/2026/05/21/magnets-are-bad-for-hardware-again/) - 2026-05-26
-* [Deepfakes para engañar a las empresas. El caso de LastPass](https://fernand0.github.io//lastpass-deepfakes/) - 2026-05-26
-* [Americans would rather have a nuclear plant in their backyard than a datacenter](https://www.theregister.com/on-prem/2026/05/14/americans-would-rather-have-a-nuclear-plant-in-their-backyard-than-a-datacenter/5240203) - 2026-05-26
+* [Spotify Will Start Reserving Concert Tickets For Fans](https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/) - 2026-05-28
+* [Flores verdes.](https://asavecesunafoto.wordpress.com/2026/05/27/flores-verdes/) - 2026-05-28
+* [Spitfire could return to production 90 years after first flight](https://www.theboltonnews.co.uk/news/national/26113785.spitfire-return-production-90-years-first-flight/) - 2026-05-28
+* [AerSale: The Aviation Aftermarket Company Saving Airlines Millions While Keeping Them Flying](https://aeroxplorer.com/articles/aersale-the-aviation-aftermarket-company-saving-airlines-millions-while-keeping-them-flying.php) - 2026-05-27
+* [Ryanair Boss Wants To Ban 5 A.M. Drinking At Airports](https://www.gatechecked.com/ryanair-boss-wants-to-ban-5-a-m-drinking-at-airports-11697) - 2026-05-27
 <!-- mastodon ends -->
 
 ---
