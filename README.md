@@ -14,15 +14,15 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-28
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-27
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-27
-* [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-29
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-28
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-28
+* [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
-* [err-forward](https://github.com/fernand0/err-forward),  ErrBot plugin for forwarding messages. Since ErrBot does not allow multiple backends, we can have several ErrBot instances in different backends and allow them to communicate via a common channel. In this case we are using Slack, but other channels should be possible. - 2026-04-28
 * [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
 
 ## repositoriesContributedTo
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Spotify Will Start Reserving Concert Tickets For Fans](https://www.hollywoodreporter.com/music/music-industry-news/spotify-will-start-reserving-concert-tickets-for-superfans-1236603106/) - 2026-05-28
-* [Flores verdes.](https://asavecesunafoto.wordpress.com/2026/05/27/flores-verdes/) - 2026-05-28
-* [Spitfire could return to production 90 years after first flight](https://www.theboltonnews.co.uk/news/national/26113785.spitfire-return-production-90-years-first-flight/) - 2026-05-28
-* [AerSale: The Aviation Aftermarket Company Saving Airlines Millions While Keeping Them Flying](https://aeroxplorer.com/articles/aersale-the-aviation-aftermarket-company-saving-airlines-millions-while-keeping-them-flying.php) - 2026-05-27
-* [Ryanair Boss Wants To Ban 5 A.M. Drinking At Airports](https://www.gatechecked.com/ryanair-boss-wants-to-ban-5-a-m-drinking-at-airports-11697) - 2026-05-27
+* [Amazon employees are "tokenmaxxing" due to pressure to use AI tools](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/) - 2026-05-29
+* [Man sentenced to two years in prison for stealing unreleased Beyoncé music](https://www.theguardian.com/music/2026/may/12/man-sentenced-car-robbery-beyonce-music) - 2026-05-29
+* [Autonomous fuzzing process under LLM supervision](https://cert.pl/en/posts/2026/05/autonomous-fuzzing/) - 2026-05-28
+* [Writers are fleeing the Substack Tax](https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv) - 2026-05-28
+* [El retrete de la reina madre](https://www.flickr.com/photos/fernand0/55275678190/) - 2026-05-28
 <!-- mastodon ends -->
 
 ---
