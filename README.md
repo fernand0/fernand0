@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-29
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-28
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-30
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-29
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-29
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-28
 * [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Amazon employees are "tokenmaxxing" due to pressure to use AI tools](https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/) - 2026-05-29
-* [Man sentenced to two years in prison for stealing unreleased Beyoncé music](https://www.theguardian.com/music/2026/may/12/man-sentenced-car-robbery-beyonce-music) - 2026-05-29
-* [Autonomous fuzzing process under LLM supervision](https://cert.pl/en/posts/2026/05/autonomous-fuzzing/) - 2026-05-28
-* [Writers are fleeing the Substack Tax](https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv) - 2026-05-28
-* [El retrete de la reina madre](https://www.flickr.com/photos/fernand0/55275678190/) - 2026-05-28
+* [dBase: 1979-2026](https://delphinightmares.substack.com/p/dbase-1979-2026) - 2026-05-30
+* [Contraste de colores.](https://asavecesunafoto.wordpress.com/2026/05/29/contraste-de-colores/) - 2026-05-30
+* [The Spread of Christianity Animated, from Antiquity Until Today, on an Animated Map](https://www.openculture.com/2026/05/the-spread-of-christianity-animated-from-antiquity-until-today.html) - 2026-05-29
+* [Fuente decorada](https://www.flickr.com/photos/fernand0/55275412018/) - 2026-05-29
+* [Incident Report: May 19, 2026- GCP Account Suspension](https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage) - 2026-05-29
 <!-- mastodon ends -->
 
 ---
