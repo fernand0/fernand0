@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-30
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-29
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-29
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-31
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-30
+* [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-30
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-30
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
-* [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [dBase: 1979-2026](https://delphinightmares.substack.com/p/dbase-1979-2026) - 2026-05-30
-* [Contraste de colores.](https://asavecesunafoto.wordpress.com/2026/05/29/contraste-de-colores/) - 2026-05-30
-* [The Spread of Christianity Animated, from Antiquity Until Today, on an Animated Map](https://www.openculture.com/2026/05/the-spread-of-christianity-animated-from-antiquity-until-today.html) - 2026-05-29
-* [Fuente decorada](https://www.flickr.com/photos/fernand0/55275412018/) - 2026-05-29
-* [Incident Report: May 19, 2026- GCP Account Suspension](https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage) - 2026-05-29
+* [Baño](https://www.flickr.com/photos/fernand0/55275678290/) - 2026-05-31
+* [Alsina explica su decisión de dejar de presentar el primer tramo de Más de uno: "Estoy gastado"](https://www.ondacero.es/programas/mas-de-uno/audios-podcast/monologo-de-alsina/alsina-explica-decision-dejar-presentar-primer-tramo-mas-uno-estoy-gastado_202605256a13ed6b339dd32ea994319a.html?so=so%3Asour-twitter%3Acn-m) - 2026-05-31
+* [Carta Encíclica de Su Santidad León XIV Magnifica Humanitas (15 de mayo de 2026)](https://www.vatican.va/content/leo-xiv/es/encyclicals/documents/20260515-magnifica-humanitas.html) - 2026-05-30
+* [In a first, wind and solar generated more power than gas globally in April 2026](https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/) - 2026-05-30
+* [FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD On Laptop](https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver) - 2026-05-30
 <!-- mastodon ends -->
 
 ---
