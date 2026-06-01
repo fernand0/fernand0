@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-05-31
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-30
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-01
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-31
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-31
 * [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-30
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-30
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Baño](https://www.flickr.com/photos/fernand0/55275678290/) - 2026-05-31
-* [Alsina explica su decisión de dejar de presentar el primer tramo de Más de uno: "Estoy gastado"](https://www.ondacero.es/programas/mas-de-uno/audios-podcast/monologo-de-alsina/alsina-explica-decision-dejar-presentar-primer-tramo-mas-uno-estoy-gastado_202605256a13ed6b339dd32ea994319a.html?so=so%3Asour-twitter%3Acn-m) - 2026-05-31
-* [Carta Encíclica de Su Santidad León XIV Magnifica Humanitas (15 de mayo de 2026)](https://www.vatican.va/content/leo-xiv/es/encyclicals/documents/20260515-magnifica-humanitas.html) - 2026-05-30
-* [In a first, wind and solar generated more power than gas globally in April 2026](https://electrek.co/2026/05/20/in-a-first-wind-solar-generated-more-power-than-gas-globally-april-2026/) - 2026-05-30
-* [FreeBSD Foundation Executive Director Tries Daily Driving FreeBSD On Laptop](https://www.phoronix.com/news/FreeBSD-On-Laptop-Driver) - 2026-05-30
+* [Why some schools are cutting back on the technology they spent billions on](https://www.msn.com/en-us/news/technology/why-some-schools-are-cutting-back-on-the-technology-they-spent-billions-on/ar-AA22BbF4) - 2026-06-01
+* [Claude, Author of the Humanitas — LessWrong](https://www.lesswrong.com/posts/wRNJZz2iYrfDaSDdz/claude-author-of-the-humanitas) - 2026-06-01
+* [Plant Seeds Do Something Incredible When The Sound of Rain Strikes](https://www.sciencealert.com/plants-can-sense-the-sound-of-rain) - 2026-06-01
+* [Otro jazmín.](https://asavecesunafoto.wordpress.com/2026/05/31/otro-jazmin/) - 2026-06-01
+* [Nichos decorados](https://www.flickr.com/photos/fernand0/55275678350/) - 2026-06-01
 <!-- mastodon ends -->
 
 ---
