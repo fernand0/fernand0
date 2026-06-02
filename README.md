@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-01
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-05-31
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-05-31
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-02
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-01
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-01
 * [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-30
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Why some schools are cutting back on the technology they spent billions on](https://www.msn.com/en-us/news/technology/why-some-schools-are-cutting-back-on-the-technology-they-spent-billions-on/ar-AA22BbF4) - 2026-06-01
-* [Claude, Author of the Humanitas — LessWrong](https://www.lesswrong.com/posts/wRNJZz2iYrfDaSDdz/claude-author-of-the-humanitas) - 2026-06-01
-* [Plant Seeds Do Something Incredible When The Sound of Rain Strikes](https://www.sciencealert.com/plants-can-sense-the-sound-of-rain) - 2026-06-01
-* [Otro jazmín.](https://asavecesunafoto.wordpress.com/2026/05/31/otro-jazmin/) - 2026-06-01
-* [Nichos decorados](https://www.flickr.com/photos/fernand0/55275678350/) - 2026-06-01
+* [Bacalao.](https://asavecesunafoto.wordpress.com/2026/06/01/bacalao/) - 2026-06-02
+* [Pared y puerta](https://www.flickr.com/photos/fernand0/55274363957/) - 2026-06-02
+* [Researcher Finds Microsoft Edge Stored Passwords Load in Plaintext](https://www.pcmag.com/news/researcher-finds-microsoft-edge-stored-passwords-load-in-plaintext) - 2026-06-02
+* [Major Homebuilder To Test Placing Mini Data Centers in Suburban Backyards](https://www.realtor.com/news/trends/nvidia-pultegroup-span-date-center-backyard/) - 2026-06-02
+* [RFC 3339 vs ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/) - 2026-06-01
 <!-- mastodon ends -->
 
 ---
