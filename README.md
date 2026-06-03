@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-02
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-01
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-01
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-03
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-02
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-02
 * [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-30
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
@@ -27,8 +27,8 @@
 
 ## repositoriesContributedTo
 
+* [AB](https://github.com/simber72/AB),  No description - 2026-06-02
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-25
-* [AB](https://github.com/simber72/AB),  No description - 2026-05-19
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-18
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Bacalao.](https://asavecesunafoto.wordpress.com/2026/06/01/bacalao/) - 2026-06-02
-* [Pared y puerta](https://www.flickr.com/photos/fernand0/55274363957/) - 2026-06-02
-* [Researcher Finds Microsoft Edge Stored Passwords Load in Plaintext](https://www.pcmag.com/news/researcher-finds-microsoft-edge-stored-passwords-load-in-plaintext) - 2026-06-02
-* [Major Homebuilder To Test Placing Mini Data Centers in Suburban Backyards](https://www.realtor.com/news/trends/nvidia-pultegroup-span-date-center-backyard/) - 2026-06-02
-* [RFC 3339 vs ISO 8601](https://ijmacd.github.io/rfc3339-iso8601/) - 2026-06-01
+* [Rust will save Linux from AI, says Greg Kroah-Hartman](https://www.zdnet.com/article/rust-will-save-linux-from-ai-says-greg-kroah-hartman/) - 2026-06-03
+* [Nido de abeja en el techo](https://www.flickr.com/photos/fernand0/55275514349/) - 2026-06-03
+* [Perfect randomness realized for the first time](https://phys.org/news/2026-05-randomness.html) - 2026-06-03
+* [Websites have a new way to spy on visitors: Analyzing their SSD activity](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/) - 2026-06-03
+* [Sellos. Gastronomía.](https://asavecesunafoto.wordpress.com/2026/06/02/sellos-gastronomia/) - 2026-06-03
 <!-- mastodon ends -->
 
 ---
