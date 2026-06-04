@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-03
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-02
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-04
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-03
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-03
 * [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-30
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [AB](https://github.com/simber72/AB),  No description - 2026-06-02
+* [AB](https://github.com/simber72/AB),  No description - 2026-06-03
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-25
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-18
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Rust will save Linux from AI, says Greg Kroah-Hartman](https://www.zdnet.com/article/rust-will-save-linux-from-ai-says-greg-kroah-hartman/) - 2026-06-03
-* [Nido de abeja en el techo](https://www.flickr.com/photos/fernand0/55275514349/) - 2026-06-03
-* [Perfect randomness realized for the first time](https://phys.org/news/2026-05-randomness.html) - 2026-06-03
-* [Websites have a new way to spy on visitors: Analyzing their SSD activity](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/) - 2026-06-03
-* [Sellos. Gastronomía.](https://asavecesunafoto.wordpress.com/2026/06/02/sellos-gastronomia/) - 2026-06-03
+* [Museo de instrumentos musicales.](https://asavecesunafoto.wordpress.com/2026/06/03/museo-de-instrumentos-musicales/) - 2026-06-04
+* [Sam Altman Says AI ‘Jobs Apocalypse’ Probably Won’t Happen. What Changed?](https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/) - 2026-06-04
+* [Beyond the Prompt: Claude Code](https://arps18.github.io/posts/claude-code-mastery/) - 2026-06-03
+* [Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans | TechCrunch](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) - 2026-06-03
+* [Client Challenge](https://www.lemonde.fr/en/international/article/2026/05/27/norway-to-join-france-led-nuclear-deterrence-program_6753882_4.html) - 2026-06-03
 <!-- mastodon ends -->
 
 ---
