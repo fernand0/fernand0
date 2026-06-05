@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-04
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-03
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-05
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-04
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-04
 * [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-30
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Museo de instrumentos musicales.](https://asavecesunafoto.wordpress.com/2026/06/03/museo-de-instrumentos-musicales/) - 2026-06-04
-* [Sam Altman Says AI ‘Jobs Apocalypse’ Probably Won’t Happen. What Changed?](https://time.com/article/2026/05/26/sam-altman-ai-job-losses-openAI-/) - 2026-06-04
-* [Beyond the Prompt: Claude Code](https://arps18.github.io/posts/claude-code-mastery/) - 2026-06-03
-* [Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans | TechCrunch](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/) - 2026-06-03
-* [Client Challenge](https://www.lemonde.fr/en/international/article/2026/05/27/norway-to-join-france-led-nuclear-deterrence-program_6753882_4.html) - 2026-06-03
+* [The Audio Industry Is Grappling with the Rise of ‘Podslop’](https://www.bloomberg.com/news/newsletters/2026-04-30/-podslop-proliferation-is-challenging-the-audio-industry) - 2026-06-05
+* [Yo esto ya lo había visto con qwen. Aunque nunca me preocupé de si se podía quitar. Me parecía transparencia, dejarlo. Aunque, claro: la cosa se entrena con código 'de por ahí', y ellos no lo citan, ni dan crédito. Pero a ellos hay que dárselo...](Mmmmm) - 2026-06-05
+* [White House Considers Vetting A.I. Models Before They Are Released](https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html) - 2026-06-05
+* [WTF: Microsoft forces "Co-Authored-by Copilot" in commits](https://www.heise.de/en/news/WTF-Microsoft-forces-Co-Authored-by-Copilot-in-commits-11279554.html) - 2026-06-04
+* [Moving to a mainframe can be cheaper than VMware: Gartner](https://www.theregister.com/on-prem/2026/05/04/moving-to-a-mainframe-can-be-cheaper-than-vmware-gartner/5229237) - 2026-06-04
 <!-- mastodon ends -->
 
 ---
