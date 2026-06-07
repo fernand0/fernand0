@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-06
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-05
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-05
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-07
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-06
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-06
 * [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-30
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Should schools get rid of homework? Some educators are saying yes](https://www.npr.org/2026/04/28/nx-s1-5795647/should-schools-get-rid-of-homework) - 2026-06-06
-* [California high-speed rail price tag jumps to $231B, nearly seven times 2008 estimate](https://kmph.com/news/local/california-high-speed-rail-price-tag-jumps-to-231b-nearly-seven-times-2008-estimate) - 2026-06-05
-* [Moteada.](https://asavecesunafoto.wordpress.com/2026/06/05/moteada/) - 2026-06-05
-* [Mitchell Hashimoto says GitHub ‘no longer for serious work'](https://www.theregister.com/software/2026/04/29/mitchell-hashimoto-says-github-no-longer-for-serious-work/5227505) - 2026-06-05
-* [United Airlines Pilot Warns Passengers of FBI Call Over Antisemitic Wi-Fi Hotspot Name](https://aeroxplorer.com/articles/united-airlines-pilot-warns-passengers-of-fbi-call-over-antisemitic-wifi-hotspot-name.php) - 2026-06-05
+* [Epicure: Navigating the Emergent Geometry of Food Ingredient Embeddings](https://arxiv.org/abs/2605.22391) - 2026-06-07
+* [Microsoft under fire for threatening security researcher with criminal investigation | TechCrunch](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/) - 2026-06-07
+* [En la 1, el Papa. En la 2, Tip y Coll. En la de Aragón, toros. ¿En qué año](estamos?) - 2026-06-06
+* [Nearly 500,000 Russian soldiers have died in Ukraine war, British intelligence agency says](https://www.cbsnews.com/news/russia-ukraine-war-death-toll-soldiers-british-intelligence/?ftag=CNM-00-10aab7e&amp;linkId=951835343) - 2026-06-06
+* ["Heart of a Dog" Director Laurie Anderson in studio q](https://youtu.be/LLLK2qtDE_0) - 2026-06-06
 <!-- mastodon ends -->
 
 ---
