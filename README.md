@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-07
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-06
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-06
-* [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-05-30
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-08
+* [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-07
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-07
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-07
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Epicure: Navigating the Emergent Geometry of Food Ingredient Embeddings](https://arxiv.org/abs/2605.22391) - 2026-06-07
-* [Microsoft under fire for threatening security researcher with criminal investigation | TechCrunch](https://techcrunch.com/2026/05/29/microsoft-under-fire-for-threatening-security-researcher-with-criminal-investigation/) - 2026-06-07
-* [En la 1, el Papa. En la 2, Tip y Coll. En la de Aragón, toros. ¿En qué año](estamos?) - 2026-06-06
-* [Nearly 500,000 Russian soldiers have died in Ukraine war, British intelligence agency says](https://www.cbsnews.com/news/russia-ukraine-war-death-toll-soldiers-british-intelligence/?ftag=CNM-00-10aab7e&amp;linkId=951835343) - 2026-06-06
-* ["Heart of a Dog" Director Laurie Anderson in studio q](https://youtu.be/LLLK2qtDE_0) - 2026-06-06
+* [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/) - 2026-06-08
+* [UK Government Kicks Out Palantir](https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/) - 2026-06-08
+* [United Flight UA2005 Diverted After Passenger Attempts to Access Cockpit](https://aeroxplorer.com/articles/united-flight-ua2005-diverted-after-passenger-attempts-to-access-cockpit.php) - 2026-06-07
+* [Diente de león.](https://asavecesunafoto.wordpress.com/2026/06/07/diente-de-leon/) - 2026-06-07
+* [The Productive Writing Routines of Haruki Murakami, Stephen King, and Virginia Woolf, Explained](https://www.openculture.com/2026/04/the-productive-writing-routines-of-haruki-murakami-stephen-king-and-virginia-woolf-explained.html) - 2026-06-07
 <!-- mastodon ends -->
 
 ---
