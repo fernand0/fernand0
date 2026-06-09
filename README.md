@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-08
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-08
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-08
 * [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-07
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-07
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-07
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [AB](https://github.com/simber72/AB),  No description - 2026-06-03
+* [AB](https://github.com/simber72/AB),  No description - 2026-06-09
 * [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-25
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-18
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/) - 2026-06-08
-* [UK Government Kicks Out Palantir](https://shkspr.mobi/blog/2026/05/uk-government-kicks-out-palantir/) - 2026-06-08
-* [United Flight UA2005 Diverted After Passenger Attempts to Access Cockpit](https://aeroxplorer.com/articles/united-flight-ua2005-diverted-after-passenger-attempts-to-access-cockpit.php) - 2026-06-07
-* [Diente de león.](https://asavecesunafoto.wordpress.com/2026/06/07/diente-de-leon/) - 2026-06-07
-* [The Productive Writing Routines of Haruki Murakami, Stephen King, and Virginia Woolf, Explained](https://www.openculture.com/2026/04/the-productive-writing-routines-of-haruki-murakami-stephen-king-and-virginia-woolf-explained.html) - 2026-06-07
+* [The Impact of AI-Generated Text on the Internet](https://ai-on-the-internet.github.io/) - 2026-06-09
+* [70 years of love, empowerment, and freedom. Here's a look at Eurovision by its lyrics.](https://puntofisso.net/eurovision/) - 2026-06-09
+* [Xi hosted Trump, then Putin: Spot the differences in Beijing](https://www.reuters.com/graphics/CHINA-RUSSIA/byprnwgrdpe/) - 2026-06-08
+* [En la mesa, junto al autor: Jesús Arauzo, Basilio Tobías y Javier](Peña.) - 2026-06-08
+* [Hoy aquí. Presentación del libro 'Panorámicas de Zaragoza en el arte pictórico'. José Antonio](Puértolas.) - 2026-06-08
 <!-- mastodon ends -->
 
 ---
