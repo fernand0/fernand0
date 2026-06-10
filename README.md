@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-09
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-08
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-08
-* [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-07
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-10
+* [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-09
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-09
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
@@ -77,11 +77,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [The Impact of AI-Generated Text on the Internet](https://ai-on-the-internet.github.io/) - 2026-06-09
-* [70 years of love, empowerment, and freedom. Here's a look at Eurovision by its lyrics.](https://puntofisso.net/eurovision/) - 2026-06-09
-* [Xi hosted Trump, then Putin: Spot the differences in Beijing](https://www.reuters.com/graphics/CHINA-RUSSIA/byprnwgrdpe/) - 2026-06-08
-* [En la mesa, junto al autor: Jesús Arauzo, Basilio Tobías y Javier](Peña.) - 2026-06-08
-* [Hoy aquí. Presentación del libro 'Panorámicas de Zaragoza en el arte pictórico'. José Antonio](Puértolas.) - 2026-06-08
+* [Plaza Sonora (festival)](https://plazasonora.es/) - 2026-06-10
+* [Qwen Studio](https://qwen.ai/blog?id=qwen3.7-plus) - 2026-06-10
+* [Police dismantles fake ID marketplace used by migrant smugglers](https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/) - 2026-06-09
+* [KDE at 30](https://kde.org/anniversaries/30/) - 2026-06-09
+* [¿Defensa o ataque?](https://asavecesunafoto.wordpress.com/2026/06/09/defensa-o-ataque/) - 2026-06-09
 <!-- mastodon ends -->
 
 ---
