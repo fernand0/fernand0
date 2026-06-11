@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-10
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-11
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-10
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-10
 * [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-09
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-09
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-09
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
@@ -28,7 +28,6 @@
 ## repositoriesContributedTo
 
 * [AB](https://github.com/simber72/AB),  No description - 2026-06-09
-* [www-community](https://github.com/OWASP/www-community),  OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. - 2026-05-25
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-18
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
@@ -77,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Plaza Sonora (festival)](https://plazasonora.es/) - 2026-06-10
-* [Qwen Studio](https://qwen.ai/blog?id=qwen3.7-plus) - 2026-06-10
-* [Police dismantles fake ID marketplace used by migrant smugglers](https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/) - 2026-06-09
-* [KDE at 30](https://kde.org/anniversaries/30/) - 2026-06-09
-* [¿Defensa o ataque?](https://asavecesunafoto.wordpress.com/2026/06/09/defensa-o-ataque/) - 2026-06-09
+* [CISA warns of cyberattacks targeting fuel tank monitoring systems](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/amp/) - 2026-06-11
+* [Europe is ditching US tech — what does this mean for researchers?](https://www.nature.com/articles/d41586-026-01610-9) - 2026-06-11
+* [3 reasons why holidays aren’t making you more relaxed](https://bigthink.com/mini-philosophy/3-reasons-why-holidays-arent-making-you-more-relaxed/) - 2026-06-10
+* [Diván bajo dosel con jarrones](https://www.flickr.com/photos/fernand0/55317353196/) - 2026-06-10
+* [El hijo.](https://asavecesunafoto.wordpress.com/2026/06/10/el-hijo/) - 2026-06-10
 <!-- mastodon ends -->
 
 ---
