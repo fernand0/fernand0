@@ -14,16 +14,16 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-11
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-10
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-10
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-12
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-11
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-11
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-11
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-11
 * [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-09
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-05-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
-* [web_content_processor](https://github.com/fernand0/web_content_processor),  ~/usr/src/Python/deGitHub/web_content_processor - 2026-04-23
 
 ## repositoriesContributedTo
 
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [CISA warns of cyberattacks targeting fuel tank monitoring systems](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/amp/) - 2026-06-11
-* [Europe is ditching US tech — what does this mean for researchers?](https://www.nature.com/articles/d41586-026-01610-9) - 2026-06-11
-* [3 reasons why holidays aren’t making you more relaxed](https://bigthink.com/mini-philosophy/3-reasons-why-holidays-arent-making-you-more-relaxed/) - 2026-06-10
-* [Diván bajo dosel con jarrones](https://www.flickr.com/photos/fernand0/55317353196/) - 2026-06-10
-* [El hijo.](https://asavecesunafoto.wordpress.com/2026/06/10/el-hijo/) - 2026-06-10
+* [AI is creating a generation of developers who can't debug their own code](https://thenewstack.io/ai-generation-who-cant-debug/) - 2026-06-12
+* [Fedora Sealed Bootable Container Images, Possibly Opening the Door to a “Fully Verified Boot Chain”](https://www.privacyguides.org/news/2026/05/04/fedora-sealed-bootable-container-images-possibly-opening-the-door-to-a-fully-verified-boot-chain/) - 2026-06-12
+* [Fuente ornamentada](https://www.flickr.com/photos/fernand0/55316442692/) - 2026-06-11
+* [The "Matplotlib Incident" - When Artificial Intelligence Gets Vengeful - Kenya ICT Action Network](https://posts.kictanet.or.ke/the-matplotlib-incident-when-artificial-intelligence-gets-vengeful/) - 2026-06-11
+* [Victorian London - Communications - Post - Frequency of Postal Deliveries](https://www.victorianlondon.org/communications/frequency.htm) - 2026-06-11
 <!-- mastodon ends -->
 
 ---
