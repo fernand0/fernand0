@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-12
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-13
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-12
+* [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-12
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-12
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-11
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-11
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-11
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-11
-* [near-opensky](https://github.com/fernand0/near-opensky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-09
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
@@ -27,8 +27,8 @@
 
 ## repositoriesContributedTo
 
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-06-12
 * [AB](https://github.com/simber72/AB),  No description - 2026-06-09
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-05-18
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
 
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [AI is creating a generation of developers who can't debug their own code](https://thenewstack.io/ai-generation-who-cant-debug/) - 2026-06-12
-* [Fedora Sealed Bootable Container Images, Possibly Opening the Door to a “Fully Verified Boot Chain”](https://www.privacyguides.org/news/2026/05/04/fedora-sealed-bootable-container-images-possibly-opening-the-door-to-a-fully-verified-boot-chain/) - 2026-06-12
-* [Fuente ornamentada](https://www.flickr.com/photos/fernand0/55316442692/) - 2026-06-11
-* [The "Matplotlib Incident" - When Artificial Intelligence Gets Vengeful - Kenya ICT Action Network](https://posts.kictanet.or.ke/the-matplotlib-incident-when-artificial-intelligence-gets-vengeful/) - 2026-06-11
-* [Victorian London - Communications - Post - Frequency of Postal Deliveries](https://www.victorianlondon.org/communications/frequency.htm) - 2026-06-11
+* [Jornadas PAM 2026](https://www.aida-itea.org/index.php/jornadas-aida/jornadas-pam-2026) - 2026-06-13
+* [Ventanas, muros, pechina y lámpara](https://www.flickr.com/photos/fernand0/55317574534/) - 2026-06-13
+* [If Claude Fable stops helping you, you'll never know — Jonathon Ready](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) - 2026-06-12
+* [Minúsculas.](https://asavecesunafoto.wordpress.com/2026/06/12/minusculas-2/) - 2026-06-12
+* [El obligado replanteamiento del TFG ante la irrupción de la IA en la universidad - Universidad, sí](https://www.universidadsi.es/el-obligado-replanteamiento-del-tfg-ante-la-irrupcion-de-la-ia-en-la-universidad/) - 2026-06-12
 <!-- mastodon ends -->
 
 ---
