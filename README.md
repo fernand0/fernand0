@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-13
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-12
-* [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-12
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-12
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-14
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-13
+* [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-13
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-13
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-11
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
@@ -27,8 +27,8 @@
 
 ## repositoriesContributedTo
 
+* [AB](https://github.com/simber72/AB),  No description - 2026-06-14
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-06-12
-* [AB](https://github.com/simber72/AB),  No description - 2026-06-09
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
 
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Jornadas PAM 2026](https://www.aida-itea.org/index.php/jornadas-aida/jornadas-pam-2026) - 2026-06-13
-* [Ventanas, muros, pechina y lámpara](https://www.flickr.com/photos/fernand0/55317574534/) - 2026-06-13
-* [If Claude Fable stops helping you, you'll never know — Jonathon Ready](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html) - 2026-06-12
-* [Minúsculas.](https://asavecesunafoto.wordpress.com/2026/06/12/minusculas-2/) - 2026-06-12
-* [El obligado replanteamiento del TFG ante la irrupción de la IA en la universidad - Universidad, sí](https://www.universidadsi.es/el-obligado-replanteamiento-del-tfg-ante-la-irrupcion-de-la-ia-en-la-universidad/) - 2026-06-12
+* [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html) - 2026-06-14
+* [It's a BLOOMING Cactus Paradise in the Greenhouse this Spring - Desert Plants Of Avalon](https://desertplantsofavalon.com/uncategorized/its-a-blooming-cactus-paradise-in-the-greenhouse-this-spring/) - 2026-06-13
+* [Queso y embutidos.](https://asavecesunafoto.wordpress.com/2026/06/13/queso-y-embutidos/) - 2026-06-13
+* [Unizar mantendrá su cooperación al desarrollo pese a la supresión de fondos de la DGA a la Cátedra](https://www.cartv.es/aragonnoticias/noticias/unizar-mantendra-sus-acciones-de-cooperacion-al-desarrollo-pese-a-la-supresion-de-fondos-de-la-dga-a-la-catedra-39354) - 2026-06-13
+* [Rubbish as a resource: How communities in Mozambique transform waste into climate solutions](https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions/) - 2026-06-13
 <!-- mastodon ends -->
 
 ---
