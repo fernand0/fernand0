@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-14
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-13
-* [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-13
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-14
+* [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-14
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-11
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html) - 2026-06-14
-* [It's a BLOOMING Cactus Paradise in the Greenhouse this Spring - Desert Plants Of Avalon](https://desertplantsofavalon.com/uncategorized/its-a-blooming-cactus-paradise-in-the-greenhouse-this-spring/) - 2026-06-13
-* [Queso y embutidos.](https://asavecesunafoto.wordpress.com/2026/06/13/queso-y-embutidos/) - 2026-06-13
-* [Unizar mantendrá su cooperación al desarrollo pese a la supresión de fondos de la DGA a la Cátedra](https://www.cartv.es/aragonnoticias/noticias/unizar-mantendra-sus-acciones-de-cooperacion-al-desarrollo-pese-a-la-supresion-de-fondos-de-la-dga-a-la-catedra-39354) - 2026-06-13
-* [Rubbish as a resource: How communities in Mozambique transform waste into climate solutions](https://globalvoices.org/2026/06/02/rubbish-as-a-resource-how-communities-in-mozambique-transform-waste-into-climate-solutions/) - 2026-06-13
+* [The serpent in the code: What allegations of AI usage in the Commonwealth Short Story Prize mean for regions like the Caribbean](https://globalvoices.org/2026/06/02/the-serpent-in-the-code-what-allegations-of-ai-usage-in-the-commonwealth-short-story-prize-mean-for-regions-like-the-caribbean/) - 2026-06-15
+* [XR Summer School 2026 | cursosextraordinarios](https://cursosextraordinarios.unizar.es/curso/xr-summer-school-2026) - 2026-06-15
+* [For LGBTQ+ People in Egypt, the Internet is Both a Lifeline and a Trap - Untold](https://untoldmag.org/egypt-lgbtq-online-safety/) - 2026-06-15
+* [Hornacinas](https://www.flickr.com/photos/fernand0/55317574599/) - 2026-06-15
+* [Songs of resistance: Nepal’s Indigenous communities fight to preserve their musical heritage](https://globalvoices.org/2026/05/26/songs-of-resistance-nepals-indigenous-communities-fight-to-preserve-their-musical-heritage/) - 2026-06-15
 <!-- mastodon ends -->
 
 ---
