@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-17
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-16
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-16
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-15
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-15
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-15
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
@@ -27,8 +27,8 @@
 
 ## repositoriesContributedTo
 
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-06-17
 * [AB](https://github.com/simber72/AB),  No description - 2026-06-14
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-06-12
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
 
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [For LGBTQ+ People in Egypt, the Internet is Both a Lifeline and a Trap - Untold](https://untoldmag.org/egypt-lgbtq-online-safety/) - 2026-06-16
-* [Fuente de la habitación de Murad III](https://www.flickr.com/photos/fernand0/55316442862/) - 2026-06-16
-* [Songs of resistance: Nepal’s Indigenous communities fight to preserve their musical heritage](https://globalvoices.org/2026/05/26/songs-of-resistance-nepals-indigenous-communities-fight-to-preserve-their-musical-heritage/) - 2026-06-16
-* [El ferrocarril ganaría hasta 4,5 millones de viajeros si el coche asumiera los costes que genera](https://vialibre-ffe.com/noticias.asp?not=48959) - 2026-06-16
-* [La Terminal Marítima de Zaragoza, tmZ, celebra sus 25 años con la inauguración del proyecto de ampliación](https://vialibre-ffe.com/noticias.asp?not=49003) - 2026-06-15
+* [Building Beautiful Command Line Interfaces with Python](https://medium.com/@oyetoketoby80/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df) - 2026-06-17
+* [How to Install and Manage Multiple Python Versions on Windows 10](https://medium.com/@david-littlefield/how-to-install-and-manage-multiple-python-versions-on-windows-10-c90098d7ba5a) - 2026-06-17
+* [Logging in .NET: The Modern Way](https://medium.com/@uleluisrael/logging-in-net-the-modern-way-87c1b2f13ea5) - 2026-06-16
+* [Creating a Hello World API functionality using Swagger UI and Python](https://medium.com/@bhargav.sridhar/creating-a-hello-world-api-functionality-using-swagger-ui-and-python-42e2a5335ff0) - 2026-06-16
+* [Pequeña pero florida.](https://asavecesunafoto.wordpress.com/2026/06/16/pequena-pero-florida/) - 2026-06-16
 <!-- mastodon ends -->
 
 ---
