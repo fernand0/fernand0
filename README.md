@@ -14,14 +14,14 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-17
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-16
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-18
+* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-17
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-17
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-15
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
-* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-05-19
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Building Beautiful Command Line Interfaces with Python](https://medium.com/@oyetoketoby80/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df) - 2026-06-17
-* [How to Install and Manage Multiple Python Versions on Windows 10](https://medium.com/@david-littlefield/how-to-install-and-manage-multiple-python-versions-on-windows-10-c90098d7ba5a) - 2026-06-17
-* [Logging in .NET: The Modern Way](https://medium.com/@uleluisrael/logging-in-net-the-modern-way-87c1b2f13ea5) - 2026-06-16
-* [Creating a Hello World API functionality using Swagger UI and Python](https://medium.com/@bhargav.sridhar/creating-a-hello-world-api-functionality-using-swagger-ui-and-python-42e2a5335ff0) - 2026-06-16
-* [Pequeña pero florida.](https://asavecesunafoto.wordpress.com/2026/06/16/pequena-pero-florida/) - 2026-06-16
+* [Work AI Index 2026](https://www.glean.com/work-ai-institute/reports/work-ai-index-report) - 2026-06-18
+* [La Universidad de Zaragoza se 'contagia' de la fiebre de los centros de datos y construirá dos complejos en los campus San Francisco y Río Ebro](https://www.elperiodicodearagon.com/aragon/2026/06/14/universidad-zaragoza-contagia-fiebre-centros-datos-infraestructuras-san-francisco-rio-ebro-131205062.html) - 2026-06-18
+* [Understanding Python imports, __init__.py and pythonpath — once and for all](https://medium.com/@varshitasher/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355) - 2026-06-17
+* [Pinchos rosados.](https://asavecesunafoto.wordpress.com/2026/06/17/pinchos-rosados/) - 2026-06-17
+* [I Made A Python Cheat Sheet for Data Structures and Algorithms (Useful for Leetcode)](https://medium.com/@buildwithmalik/i-made-a-python-cheat-sheet-for-data-structures-and-algorithms-useful-for-leetcode-b304754fad9c) - 2026-06-17
 <!-- mastodon ends -->
 
 ---
