@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-19
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-18
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-18
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-17
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-17
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-15
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-11
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-06-17
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-06-19
 * [AB](https://github.com/simber72/AB),  No description - 2026-06-14
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Work AI Index 2026](https://www.glean.com/work-ai-institute/reports/work-ai-index-report) - 2026-06-18
-* [La Universidad de Zaragoza se 'contagia' de la fiebre de los centros de datos y construirá dos complejos en los campus San Francisco y Río Ebro](https://www.elperiodicodearagon.com/aragon/2026/06/14/universidad-zaragoza-contagia-fiebre-centros-datos-infraestructuras-san-francisco-rio-ebro-131205062.html) - 2026-06-18
-* [Understanding Python imports, __init__.py and pythonpath — once and for all](https://medium.com/@varshitasher/understanding-python-imports-init-py-and-pythonpath-once-and-for-all-4c5249ab6355) - 2026-06-17
-* [Pinchos rosados.](https://asavecesunafoto.wordpress.com/2026/06/17/pinchos-rosados/) - 2026-06-17
-* [I Made A Python Cheat Sheet for Data Structures and Algorithms (Useful for Leetcode)](https://medium.com/@buildwithmalik/i-made-a-python-cheat-sheet-for-data-structures-and-algorithms-useful-for-leetcode-b304754fad9c) - 2026-06-17
+* [“He dudado de si tenía derecho o no a publicar El viaje”. Kike Infame entrevista a Paco Roca](https://blogdecomics.com/he-dudado-de-si-tenia-derecho-o-no-a-publicar-el-viaje-kike-infame-entrevista-a-paco-roca/) - 2026-06-19
+* [Europe 2031 — What getting AI wrong means for us](https://europe2031.ai/) - 2026-06-19
+* [Metro de Málaga avanza en su digitalización con información en tiempo real de ubicación de trenes](https://www.juntadeandalucia.es/organismos/fomentoarticulaciondelterritorioyvivienda/servicios/actualidad/noticias/detalle/665140.html) - 2026-06-19
+* [La Comunidad de Madrid convierte el centro de procesamiento de Datos de Metro de Madrid en todo un ejemplo de seguridad y eficiencia](https://www.metromadrid.es/es/nota-de-prensa/2026-05-29/la-comunidad-de-madrid-convierte-el-centro-de-procesamiento-de-datos-de-metro-de-madrid-en-todo-un-ejemplo-de-seguridad-y-eficiencia-0) - 2026-06-18
+* [Sellos. 80 años de la Organización de Naciones Unidas.](https://asavecesunafoto.wordpress.com/2026/06/18/sellos-80-anos-de-la-organizacion-de-naciones-unidas/) - 2026-06-18
 <!-- mastodon ends -->
 
 ---
