@@ -14,21 +14,21 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-19
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-18
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-20
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-19
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-19
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-19
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-19
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-15
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 
 ## repositoriesContributedTo
 
+* [AB](https://github.com/simber72/AB),  No description - 2026-06-19
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-06-19
-* [AB](https://github.com/simber72/AB),  No description - 2026-06-14
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
 
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [“He dudado de si tenía derecho o no a publicar El viaje”. Kike Infame entrevista a Paco Roca](https://blogdecomics.com/he-dudado-de-si-tenia-derecho-o-no-a-publicar-el-viaje-kike-infame-entrevista-a-paco-roca/) - 2026-06-19
-* [Europe 2031 — What getting AI wrong means for us](https://europe2031.ai/) - 2026-06-19
-* [Metro de Málaga avanza en su digitalización con información en tiempo real de ubicación de trenes](https://www.juntadeandalucia.es/organismos/fomentoarticulaciondelterritorioyvivienda/servicios/actualidad/noticias/detalle/665140.html) - 2026-06-19
-* [La Comunidad de Madrid convierte el centro de procesamiento de Datos de Metro de Madrid en todo un ejemplo de seguridad y eficiencia](https://www.metromadrid.es/es/nota-de-prensa/2026-05-29/la-comunidad-de-madrid-convierte-el-centro-de-procesamiento-de-datos-de-metro-de-madrid-en-todo-un-ejemplo-de-seguridad-y-eficiencia-0) - 2026-06-18
-* [Sellos. 80 años de la Organización de Naciones Unidas.](https://asavecesunafoto.wordpress.com/2026/06/18/sellos-80-anos-de-la-organizacion-de-naciones-unidas/) - 2026-06-18
+* [The Untrainable](https://saranormous.substack.com/p/the-untrainable) - 2026-06-20
+* [La inteligencia artificial empresarial está en 1991. ¿Dónde está su web?](https://www.enriquedans.com/2026/06/la-inteligencia-artificial-empresarial-esta-en-1991-donde-esta-su-web.html) - 2026-06-19
+* [How DuckDuckGo Can Be a Hero](https://doc.searls.com/2026/05/30/how-duckduckgo-can-be-a-hero/) - 2026-06-19
+* [Otra etapa.](https://asavecesunafoto.wordpress.com/2026/06/19/otra-etapa/) - 2026-06-19
+* [From Losing the Web to Saving Us All](https://doc.searls.com/2026/05/26/from-losing-the-web-to-saving-us-all/) - 2026-06-19
 <!-- mastodon ends -->
 
 ---
