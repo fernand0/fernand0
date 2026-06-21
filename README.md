@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-20
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-21
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-20
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-20
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-19
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-19
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-19
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [The Untrainable](https://saranormous.substack.com/p/the-untrainable) - 2026-06-20
-* [La inteligencia artificial empresarial está en 1991. ¿Dónde está su web?](https://www.enriquedans.com/2026/06/la-inteligencia-artificial-empresarial-esta-en-1991-donde-esta-su-web.html) - 2026-06-19
-* [How DuckDuckGo Can Be a Hero](https://doc.searls.com/2026/05/30/how-duckduckgo-can-be-a-hero/) - 2026-06-19
-* [Otra etapa.](https://asavecesunafoto.wordpress.com/2026/06/19/otra-etapa/) - 2026-06-19
-* [From Losing the Web to Saving Us All](https://doc.searls.com/2026/05/26/from-losing-the-web-to-saving-us-all/) - 2026-06-19
+* ["They screwed us": Personality clashes sent Anthropic's models offline](https://www.axios.com/2026/06/15/anthropic-white-house-fable-mythos) - 2026-06-21
+* [Why is Meta destroying its engineering organization?](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering) - 2026-06-21
+* [Diputación de Granada y Puerto cargan contra décadas de abandono y exigen el tren para Motril](https://www.motrildigital.news/diputacion-de-granada-y-puerto-cargan-contra-decadas-de-abandono-y-exigen-el-tren-para-motril) - 2026-06-20
+* [My experience with LLM-assisted tools in software development](https://ounapuu.ee/posts/2026/06/08/llm/) - 2026-06-20
+* [Cafés y pasteles.](https://asavecesunafoto.wordpress.com/2026/06/20/cafes-y-pasteles/) - 2026-06-20
 <!-- mastodon ends -->
 
 ---
