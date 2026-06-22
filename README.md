@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-21
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-20
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-20
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-22
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-22
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-21
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-19
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* ["They screwed us": Personality clashes sent Anthropic's models offline](https://www.axios.com/2026/06/15/anthropic-white-house-fable-mythos) - 2026-06-21
-* [Why is Meta destroying its engineering organization?](https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering) - 2026-06-21
-* [Diputación de Granada y Puerto cargan contra décadas de abandono y exigen el tren para Motril](https://www.motrildigital.news/diputacion-de-granada-y-puerto-cargan-contra-decadas-de-abandono-y-exigen-el-tren-para-motril) - 2026-06-20
-* [My experience with LLM-assisted tools in software development](https://ounapuu.ee/posts/2026/06/08/llm/) - 2026-06-20
-* [Cafés y pasteles.](https://asavecesunafoto.wordpress.com/2026/06/20/cafes-y-pasteles/) - 2026-06-20
+* [2025 - The 29th IOCCC](https://www.ioccc.org/2025/) - 2026-06-22
+* [Redlib — Self-hosted Reddit browsing without the bloat](https://akashrajpurohit.com/blog/redlib-selfhosted-reddit-browsing-without-the-bloat/) - 2026-06-22
+* [Print Your Own Robby The Robot](https://hackaday.com/2026/06/09/print-your-own-robby-the-robot/) - 2026-06-22
+* [GitHub - anthonycaccese/240-MP: 240-MP is a retro VCR style frontend to playback local media or content from a plex library via a Raspberry Pi on CRT](https://github.com/anthonycaccese/240-MP/tree/main) - 2026-06-22
+* [Slack Agent Builder Challenge](https://slackhack.devpost.com/) - 2026-06-21
 <!-- mastodon ends -->
 
 ---
