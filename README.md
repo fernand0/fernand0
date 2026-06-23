@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-23
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-22
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-22
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-21
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-19
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-19
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-22
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [2025 - The 29th IOCCC](https://www.ioccc.org/2025/) - 2026-06-22
-* [Redlib — Self-hosted Reddit browsing without the bloat](https://akashrajpurohit.com/blog/redlib-selfhosted-reddit-browsing-without-the-bloat/) - 2026-06-22
-* [Print Your Own Robby The Robot](https://hackaday.com/2026/06/09/print-your-own-robby-the-robot/) - 2026-06-22
-* [GitHub - anthonycaccese/240-MP: 240-MP is a retro VCR style frontend to playback local media or content from a plex library via a Raspberry Pi on CRT](https://github.com/anthonycaccese/240-MP/tree/main) - 2026-06-22
-* [Slack Agent Builder Challenge](https://slackhack.devpost.com/) - 2026-06-21
+* [PIA 2026, llamada abierta a todo tipo de propuestas que aborden el papel de la industria como motor de Europa](https://convocatoriapia.cotec.es/) - 2026-06-23
+* [EU Puts Passengers First With Free Carry-On Bags And Stronger Traveler Rights](https://www.gatechecked.com/eu-updated-air-passenger-rights-11928?ref=flightaware) - 2026-06-22
+* [Preparando los hijos.](https://asavecesunafoto.wordpress.com/2026/06/22/preparando-los-hijos/) - 2026-06-22
+* [Arcos y balconadas en dos niveles](https://www.flickr.com/photos/fernand0/55347075487/) - 2026-06-22
+* [More Than a Third of Air Travelers Unaware They Must Abandon Belongings in Emergency Evacuations](https://aeroxplorer.com/articles/more-than-a-third-of-air-travelers-unaware-they-must-abandon-belongings-in-emergency-evacuations.php) - 2026-06-22
 <!-- mastodon ends -->
 
 ---
