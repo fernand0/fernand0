@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-23
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-24
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-23
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-23
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-23
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-22
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-22
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
@@ -27,8 +27,8 @@
 
 ## repositoriesContributedTo
 
-* [AB](https://github.com/simber72/AB),  No description - 2026-06-19
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-06-19
+* [AB](https://github.com/simber72/AB),  No description - 2026-06-23
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-06-23
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
 
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [PIA 2026, llamada abierta a todo tipo de propuestas que aborden el papel de la industria como motor de Europa](https://convocatoriapia.cotec.es/) - 2026-06-23
-* [EU Puts Passengers First With Free Carry-On Bags And Stronger Traveler Rights](https://www.gatechecked.com/eu-updated-air-passenger-rights-11928?ref=flightaware) - 2026-06-22
-* [Preparando los hijos.](https://asavecesunafoto.wordpress.com/2026/06/22/preparando-los-hijos/) - 2026-06-22
-* [Arcos y balconadas en dos niveles](https://www.flickr.com/photos/fernand0/55347075487/) - 2026-06-22
-* [More Than a Third of Air Travelers Unaware They Must Abandon Belongings in Emergency Evacuations](https://aeroxplorer.com/articles/more-than-a-third-of-air-travelers-unaware-they-must-abandon-belongings-in-emergency-evacuations.php) - 2026-06-22
+* [Conferencia: La geopolítica en la agenda de los directivos de empresa. Vulnerabilidades y oportunidades en el contexto geopolítico actual](https://www.unizar.es/actualidad/vernoticia_ng.php?id=97686) - 2026-06-24
+* [The Y2K bug is back! Dutch dev digs up untimely flaw in old BSD build](https://www.theregister.com/offbeat/2026/06/15/the-y2k-bug-is-back-dutch-dev-digs-up-untimely-flaw-in-old-bsd-build/5255645) - 2026-06-24
+* [Renacimiento y sombras de los trenes nocturnos en Europa](https://culturadetren.substack.com/p/renacimiento-y-sombras-de-los-trenes) - 2026-06-23
+* [Fuente](https://www.flickr.com/photos/fernand0/55348167338/) - 2026-06-23
+* [Italy PM Meloni ‘stunned’ by Trump’s claims she begged him for a photo](https://www.theguardian.com/world/2026/jun/19/giorgia-meloni-stunned-donald-trump-claims-begged-him-photo) - 2026-06-23
 <!-- mastodon ends -->
 
 ---
