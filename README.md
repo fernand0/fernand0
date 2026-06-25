@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-24
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-23
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-25
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-24
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-24
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-23
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-23
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Conferencia: La geopolítica en la agenda de los directivos de empresa. Vulnerabilidades y oportunidades en el contexto geopolítico actual](https://www.unizar.es/actualidad/vernoticia_ng.php?id=97686) - 2026-06-24
-* [The Y2K bug is back! Dutch dev digs up untimely flaw in old BSD build](https://www.theregister.com/offbeat/2026/06/15/the-y2k-bug-is-back-dutch-dev-digs-up-untimely-flaw-in-old-bsd-build/5255645) - 2026-06-24
-* [Renacimiento y sombras de los trenes nocturnos en Europa](https://culturadetren.substack.com/p/renacimiento-y-sombras-de-los-trenes) - 2026-06-23
-* [Fuente](https://www.flickr.com/photos/fernand0/55348167338/) - 2026-06-23
-* [Italy PM Meloni ‘stunned’ by Trump’s claims she begged him for a photo](https://www.theguardian.com/world/2026/jun/19/giorgia-meloni-stunned-donald-trump-claims-begged-him-photo) - 2026-06-23
+* [piBrick Pocket-CM5 - Platform for creating and sharing projects - OSHWLab](https://oshwlab.com/amarullz/pibrick-pocketcm5) - 2026-06-25
+* [Ventanas con celosías y alero](https://www.flickr.com/photos/fernand0/55347075622/) - 2026-06-24
+* [Breaking Enigma with FPGA](https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2026/ej289_kr562_isf9/ej289_kr562_isf9/bombe-fpga-master/index.html) - 2026-06-24
+* [Transplante de bienvenida.](https://asavecesunafoto.wordpress.com/2026/06/24/transplante-de-bienvenida/) - 2026-06-24
+* [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/) - 2026-06-24
 <!-- mastodon ends -->
 
 ---
