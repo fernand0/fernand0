@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-27
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-26
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-26
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-25
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-25
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-26
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -27,7 +27,7 @@
 
 ## repositoriesContributedTo
 
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-06-25
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-06-26
 * [AB](https://github.com/simber72/AB),  No description - 2026-06-23
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [V Programa de emparejamiento 2026 | Oficina C](https://oficinac.es/es/actividades/emparejamiento/info-de-interes) - 2026-06-26
-* [Arcos y ventana](https://www.flickr.com/photos/fernand0/55348226099/) - 2026-06-26
-* [Mobile Progress Report: June 2026 - The Thunderbird Blog](https://blog.thunderbird.net/2026/06/mobile-progress-report-june-2026/) - 2026-06-26
-* [Pedro Sanchez’s former right-hand man jailed for 24 years](https://www.telegraph.co.uk/world-news/2026/06/22/pedro-sanchezs-former-right-hand-man-jailed-for-24-years/?WT.mc_id=tmgoff_tw_post_man-jailed-for-24-years/) - 2026-06-25
-* [What students and teachers in England want from a computing curriculum - Raspberry Pi Foundation](https://www.raspberrypi.org/blog/what-students-and-teachers-in-england-want-from-a-computing-curriculum/) - 2026-06-25
+* [Five cloud security mistakes that start at the architecture level](https://thenextweb.com/news/cloud-security-mistakes-architecture-level-enterprises) - 2026-06-27
+* [Signal Alums Reveal ‘Encrypted Spaces,’ a System for Making Private Collaboration Apps](https://www.wired.com/story/signal-alums-release-encrypted-spaces-a-new-system-for-building-private-collaboration-apps/) - 2026-06-26
+* [India's Telegram Ban Risks Normalizing Platform-Wide Blocking](https://www.techpolicy.press/indias-telegram-ban-risks-normalizing-platform-wide-blocking/) - 2026-06-26
+* [Coverd and Albert Wang: The Infrastructure Behind a New Kind of Card | HackerNoon](https://hackernoon.com/coverd-and-albert-wang-the-infrastructure-behind-a-new-kind-of-card) - 2026-06-26
+* [El rito del herniado - Lobera de Onsella](https://www.loberadeonsella.com/ritos-y-tradiciones/el-rito-del-herniado) - 2026-06-26
 <!-- mastodon ends -->
 
 ---
