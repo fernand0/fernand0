@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-27
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-26
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-26
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-27
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-27
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-27
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Five cloud security mistakes that start at the architecture level](https://thenextweb.com/news/cloud-security-mistakes-architecture-level-enterprises) - 2026-06-27
-* [Signal Alums Reveal ‘Encrypted Spaces,’ a System for Making Private Collaboration Apps](https://www.wired.com/story/signal-alums-release-encrypted-spaces-a-new-system-for-building-private-collaboration-apps/) - 2026-06-26
-* [India's Telegram Ban Risks Normalizing Platform-Wide Blocking](https://www.techpolicy.press/indias-telegram-ban-risks-normalizing-platform-wide-blocking/) - 2026-06-26
-* [Coverd and Albert Wang: The Infrastructure Behind a New Kind of Card | HackerNoon](https://hackernoon.com/coverd-and-albert-wang-the-infrastructure-behind-a-new-kind-of-card) - 2026-06-26
-* [El rito del herniado - Lobera de Onsella](https://www.loberadeonsella.com/ritos-y-tradiciones/el-rito-del-herniado) - 2026-06-26
+* [Un siglo de energía tectónica liberada en solo 39 segundos: el insólito "doblete sísmico" que ha sacudido Venezuela](https://www.xataka.com/ecologia-y-naturaleza/siglo-energia-liberada-hora-ciencia-detras-insolito-doblete-sismico-que-ha-sacudido-venezuela) - 2026-06-28
+* [Un siglo de energía tectónica liberada en solo 39 segundos: el insólito "doblete sísmico" que ha sacudido Venezuela](https://www.xataka.com/ecologia-y-naturaleza/siglo-energia-liberada-hora-ciencia-detras-insolito-doblete-sismico-que-ha-sacudido-venezuela) - 2026-06-27
+* [Nos vemos allí: "Soberanía Digital (o casi) de bajo coste: algunos experimentos con la gestión de la agenda utilizando LLMs locales"](https://codeberg.org/seLIA/Contrib/src/branch/main/propuestas/09_Fernando_Tricas-Soberania_digital_o_casi.md) - 2026-06-27
+* [How 100 Romanian hospitals switched to pen and paper to defeat a national cyber-attack](https://www.bbc.com/news/articles/c4gyk756mzlo) - 2026-06-27
+* [Maker Faire Galicia 2026 - Landing Page Oficial de la Maker Faire Galicia 2025](https://makerfairegalicia.es/) - 2026-06-27
 <!-- mastodon ends -->
 
 ---
