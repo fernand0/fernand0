@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-06-30
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-29
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-01
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-06-30
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-30
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-06-29
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-06-29
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Windows 10 Extended Security Updates | Microsoft Windows](https://www.microsoft.com/en-ie/windows/extended-security-updates?r=1) - 2026-06-30
-* [Why have papers by one of history’s most famous physicists been retracted?](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted) - 2026-06-29
-* [Hormiga.](https://asavecesunafoto.wordpress.com/2026/06/29/hormiga/) - 2026-06-29
-* [Germany rail network briefly halted nationwide due to IT malfunction](https://www.bbc.com/news/articles/crm0ek4z7ggo) - 2026-06-29
-* [US host city restaurants to add mandatory tips to bills during World Cup](https://www.the-independent.com/us/money/world-cup-mandatory-tips-restaurants-b2985432.html) - 2026-06-29
+* [15 Fun and Interesting APIs to use for your next coding project in 2022](https://medium.com/codex/15-fun-and-interesting-apis-to-use-for-your-next-coding-project-in-2022-86a4ff3a2742) - 2026-07-01
+* [Binance halts EU crypto services amid MiCA licence failure](https://www.euronews.com/business/2026/06/25/binance-to-halt-crypto-services-across-eu-countries-after-failing-to-secure-mica-approval) - 2026-07-01
+* [Cordero. Asado.](https://asavecesunafoto.wordpress.com/2026/06/30/cordero-asado/) - 2026-06-30
+* [Meta shifts from "tokenmaxxing" to token managing as internal AI costs reportedly hit billions](https://aiwiredaily.net/article/2026-06-14-meta-shifts-from-tokenmaxxing-to-token-m) - 2026-06-30
+* [La URJC marca tendencia al apostar por su Guía de las Buenas Prácticas en el uso de la IA para formar a profesionales y docentes | Despachos | LawAndTrends](https://www.lawandtrends.com/noticias/despachos/la-urjc-marca-tendencia-al-apostar-por-su-guia-de-las-buenas-practicas-en-el-uso-de-la-ia-para-formar-a-profesionales-y-1.html) - 2026-06-30
 <!-- mastodon ends -->
 
 ---
