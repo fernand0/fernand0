@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-03
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-04
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-03
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-03
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-02
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-02
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [How to burst the AI bubble: Strike at its roots](https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/) - 2026-07-03
-* [The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy](https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/) - 2026-07-02
-* ['The retail SSD market has almost disappeared,' says Silicon Motion exec — PC OEMs are buying third-party drives as direct NAND supply dries up](https://www.tomshardware.com/pc-components/ssds/the-retail-ssd-market-has-almost-disappeared-says-silicon-motion-exec-pc-oems-are-buying-third-party-drives-as-direct-nand-supply-dries-up) - 2026-07-02
-* [Composición](https://www.flickr.com/photos/fernand0/55348167933/) - 2026-07-02
-* [Chile turned to China for an undersea cable. The U.S. said no](https://restofworld.org/2026/chile-china-america-google-cable/) - 2026-07-02
+* [Google pulls the plug on Tenor API, killing GIF pickers around the web](https://9to5google.com/2026/06/30/google-tenor-api-gif-updates/) - 2026-07-04
+* [Jóvenes creadores: tu próxima oportunidad empieza aquí, CREAR 2026. Gobierno de Aragón](https://www.aragon.es/actualidad/%C2%BFtienes-una-idea-una-obra-o-un-proyecto-innovador-arag%C3%B3n-quiere-descubrirlo) - 2026-07-03
+* [Fundación Telefónica lanza sus premios tecnológicos para reconocer el talento y la innovación con impacto social - Fundación Telefónica España](https://www.fundaciontelefonica.com/noticias/fundacion-telefonica-lanza-sus-premios-tecnologicos-para-reconocer-el-talento-y-la-innovacion-con-impacto-social/) - 2026-07-03
+* [Rincón](https://www.flickr.com/photos/fernand0/55348168048/) - 2026-07-03
+* [Cómo crear un calendario con los partidos de tus equipos del Mundial 2026 y añadirlos a Google Calendar con inteligencia artificial](https://www.xataka.com/basics/como-crear-calendario-partidos-tus-equipos-mundial-2026-anadirlos-a-google-calendar-inteligencia-artificial) - 2026-07-03
 <!-- mastodon ends -->
 
 ---
