@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-04
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-03
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-05
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-04
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-04
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-02
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Google pulls the plug on Tenor API, killing GIF pickers around the web](https://9to5google.com/2026/06/30/google-tenor-api-gif-updates/) - 2026-07-04
-* [Jóvenes creadores: tu próxima oportunidad empieza aquí, CREAR 2026. Gobierno de Aragón](https://www.aragon.es/actualidad/%C2%BFtienes-una-idea-una-obra-o-un-proyecto-innovador-arag%C3%B3n-quiere-descubrirlo) - 2026-07-03
-* [Fundación Telefónica lanza sus premios tecnológicos para reconocer el talento y la innovación con impacto social - Fundación Telefónica España](https://www.fundaciontelefonica.com/noticias/fundacion-telefonica-lanza-sus-premios-tecnologicos-para-reconocer-el-talento-y-la-innovacion-con-impacto-social/) - 2026-07-03
-* [Rincón](https://www.flickr.com/photos/fernand0/55348168048/) - 2026-07-03
-* [Cómo crear un calendario con los partidos de tus equipos del Mundial 2026 y añadirlos a Google Calendar con inteligencia artificial](https://www.xataka.com/basics/como-crear-calendario-partidos-tus-equipos-mundial-2026-anadirlos-a-google-calendar-inteligencia-artificial) - 2026-07-03
+* [Asando.](https://asavecesunafoto.wordpress.com/2026/07/04/asando/) - 2026-07-05
+* [Una oleada de password spraying contra Azure CLI supera 81 millones de intentos y compromete al menos 78 cuentas - Una Al Día](https://unaaldia.hispasec.com/una-oleada-de-password-spraying-contra-azure-cli-supera-81-millones-de-intentos-y-compromete-al-menos-78-cuentas/) - 2026-07-05
+* [Arcos](https://www.flickr.com/photos/fernand0/55348168113/) - 2026-07-05
+* [Abierto/cerrado](https://asavecesunafoto.wordpress.com/2026/07/04/abierto-cerrado/) - 2026-07-04
+* [Anker Founder Yang Meng Exclusive: Self-Developed "Compute-in-Memory" Chip Aims to Break the von Neumann Architecture in Earbuds - BigGo Finance](https://finance.biggo.com/news/9b8d723c0db3e640) - 2026-07-04
 <!-- mastodon ends -->
 
 ---
