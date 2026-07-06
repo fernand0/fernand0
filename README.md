@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-05
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-04
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-04
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-06
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-05
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-05
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-02
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Asando.](https://asavecesunafoto.wordpress.com/2026/07/04/asando/) - 2026-07-05
-* [Una oleada de password spraying contra Azure CLI supera 81 millones de intentos y compromete al menos 78 cuentas - Una Al Día](https://unaaldia.hispasec.com/una-oleada-de-password-spraying-contra-azure-cli-supera-81-millones-de-intentos-y-compromete-al-menos-78-cuentas/) - 2026-07-05
-* [Arcos](https://www.flickr.com/photos/fernand0/55348168113/) - 2026-07-05
-* [Abierto/cerrado](https://asavecesunafoto.wordpress.com/2026/07/04/abierto-cerrado/) - 2026-07-04
-* [Anker Founder Yang Meng Exclusive: Self-Developed "Compute-in-Memory" Chip Aims to Break the von Neumann Architecture in Earbuds - BigGo Finance](https://finance.biggo.com/news/9b8d723c0db3e640) - 2026-07-04
+* [Is AI Profitable Yet?](https://isaiprofitable.com/) - 2026-07-06
+* [Alero](https://www.flickr.com/photos/fernand0/55348429035/) - 2026-07-06
+* [Press corner | European Commission](https://ec.europa.eu/commission/presscorner/detail/es/ip_26_1187) - 2026-07-06
+* [La 'cura' de Aragón para el Pirineo abandonado: cultivar hierbas medicinales](https://www.xataka.com/ecologia-y-naturaleza/aragon-tiene-cura-para-tierras-abandonadas-pirineos-cultivar-hierbas-medicinales) - 2026-07-05
+* [BoomerCon 2026 | Una Con como las de antes](https://boomercon.net/) - 2026-07-05
 <!-- mastodon ends -->
 
 ---
