@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-06
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-05
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-05
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-07
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-06
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-06
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-02
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Is AI Profitable Yet?](https://isaiprofitable.com/) - 2026-07-06
-* [Alero](https://www.flickr.com/photos/fernand0/55348429035/) - 2026-07-06
-* [Press corner | European Commission](https://ec.europa.eu/commission/presscorner/detail/es/ip_26_1187) - 2026-07-06
-* [La 'cura' de Aragón para el Pirineo abandonado: cultivar hierbas medicinales](https://www.xataka.com/ecologia-y-naturaleza/aragon-tiene-cura-para-tierras-abandonadas-pirineos-cultivar-hierbas-medicinales) - 2026-07-05
-* [BoomerCon 2026 | Una Con como las de antes](https://boomercon.net/) - 2026-07-05
+* [Google pulls the plug on Tenor API, killing GIF pickers around the web](https://9to5google.com/2026/06/30/google-tenor-api-gif-updates/) - 2026-07-07
+* [Jóvenes creadores: tu próxima oportunidad empieza aquí, CREAR 2026. Gobierno de Aragón](https://www.aragon.es/actualidad/%C2%BFtienes-una-idea-una-obra-o-un-proyecto-innovador-arag%C3%B3n-quiere-descubrirlo) - 2026-07-06
+* [Build a fully local voice assistant in 2026](https://blog.platypush.tech/article/Local-voice-assistant) - 2026-07-06
+* [Flores y después trasplante.](https://asavecesunafoto.wordpress.com/2026/07/06/flores-y-despues-trasplante/) - 2026-07-06
+* [Browser-Only Ransomware Abuses Chrome File System Access API to Encrypt Android Photos](https://cybersecuritynews.com/browser-only-ransomware-abuses-chrome-file-system-access-api/) - 2026-07-06
 <!-- mastodon ends -->
 
 ---
