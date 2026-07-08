@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-07
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-06
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-06
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-08
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-07
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-07
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-02
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
@@ -27,8 +27,8 @@
 
 ## repositoriesContributedTo
 
+* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-07-08
 * [AB](https://github.com/simber72/AB),  No description - 2026-07-02
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-06-26
 * [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
 
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Google pulls the plug on Tenor API, killing GIF pickers around the web](https://9to5google.com/2026/06/30/google-tenor-api-gif-updates/) - 2026-07-07
-* [Jóvenes creadores: tu próxima oportunidad empieza aquí, CREAR 2026. Gobierno de Aragón](https://www.aragon.es/actualidad/%C2%BFtienes-una-idea-una-obra-o-un-proyecto-innovador-arag%C3%B3n-quiere-descubrirlo) - 2026-07-06
-* [Build a fully local voice assistant in 2026](https://blog.platypush.tech/article/Local-voice-assistant) - 2026-07-06
-* [Flores y después trasplante.](https://asavecesunafoto.wordpress.com/2026/07/06/flores-y-despues-trasplante/) - 2026-07-06
-* [Browser-Only Ransomware Abuses Chrome File System Access API to Encrypt Android Photos](https://cybersecuritynews.com/browser-only-ransomware-abuses-chrome-file-system-access-api/) - 2026-07-06
+* [Important Performance Metrics](https://medium.com/@keyboardsurfer/important-performance-metrics-c7dacf018eb3) - 2026-07-08
+* [Why AI and machine learning are drifting away from the cloud - 7wData](https://7wdata.be/big-data/why-ai-and-machine-learning-are-drifting-away-from-the-cloud/) - 2026-07-07
+* [Bajo la verja.](https://asavecesunafoto.wordpress.com/2026/07/07/bajo-la-verja/) - 2026-07-07
+* [All The Ways to Compress and Archive Files in Python](https://medium.com/@martin.heinz/all-the-ways-to-compress-and-archive-files-in-python-e8076ccedb4b) - 2026-07-07
+* [Twilio hacked by phishing campaign](https://techcrunch.com/2022/08/08/twilio-breach-customer-data/) - 2026-07-07
 <!-- mastodon ends -->
 
 ---
