@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-08
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-07
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-07
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-08
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-08
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-08
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Important Performance Metrics](https://medium.com/@keyboardsurfer/important-performance-metrics-c7dacf018eb3) - 2026-07-08
-* [Why AI and machine learning are drifting away from the cloud - 7wData](https://7wdata.be/big-data/why-ai-and-machine-learning-are-drifting-away-from-the-cloud/) - 2026-07-07
-* [Bajo la verja.](https://asavecesunafoto.wordpress.com/2026/07/07/bajo-la-verja/) - 2026-07-07
-* [All The Ways to Compress and Archive Files in Python](https://medium.com/@martin.heinz/all-the-ways-to-compress-and-archive-files-in-python-e8076ccedb4b) - 2026-07-07
-* [Twilio hacked by phishing campaign](https://techcrunch.com/2022/08/08/twilio-breach-customer-data/) - 2026-07-07
+* [Finding control without being controlling](https://medium.com/@sara_ann_marie/finding-control-without-being-controlling-3f89b2e0da61) - 2026-07-09
+* [Constructive Code Conflict](https://medium.com/@kibbeyj/constructive-code-conflict-a87eaf8d01c2) - 2026-07-08
+* [Introduction to Cloud Computing](https://medium.com/@jikaramit21/introduction-to-cloud-computing-f2ff10df8b69) - 2026-07-08
+* [Invasión y herramienta.](https://asavecesunafoto.wordpress.com/2026/07/08/invasion-y-herramienta/) - 2026-07-08
+* [Road to Automated Audio Testing](https://medium.com/@armman999/road-to-automated-audio-testing-2ce560bb83e3) - 2026-07-08
 <!-- mastodon ends -->
 
 ---
