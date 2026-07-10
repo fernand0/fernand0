@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-09
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-08
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-08
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-08
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-10
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-09
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-09
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Finding control without being controlling](https://medium.com/@sara_ann_marie/finding-control-without-being-controlling-3f89b2e0da61) - 2026-07-09
-* [Constructive Code Conflict](https://medium.com/@kibbeyj/constructive-code-conflict-a87eaf8d01c2) - 2026-07-08
-* [Introduction to Cloud Computing](https://medium.com/@jikaramit21/introduction-to-cloud-computing-f2ff10df8b69) - 2026-07-08
-* [Invasión y herramienta.](https://asavecesunafoto.wordpress.com/2026/07/08/invasion-y-herramienta/) - 2026-07-08
-* [Road to Automated Audio Testing](https://medium.com/@armman999/road-to-automated-audio-testing-2ce560bb83e3) - 2026-07-08
+* [< https://www.datacamp.com/tutorial/fine-tuning-large-language-models](https://www.datacamp.com/tutorial/fine-tuning-large-language-models) - 2026-07-10
+* [Estación Futuro - Fundación de los Ferrocarriles Españoles](https://estacionfuturo.es/) - 2026-07-10
+* [Historietistas de película. 25 producciones del cine de ficción cuyos protagonistas se dedican al cómic](http://tausiet.blogspot.com/2026/06/historietistas-de-pelicula-25.html) - 2026-07-09
+* [Half-Baked Product | Weli's blog](https://weli.dev/blog/half-baked-product/) - 2026-07-09
+* [La orquídea y el pato de goma.](https://asavecesunafoto.wordpress.com/2026/07/09/la-orquidea-y-el-pato-de-goma/) - 2026-07-09
 <!-- mastodon ends -->
 
 ---
