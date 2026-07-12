@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-11
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-10
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-10
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-10
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-12
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-11
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-11
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-11
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [A Social Filesystem - overreacted](https://overreacted.io/a-social-filesystem/) - 2026-07-11
-* [They See Your Photos](https://theyseeyourphotos.com/) - 2026-07-10
-* [Against an Intellectual Property Battle Over AI](https://botpopuli.net/against-an-intellectual-property-battle-over-ai/) - 2026-07-10
-* [En proceso.](https://asavecesunafoto.wordpress.com/2026/07/10/en-proceso/) - 2026-07-10
-* [Arcos, puertas y ventanas](https://www.flickr.com/photos/fernand0/55385376844/) - 2026-07-10
+* [AI helps read papyrus scroll burnt to crisp during Vesuvius eruption](https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption) - 2026-07-12
+* [Diego A. Manrique: "Durante los ochenta, vivimos una explosión de creatividad sonora"](https://www.diariodeburgos.es/opinion/z287ee753-e396-4dca-aee442ed914525d3/202606/he-nacido-en-burgos-y-canto-en-ingles) - 2026-07-11
+* [Té y dulces.](https://asavecesunafoto.wordpress.com/2026/07/11/te-y-dulces/) - 2026-07-11
+* [There are too many JavaScript schema libraries, so support only one - Inngest Blog](https://www.inngest.com/blog/too-many-javascript-schema-libraries-support-only-one) - 2026-07-11
+* [Lucernario](https://www.flickr.com/photos/fernand0/55385185491/) - 2026-07-11
 <!-- mastodon ends -->
 
 ---
