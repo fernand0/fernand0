@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-13
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-12
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-12
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-12
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-14
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-13
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-13
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-13
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -61,6 +61,8 @@
 
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
 
+* [En la I Jornada sobre Software Libre e Inteligencia Artificial Abierta](https://blog.elmundoesimperfecto.com/2026/07/06/en-seLIA/) - 2026-07-06
+
 * [La IA, dónde gana y dónde le ganamos](https://blog.elmundoesimperfecto.com/2026/05/26/valor-IA/) - 2026-05-26
 
 * [Muchos usuarios odian a sus ordenadores](https://blog.elmundoesimperfecto.com/2026/04/28/medicos-ordenadores/) - 2026-04-28
@@ -68,19 +70,17 @@
 * [En la Casa de la Mujer hablando de IA](https://blog.elmundoesimperfecto.com/2026/04/16/maria-moliner-ia/) - 2026-04-16
 
 * [La IA y algunos argumentos en contra (respondidos)](https://blog.elmundoesimperfecto.com/2026/04/09/escepticismo-ia/) - 2026-04-09
-
-* [Nombrando amenazas: Microsoft y la meteorología](https://blog.elmundoesimperfecto.com/2026/03/23/nombres-amenazas-microsoft/) - 2026-03-23
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Online Conferences Should be Better than In-Person Conferences, Not Worse](https://schwitzsplinters.blogspot.com/2026/06/online-conferences-should-be-better.html) - 2026-07-13
-* [Should I be racked with guilt for not buying books? - Home - Doug Johnson's Blue Skunk Blog](http://doug-johnson.squarespace.com/blue-skunk-blog/2026/6/15/should-i-be-racked-with-guilt-for-not-buying-books.html) - 2026-07-13
-* [Toward a sociology of education and artificial intelligence](https://www.tandfonline.com/doi/full/10.1080/01425692.2026.2686013#d1e120) - 2026-07-12
-* [Escenas.](https://asavecesunafoto.wordpress.com/2026/07/12/escenas/) - 2026-07-12
-* [Poverty of Attention](https://digitallyliterate.substack.com/p/poverty-of-attention) - 2026-07-12
+* [Power Banks and Vapes Now Top Aircraft Safety Risk, CAA Warns - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates](https://airguide.info/power-banks-and-vapes-aircraft-safety-risk/) - 2026-07-14
+* [Fuente con tres grifos](https://www.flickr.com/photos/fernand0/55385327533/) - 2026-07-13
+* [If everything is a neighbourhood, is anything a neighbourhood?](https://tomcw.xyz/if-everything-is-a-neighbourhood-is-anything-a-neighbourhood/) - 2026-07-13
+* [What Does It Feel Like to Live Under the Threat of Redundancy?](https://isrf.org/blog/what-does-it-feel-like-to-live-under-the-threat-of-redundancy) - 2026-07-13
+* [Verdes y rojos.](https://asavecesunafoto.wordpress.com/2026/07/13/verdes-y-rojos/) - 2026-07-13
 <!-- mastodon ends -->
 
 ---
