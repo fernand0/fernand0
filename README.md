@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-14
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-13
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-13
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-15
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-14
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-14
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-14
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Power Banks and Vapes Now Top Aircraft Safety Risk, CAA Warns - AirGuide.info :: AirGuide Business – Aviation and Travel Business News + AirGuide Destinations – Airline and Travel News, Latest Aviation, Airline and Travel News | U.S. and Global Updates](https://airguide.info/power-banks-and-vapes-aircraft-safety-risk/) - 2026-07-14
-* [Fuente con tres grifos](https://www.flickr.com/photos/fernand0/55385327533/) - 2026-07-13
-* [If everything is a neighbourhood, is anything a neighbourhood?](https://tomcw.xyz/if-everything-is-a-neighbourhood-is-anything-a-neighbourhood/) - 2026-07-13
-* [What Does It Feel Like to Live Under the Threat of Redundancy?](https://isrf.org/blog/what-does-it-feel-like-to-live-under-the-threat-of-redundancy) - 2026-07-13
-* [Verdes y rojos.](https://asavecesunafoto.wordpress.com/2026/07/13/verdes-y-rojos/) - 2026-07-13
+* [Perdonadme que no sea más preciso, pero no soy experto en ninguno de los dos](campos.) - 2026-07-15
+* [No estoy viendo suficientes entradas en LinkedIn comparando la trayectoria de la selección en el mundial con... algo](inspiracional) - 2026-07-15
+* [Escalera](https://www.flickr.com/photos/fernand0/55385590850/) - 2026-07-15
+* [Microcredentials in HE (webinar)](https://www.dontwasteyourtime.co.uk/webinar/microcredentials-in-he-webinar/) - 2026-07-15
+* [Speaker feeds](https://www.downes.ca/post/79385) - 2026-07-14
 <!-- mastodon ends -->
 
 ---
