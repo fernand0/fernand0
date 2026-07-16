@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-15
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-14
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-14
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-14
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-16
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-15
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-15
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Perdonadme que no sea más preciso, pero no soy experto en ninguno de los dos](campos.) - 2026-07-15
-* [No estoy viendo suficientes entradas en LinkedIn comparando la trayectoria de la selección en el mundial con... algo](inspiracional) - 2026-07-15
-* [Escalera](https://www.flickr.com/photos/fernand0/55385590850/) - 2026-07-15
-* [Microcredentials in HE (webinar)](https://www.dontwasteyourtime.co.uk/webinar/microcredentials-in-he-webinar/) - 2026-07-15
-* [Speaker feeds](https://www.downes.ca/post/79385) - 2026-07-14
+* [Arcos y alero](https://www.flickr.com/photos/fernand0/55385377174/) - 2026-07-16
+* [Ruta de Relojes Solares de Zaragoza](https://zaragozarelojessolares.com/reloj-solar-polytechnic/) - 2026-07-16
+* [Clausura del curso Geopolítica Aplicada a la Empresa | ARAINTEL](https://araintel.com/noticias/clausura-del-curso-geopolitica-aplicada-a-la-empresa/) - 2026-07-15
+* [Resurgimiento.](https://asavecesunafoto.wordpress.com/2026/07/15/resurgimiento/) - 2026-07-15
+* [Graduating without a thesis: meet the people getting ‘practical’ PhDs in China](https://www.nature.com/articles/d41586-026-01242-z) - 2026-07-15
 <!-- mastodon ends -->
 
 ---
