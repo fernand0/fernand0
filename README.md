@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-16
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-15
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-15
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-15
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-17
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-16
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-16
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-16
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Arcos y alero](https://www.flickr.com/photos/fernand0/55385377174/) - 2026-07-16
-* [Ruta de Relojes Solares de Zaragoza](https://zaragozarelojessolares.com/reloj-solar-polytechnic/) - 2026-07-16
-* [Clausura del curso Geopolítica Aplicada a la Empresa | ARAINTEL](https://araintel.com/noticias/clausura-del-curso-geopolitica-aplicada-a-la-empresa/) - 2026-07-15
-* [Resurgimiento.](https://asavecesunafoto.wordpress.com/2026/07/15/resurgimiento/) - 2026-07-15
-* [Graduating without a thesis: meet the people getting ‘practical’ PhDs in China](https://www.nature.com/articles/d41586-026-01242-z) - 2026-07-15
+* [We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify](https://shopify.engineering/scaling-inventory-reservations) - 2026-07-17
+* [Galerías reales.](https://asavecesunafoto.wordpress.com/2026/07/16/galerias-reales/) - 2026-07-16
+* [Cell-Based Architecture for Resilient Payment Systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/) - 2026-07-16
+* [Designing a SIMD Algorithm from Scratch · mcyoung](https://mcyoung.xyz/2023/11/27/simd-base64/) - 2026-07-16
+* [p99 0 ms* autocomplete for 240 million domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names) - 2026-07-16
 <!-- mastodon ends -->
 
 ---
