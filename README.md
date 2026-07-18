@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-17
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-16
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-16
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-18
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-17
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-17
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-17
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify](https://shopify.engineering/scaling-inventory-reservations) - 2026-07-17
-* [Galerías reales.](https://asavecesunafoto.wordpress.com/2026/07/16/galerias-reales/) - 2026-07-16
-* [Cell-Based Architecture for Resilient Payment Systems](https://americanexpress.io/cell-based-architecture-for-resilient-payment-systems/) - 2026-07-16
-* [Designing a SIMD Algorithm from Scratch · mcyoung](https://mcyoung.xyz/2023/11/27/simd-base64/) - 2026-07-16
-* [p99 0 ms* autocomplete for 240 million domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names) - 2026-07-16
+* [GitHub - FareedKhan-dev/train-llm-from-scratch: A straightforward method for training your LLM, from downloading data to generating text.](https://github.com/FareedKhan-dev/train-llm-from-scratch) - 2026-07-18
+* [Uno, dos y tres](https://asavecesunafoto.wordpress.com/2026/07/17/uno-dos-y-tres/) - 2026-07-18
+* [Making a vintage LLM from scratch - Cr;Lf;](https://crlf.link/log/entries/260525-1/) - 2026-07-17
+* [RTX 5080 + RTX 3090 Setup: 80+ Tok/s on Qwen 3.6 27B Q8 - iMil.net](https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/) - 2026-07-17
+* [Appreciating Exif](https://brentfitzgerald.com/posts/appreciating-exif/) - 2026-07-17
 <!-- mastodon ends -->
 
 ---
