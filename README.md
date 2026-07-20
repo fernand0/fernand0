@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-19
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-18
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-20
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-19
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-07-19
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-19
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-17
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-06-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Experiences with local models for coding](https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html) - 2026-07-19
-* [Un poco de brasa.](https://asavecesunafoto.wordpress.com/2026/07/18/un-poco-de-brasa/) - 2026-07-19
-* [Viability of local models for coding](https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html) - 2026-07-18
-* [Letting AI agents drive a GUI app with -dbg-control](https://blog.kowalczyk.info/a-kf3p/debugging-gui-apps-from-ai-agents.html) - 2026-07-18
-* [Finding active GitHub forks from the command line](https://blog.kowalczyk.info/a-6qmq/finding-active-github-forks-from-the-command-line.html) - 2026-07-18
+* [Cardos secos.](https://asavecesunafoto.wordpress.com/2026/07/19/cardos-secos/) - 2026-07-20
+* [What does Jeff Bezos think is going to happen?](https://reprog.wordpress.com/2026/07/05/what-does-jeff-bezos-think-is-going-to-happen/) - 2026-07-20
+* [I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/) - 2026-07-19
+* [How GitHub used secret scanning to reach inbox zero](https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/) - 2026-07-19
+* [La Universidad de Zaragoza acoge este miércoles la presentación del nuevo portal web del Observatorio de la Ciencia Ciudadana en España](https://www.unizar.es/actualidad/vernoticia_ng.php?id=98097) - 2026-07-19
 <!-- mastodon ends -->
 
 ---
