@@ -14,14 +14,14 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-20
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-19
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-21
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-20
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-20
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-07-20
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-20
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-07-19
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-19
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-17
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-05-26
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 
@@ -49,6 +49,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [¿Seguridad o prestaciones? Compromisos](https://fernand0.github.io/seguridad-prestaciones/) - 2026-07-20
+
 * [Deepfakes para engañar a las empresas. El caso de LastPass](https://fernand0.github.io/lastpass-deepfakes/) - 2026-05-26
 
 * [La seguridad en los tiempos de la IA y la sostenibilidad del software libre](https://fernand0.github.io/fallos-de-seguridad-ia/) - 2026-04-28
@@ -57,9 +59,9 @@
 
 * [IMAP: leyendo correos desde nuestra terminal](https://fernand0.github.io/protocolo-correo/) - 2026-03-23
 
-* [Usando IAs para portar código](https://fernand0.github.io/criptografia-ia/) - 2026-03-12
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [Bots ¿con o contra bots?](https://blog.elmundoesimperfecto.com/2026/07/20/bots-contra-bots/) - 2026-07-20
 
 * [En la I Jornada sobre Software Libre e Inteligencia Artificial Abierta](https://blog.elmundoesimperfecto.com/2026/07/06/en-seLIA/) - 2026-07-06
 
@@ -68,19 +70,17 @@
 * [Muchos usuarios odian a sus ordenadores](https://blog.elmundoesimperfecto.com/2026/04/28/medicos-ordenadores/) - 2026-04-28
 
 * [En la Casa de la Mujer hablando de IA](https://blog.elmundoesimperfecto.com/2026/04/16/maria-moliner-ia/) - 2026-04-16
-
-* [La IA y algunos argumentos en contra (respondidos)](https://blog.elmundoesimperfecto.com/2026/04/09/escepticismo-ia/) - 2026-04-09
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Cardos secos.](https://asavecesunafoto.wordpress.com/2026/07/19/cardos-secos/) - 2026-07-20
-* [What does Jeff Bezos think is going to happen?](https://reprog.wordpress.com/2026/07/05/what-does-jeff-bezos-think-is-going-to-happen/) - 2026-07-20
-* [I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/) - 2026-07-19
-* [How GitHub used secret scanning to reach inbox zero](https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/) - 2026-07-19
-* [La Universidad de Zaragoza acoge este miércoles la presentación del nuevo portal web del Observatorio de la Ciencia Ciudadana en España](https://www.unizar.es/actualidad/vernoticia_ng.php?id=98097) - 2026-07-19
+* [Siguientes etapas.](https://asavecesunafoto.wordpress.com/2026/07/20/siguientes-etapas/) - 2026-07-21
+* [HTML table extractor](https://tools.simonwillison.net/html-table-extractor) - 2026-07-21
+* [America is destroying itself. It’s no surprise | Stephen Marche](https://www.theguardian.com/commentisfree/2026/jul/04/us-history-destruction) - 2026-07-20
+* [¿Seguridad o prestaciones? Compromisos](https://fernand0.github.io//seguridad-prestaciones/) - 2026-07-20
+* [Bots ¿con o contra bots?](https://blog.elmundoesimperfecto.com/2026/07/20/bots-contra-bots/) - 2026-07-20
 <!-- mastodon ends -->
 
 ---
