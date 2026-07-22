@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-21
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-22
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-21
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-07-21
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-21
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-20
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-20
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-07-20
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-20
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-07-19
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
@@ -76,11 +76,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Siguientes etapas.](https://asavecesunafoto.wordpress.com/2026/07/20/siguientes-etapas/) - 2026-07-21
-* [HTML table extractor](https://tools.simonwillison.net/html-table-extractor) - 2026-07-21
-* [America is destroying itself. It’s no surprise | Stephen Marche](https://www.theguardian.com/commentisfree/2026/jul/04/us-history-destruction) - 2026-07-20
-* [¿Seguridad o prestaciones? Compromisos](https://fernand0.github.io//seguridad-prestaciones/) - 2026-07-20
-* [Bots ¿con o contra bots?](https://blog.elmundoesimperfecto.com/2026/07/20/bots-contra-bots/) - 2026-07-20
+* [Crecidita.](https://asavecesunafoto.wordpress.com/2026/07/21/crecidita/) - 2026-07-22
+* [The Fable 5 Export Controls Harm US Cyber Defense](https://www.lutasecurity.com/post/the-fable-5-export-controls-harm-us-cyber-defense) - 2026-07-22
+* [Temporary Cloudflare Accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/) - 2026-07-21
+* [Prompt Injection as Role Confusion](https://role-confusion.github.io/) - 2026-07-21
+* [Cúpulas](https://www.flickr.com/photos/fernand0/55385328098/) - 2026-07-21
 <!-- mastodon ends -->
 
 ---
