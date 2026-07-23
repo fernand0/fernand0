@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-22
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-21
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-23
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-22
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-22
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-07-21
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-21
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-20
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-07-20
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
@@ -29,7 +29,6 @@
 
 * [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-07-08
 * [AB](https://github.com/simber72/AB),  No description - 2026-07-02
-* [botse.github.io](https://github.com/botse/botse.github.io),  No description - 2026-04-09
 <!-- recent_releases ends -->
 
 # On my blogs
@@ -76,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Crecidita.](https://asavecesunafoto.wordpress.com/2026/07/21/crecidita/) - 2026-07-22
-* [The Fable 5 Export Controls Harm US Cyber Defense](https://www.lutasecurity.com/post/the-fable-5-export-controls-harm-us-cyber-defense) - 2026-07-22
-* [Temporary Cloudflare Accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/) - 2026-07-21
-* [Prompt Injection as Role Confusion](https://role-confusion.github.io/) - 2026-07-21
-* [Cúpulas](https://www.flickr.com/photos/fernand0/55385328098/) - 2026-07-21
+* [The Fable 5 Export Controls Harm US Cyber Defense](https://www.lutasecurity.com/post/the-fable-5-export-controls-harm-us-cyber-defense) - 2026-07-23
+* [A montones.](https://asavecesunafoto.wordpress.com/2026/07/22/a-montones/) - 2026-07-23
+* [Temporary Cloudflare Accounts for AI agents](https://blog.cloudflare.com/temporary-accounts/) - 2026-07-22
+* [The new Foursquare Swarm app is now live on Android! 3 engineers on our team re-wrote a 10 year old app in 3 months. No token-maxxing; just disciplined engineering with AI tools. Download the new… | Vikram Gundeti](https://www.linkedin.com/posts/vikramgundeti_the-new-foursquare-swarm-app-is-now-live-activity-7482859157436604416-3n0P) - 2026-07-22
+* [Alero y columnas](https://www.flickr.com/photos/fernand0/55385591580/) - 2026-07-22
 <!-- mastodon ends -->
 
 ---
