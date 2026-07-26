@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-25
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-24
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-24
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-26
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-25
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-25
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-25
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-07-24
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-24
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-07-20
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Too Much Crypto](https://eprint.iacr.org/2019/1492) - 2026-07-25
-* [Crecimiento y propagación.](https://asavecesunafoto.wordpress.com/2026/07/24/crecimiento-y-propagacion/) - 2026-07-25
-* [Monegros Desert Festival 2026](https://monegrosfestival.com/) - 2026-07-24
-* [Azulejos con motivos vegetales](https://www.flickr.com/photos/fernand0/55409659725/) - 2026-07-24
-* [The Web Is Being Made Accessible for AI, Not People](https://www.techpolicy.press/the-web-is-being-made-accessible-for-ai-not-people/) - 2026-07-24
+* [Whither Computing?](https://cacm.acm.org/opinion/whither-computing/) - 2026-07-26
+* [Cold brew. Pruebas.](https://asavecesunafoto.wordpress.com/2026/07/25/cold-brew-pruebas/) - 2026-07-26
+* [2... 1/2 THEN 3... 1/6 THEN 5 ....1/15 and so on. And So On?](https://blog.computationalcomplexity.org/2026/07/2-12-then-3-16-then-5-115-and-so-on-and.html) - 2026-07-25
+* [Inkling: Our open-weights model](https://thinkingmachines.ai/news/introducing-inkling/) - 2026-07-25
+* [Your EPUB Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) - 2026-07-25
 <!-- mastodon ends -->
 
 ---
