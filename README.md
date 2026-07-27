@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-26
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-25
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-25
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-27
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-26
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-07-26
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-26
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-07-24
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-07-20
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Whither Computing?](https://cacm.acm.org/opinion/whither-computing/) - 2026-07-26
-* [Cold brew. Pruebas.](https://asavecesunafoto.wordpress.com/2026/07/25/cold-brew-pruebas/) - 2026-07-26
-* [2... 1/2 THEN 3... 1/6 THEN 5 ....1/15 and so on. And So On?](https://blog.computationalcomplexity.org/2026/07/2-12-then-3-16-then-5-115-and-so-on-and.html) - 2026-07-25
-* [Inkling: Our open-weights model](https://thinkingmachines.ai/news/introducing-inkling/) - 2026-07-25
-* [Your EPUB Is Fine. Kobo Disagrees. Blame Adobe](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/) - 2026-07-25
+* [Corrector ortográfico: no me cambies casica por casita, primer](aviso.) - 2026-07-27
+* [Los fundadores del grupo Manacor rinden un homenaje a Luis Margalejo](https://www.diariodelaltoaragon.es/noticias/cultura/2025/12/25/los-fundadores-del-grupo-manacor-rinden-un-homenaje-a-luis-margalejo-1881346-daa.html) - 2026-07-27
+* [Museo del tren. Campus de Fuenlabrada de la URJC.](https://asavecesunafoto.wordpress.com/2026/07/26/museo-del-tren-campus-de-fuenlabrada-de-la-urjc/) - 2026-07-27
+* [Roban la escultura de Orwell del parque Miguel Servet, que costó cerca de 8.000 euros](https://www.diariodelaltoaragon.es/noticias/huesca/2026/07/16/roban-una-escultura-orwell-parque-miguel-servet-que-costo-cerca-8-000-euros-2037668.html) - 2026-07-26
+* [Just some guy with a blog](https://thonyc.wordpress.com/2026/07/02/just-some-guy-with-a-blog/) - 2026-07-26
 <!-- mastodon ends -->
 
 ---
