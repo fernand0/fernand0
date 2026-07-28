@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-27
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-27
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-07-27
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-27
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-26
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-26
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-07-26
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-26
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-07-24
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -48,6 +48,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [Las inteligencias artificiales y sus recomendaciones](https://fernand0.github.io/recomendaciones-seguridad/) - 2026-07-27
+
 * [¿Seguridad o prestaciones? Compromisos](https://fernand0.github.io/seguridad-prestaciones/) - 2026-07-20
 
 * [Deepfakes para engañar a las empresas. El caso de LastPass](https://fernand0.github.io/lastpass-deepfakes/) - 2026-05-26
@@ -56,9 +58,9 @@
 
 * [Mensajes que misteriosamente no llegan](https://fernand0.github.io/un-fallo-curioso/) - 2026-04-09
 
-* [IMAP: leyendo correos desde nuestra terminal](https://fernand0.github.io/protocolo-correo/) - 2026-03-23
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [La soledad y los robots charlatanes](https://blog.elmundoesimperfecto.com/2026/07/27/soledad-IAs/) - 2026-07-27
 
 * [Bots ¿con o contra bots?](https://blog.elmundoesimperfecto.com/2026/07/20/bots-contra-bots/) - 2026-07-20
 
@@ -67,19 +69,17 @@
 * [La IA, dónde gana y dónde le ganamos](https://blog.elmundoesimperfecto.com/2026/05/26/valor-IA/) - 2026-05-26
 
 * [Muchos usuarios odian a sus ordenadores](https://blog.elmundoesimperfecto.com/2026/04/28/medicos-ordenadores/) - 2026-04-28
-
-* [En la Casa de la Mujer hablando de IA](https://blog.elmundoesimperfecto.com/2026/04/16/maria-moliner-ia/) - 2026-04-16
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Corrector ortográfico: no me cambies casica por casita, primer](aviso.) - 2026-07-27
-* [Los fundadores del grupo Manacor rinden un homenaje a Luis Margalejo](https://www.diariodelaltoaragon.es/noticias/cultura/2025/12/25/los-fundadores-del-grupo-manacor-rinden-un-homenaje-a-luis-margalejo-1881346-daa.html) - 2026-07-27
-* [Museo del tren. Campus de Fuenlabrada de la URJC.](https://asavecesunafoto.wordpress.com/2026/07/26/museo-del-tren-campus-de-fuenlabrada-de-la-urjc/) - 2026-07-27
-* [Roban la escultura de Orwell del parque Miguel Servet, que costó cerca de 8.000 euros](https://www.diariodelaltoaragon.es/noticias/huesca/2026/07/16/roban-una-escultura-orwell-parque-miguel-servet-que-costo-cerca-8-000-euros-2037668.html) - 2026-07-26
-* [Just some guy with a blog](https://thonyc.wordpress.com/2026/07/02/just-some-guy-with-a-blog/) - 2026-07-26
+* [Como un alien.](https://asavecesunafoto.wordpress.com/2026/07/27/como-un-alien/) - 2026-07-28
+* [De rutas MTB entre amigos a una comunidad global: así cum...](https://www.mountainbike.es/noticias/wikiloc-20-aniversario-20-millones-usuarios-rutas-mtb_329855_102.html) - 2026-07-28
+* [20 years Wikiloc](https://www.wikiloc.com/wikiloc/about-us.do) - 2026-07-27
+* [California drivers accuse gas station operators of using AI to boost pump prices — lawsuit seeks damages for antitrust violations](https://www.tomshardware.com/tech-industry/artificial-intelligence/california-drivers-accuse-gas-station-operators-of-using-ai-to-boost-pump-prices-lawsuit-seeks-damages-for-antitrust-violations) - 2026-07-27
+* [Las inteligencias artificiales y sus recomendaciones](https://fernand0.github.io//recomendaciones-seguridad/) - 2026-07-27
 <!-- mastodon ends -->
 
 ---
