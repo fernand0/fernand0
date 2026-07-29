@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-28
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-27
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-29
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-28
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-07-27
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-27
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-26
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-07-24
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Como un alien.](https://asavecesunafoto.wordpress.com/2026/07/27/como-un-alien/) - 2026-07-28
-* [De rutas MTB entre amigos a una comunidad global: así cum...](https://www.mountainbike.es/noticias/wikiloc-20-aniversario-20-millones-usuarios-rutas-mtb_329855_102.html) - 2026-07-28
-* [20 years Wikiloc](https://www.wikiloc.com/wikiloc/about-us.do) - 2026-07-27
-* [California drivers accuse gas station operators of using AI to boost pump prices — lawsuit seeks damages for antitrust violations](https://www.tomshardware.com/tech-industry/artificial-intelligence/california-drivers-accuse-gas-station-operators-of-using-ai-to-boost-pump-prices-lawsuit-seeks-damages-for-antitrust-violations) - 2026-07-27
-* [Las inteligencias artificiales y sus recomendaciones](https://fernand0.github.io//recomendaciones-seguridad/) - 2026-07-27
+* [Q2 2026 Threat Review](https://www.uvcyber.com/resources/guides/q2-2026-threat-review) - 2026-07-29
+* [Girasoles.](https://asavecesunafoto.wordpress.com/2026/07/28/girasoles/) - 2026-07-29
+* [Text salting: How hidden text evades AI email security](https://blog.barracuda.com/2026/07/16/text-salting-ai-email-security) - 2026-07-28
+* [Philip Morris a utilisé l'IA pour inonder la consultation européenne sur le tabac](https://www.generationsanstabac.org/en/actualites/philip-morris-a-utilise-lia-pour-inonder-la-consultation-europeenne-sur-le-tabac/) - 2026-07-28
+* [GitHub - microsoft/comic-chat: Source code for the Microsoft Comic Chat IRC client](https://github.com/microsoft/comic-chat) - 2026-07-28
 <!-- mastodon ends -->
 
 ---
