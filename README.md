@@ -14,16 +14,16 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-29
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-30
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-29
+* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-07-29
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-29
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-28
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-28
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-28
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-07-27
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-07-24
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
-* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-05-08
 
 ## repositoriesContributedTo
 
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Q2 2026 Threat Review](https://www.uvcyber.com/resources/guides/q2-2026-threat-review) - 2026-07-29
-* [Girasoles.](https://asavecesunafoto.wordpress.com/2026/07/28/girasoles/) - 2026-07-29
-* [Text salting: How hidden text evades AI email security](https://blog.barracuda.com/2026/07/16/text-salting-ai-email-security) - 2026-07-28
-* [Philip Morris a utilisé l'IA pour inonder la consultation européenne sur le tabac](https://www.generationsanstabac.org/en/actualites/philip-morris-a-utilise-lia-pour-inonder-la-consultation-europeenne-sur-le-tabac/) - 2026-07-28
-* [GitHub - microsoft/comic-chat: Source code for the Microsoft Comic Chat IRC client](https://github.com/microsoft/comic-chat) - 2026-07-28
+* [The Lost Joy of Music Piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming) - 2026-07-30
+* [Abundancia.](https://asavecesunafoto.wordpress.com/2026/07/29/abundancia/) - 2026-07-30
+* [The Explosive Diarrhea Outbreak Is About to Get Much Bigger](https://www.wired.com/story/explosive-diarrhea-outbreak-about-to-get-bigger/) - 2026-07-29
+* [Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs](https://arxiv.org/abs/2604.21751) - 2026-07-29
+* [A hard drive reliability check on 341,263 drives, from 4TB to past 20TB - Help Net Security](https://www.helpnetsecurity.com/2026/07/17/hard-drive-reliability-2026-4tb-20tb/) - 2026-07-29
 <!-- mastodon ends -->
 
 ---
