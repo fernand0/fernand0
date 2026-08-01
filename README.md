@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-07-31
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-01
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-31
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-07-31
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-31
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-30
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-30
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-07-30
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-30
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-07-29
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-07-27
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Everyone knows your location](https://timsh.org/tracking-myself-down-through-in-app-ads/) - 2026-07-31
-* [Els informàtics que han posat Rodalies al descobert: "És pitjor del que pensava" - 3CatInfo](https://www.3cat.cat/3catinfo/els-informatics-que-han-posat-rodalies-al-descobert-es-pitjor-del-que-pensava/noticia/3421013/) - 2026-07-30
-* [Els informàtics que han posat Rodalies al descobert: "És pitjor del que pensava" - 3CatInfo](https://www.3cat.cat/3catinfo/els-informatics-que-han-posat-rodalies-al-descobert-es-pitjor-del-que-pensava/noticia/3421013/) - 2026-07-30
-* [Unexpected events and prosocial behavior: the Batman effect](https://www.nature.com/articles/s44184-025-00171-5) - 2026-07-30
-* [Romania's land registry hit by cyber attack, data allegedly for sale - Help Net Security](https://www.helpnetsecurity.com/2026/07/16/romania-ancpi-cyber-attack/) - 2026-07-30
+* [140 años de historia · Cámara de Zaragoza](https://www.camarazaragoza.com/140-anos/) - 2026-08-01
+* [Ghost Without Shell: Measuring Non-Interactive SSH Attacks on Honeypots](https://arxiv.org/abs/2606.28006) - 2026-07-31
+* [Comunidad ¡Blog!¡Blog! en Mastodon](https://matizeta.com/2026/07/08/comunidad-blogblog-en-mastodon/) - 2026-07-31
+* [Aldi carga contra los descuentos de las apps de supermercados porque han creado una "sociedad de dos clases"](https://www.xatakamovil.com/movil-y-sociedad/aldi-carga-descuentos-apps-supermercados-porque-han-creado-sociedad-dos-clases) - 2026-07-31
+* [Ingeniería agéntica seria (desde los fundamentos). Convirtiendo tokens en valor real. · Luma](https://luma.com/h6z7na7z) - 2026-07-31
 <!-- mastodon ends -->
 
 ---
