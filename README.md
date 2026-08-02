@@ -14,16 +14,16 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-01
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-07-31
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-07-31
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-07-31
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-02
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-01
+* [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-01
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-01
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-07-30
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-07-29
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-07-27
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
-* [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-05-08
 
 ## repositoriesContributedTo
 
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [140 años de historia · Cámara de Zaragoza](https://www.camarazaragoza.com/140-anos/) - 2026-08-01
-* [Ghost Without Shell: Measuring Non-Interactive SSH Attacks on Honeypots](https://arxiv.org/abs/2606.28006) - 2026-07-31
-* [Comunidad ¡Blog!¡Blog! en Mastodon](https://matizeta.com/2026/07/08/comunidad-blogblog-en-mastodon/) - 2026-07-31
-* [Aldi carga contra los descuentos de las apps de supermercados porque han creado una "sociedad de dos clases"](https://www.xatakamovil.com/movil-y-sociedad/aldi-carga-descuentos-apps-supermercados-porque-han-creado-sociedad-dos-clases) - 2026-07-31
-* [Ingeniería agéntica seria (desde los fundamentos). Convirtiendo tokens en valor real. · Luma](https://luma.com/h6z7na7z) - 2026-07-31
+* [Poco a poco.](https://asavecesunafoto.wordpress.com/2026/08/02/poco-a-poco/) - 2026-08-02
+* [IA soberana en Zerolynx: por qué entrenamos nuestros propios modelos y los ejecutamos en casa](https://www.flu-project.com/2026/07/ia-soberana-zerolynx.html) - 2026-08-02
+* [¿No hay negacionistas del](eclipse?) - 2026-08-01
+* [Inside the Volunteer Effort to Fly the First Lear Jet Again](https://aeroxplorer.com/articles/inside-the-volunteer-effort-to-fly-the-first-lear-jet-again.php) - 2026-08-01
+* [Sellos. 70 aniversario del sello Europa.](https://asavecesunafoto.wordpress.com/2026/08/01/sellos-70-aniversario-del-sello-europa/) - 2026-08-01
 <!-- mastodon ends -->
 
 ---
