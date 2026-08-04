@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-03
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-02
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-02
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-04
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-03
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-03
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-03
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-01
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-07-29
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Why AI Needs a "Genie Coefficient"](https://spectrum.ieee.org/ai-agent-benchmark) - 2026-08-03
-* [Improving Transparency and Assurance in the Web PKI: Mozilla Root Store Policy v3.1 – Mozilla Security Blog](https://blog.mozilla.org/security/2026/06/29/improving-transparency-and-assurance-in-the-web-pki-mozilla-root-store-policy-v3-1/) - 2026-08-02
-* [Por el barrio.](https://asavecesunafoto.wordpress.com/2026/08/02/por-el-barrio/) - 2026-08-02
-* [Big Tech companies defend open-weight AI models](https://www.politico.com/news/2026/07/24/big-tech-companies-defend-open-weight-ai-models-01010981) - 2026-08-02
-* [Nvidia, Microsoft, Meta back open AI. OpenAI didn't.](https://thenextweb.com/news/open-weights-american-ai-leadership-letter-huang-nvidia-openai-absent) - 2026-08-02
+* [Cybersecurity and the Gap Between Skill and Ability - Schneier on Security](https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html) - 2026-08-04
+* [Los restos de la floración y crecimiento.](https://asavecesunafoto.wordpress.com/2026/08/03/los-restos-de-la-floracion-y-crecimiento/) - 2026-08-03
+* [The Language of AI Could Change How Humans Speak - Schneier on Security](https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html) - 2026-08-03
+* [Organizaciones civiles ponen denuncia ante la CE](https://internautas.org/denuncia-ce/) - 2026-08-03
+* [Daga con esmeraldas](https://www.flickr.com/photos/fernand0/55409389693/) - 2026-08-03
 <!-- mastodon ends -->
 
 ---
