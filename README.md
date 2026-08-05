@@ -14,14 +14,14 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-04
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-03
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-03
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-05
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-04
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-04
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-04
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-04
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-01
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-07-29
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-07-27
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
 
@@ -48,6 +48,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [Inmutabilidad: control, reproducibilidad… ¿pagando un precio?](https://fernand0.github.io/linux-inmutable/) - 2026-08-04
+
 * [Las inteligencias artificiales y sus recomendaciones](https://fernand0.github.io/recomendaciones-seguridad/) - 2026-07-27
 
 * [¿Seguridad o prestaciones? Compromisos](https://fernand0.github.io/seguridad-prestaciones/) - 2026-07-20
@@ -56,9 +58,9 @@
 
 * [La seguridad en los tiempos de la IA y la sostenibilidad del software libre](https://fernand0.github.io/fallos-de-seguridad-ia/) - 2026-04-28
 
-* [Mensajes que misteriosamente no llegan](https://fernand0.github.io/un-fallo-curioso/) - 2026-04-09
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [La soledad está suponiendo un problema en algunos países. Sobre todo si no es deseada.](https://blog.elmundoesimperfecto.com/2026/08/04/soledad/) - 2026-08-04
 
 * [La soledad y los robots charlatanes](https://blog.elmundoesimperfecto.com/2026/07/27/soledad-IAs/) - 2026-07-27
 
@@ -67,19 +69,17 @@
 * [En la I Jornada sobre Software Libre e Inteligencia Artificial Abierta](https://blog.elmundoesimperfecto.com/2026/07/06/en-seLIA/) - 2026-07-06
 
 * [La IA, dónde gana y dónde le ganamos](https://blog.elmundoesimperfecto.com/2026/05/26/valor-IA/) - 2026-05-26
-
-* [Muchos usuarios odian a sus ordenadores](https://blog.elmundoesimperfecto.com/2026/04/28/medicos-ordenadores/) - 2026-04-28
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Cybersecurity and the Gap Between Skill and Ability - Schneier on Security](https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html) - 2026-08-04
-* [Los restos de la floración y crecimiento.](https://asavecesunafoto.wordpress.com/2026/08/03/los-restos-de-la-floracion-y-crecimiento/) - 2026-08-03
-* [The Language of AI Could Change How Humans Speak - Schneier on Security](https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html) - 2026-08-03
-* [Organizaciones civiles ponen denuncia ante la CE](https://internautas.org/denuncia-ce/) - 2026-08-03
-* [Daga con esmeraldas](https://www.flickr.com/photos/fernand0/55409389693/) - 2026-08-03
+* [Factoring "short-sleeve" RSA keys with polynomials](https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/) - 2026-08-05
+* [Un dibujico, generado con ayuda de](gemini.) - 2026-08-04
+* [‘No plate? No problem’: High-tech cameras capture more than license plates](https://amp.newsobserver.com/news/politics-government/article315990932.html) - 2026-08-04
+* [Espadas y otras armas](https://www.flickr.com/photos/fernand0/55408303622/) - 2026-08-04
+* [Fresas.](https://asavecesunafoto.wordpress.com/2026/08/04/fresas/) - 2026-08-04
 <!-- mastodon ends -->
 
 ---
