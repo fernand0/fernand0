@@ -14,13 +14,13 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-05
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-04
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-06
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-05
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-05
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-05
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-05
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-04
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-04
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-04
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-01
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-07-29
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Factoring "short-sleeve" RSA keys with polynomials](https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/) - 2026-08-05
-* [Un dibujico, generado con ayuda de](gemini.) - 2026-08-04
-* [‘No plate? No problem’: High-tech cameras capture more than license plates](https://amp.newsobserver.com/news/politics-government/article315990932.html) - 2026-08-04
-* [Espadas y otras armas](https://www.flickr.com/photos/fernand0/55408303622/) - 2026-08-04
-* [Fresas.](https://asavecesunafoto.wordpress.com/2026/08/04/fresas/) - 2026-08-04
+* [Llena de polvo.](https://asavecesunafoto.wordpress.com/2026/08/05/llena-de-polvo/) - 2026-08-06
+* [Historia - Cabrero e Hijos, S.A.](https://www.cabreroehijos.es/historia/) - 2026-08-06
+* [Natural Human Thinking - Event Storming vs Event Modeling](https://eventmodeling.org/posts/human-natural-thinking/) - 2026-08-05
+* [Plato decorado](https://www.flickr.com/photos/fernand0/55409442859/) - 2026-08-05
+* [Model Context Protocol (MCP) vs. RAG Retrieval Augmented Generation(RAG)](https://medium.com/@tahirbalarabe2/model-context-protocol-mcp-vs-rag-retrieval-augmented-generation-rag-58f430377745) - 2026-08-05
 <!-- mastodon ends -->
 
 ---
