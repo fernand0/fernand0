@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-06
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-07
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-06
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-06
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-05
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-05
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-05
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-05
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-04
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-07-29
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Llena de polvo.](https://asavecesunafoto.wordpress.com/2026/08/05/llena-de-polvo/) - 2026-08-06
-* [Historia - Cabrero e Hijos, S.A.](https://www.cabreroehijos.es/historia/) - 2026-08-06
-* [Natural Human Thinking - Event Storming vs Event Modeling](https://eventmodeling.org/posts/human-natural-thinking/) - 2026-08-05
-* [Plato decorado](https://www.flickr.com/photos/fernand0/55409442859/) - 2026-08-05
-* [Model Context Protocol (MCP) vs. RAG Retrieval Augmented Generation(RAG)](https://medium.com/@tahirbalarabe2/model-context-protocol-mcp-vs-rag-retrieval-augmented-generation-rag-58f430377745) - 2026-08-05
+* [How I Lost Faith in Google](https://www.newyorker.com/culture/the-weekend-essay/the-voice-of-google) - 2026-08-07
+* [Espada](https://www.flickr.com/photos/fernand0/55409389958/) - 2026-08-07
+* [Generative AI Is an Engineering Disaster](https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/) - 2026-08-06
+* [De visita.](https://asavecesunafoto.wordpress.com/2026/08/06/de-visita/) - 2026-08-06
+* [It's getting harder to focus every day](https://glyphack.com/attention/) - 2026-08-06
 <!-- mastodon ends -->
 
 ---
