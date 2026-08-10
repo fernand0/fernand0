@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-09
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-10
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-09
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-09
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-08
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-08
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-08
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-08
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-04
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-07-29
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Leading AI models (even Grok) are all a bunch of leftist punks](https://www.theregister.com/ai-and-ml/2026/07/27/leading-ai-models-even-grok-are-all-a-bunch-of-leftist-punks/5279208) - 2026-08-09
-* [Arqueogastronomía.](https://asavecesunafoto.wordpress.com/2026/08/08/arqueogastronomia/) - 2026-08-08
-* [SpaceX open sources Grok Build in same week company was found beaming users' repos to the cloud](https://www.theregister.com/ai-and-ml/2026/07/16/spacex-open-sources-grok-build-after-data-retention-furore/5272333) - 2026-08-08
-* [You Can Finally Trust All Your Money to X, the Everything App](https://gizmodo.com/you-can-finally-trust-all-your-money-to-x-the-everything-app-2000791591) - 2026-08-08
-* [À Rouen, les artistes font plier la mairie : l’IA ne remplacera plus les illustrateurs sur les affiches municipales](https://lareleveetlapeste.fr/a-rouen-les-artistes-font-plier-la-mairie-lia-ne-remplacera-plus-les-illustrateurs-sur-les-affiches-municipales/) - 2026-08-08
+* [Iran abused mobile networks' vulnerabilities to locate US military in the Middle East, report says | TechCrunch](https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/) - 2026-08-10
+* [En fila.](https://asavecesunafoto.wordpress.com/2026/08/09/en-fila/) - 2026-08-09
+* [FreeBSD 16 Retires The Last Of Its GPL Code From Its Base System](https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free) - 2026-08-09
+* [Festival Amante 2026 | Borja, Zaragoza | 31 de julio, 1 y 2 de agosto](https://festivalamante.org/) - 2026-08-09
+* [New normal? The US has suffered a major power outage EVERY month of 2026](https://electrek.co/2026/07/15/new-normal-the-us-has-suffered-a-major-power-outage-every-month-of-2026/) - 2026-08-09
 <!-- mastodon ends -->
 
 ---
