@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-10
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-09
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-09
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-11
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-10
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-10
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-10
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-10
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-08
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-08
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-04
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-07-29
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
@@ -48,6 +48,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [La IA genera más fallos de seguridad y a más velocidad](https://fernand0.github.io/ai-codigo-vulnerable/) - 2026-08-10
+
 * [Inmutabilidad: control, reproducibilidad… ¿pagando un precio?](https://fernand0.github.io/linux-inmutable/) - 2026-08-04
 
 * [Las inteligencias artificiales y sus recomendaciones](https://fernand0.github.io/recomendaciones-seguridad/) - 2026-07-27
@@ -56,9 +58,9 @@
 
 * [Deepfakes para engañar a las empresas. El caso de LastPass](https://fernand0.github.io/lastpass-deepfakes/) - 2026-05-26
 
-* [La seguridad en los tiempos de la IA y la sostenibilidad del software libre](https://fernand0.github.io/fallos-de-seguridad-ia/) - 2026-04-28
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [Copilotos vs asistentes: la IA, el conocimiento, los expertos y las ayudas](https://blog.elmundoesimperfecto.com/2026/08/10/ia-asistente-sustituto/) - 2026-08-10
 
 * [La soledad está suponiendo un problema en algunos países. Sobre todo si no es deseada.](https://blog.elmundoesimperfecto.com/2026/08/04/soledad/) - 2026-08-04
 
@@ -67,19 +69,17 @@
 * [Bots ¿con o contra bots?](https://blog.elmundoesimperfecto.com/2026/07/20/bots-contra-bots/) - 2026-07-20
 
 * [En la I Jornada sobre Software Libre e Inteligencia Artificial Abierta](https://blog.elmundoesimperfecto.com/2026/07/06/en-seLIA/) - 2026-07-06
-
-* [La IA, dónde gana y dónde le ganamos](https://blog.elmundoesimperfecto.com/2026/05/26/valor-IA/) - 2026-05-26
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Iran abused mobile networks' vulnerabilities to locate US military in the Middle East, report says | TechCrunch](https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/) - 2026-08-10
-* [En fila.](https://asavecesunafoto.wordpress.com/2026/08/09/en-fila/) - 2026-08-09
-* [FreeBSD 16 Retires The Last Of Its GPL Code From Its Base System](https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free) - 2026-08-09
-* [Festival Amante 2026 | Borja, Zaragoza | 31 de julio, 1 y 2 de agosto](https://festivalamante.org/) - 2026-08-09
-* [New normal? The US has suffered a major power outage EVERY month of 2026](https://electrek.co/2026/07/15/new-normal-the-us-has-suffered-a-major-power-outage-every-month-of-2026/) - 2026-08-09
+* [Philip Glass: Glassworks](https://youtube.com/playlist?list=OLAK5uy_lffpXxvAu_FgHTD3y-9USTYdnKdN6bS7g) - 2026-08-11
+* [Playwright Automation Framework: Tutorial [2026] | BrowserStack](https://www.browserstack.com/guide/playwright-tutorial) - 2026-08-10
+* [Clavelina.](https://asavecesunafoto.wordpress.com/2026/08/10/clavelina/) - 2026-08-10
+* [La IA genera más fallos de seguridad y a más velocidad](https://fernand0.github.io//ai-codigo-vulnerable/) - 2026-08-10
+* [Copilotos vs asistentes: la IA, el conocimiento, los expertos y las ayudas](https://blog.elmundoesimperfecto.com/2026/08/10/ia-asistente-sustituto/) - 2026-08-10
 <!-- mastodon ends -->
 
 ---
