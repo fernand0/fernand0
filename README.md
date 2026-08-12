@@ -14,14 +14,14 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-11
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-10
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-12
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-11
+* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-11
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-10
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-10
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-10
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-08
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
-* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-07-29
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 * [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
 
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Philip Glass: Glassworks](https://youtube.com/playlist?list=OLAK5uy_lffpXxvAu_FgHTD3y-9USTYdnKdN6bS7g) - 2026-08-11
-* [Playwright Automation Framework: Tutorial [2026] | BrowserStack](https://www.browserstack.com/guide/playwright-tutorial) - 2026-08-10
-* [Clavelina.](https://asavecesunafoto.wordpress.com/2026/08/10/clavelina/) - 2026-08-10
-* [La IA genera más fallos de seguridad y a más velocidad](https://fernand0.github.io//ai-codigo-vulnerable/) - 2026-08-10
-* [Copilotos vs asistentes: la IA, el conocimiento, los expertos y las ayudas](https://blog.elmundoesimperfecto.com/2026/08/10/ia-asistente-sustituto/) - 2026-08-10
+* [Why Small AI Models Could Power Health Care Where Big Tech Cannot](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals) - 2026-08-12
+* [Decline of Ph.D. Admissions Could Imperil a ‘Generation of New Talent’](https://www.nytimes.com/2026/07/06/us/research-universities-fewer-phds-science.html) - 2026-08-11
+* [Tiempo de nuevas palas.](https://asavecesunafoto.wordpress.com/2026/08/11/tiempo-de-nuevas-palas/) - 2026-08-11
+* [Amazon will stop accepting new customers for Mechanical Turk | TechCrunch](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/) - 2026-08-11
+* [MAR Festival - MAR (Mujeres Artistas Rurales)](https://mujeresartistasrurales.es/el-festival/) - 2026-08-11
 <!-- mastodon ends -->
 
 ---
