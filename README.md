@@ -14,16 +14,16 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-12
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-11
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-13
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-12
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-12
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-12
+* [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-11
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-10
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-08
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
-* [near-sky](https://github.com/fernand0/near-sky),  It uses opensky and flightradar to check for planes near or around some position. - 2026-06-14
 
 ## repositoriesContributedTo
 
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Why Small AI Models Could Power Health Care Where Big Tech Cannot](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals) - 2026-08-12
-* [Decline of Ph.D. Admissions Could Imperil a ‘Generation of New Talent’](https://www.nytimes.com/2026/07/06/us/research-universities-fewer-phds-science.html) - 2026-08-11
-* [Tiempo de nuevas palas.](https://asavecesunafoto.wordpress.com/2026/08/11/tiempo-de-nuevas-palas/) - 2026-08-11
-* [Amazon will stop accepting new customers for Mechanical Turk | TechCrunch](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/) - 2026-08-11
-* [MAR Festival - MAR (Mujeres Artistas Rurales)](https://mujeresartistasrurales.es/el-festival/) - 2026-08-11
+* [Russian Hackers Accused of Destructive Attack on Jaguar Land Rover](https://www.infosecurity-magazine.com/news/russian-hackers-destructive-jaguar/) - 2026-08-13
+* [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z) - 2026-08-12
+* [Flores y visitantes.](https://asavecesunafoto.wordpress.com/2026/08/12/flores-y-visitantes/) - 2026-08-12
+* [Flexicar, sancionada con 680.000 euros por la brecha de seguridad que sufrió tras integrar su sucursal de Iberia](https://confilegal.com/20260728-flexicar-sancionada-con-680-000-euros-por-la-brecha-de-seguridad-que-sufrio-tras-integrar-su-sucursal-de-iberia/) - 2026-08-12
+* [Meta is reportedly building its own cloud business - Engadget](https://www.engadget.com/2206249/meta-is-reportedly-building-its-own-cloud-business/) - 2026-08-12
 <!-- mastodon ends -->
 
 ---
