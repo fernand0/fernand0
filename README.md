@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-14
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-13
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-13
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-13
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-12
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-12
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-12
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-10
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Russian Hackers Accused of Destructive Attack on Jaguar Land Rover](https://www.infosecurity-magazine.com/news/russian-hackers-destructive-jaguar/) - 2026-08-13
-* [AI is set to completely transform cybersecurity — here’s how researchers must prepare](https://www.nature.com/articles/d41586-026-02214-z) - 2026-08-12
-* [Flores y visitantes.](https://asavecesunafoto.wordpress.com/2026/08/12/flores-y-visitantes/) - 2026-08-12
-* [Flexicar, sancionada con 680.000 euros por la brecha de seguridad que sufrió tras integrar su sucursal de Iberia](https://confilegal.com/20260728-flexicar-sancionada-con-680-000-euros-por-la-brecha-de-seguridad-que-sufrio-tras-integrar-su-sucursal-de-iberia/) - 2026-08-12
-* [Meta is reportedly building its own cloud business - Engadget](https://www.engadget.com/2206249/meta-is-reportedly-building-its-own-cloud-business/) - 2026-08-12
+* [Ceuta como futuro - Fernando Trujillo | De estranjis](https://fernandotrujillo.es/ceuta-como-futuro/) - 2026-08-14
+* [Marruecos tantea, sus aliados castigan](https://www.lavanguardia.com/politica/20260731/11605337/marruecos-tantea-aliados-castigan.amp.html) - 2026-08-13
+* [Chrome is using AI to fix hundreds of bugs and eliminate full browser restarts - PiunikaWeb](https://piunikaweb.com/2026/07/31/chrome-is-using-ai-to-fix-bugs-browser-restarts/) - 2026-08-13
+* [En el cementerio.](https://asavecesunafoto.wordpress.com/2026/08/13/en-el-cementerio/) - 2026-08-13
+* [Hackers targeted municipal water systems in 7 states this week, FBI says](https://www.nbcnews.com/tech/security/hackers-targeted-municipal-water-systems-7-states-week-fbi-says-rcna590210) - 2026-08-13
 <!-- mastodon ends -->
 
 ---
