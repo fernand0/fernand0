@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-14
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-14
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-14
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-13
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-13
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-12
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Ceuta como futuro - Fernando Trujillo | De estranjis](https://fernandotrujillo.es/ceuta-como-futuro/) - 2026-08-14
-* [Marruecos tantea, sus aliados castigan](https://www.lavanguardia.com/politica/20260731/11605337/marruecos-tantea-aliados-castigan.amp.html) - 2026-08-13
-* [Chrome is using AI to fix hundreds of bugs and eliminate full browser restarts - PiunikaWeb](https://piunikaweb.com/2026/07/31/chrome-is-using-ai-to-fix-bugs-browser-restarts/) - 2026-08-13
-* [En el cementerio.](https://asavecesunafoto.wordpress.com/2026/08/13/en-el-cementerio/) - 2026-08-13
-* [Hackers targeted municipal water systems in 7 states this week, FBI says](https://www.nbcnews.com/tech/security/hackers-targeted-municipal-water-systems-7-states-week-fbi-says-rcna590210) - 2026-08-13
+* [Public Transport - Don't Make Me Think!](https://shkspr.mobi/blog/2026/07/public-transport-dont-make-me-think/) - 2026-08-15
+* [Monstruosamente monstruosa.](https://asavecesunafoto.wordpress.com/2026/08/14/monstruosamente-monstruosa/) - 2026-08-14
+* [Scattered thoughts on social geolocation](https://shkspr.mobi/blog/2026/07/scattered-thoughts-on-social-geolocation/) - 2026-08-14
+* [Announcing new Terms of Service for our servers](https://blog.joinmastodon.org/2026/07/announcing-new-terms-of-service-for-our-servers/) - 2026-08-14
+* [US refunds $81bn in Trump tariffs after supreme court ruled them illegal](https://www.theguardian.com/us-news/2026/jul/14/trump-tariffs-us-refunds) - 2026-08-14
 <!-- mastodon ends -->
 
 ---
