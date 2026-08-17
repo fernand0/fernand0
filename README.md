@@ -14,16 +14,16 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-16
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-15
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-15
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-15
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-17
+* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-08-16
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-16
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-16
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-16
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-16
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-10
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
-* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-06-17
 
 ## repositoriesContributedTo
 
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [A bug which only affected left-handed users](https://shkspr.mobi/blog/2026/07/a-bug-which-only-affected-left-handed-users/) - 2026-08-16
-* [Jimi Hendrix Plays “Sgt. Pepper’s Lonely Hearts Club Band” for The Beatles, Just Three Days After the Album’s Release (1967)](https://www.openculture.com/2026/07/jimi-hendrix-plays-sgt-peppers-lonely-hearts-club-band-for-the-beatles.html) - 2026-08-15
-* [Celebrando el fin de curso.](https://asavecesunafoto.wordpress.com/2026/08/15/celebrando-el-fin-de-curso/) - 2026-08-15
-* [Your smart TV may be scraping the web for AI](https://www.lowpass.cc/p/smart-tv-web-scraping-ai-bright-data-proxy-networks) - 2026-08-15
-* [Software for One - Adam Waxman](https://www.ajwaxman.com/writing/software-for-one) - 2026-08-15
+* [JCSD'26 - Programa](https://www.jcsd.es/programa) - 2026-08-17
+* [Soberanía Digital Europa 2026 - Fundación Telefónica España](https://www.fundaciontelefonica.com/soberania-digital-europa-2026/) - 2026-08-16
+* [El Monasterio de San Juan de la Peña acoge Música en la roca](https://www.diariodelaltoaragon.es/noticias/cultura/2026/08/05/monasterio-san-juan-pena-acoge-musica-roca-2042430.html) - 2026-08-16
+* [Estufa](https://www.flickr.com/photos/fernand0/55465092211/) - 2026-08-16
+* [BMW Is Playing a Spider-Man Ad on Its Dashboard Displays, and People Are Pissed](https://gizmodo.com/bmw-is-playing-a-spider-man-ad-on-its-dashboard-displays-and-people-are-pissed-2000794369) - 2026-08-16
 <!-- mastodon ends -->
 
 ---
