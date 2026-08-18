@@ -14,15 +14,15 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-17
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-18
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-17
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-17
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-17
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-08-16
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-16
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-16
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-16
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-16
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-10
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
 
 ## repositoriesContributedTo
@@ -48,6 +48,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [La venganza del empleado y las consecuencias](https://fernand0.github.io/venganza-consecuencias/) - 2026-08-17
+
 * [La IA genera más fallos de seguridad y a más velocidad](https://fernand0.github.io/ai-codigo-vulnerable/) - 2026-08-10
 
 * [Inmutabilidad: control, reproducibilidad… ¿pagando un precio?](https://fernand0.github.io/linux-inmutable/) - 2026-08-04
@@ -56,9 +58,9 @@
 
 * [¿Seguridad o prestaciones? Compromisos](https://fernand0.github.io/seguridad-prestaciones/) - 2026-07-20
 
-* [Deepfakes para engañar a las empresas. El caso de LastPass](https://fernand0.github.io/lastpass-deepfakes/) - 2026-05-26
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [La ciberseguridad, las empresas y las consecuencias](https://blog.elmundoesimperfecto.com/2026/08/17/claves-negocios/) - 2026-08-17
 
 * [Copilotos vs asistentes: la IA, el conocimiento, los expertos y las ayudas](https://blog.elmundoesimperfecto.com/2026/08/10/ia-asistente-sustituto/) - 2026-08-10
 
@@ -67,19 +69,17 @@
 * [La soledad y los robots charlatanes](https://blog.elmundoesimperfecto.com/2026/07/27/soledad-IAs/) - 2026-07-27
 
 * [Bots ¿con o contra bots?](https://blog.elmundoesimperfecto.com/2026/07/20/bots-contra-bots/) - 2026-07-20
-
-* [En la I Jornada sobre Software Libre e Inteligencia Artificial Abierta](https://blog.elmundoesimperfecto.com/2026/07/06/en-seLIA/) - 2026-07-06
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [JCSD'26 - Programa](https://www.jcsd.es/programa) - 2026-08-17
-* [Soberanía Digital Europa 2026 - Fundación Telefónica España](https://www.fundaciontelefonica.com/soberania-digital-europa-2026/) - 2026-08-16
-* [El Monasterio de San Juan de la Peña acoge Música en la roca](https://www.diariodelaltoaragon.es/noticias/cultura/2026/08/05/monasterio-san-juan-pena-acoge-musica-roca-2042430.html) - 2026-08-16
-* [Estufa](https://www.flickr.com/photos/fernand0/55465092211/) - 2026-08-16
-* [BMW Is Playing a Spider-Man Ad on Its Dashboard Displays, and People Are Pissed](https://gizmodo.com/bmw-is-playing-a-spider-man-ad-on-its-dashboard-displays-and-people-are-pissed-2000794369) - 2026-08-16
+* [New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts](https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html) - 2026-08-18
+* [Hablando de cámaras antiguas.](https://asavecesunafoto.wordpress.com/2026/08/17/hablando-de-camaras-antiguas/) - 2026-08-17
+* [The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/) - 2026-08-17
+* [Lámpara de cuatro focos](https://www.flickr.com/photos/fernand0/55465264904/) - 2026-08-17
+* [La ciberseguridad, las empresas y las consecuencias](https://blog.elmundoesimperfecto.com/2026/08/17/claves-negocios/) - 2026-08-17
 <!-- mastodon ends -->
 
 ---
