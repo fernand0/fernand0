@@ -14,13 +14,13 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-18
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-17
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-19
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-18
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-17
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-17
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-08-16
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-16
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts](https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html) - 2026-08-18
-* [Hablando de cámaras antiguas.](https://asavecesunafoto.wordpress.com/2026/08/17/hablando-de-camaras-antiguas/) - 2026-08-17
-* [The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI](https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/) - 2026-08-17
-* [Lámpara de cuatro focos](https://www.flickr.com/photos/fernand0/55465264904/) - 2026-08-17
-* [La ciberseguridad, las empresas y las consecuencias](https://blog.elmundoesimperfecto.com/2026/08/17/claves-negocios/) - 2026-08-17
+* [Using Artificial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/) - 2026-08-19
+* [Lavabo](https://www.flickr.com/photos/fernand0/55465092321/) - 2026-08-19
+* [Libro. La tira de años. Peridis 1976-2016: Cuatro décadas de Historia en El País](https://fotografiasenmovimiento.wordpress.com/2026/08/18/libro-la-tira-de-anos-peridis-1976-2016-cuatro-decadas-de-historia-en-el-pais/) - 2026-08-19
+* [Seguimos con palas.](https://asavecesunafoto.wordpress.com/2026/08/18/seguimos-con-palas/) - 2026-08-18
+* [How not to calculate cosine](https://www.johndcook.com/blog/2026/08/07/how-not-to-calculate-cos/) - 2026-08-18
 <!-- mastodon ends -->
 
 ---
