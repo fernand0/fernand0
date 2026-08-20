@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-19
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-20
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-19
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-19
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-17
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-08-16
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Using Artificial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/) - 2026-08-19
-* [Lavabo](https://www.flickr.com/photos/fernand0/55465092321/) - 2026-08-19
-* [Libro. La tira de años. Peridis 1976-2016: Cuatro décadas de Historia en El País](https://fotografiasenmovimiento.wordpress.com/2026/08/18/libro-la-tira-de-anos-peridis-1976-2016-cuatro-decadas-de-historia-en-el-pais/) - 2026-08-19
-* [Seguimos con palas.](https://asavecesunafoto.wordpress.com/2026/08/18/seguimos-con-palas/) - 2026-08-18
-* [How not to calculate cosine](https://www.johndcook.com/blog/2026/08/07/how-not-to-calculate-cos/) - 2026-08-18
+* [La flor de la albahaca](https://asavecesunafoto.wordpress.com/2026/08/19/la-flor-de-la-albahaca/) - 2026-08-19
+* [18-Year-Old Linux Kernel Vulnerability Enables Root Access and Container Escape](https://linuxiac.com/18-year-old-linux-kernel-vulnerability-enables-root-access-and-container-escape/) - 2026-08-19
+* [Entradas para Víctor Coyote en concierto en ZARAGOZA en 25.09.2026 en La Lata de Bombillas, Zaragoza](https://www.eventim-light.com/es/a/63da4d195a587f6ca69f10c6/e/6a69baa5fe1cddac28c7a068) - 2026-08-19
+* [Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine](https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html) - 2026-08-19
+* [More people requesting ‘unvaccinated’ blood for themselves or their children](https://www.cidrap.umn.edu/covid-19/more-people-requesting-unvaccinated-blood-themselves-or-their-children) - 2026-08-19
 <!-- mastodon ends -->
 
 ---
