@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-20
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-21
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-20
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-20
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-19
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-19
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-08-16
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [La flor de la albahaca](https://asavecesunafoto.wordpress.com/2026/08/19/la-flor-de-la-albahaca/) - 2026-08-19
-* [18-Year-Old Linux Kernel Vulnerability Enables Root Access and Container Escape](https://linuxiac.com/18-year-old-linux-kernel-vulnerability-enables-root-access-and-container-escape/) - 2026-08-19
-* [Entradas para Víctor Coyote en concierto en ZARAGOZA en 25.09.2026 en La Lata de Bombillas, Zaragoza](https://www.eventim-light.com/es/a/63da4d195a587f6ca69f10c6/e/6a69baa5fe1cddac28c7a068) - 2026-08-19
-* [Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine](https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html) - 2026-08-19
-* [More people requesting ‘unvaccinated’ blood for themselves or their children](https://www.cidrap.umn.edu/covid-19/more-people-requesting-unvaccinated-blood-themselves-or-their-children) - 2026-08-19
+* [Driver death rates remain high for small cars, models with powerful engines](https://www.iihs.org/news/detail/driver-death-rates-remain-high-for-small-cars-models-with-powerful-engines) - 2026-08-20
+* [Cardos tardanos.](https://asavecesunafoto.wordpress.com/2026/08/20/cardos-tardanos/) - 2026-08-20
+* [Advancing the Safer Internet Initiative for Everyone - Internet Society](https://www.internetsociety.org/blog/2026/08/advancing-the-safer-internet-initiative-for-everyone) - 2026-08-20
+* [Printing floating point numbers in binary](https://www.johndcook.com/blog/2026/07/27/float-binary/) - 2026-08-20
+* [Cuando en el Actur solo había cierzo y descampados: la llegada de un gigante que cambió el barrio para siempre](https://www.elperiodicodearagon.com/zaragoza/2026/08/13/actur-habia-cierzo-descampados-llegada-133284766.html) - 2026-08-20
 <!-- mastodon ends -->
 
 ---
