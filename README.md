@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-21
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-20
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-20
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-22
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-21
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-21
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Driver death rates remain high for small cars, models with powerful engines](https://www.iihs.org/news/detail/driver-death-rates-remain-high-for-small-cars-models-with-powerful-engines) - 2026-08-20
-* [Cardos tardanos.](https://asavecesunafoto.wordpress.com/2026/08/20/cardos-tardanos/) - 2026-08-20
-* [Advancing the Safer Internet Initiative for Everyone - Internet Society](https://www.internetsociety.org/blog/2026/08/advancing-the-safer-internet-initiative-for-everyone) - 2026-08-20
-* [Printing floating point numbers in binary](https://www.johndcook.com/blog/2026/07/27/float-binary/) - 2026-08-20
-* [Cuando en el Actur solo había cierzo y descampados: la llegada de un gigante que cambió el barrio para siempre](https://www.elperiodicodearagon.com/zaragoza/2026/08/13/actur-habia-cierzo-descampados-llegada-133284766.html) - 2026-08-20
+* [American Ditching First Class On Boeing 777-300ERs In Major Cabin Retrofit](https://www.gatechecked.com/american-ditching-first-class-on-boeing-777-300ers-in-major-cabin-retrofit-12230?ref=flightaware) - 2026-08-21
+* [Parece que algo salvaremos.](https://asavecesunafoto.wordpress.com/2026/08/21/parece-que-algo-salvaremos/) - 2026-08-21
+* [Trump Reportedly Hid in a Catering Truck During Secret Plane Swap Amid Credible Iran Threat](https://aeroxplorer.com/articles/trump-secretly-switched-planes-in-turkey-amid-credible-threat-officials-say.php) - 2026-08-21
+* [La técnica de reamp: ¿en qué consiste?](https://www.guitarristas.info/reportajes/tecnica-reamp-consiste/8778) - 2026-08-21
+* [Simon Willison on Blogging](https://daringfireball.net/linked/2026/08/07/simon-willison-on-blogging) - 2026-08-21
 <!-- mastodon ends -->
 
 ---
