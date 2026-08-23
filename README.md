@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-22
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-21
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-21
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-23
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-22
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-22
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [American Ditching First Class On Boeing 777-300ERs In Major Cabin Retrofit](https://www.gatechecked.com/american-ditching-first-class-on-boeing-777-300ers-in-major-cabin-retrofit-12230?ref=flightaware) - 2026-08-21
-* [Parece que algo salvaremos.](https://asavecesunafoto.wordpress.com/2026/08/21/parece-que-algo-salvaremos/) - 2026-08-21
-* [Trump Reportedly Hid in a Catering Truck During Secret Plane Swap Amid Credible Iran Threat](https://aeroxplorer.com/articles/trump-secretly-switched-planes-in-turkey-amid-credible-threat-officials-say.php) - 2026-08-21
-* [La técnica de reamp: ¿en qué consiste?](https://www.guitarristas.info/reportajes/tecnica-reamp-consiste/8778) - 2026-08-21
-* [Simon Willison on Blogging](https://daringfireball.net/linked/2026/08/07/simon-willison-on-blogging) - 2026-08-21
+* [Una de bravas.](https://asavecesunafoto.wordpress.com/2026/08/22/una-de-bravas/) - 2026-08-22
+* [Deep Purple "Smoke On The Water" (with Ritchie Blackmore) Live at Jones Beach Theater, NY 8/12/2026](https://youtu.be/41kYeTSNcGE) - 2026-08-22
+* [Excel column numbering](https://www.johndcook.com/blog/2026/07/25/excel-column-numbering/) - 2026-08-22
+* [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/) - 2026-08-22
+* [A catastrophic climate event is upon us. Here is why you’ve heard so little about it | George Monbiot](https://www.theguardian.com/commentisfree/2026/apr/23/catastrophic-climate-event-scientists-atlantic-system-collapse-billionaire-existential-crisis) - 2026-08-22
 <!-- mastodon ends -->
 
 ---
