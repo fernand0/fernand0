@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-24
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-23
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-23
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-25
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-24
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-24
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Tren y eclipse.](https://asavecesunafoto.wordpress.com/2026/08/23/tren-y-eclipse/) - 2026-08-23
-* [LukeW | Ask LukeW: A New Retrieval System](https://www.lukew.com/ff/entry.asp?2157) - 2026-08-23
-* [Can $π$ generate itself? A Monte Carlo analysis of 314 trillion digits](https://arxiv.org/abs/2608.06438v1) - 2026-08-23
-* [The rise and fall of Jason Arday: a full rundown of the questions being asked](https://www.theguardian.com/uk-news/2026/aug/06/rise-and-fall-of-jason-arday) - 2026-08-23
-* [A mosque built by a transgender person raises questions about faith and belonging in Pakistan](https://globalvoices.org/2026/08/15/a-mosque-built-by-a-transgender-person-raises-questions-about-faith-and-belonging-in-pakistan/) - 2026-08-23
+* [Human Computers : A history of labour-intensive computing. Followed by 6 self-defence protocols](https://we-make-money-not-art.com/human-computers-a-history-of-labour-intensive-computing-followed-by-6-self-defence-protocols/) - 2026-08-24
+* [Está vez duran más.](https://asavecesunafoto.wordpress.com/2026/08/24/esta-vez-duran-mas/) - 2026-08-24
+* [Fotografía e Inteligencia Artificial (XXIII)](https://valentinsama.blogspot.com/2026/08/fotografia-e-inteligencia-artificial_01938925614.html) - 2026-08-24
+* [Nextcloud Enterprise Day Madrid 2026](https://nextcloud.com/enterprise-day-madrid-2026/) - 2026-08-24
+* [El VIII Curso de Periodismo Especializado de Alcañiz se centrará en los sucesos, las emergencias y el ‘true crime’ | ARAINTEL](https://araintel.com/noticias/el-viii-curso-de-periodismo-especializado-de-alcaniz-se-centrara-en-sucesos-los-las-emergencias-y-el-true-crime/) - 2026-08-24
 <!-- mastodon ends -->
 
 ---
