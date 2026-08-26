@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-24
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-24
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-26
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-25
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-25
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Human Computers : A history of labour-intensive computing. Followed by 6 self-defence protocols](https://we-make-money-not-art.com/human-computers-a-history-of-labour-intensive-computing-followed-by-6-self-defence-protocols/) - 2026-08-24
-* [Está vez duran más.](https://asavecesunafoto.wordpress.com/2026/08/24/esta-vez-duran-mas/) - 2026-08-24
-* [Fotografía e Inteligencia Artificial (XXIII)](https://valentinsama.blogspot.com/2026/08/fotografia-e-inteligencia-artificial_01938925614.html) - 2026-08-24
-* [Nextcloud Enterprise Day Madrid 2026](https://nextcloud.com/enterprise-day-madrid-2026/) - 2026-08-24
-* [El VIII Curso de Periodismo Especializado de Alcañiz se centrará en los sucesos, las emergencias y el ‘true crime’ | ARAINTEL](https://araintel.com/noticias/el-viii-curso-de-periodismo-especializado-de-alcaniz-se-centrara-en-sucesos-los-las-emergencias-y-el-true-crime/) - 2026-08-24
+* [Las flores de la zarzamora.](https://asavecesunafoto.wordpress.com/2026/08/25/las-flores-de-la-zarzamora/) - 2026-08-25
+* [El momento contra las gafas conectadas con IA que graban es ahora.](https://www.error500.net/p/el-momento-contra-las-gafas-conectadas) - 2026-08-25
+* [Is This blog Still My Online CV? - elsua - A KM Blog by Luis Suarez](https://www.elsua.net/2026/08/18/is-this-blog-still-my-online-cv/) - 2026-08-25
+* [Lámpara y cortinas](https://www.flickr.com/photos/fernand0/55464112652/) - 2026-08-25
+* [The Web and the New Reality](https://doc.searls.com/2026/08/09/the-web-and-the-new-reality-2/) - 2026-08-25
 <!-- mastodon ends -->
 
 ---
