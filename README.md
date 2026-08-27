@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-26
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-25
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-25
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-27
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-26
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-26
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Las flores de la zarzamora.](https://asavecesunafoto.wordpress.com/2026/08/25/las-flores-de-la-zarzamora/) - 2026-08-25
-* [El momento contra las gafas conectadas con IA que graban es ahora.](https://www.error500.net/p/el-momento-contra-las-gafas-conectadas) - 2026-08-25
-* [Is This blog Still My Online CV? - elsua - A KM Blog by Luis Suarez](https://www.elsua.net/2026/08/18/is-this-blog-still-my-online-cv/) - 2026-08-25
-* [Lámpara y cortinas](https://www.flickr.com/photos/fernand0/55464112652/) - 2026-08-25
-* [The Web and the New Reality](https://doc.searls.com/2026/08/09/the-web-and-the-new-reality-2/) - 2026-08-25
+* [Microsiervos cumple 23 años](http://www.microsiervos.com/archivo/general/microsiervos-cumple-23-anos.html) - 2026-08-27
+* [Rincón del salón](https://www.flickr.com/photos/fernand0/55465092651/) - 2026-08-27
+* [Offpunk Manifesto — Ideias de Chirico](https://blog.ayom.media/ideiasdechirico/offpunk-manifesto) - 2026-08-27
+* [Google Docs Is Rolling Out These Three New Gemini Features](https://lifehacker.com/tech/google-docs-has-new-gemini-features) - 2026-08-27
+* [D.E.P. Juan Tamariz, el ilusionista amigo de todos que asombraba con sus juegos de cartas y fue maestro de generaciones de magos](http://www.microsiervos.com/archivo/mundoreal/dep-juan-tamariz-ilusionista-juegos-cartas-maestro-magos.html) - 2026-08-27
 <!-- mastodon ends -->
 
 ---
