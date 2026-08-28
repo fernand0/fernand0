@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-27
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-26
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-27
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-27
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Microsiervos cumple 23 años](http://www.microsiervos.com/archivo/general/microsiervos-cumple-23-anos.html) - 2026-08-27
-* [Rincón del salón](https://www.flickr.com/photos/fernand0/55465092651/) - 2026-08-27
-* [Offpunk Manifesto — Ideias de Chirico](https://blog.ayom.media/ideiasdechirico/offpunk-manifesto) - 2026-08-27
-* [Google Docs Is Rolling Out These Three New Gemini Features](https://lifehacker.com/tech/google-docs-has-new-gemini-features) - 2026-08-27
-* [D.E.P. Juan Tamariz, el ilusionista amigo de todos que asombraba con sus juegos de cartas y fue maestro de generaciones de magos](http://www.microsiervos.com/archivo/mundoreal/dep-juan-tamariz-ilusionista-juegos-cartas-maestro-magos.html) - 2026-08-27
+* [casio turns its ring watch into smart wearable with health tracking and notifications](https://www.designboom.com/technology/casio-ring-watch-smart-wearable-health-tracking-notifications/) - 2026-08-28
+* [El que se mueve.](https://asavecesunafoto.wordpress.com/2026/08/28/el-que-se-mueve/) - 2026-08-28
+* [Juntos](https://www.flickr.com/photos/fernand0/55465490345/) - 2026-08-28
+* [Samsung Galaxy Glasses revealed at Unpacked](https://mashable.com/tech/samsung-galaxy-unpacked-galaxy-glasses-revealed) - 2026-08-28
+* [Smartphones And The Next Generation Of Hearing Aids](https://hackaday.com/2026/08/18/smartphones-and-the-next-generation-of-hearing-aids/) - 2026-08-28
 <!-- mastodon ends -->
 
 ---
