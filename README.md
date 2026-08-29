@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-28
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-27
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-27
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-29
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-28
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-28
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
+* [A las costas gallegas han llegado cargamentos de marisco, tabaco y cocaína. En 2006, llegó algo paranormal: impresoras](https://www.xataka.com/magnet/hace-20-anos-costa-galicia-se-lleno-fenomeno-nunca-visto-impresoras) - 2026-08-29
+* [Europa está comenzando a entender el drama que vive España cada verano: no bajar de los 30º C de máxima nunca](https://www.xataka.com/ecologia-y-naturaleza/francia-esta-descubriendo-sus-carnes-que-espana-vive-hace-anos-infierno-verano-permanentemente-a-40-grados) - 2026-08-29
+* [Temperatura y longitud de respuesta: los dos parámetros de IA que nadie explica pero que cambian todo lo que ChatGPT, Claude o Gemini te dan](https://wwwhatsnew.com/2026/07/29/temperatura-longitud-respuesta-parametros-ia-chatgpt-claude-gemini/) - 2026-08-29
 * [casio turns its ring watch into smart wearable with health tracking and notifications](https://www.designboom.com/technology/casio-ring-watch-smart-wearable-health-tracking-notifications/) - 2026-08-28
 * [El que se mueve.](https://asavecesunafoto.wordpress.com/2026/08/28/el-que-se-mueve/) - 2026-08-28
-* [Juntos](https://www.flickr.com/photos/fernand0/55465490345/) - 2026-08-28
-* [Samsung Galaxy Glasses revealed at Unpacked](https://mashable.com/tech/samsung-galaxy-unpacked-galaxy-glasses-revealed) - 2026-08-28
-* [Smartphones And The Next Generation Of Hearing Aids](https://hackaday.com/2026/08/18/smartphones-and-the-next-generation-of-hearing-aids/) - 2026-08-28
 <!-- mastodon ends -->
 
 ---
