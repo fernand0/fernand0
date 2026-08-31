@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-30
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-29
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-29
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-08-31
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-30
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-30
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [EE.UU. resuelve su escasez de 80.000 enfermeros con enfermeros virtuales filipinos a $5-10 la hora](https://wwwhatsnew.com/2026/07/20/enfermeros-virtuales-filipinos-eeuu-hospitales-escasez-personal-julio-2026/) - 2026-08-30
-* [X relaunches a rebuilt Android app after year-long effort | TechCrunch](https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/) - 2026-08-30
-* [The FCC is coming for Xtra and other DJI clone brands in the US | DPReview](https://www.dpreview.com/news/fcc-cracks-down-on-firms-over-dji-linked-tech-imports-to-the-u-s/) - 2026-08-29
-* [Dos lámparas](https://www.flickr.com/photos/fernand0/55465092741/) - 2026-08-29
-* [Calabacín, setas.](https://asavecesunafoto.wordpress.com/2026/08/29/calabacin-setas/) - 2026-08-29
+* [Nokia and Nvidia Unveil AI-Native Radio Platform](https://es.tradingview.com/news/gurufocus:856c0bdb6094b:0-nokia-and-nvidia-unveil-ai-native-radio-platform/) - 2026-08-31
+* [Miradores del Pabellón del Sofá](https://www.flickr.com/photos/fernand0/55465092811/) - 2026-08-31
+* [Heart Aerospace Completes First Flight of World’s Largest Electric Aircraft](https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft) - 2026-08-31
+* [Cataluña identifica a miles de conductores utilizando el móvil o sin cinturón gracias a sus cámaras IA](https://www.xataka.com/movilidad/cataluna-ha-probado-camaras-ia-para-pillarte-movil-cinturon) - 2026-08-31
+* [Saltamontes.](https://asavecesunafoto.wordpress.com/2026/08/30/saltamontes/) - 2026-08-30
 <!-- mastodon ends -->
 
 ---
