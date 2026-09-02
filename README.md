@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-01
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-08-31
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-08-31
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-02
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-01
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-01
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Lateral del pabellón del sofá](https://www.flickr.com/photos/fernand0/55465216838/) - 2026-09-01
-* [En 1394, un señor surgido de un pueblo de Aragón provocó un cisma en la Iglesia: el Papa Luna de Peñíscola](https://www.xataka.com/magnet/mayor-amenaza-medieval-para-papa-nacio-remoto-pueblo-aragones-goberno-peniscola-que-envenenaron) - 2026-09-01
-* [Pequeñines con más pequeñines.](https://asavecesunafoto.wordpress.com/2026/08/31/pequenines-con-mas-pequenines/) - 2026-08-31
-* [The Chernobyl NPP And Forty Years Of Robots For High Radiation Environments](https://hackaday.com/2026/08/13/the-chernobyl-npp-and-forty-years-of-robots-for-high-radiation-environments/) - 2026-08-31
-* [gPWN](https://www.gpwn.io/) - 2026-08-31
+* [Libera Chat. Set Up Automatic Login](https://libera.chat/guides/sasl) - 2026-09-02
+* [I didn't set a cookie.](https://kuber.studio/cookie/) - 2026-09-02
+* [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark) - 2026-09-02
+* [You can hear the squeak of sphincters closing](https://doc.searls.com/2026/08/17/you-can-hear-the-squeak-of-sphincters-closing/) - 2026-09-02
+* [Ni Xiaomi ni el iPhone: el mapa de las 24 marcas de móviles que aún resisten en Europa (y cuál es su truco)](https://www.xataka.com/moviles/mapa-24-fabricantes-moviles-que-sobreviven-europa) - 2026-09-01
 <!-- mastodon ends -->
 
 ---
