@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-02
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-01
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-01
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-03
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-02
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-02
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Libera Chat. Set Up Automatic Login](https://libera.chat/guides/sasl) - 2026-09-02
-* [I didn't set a cookie.](https://kuber.studio/cookie/) - 2026-09-02
-* [How Claude's text watermarking works](https://www.anthropic.com/news/claude-text-watermark) - 2026-09-02
-* [You can hear the squeak of sphincters closing](https://doc.searls.com/2026/08/17/you-can-hear-the-squeak-of-sphincters-closing/) - 2026-09-02
-* [Ni Xiaomi ni el iPhone: el mapa de las 24 marcas de móviles que aún resisten en Europa (y cuál es su truco)](https://www.xataka.com/moviles/mapa-24-fabricantes-moviles-que-sobreviven-europa) - 2026-09-01
+* [How Europe is killing makers and micro-entrepreneurs](https://blog.adafruit.com/2026/08/25/how-europe-is-killing-makers-and-micro-entrepreneurs/) - 2026-09-03
+* [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results/) - 2026-09-03
+* [TrainTracker24: Live Train Tracker - Real-Time Train Map](https://www.traintracker24.com/) - 2026-09-03
+* [Libro. El libro (de los 50 años) de Forges](https://fotografiasenmovimiento.wordpress.com/2026/09/02/libro-el-libro-de-los-50-anos-de-forges/) - 2026-09-02
+* [Nuestra higuera.](https://asavecesunafoto.wordpress.com/2026/09/02/nuestra-higuera/) - 2026-09-02
 <!-- mastodon ends -->
 
 ---
