@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-03
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-02
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-02
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-08-19
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-04
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-03
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-03
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-03
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-08-16
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [How Europe is killing makers and micro-entrepreneurs](https://blog.adafruit.com/2026/08/25/how-europe-is-killing-makers-and-micro-entrepreneurs/) - 2026-09-03
-* [Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results/) - 2026-09-03
-* [TrainTracker24: Live Train Tracker - Real-Time Train Map](https://www.traintracker24.com/) - 2026-09-03
-* [Libro. El libro (de los 50 años) de Forges](https://fotografiasenmovimiento.wordpress.com/2026/09/02/libro-el-libro-de-los-50-anos-de-forges/) - 2026-09-02
-* [Nuestra higuera.](https://asavecesunafoto.wordpress.com/2026/09/02/nuestra-higuera/) - 2026-09-02
+* [El departamento francés de los Pirineos Orientales rechaza cambiar de nombre para llamarse Pirineos Catalanes](https://www.elperiodico.com/es/internacional/20260829/francia-pirineos-orientales-catalanes-consulta-133757669) - 2026-09-04
+* [Atlas of History 1889](https://www.kickstarter.com/projects/alpoma/atlas-of-history-1889) - 2026-09-04
+* [Decoración.](https://asavecesunafoto.wordpress.com/2026/09/03/decoracion-2/) - 2026-09-03
+* [State-backed hackers targeted EU officials on WhatsApp, document shows](https://www.politico.eu/article/hackers-target-eu-officials-whatsapp/) - 2026-09-03
+* [De vuelta.](https://asavecesunafoto.wordpress.com/2026/09/02/de-vuelta/) - 2026-09-03
 <!-- mastodon ends -->
 
 ---
