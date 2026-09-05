@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-04
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-03
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-03
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-05
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-04
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-04
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-04
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-08-16
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [El departamento francés de los Pirineos Orientales rechaza cambiar de nombre para llamarse Pirineos Catalanes](https://www.elperiodico.com/es/internacional/20260829/francia-pirineos-orientales-catalanes-consulta-133757669) - 2026-09-04
-* [Atlas of History 1889](https://www.kickstarter.com/projects/alpoma/atlas-of-history-1889) - 2026-09-04
-* [Decoración.](https://asavecesunafoto.wordpress.com/2026/09/03/decoracion-2/) - 2026-09-03
-* [State-backed hackers targeted EU officials on WhatsApp, document shows](https://www.politico.eu/article/hackers-target-eu-officials-whatsapp/) - 2026-09-03
-* [De vuelta.](https://asavecesunafoto.wordpress.com/2026/09/02/de-vuelta/) - 2026-09-03
+* [How to Build Your Own Data Dashboard: No Coding Required - Cool Cat Teacher Blog](https://www.coolcatteacher.com/e981/) - 2026-09-05
+* [Seguimos.](https://asavecesunafoto.wordpress.com/2026/09/04/seguimos/) - 2026-09-05
+* [Consent and the Formation of Preferences | Blog of the APA](https://blog.apaonline.org/2026/09/01/consent-and-the-formation-of-preferences/) - 2026-09-05
+* [Seven Theses Against Viewpoint Diversity](https://www.aaup.org/academe/issues/fall-2025/seven-theses-against-viewpoint-diversity) - 2026-09-04
+* [Adiós a los molinos que presiden el Moncayo: 22 aerogeneradores se sustituirán por tres modernas máquinas con baterías](https://www.elperiodicodearagon.com/aragon/2026/07/27/adios-molinos-presiden-moncayo-22-132857188.amp.html) - 2026-09-04
 <!-- mastodon ends -->
 
 ---
