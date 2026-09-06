@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-05
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-06
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-05
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-05
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-04
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-04
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-04
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-08-16
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [How to Build Your Own Data Dashboard: No Coding Required - Cool Cat Teacher Blog](https://www.coolcatteacher.com/e981/) - 2026-09-05
-* [Seguimos.](https://asavecesunafoto.wordpress.com/2026/09/04/seguimos/) - 2026-09-05
-* [Consent and the Formation of Preferences | Blog of the APA](https://blog.apaonline.org/2026/09/01/consent-and-the-formation-of-preferences/) - 2026-09-05
-* [Seven Theses Against Viewpoint Diversity](https://www.aaup.org/academe/issues/fall-2025/seven-theses-against-viewpoint-diversity) - 2026-09-04
-* [Adiós a los molinos que presiden el Moncayo: 22 aerogeneradores se sustituirán por tres modernas máquinas con baterías](https://www.elperiodicodearagon.com/aragon/2026/07/27/adios-molinos-presiden-moncayo-22-132857188.amp.html) - 2026-09-04
+* [I Built a Chat App That Rewrites Its Own UI in Real Time](https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5) - 2026-09-06
+* [Abstinence is not an AI strategy](https://www.chieflearningofficer.com/2026/08/26/abstinence-is-not-an-ai-strategy/) - 2026-09-06
+* [Preparando el eclipse.](https://asavecesunafoto.wordpress.com/2026/09/05/preparando-el-eclipse/) - 2026-09-06
+* [The Science of Selling](https://covingtonedu.substack.com/p/the-science-of-selling) - 2026-09-05
+* [Fuente](https://www.flickr.com/photos/fernand0/55465093031/) - 2026-09-05
 <!-- mastodon ends -->
 
 ---
