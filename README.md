@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-07
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-08
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-07
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-07
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-06
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-06
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-06
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-08-16
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Making Your Data Ready for Agentic AI](https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html) - 2026-09-07
-* [La historia de la China moderna en el cine chino](http://tausiet.blogspot.com/2026/08/la-historia-de-la-china-moderna-en-el.html) - 2026-09-07
-* [Gistaín genio total | Letras Libres](https://letraslibres.com/revista/gistain-genio-total/19/08/2026/) - 2026-09-07
-* [Calabaza.](https://asavecesunafoto.wordpress.com/2026/09/06/calabaza/) - 2026-09-07
-* [Brasero](https://www.flickr.com/photos/fernand0/55465217063/) - 2026-09-06
+* [Congreso Talento Digital e Innovación: del conocimiento al empleo tech | Ibercaja Espacio Xplora](https://www.ibercaja.es/xplora/agenda/congreso-talento-digital-e-innovacion-del-conocimiento-al-empleo-tech/) - 2026-09-08
+* [Fuente y ventanas](https://www.flickr.com/photos/fernand0/55465093111/) - 2026-09-08
+* [El verano.](https://asavecesunafoto.wordpress.com/2026/09/07/el-verano/) - 2026-09-08
+* [Ads and tracking infiltrated TVs. Now they're coming for monitors.](https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/) - 2026-09-08
+* [AI in Education](https://edtechdev.github.io/aied/concepts/ai-education/) - 2026-09-07
 <!-- mastodon ends -->
 
 ---
