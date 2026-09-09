@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-08
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-07
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-07
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-06
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-08
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-08
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-08
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-08-16
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Congreso Talento Digital e Innovación: del conocimiento al empleo tech | Ibercaja Espacio Xplora](https://www.ibercaja.es/xplora/agenda/congreso-talento-digital-e-innovacion-del-conocimiento-al-empleo-tech/) - 2026-09-08
-* [Fuente y ventanas](https://www.flickr.com/photos/fernand0/55465093111/) - 2026-09-08
-* [El verano.](https://asavecesunafoto.wordpress.com/2026/09/07/el-verano/) - 2026-09-08
-* [Ads and tracking infiltrated TVs. Now they're coming for monitors.](https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/) - 2026-09-08
-* [AI in Education](https://edtechdev.github.io/aied/concepts/ai-education/) - 2026-09-07
+* [Agentic AI is Available to Teachers at No Cost. Here's a Job Worth Giving It.](https://frontierlearninglab.substack.com/p/agentic-ai-is-available-to-teachers-d80?selection=fe366522-c1f6-4f2d-968a-31b7980b8e30#:~:text=What%20Claude%20did%20was%20read%20that%20document%20faithfully%2C%20hold%20it%20) - 2026-09-09
+* [Fuente y miradores](https://www.flickr.com/photos/fernand0/55465265594/) - 2026-09-09
+* [Our Duty of Care in the Age of AI](https://marcwatkins.substack.com/p/our-duty-of-care-in-the-age-of-ai) - 2026-09-09
+* [Una nueva planta.](https://asavecesunafoto.wordpress.com/2026/09/08/una-nueva-planta/) - 2026-09-09
+* [The Horde of Fools](https://hybridhorizons.substack.com/p/the-horde-of-fools) - 2026-09-08
 <!-- mastodon ends -->
 
 ---
