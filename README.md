@@ -14,13 +14,13 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-10
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-09
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-09
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-08
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-08-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-11
+* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-10
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-10
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-10
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-10
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
-* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-08-16
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis](https://arxiv.org/abs/2607.08748) - 2026-09-10
-* [Estanque y fuente](https://www.flickr.com/photos/fernand0/55465490880/) - 2026-09-10
-* [Ni sí ni no.](https://asavecesunafoto.wordpress.com/2026/09/09/ni-si-ni-no/) - 2026-09-10
-* [A Home for Personal Context](https://www.oreilly.com/radar/a-home-for-personal-context/) - 2026-09-10
-* [Making 768 servers look like 1 — PlanetScale](https://planetscale.com/blog/making-768-servers-look-like-1) - 2026-09-09
+* [Design The Meeting](https://pointc.co/design-the-meeting/) - 2026-09-10
+* [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) - 2026-09-10
+* [Higher Education Whisperer: Making universities a part time world](https://blog.highereducationwhisperer.com/2026/08/is-problem-us-helping-part-time.html) - 2026-09-10
+* [Your ‘App’ Could Have Been a Webpage (so I fixed it for you…)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/) - 2026-09-10
+* [Is It Unethical for Academics to Monetize Substack?](https://walterveit.substack.com/p/is-it-unethical-for-academics-to) - 2026-09-10
 <!-- mastodon ends -->
 
 ---
