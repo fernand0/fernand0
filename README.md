@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-11
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-12
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-11
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-11
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-11
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-10
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-10
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-10
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-10
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Design The Meeting](https://pointc.co/design-the-meeting/) - 2026-09-10
-* [A Visual Guide to Quantization](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) - 2026-09-10
-* [Higher Education Whisperer: Making universities a part time world](https://blog.highereducationwhisperer.com/2026/08/is-problem-us-helping-part-time.html) - 2026-09-10
-* [Your ‘App’ Could Have Been a Webpage (so I fixed it for you…)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/) - 2026-09-10
-* [Is It Unethical for Academics to Monetize Substack?](https://walterveit.substack.com/p/is-it-unethical-for-academics-to) - 2026-09-10
+* [Your Modules Are Lying to You](https://blog.gaborkoos.com/posts/2026-08-14-Your-Modules-Are-Lying-to-You/) - 2026-09-12
+* [The Cloudflare Blog – Brought to you by EmDash](https://blog.cloudflare.com/cloudflare-blog-uses-emdash/) - 2026-09-12
+* [Ryanair's Boeing 737 stairs tied to hundreds of passenger falls, study says](https://www.euronews.com/business/2026/09/01/ryanair-boeing-737-stairs-85-falls-in-three-years-ansv-study-finds) - 2026-09-11
+* [Sellos. Centenario raid aéreo Madrid-Manila](https://asavecesunafoto.wordpress.com/2026/09/10/sellos-centenario-raid-aereo-madrid-manila/) - 2026-09-11
+* [Word of the Day: Woke 1.0](https://www.stoweboyd.io/p/word-of-the-day-woke-10) - 2026-09-11
 <!-- mastodon ends -->
 
 ---
