@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-12
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-11
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-11
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-13
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-12
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-12
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-11
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-10
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Your Modules Are Lying to You](https://blog.gaborkoos.com/posts/2026-08-14-Your-Modules-Are-Lying-to-You/) - 2026-09-12
-* [The Cloudflare Blog – Brought to you by EmDash](https://blog.cloudflare.com/cloudflare-blog-uses-emdash/) - 2026-09-12
-* [Ryanair's Boeing 737 stairs tied to hundreds of passenger falls, study says](https://www.euronews.com/business/2026/09/01/ryanair-boeing-737-stairs-85-falls-in-three-years-ansv-study-finds) - 2026-09-11
-* [Sellos. Centenario raid aéreo Madrid-Manila](https://asavecesunafoto.wordpress.com/2026/09/10/sellos-centenario-raid-aereo-madrid-manila/) - 2026-09-11
-* [Word of the Day: Woke 1.0](https://www.stoweboyd.io/p/word-of-the-day-woke-10) - 2026-09-11
+* [Taste Is All That's Left | Blog](https://notashelf.dev/posts/taste-is-all-thats-left) - 2026-09-13
+* [Incentives are for losers](https://www.experimental-history.com/p/incentives-are-for-losers) - 2026-09-13
+* [Context Rot: The Hidden Technical Debt of LLMs](https://postsyntax.substack.com/p/context-rot-the-hidden-technical) - 2026-09-13
+* [Estirón.](https://asavecesunafoto.wordpress.com/2026/09/11/estiron/) - 2026-09-12
+* [Cedro y arcos](https://www.flickr.com/photos/fernand0/55465217368/) - 2026-09-12
 <!-- mastodon ends -->
 
 ---
