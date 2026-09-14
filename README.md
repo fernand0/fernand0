@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-13
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-12
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-12
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-14
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-13
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-13
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-11
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-10
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Taste Is All That's Left | Blog](https://notashelf.dev/posts/taste-is-all-thats-left) - 2026-09-13
-* [Incentives are for losers](https://www.experimental-history.com/p/incentives-are-for-losers) - 2026-09-13
-* [Context Rot: The Hidden Technical Debt of LLMs](https://postsyntax.substack.com/p/context-rot-the-hidden-technical) - 2026-09-13
-* [Estirón.](https://asavecesunafoto.wordpress.com/2026/09/11/estiron/) - 2026-09-12
-* [Cedro y arcos](https://www.flickr.com/photos/fernand0/55465217368/) - 2026-09-12
+* [The Wall Confronting Reliable Coding Agent Autonomy](https://codemanship.wordpress.com/2026/08/28/the-wall-confronting-reliable-coding-agent-autonomy/) - 2026-09-14
+* [Less Is More](https://codemanship.wordpress.com/2026/08/23/less-is-more/) - 2026-09-14
+* [Trono](https://www.flickr.com/photos/fernand0/55465265819/) - 2026-09-14
+* [AI Software Development – What Does The Data Say?](https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/) - 2026-09-14
+* [Volver a ver el mar.](https://asavecesunafoto.wordpress.com/2026/09/13/volver-a-ver-el-mar/) - 2026-09-13
 <!-- mastodon ends -->
 
 ---
