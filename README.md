@@ -14,13 +14,13 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-14
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-13
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-14
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-14
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-14
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-11
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-10
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-08-17
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
@@ -48,6 +48,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [Las IAs como apoyo en la ciberseguridad y algunas dificultades](https://fernand0.github.io/ia-soc/) - 2026-09-14
+
 * [La venganza del empleado y las consecuencias](https://fernand0.github.io/venganza-consecuencias/) - 2026-08-17
 
 * [La IA genera más fallos de seguridad y a más velocidad](https://fernand0.github.io/ai-codigo-vulnerable/) - 2026-08-10
@@ -56,9 +58,9 @@
 
 * [Las inteligencias artificiales y sus recomendaciones](https://fernand0.github.io/recomendaciones-seguridad/) - 2026-07-27
 
-* [¿Seguridad o prestaciones? Compromisos](https://fernand0.github.io/seguridad-prestaciones/) - 2026-07-20
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [Las clases y el trabajo asociado](https://blog.elmundoesimperfecto.com/2026/09/14/sobre-dar-clases/) - 2026-09-14
 
 * [La ciberseguridad, las empresas y las consecuencias](https://blog.elmundoesimperfecto.com/2026/08/17/claves-negocios/) - 2026-08-17
 
@@ -67,19 +69,17 @@
 * [La soledad está suponiendo un problema en algunos países. Sobre todo si no es deseada.](https://blog.elmundoesimperfecto.com/2026/08/04/soledad/) - 2026-08-04
 
 * [La soledad y los robots charlatanes](https://blog.elmundoesimperfecto.com/2026/07/27/soledad-IAs/) - 2026-07-27
-
-* [Bots ¿con o contra bots?](https://blog.elmundoesimperfecto.com/2026/07/20/bots-contra-bots/) - 2026-07-20
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [The Wall Confronting Reliable Coding Agent Autonomy](https://codemanship.wordpress.com/2026/08/28/the-wall-confronting-reliable-coding-agent-autonomy/) - 2026-09-14
-* [Less Is More](https://codemanship.wordpress.com/2026/08/23/less-is-more/) - 2026-09-14
-* [Trono](https://www.flickr.com/photos/fernand0/55465265819/) - 2026-09-14
-* [AI Software Development – What Does The Data Say?](https://codemanship.wordpress.com/2026/08/12/ai-software-development-what-does-the-data-say/) - 2026-09-14
-* [Volver a ver el mar.](https://asavecesunafoto.wordpress.com/2026/09/13/volver-a-ver-el-mar/) - 2026-09-13
+* [CF ActivityPub](https://cf-ap.com/graph) - 2026-09-15
+* [Ventanas con vidrieras](https://www.flickr.com/photos/fernand0/55465491085/) - 2026-09-15
+* [On the Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/) - 2026-09-15
+* [La tentación.](https://asavecesunafoto.wordpress.com/2026/09/14/la-tentacion/) - 2026-09-15
+* [How do we make being online, better?](https://blog.webb.page/WM-100) - 2026-09-15
 <!-- mastodon ends -->
 
 ---
