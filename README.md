@@ -14,13 +14,13 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-15
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-14
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-16
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-15
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-15
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-15
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-14
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-14
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-11
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
 * [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [CF ActivityPub](https://cf-ap.com/graph) - 2026-09-15
-* [Ventanas con vidrieras](https://www.flickr.com/photos/fernand0/55465491085/) - 2026-09-15
-* [On the Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/) - 2026-09-15
-* [La tentación.](https://asavecesunafoto.wordpress.com/2026/09/14/la-tentacion/) - 2026-09-15
-* [How do we make being online, better?](https://blog.webb.page/WM-100) - 2026-09-15
+* [Bóvedas y arcos](https://www.flickr.com/photos/fernand0/55465217508/) - 2026-09-16
+* [jsonfold: Making Pretty-Printed JSON Compact and Readable in Python](https://medium.com/@yair.lenga/a-streaming-json-formatter-that-works-with-existing-serializers-eced220da37d) - 2026-09-16
+* [Aguacate.](https://asavecesunafoto.wordpress.com/2026/09/15/aguacate/) - 2026-09-16
+* [El mapa de Castillos del Reino de Navarra](https://www.noticiasdegipuzkoa.eus/cultura/2021/01/20/mapa-castillos-reino-navarra-3721310.html) - 2026-09-16
+* [Minister tells Brits to stock up on days of supplies after ‘supersize’ El Niño warning](https://www.theguardian.com/environment/2026/sep/03/angela-eagle-uk-stock-up-supplies-el-nino-warning) - 2026-09-15
 <!-- mastodon ends -->
 
 ---
