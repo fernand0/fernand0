@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-17
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-16
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-16
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-15
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-15
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-15
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-15
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-14
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Bóvedas y arcos](https://www.flickr.com/photos/fernand0/55465217508/) - 2026-09-16
-* [jsonfold: Making Pretty-Printed JSON Compact and Readable in Python](https://medium.com/@yair.lenga/a-streaming-json-formatter-that-works-with-existing-serializers-eced220da37d) - 2026-09-16
-* [Aguacate.](https://asavecesunafoto.wordpress.com/2026/09/15/aguacate/) - 2026-09-16
-* [El mapa de Castillos del Reino de Navarra](https://www.noticiasdegipuzkoa.eus/cultura/2021/01/20/mapa-castillos-reino-navarra-3721310.html) - 2026-09-16
-* [Minister tells Brits to stock up on days of supplies after ‘supersize’ El Niño warning](https://www.theguardian.com/environment/2026/sep/03/angela-eagle-uk-stock-up-supplies-el-nino-warning) - 2026-09-15
+* [Pabellón de Baghdad](https://www.flickr.com/photos/fernand0/55528141713/) - 2026-09-17
+* [The Move to Python 3 Begins! | EVE Online](https://www.eveonline.com/news/view/the-move-to-python-3-begins) - 2026-09-17
+* [Just a rumour of a bug is enough to find a security exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) - 2026-09-17
+* [Python 3.15.0 candidate 2 is here!](https://discuss.python.org/t/python-3-15-0-candidate-2-is-here/108841) - 2026-09-17
+* [Plantas que tienen plantas que tienen plantas.](https://asavecesunafoto.wordpress.com/2026/09/16/plantas-que-tienen-plantas-que-tienen-plantas/) - 2026-09-17
 <!-- mastodon ends -->
 
 ---
