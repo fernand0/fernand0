@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-17
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-16
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-18
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-17
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-17
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-15
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-15
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-14
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Pabellón de Baghdad](https://www.flickr.com/photos/fernand0/55528141713/) - 2026-09-17
-* [The Move to Python 3 Begins! | EVE Online](https://www.eveonline.com/news/view/the-move-to-python-3-begins) - 2026-09-17
-* [Just a rumour of a bug is enough to find a security exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) - 2026-09-17
-* [Python 3.15.0 candidate 2 is here!](https://discuss.python.org/t/python-3-15-0-candidate-2-is-here/108841) - 2026-09-17
-* [Plantas que tienen plantas que tienen plantas.](https://asavecesunafoto.wordpress.com/2026/09/16/plantas-que-tienen-plantas-que-tienen-plantas/) - 2026-09-17
+* [We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/) - 2026-09-18
+* [Conceptual integrity and counting lines of code](https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/) - 2026-09-18
+* [Recuerdos de seLIA](https://asavecesunafoto.wordpress.com/2026/09/17/recuerdos-de-selia/) - 2026-09-18
+* [Extensible Software in the age of LLMs | Jeremy Morrell](https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/) - 2026-09-17
+* [Galactic Compass 2: now with new augmented reality mode](https://interconnected.org/home/2026/08/21/galactic) - 2026-09-17
 <!-- mastodon ends -->
 
 ---
