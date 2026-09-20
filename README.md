@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-19
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-18
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-18
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-20
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-19
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-19
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-15
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-14
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [TIME Is Serving AI Bots a Different Website, With Ads Built In](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/) - 2026-09-19
-* [Tal como se sirven las webs en 2026, son superficie de ataque - ENTRE DRAGONES Y PINGÜINOS](https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/08/19/20260819-como-sirven-webs-2026/) - 2026-09-19
-* [Oh](https://asavecesunafoto.wordpress.com/2026/09/18/oh/) - 2026-09-19
-* [There are no lossless transformations of natural-language text - Sophie Alpert](https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text) - 2026-09-18
-* [Aprendizaje, pantallas y prohibiciones en colegios en 2026 - ENTRE DRAGONES Y PINGÜINOS](https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/02/20260902-aprendizaje-y-pantallas-2026/) - 2026-09-18
+* [Soft-deprecating re.match()](https://hugovk.dev/blog/2026/soft-deprecating-re.match/) - 2026-09-20
+* [Twenty Years of jQuery: How a Little Library Rewired Web Development](https://www.infoq.com/news/2026/09/jquery-20-years/) - 2026-09-20
+* [Airbnb Cuts Authentication Code by 60% with Server Driven Architecture](https://www.infoq.com/news/2026/09/airbnb-server-driven-login/) - 2026-09-20
+* [Comida y cena.](https://asavecesunafoto.wordpress.com/2026/09/19/comida-y-cena/) - 2026-09-20
+* [How Figma Stays Ahead of Vulnerabilities With Agents | Figma Blog](https://www.figma.com/blog/how-figma-stays-ahead-of-vulnerabilities-with-agents/) - 2026-09-19
 <!-- mastodon ends -->
 
 ---
