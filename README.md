@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-21
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-20
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-20
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-22
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-21
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-21
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-15
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-14
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [TIME Is Serving AI Bots a Different Website, With Ads Built In](https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/) - 2026-09-21
-* [Tal como se sirven las webs en 2026, son superficie de ataque - ENTRE DRAGONES Y PINGÜINOS](https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/08/19/20260819-como-sirven-webs-2026/) - 2026-09-21
-* [There are no lossless transformations of natural-language text - Sophie Alpert](https://sophiebits.com/2026/06/25/there-are-no-lossless-transformations-of-natural-language-text) - 2026-09-21
-* [Aprendizaje, pantallas y prohibiciones en colegios en 2026 - ENTRE DRAGONES Y PINGÜINOS](https://angelesbroullon.gitlab.io/entredragonesypinguinos/2026/09/02/20260902-aprendizaje-y-pantallas-2026/) - 2026-09-21
-* [Don’t classify. Hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications) - 2026-09-21
+* [Researcher reverse-engineers infamous Stuxnet malware source code, publishes it on Github for all — attack targeted Iranian nuclear facilities and was the first software of its type to cause physical damage](https://www.tomshardware.com/tech-industry/cyber-security/researcher-reconstructs-infamous-stuxnet-malware-source-code-attack-targeted-iranian-nuclear-facilities-and-was-the-first-software-of-its-type-to-cause-physical-damage) - 2026-09-22
+* [< https://cacm.acm.org/opinion/when-science-goes-agentic/](https://cacm.acm.org/opinion/when-science-goes-agentic/) - 2026-09-22
+* [How to Make Testing More Sustainable](https://www.infoq.com/news/2026/08/making-testing-sustainable/) - 2026-09-22
+* [AWS Open Sources Kiro Crew for Asynchronous Coding Agents](https://www.infoq.com/news/2026/08/kiro-crew-coding-agents/) - 2026-09-22
+* [Introducing Kiro Crew](https://kiro.dev/blog/introducing-kiro-crew/) - 2026-09-22
 <!-- mastodon ends -->
 
 ---
