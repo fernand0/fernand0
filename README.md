@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-22
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-21
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-21
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-23
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-22
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-22
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-22
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-15
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-14
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
@@ -48,6 +48,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [Los atajos salen caros, también en defensa.](https://fernand0.github.io/robando-GPU/) - 2026-09-22
+
 * [Las IAs como apoyo en la ciberseguridad y algunas dificultades](https://fernand0.github.io/ia-soc/) - 2026-09-14
 
 * [La venganza del empleado y las consecuencias](https://fernand0.github.io/venganza-consecuencias/) - 2026-08-17
@@ -56,9 +58,9 @@
 
 * [Inmutabilidad: control, reproducibilidad… ¿pagando un precio?](https://fernand0.github.io/linux-inmutable/) - 2026-08-04
 
-* [Las inteligencias artificiales y sus recomendaciones](https://fernand0.github.io/recomendaciones-seguridad/) - 2026-07-27
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [Informática: ¿programas o herramientas?](https://blog.elmundoesimperfecto.com/2026/09/22/programas-personales/) - 2026-09-22
 
 * [Las clases y el trabajo asociado](https://blog.elmundoesimperfecto.com/2026/09/14/sobre-dar-clases/) - 2026-09-14
 
@@ -67,19 +69,17 @@
 * [Copilotos vs asistentes: la IA, el conocimiento, los expertos y las ayudas](https://blog.elmundoesimperfecto.com/2026/08/10/ia-asistente-sustituto/) - 2026-08-10
 
 * [La soledad está suponiendo un problema en algunos países. Sobre todo si no es deseada.](https://blog.elmundoesimperfecto.com/2026/08/04/soledad/) - 2026-08-04
-
-* [La soledad y los robots charlatanes](https://blog.elmundoesimperfecto.com/2026/07/27/soledad-IAs/) - 2026-07-27
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Researcher reverse-engineers infamous Stuxnet malware source code, publishes it on Github for all — attack targeted Iranian nuclear facilities and was the first software of its type to cause physical damage](https://www.tomshardware.com/tech-industry/cyber-security/researcher-reconstructs-infamous-stuxnet-malware-source-code-attack-targeted-iranian-nuclear-facilities-and-was-the-first-software-of-its-type-to-cause-physical-damage) - 2026-09-22
-* [< https://cacm.acm.org/opinion/when-science-goes-agentic/](https://cacm.acm.org/opinion/when-science-goes-agentic/) - 2026-09-22
-* [How to Make Testing More Sustainable](https://www.infoq.com/news/2026/08/making-testing-sustainable/) - 2026-09-22
-* [AWS Open Sources Kiro Crew for Asynchronous Coding Agents](https://www.infoq.com/news/2026/08/kiro-crew-coding-agents/) - 2026-09-22
-* [Introducing Kiro Crew](https://kiro.dev/blog/introducing-kiro-crew/) - 2026-09-22
+* [GitHub - thentenaar/motif: The legendary UNIX UI toolkit](https://github.com/thentenaar/motif) - 2026-09-23
+* [Cuerno de oro y puente de Galata](https://www.flickr.com/photos/fernand0/55528142148/) - 2026-09-23
+* [NetBSD Blog](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and) - 2026-09-23
+* [Tratamiento, decadencia vacacional y recuperación.](https://asavecesunafoto.wordpress.com/2026/09/22/tratamiento-decadencia-vacacional-y-recuperacion/) - 2026-09-23
+* [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics) - 2026-09-22
 <!-- mastodon ends -->
 
 ---
