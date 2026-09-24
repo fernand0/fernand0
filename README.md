@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-23
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-22
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-24
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-23
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-23
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-23
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-22
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-22
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-19
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-15
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [GitHub - thentenaar/motif: The legendary UNIX UI toolkit](https://github.com/thentenaar/motif) - 2026-09-23
-* [Cuerno de oro y puente de Galata](https://www.flickr.com/photos/fernand0/55528142148/) - 2026-09-23
-* [NetBSD Blog](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and) - 2026-09-23
-* [Tratamiento, decadencia vacacional y recuperación.](https://asavecesunafoto.wordpress.com/2026/09/22/tratamiento-decadencia-vacacional-y-recuperacion/) - 2026-09-23
-* [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics) - 2026-09-22
+* [GitHub - Web3-Pi/Web3-Pi-UPS: Open-source DC UPS for Raspberry Pi 5 — USB-PD 27W, Sony NP-F batteries, OLED display, 3D-printed enclosure](https://github.com/Web3-Pi/Web3-Pi-UPS) - 2026-09-24
+* [Netherlands rail disruption due to suspected sabotage, operator says](https://www.bbc.com/news/articles/c8ly49w9g1edo) - 2026-09-24
+* [ADD / XOR / ROL: Three important steps in my maturation process](http://addxorrol.blogspot.com/2026/08/three-important-steps-in-my-maturation.html) - 2026-09-24
+* [Poco éxito.](https://asavecesunafoto.wordpress.com/2026/09/23/poco-exito/) - 2026-09-24
+* [Entrada al pabellón del manto sagrado](https://www.flickr.com/photos/fernand0/55528192714/) - 2026-09-24
 <!-- mastodon ends -->
 
 ---
