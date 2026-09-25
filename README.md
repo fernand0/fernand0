@@ -14,16 +14,16 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-24
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-25
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-24
+* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-09-24
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-24
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-23
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-23
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-23
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
-* [epg](https://github.com/fernand0/epg),  Utilities for downloading the EPG (Electronic Program Guide) for thousands of TV channels from hundreds of sources. - 2026-08-01
 
 ## repositoriesContributedTo
 
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [GitHub - Web3-Pi/Web3-Pi-UPS: Open-source DC UPS for Raspberry Pi 5 — USB-PD 27W, Sony NP-F batteries, OLED display, 3D-printed enclosure](https://github.com/Web3-Pi/Web3-Pi-UPS) - 2026-09-24
-* [Netherlands rail disruption due to suspected sabotage, operator says](https://www.bbc.com/news/articles/c8ly49w9g1edo) - 2026-09-24
-* [ADD / XOR / ROL: Three important steps in my maturation process](http://addxorrol.blogspot.com/2026/08/three-important-steps-in-my-maturation.html) - 2026-09-24
-* [Poco éxito.](https://asavecesunafoto.wordpress.com/2026/09/23/poco-exito/) - 2026-09-24
-* [Entrada al pabellón del manto sagrado](https://www.flickr.com/photos/fernand0/55528192714/) - 2026-09-24
+* [Ed Sheeran support acts quit tour in solidarity with Palestine](https://faroutmagazine.co.uk/finneas-beoga-aaron-rowe-quit-ed-sheeran-tour-support-macklemore-palestine/) - 2026-09-25
+* [Developing immunity to propaganda](https://scottlocklin.wordpress.com/2026/09/15/developing-immunity-to-propaganda/) - 2026-09-25
+* [Sellos. Arquitectura. Basílica de la Sagrada Familia](https://asavecesunafoto.wordpress.com/2026/09/24/sellos-arquitectura-basilica-de-la-sagrada-familia/) - 2026-09-25
+* [Lámpara](https://www.flickr.com/photos/fernand0/55528039651/) - 2026-09-25
+* [Switching to GNU Guix: A Beginner's Perspective](https://whhone.com/posts/switching-to-gnu-guix/) - 2026-09-25
 <!-- mastodon ends -->
 
 ---
