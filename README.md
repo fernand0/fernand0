@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-26
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-25
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-25
-* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-09-24
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-27
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-26
+* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-09-26
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-26
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-23
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-22
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Espada del Califa Umar](https://www.flickr.com/photos/fernand0/55527021557/) - 2026-09-26
-* [CERN moves thousands of accelerator control computers to Debian](https://www.theregister.com/os-platforms/2026/09/03/cern-moves-thousands-of-accelerator-control-computers-to-debian/5294312) - 2026-09-26
-* [The Corner of Hollywood That’s Most Susceptible to AI](https://www.theatlantic.com/culture/2026/07/animation-industry-ai-hollywood-job-cuts/687830/) - 2026-09-26
-* [Professor Hides White Font in Midterm, Catches Students Using AI in the Stupidest Way Possible](https://futurism.com/future-society/professor-hides-white-font-ai-cheating) - 2026-09-26
-* [A media altura.](https://asavecesunafoto.wordpress.com/2026/09/25/a-media-altura/) - 2026-09-26
+* [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/) - 2026-09-27
+* [La historia del tren Escachamatas a ritmo de Techno](https://www.larutadelagarnacha.es/noticia.php?ID=291) - 2026-09-27
+* [Berlin Cyberattack Exposes 1.4M Files on Dark Web](https://www.esecurityplanet.com/threats/news-berlin-cyberattack-rhysida-dark-web-emea/) - 2026-09-27
+* [Nashville Airport To Be Renamed After Dolly Parton](https://www.gatechecked.com/nashville-airport-to-be-renamed-after-dolly-parton-12383?ref=flightaware) - 2026-09-27
+* [Melocotón con vino.](https://asavecesunafoto.wordpress.com/2026/09/26/melocoton-con-vino/) - 2026-09-27
 <!-- mastodon ends -->
 
 ---
