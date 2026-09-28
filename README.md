@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-27
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-27
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-27
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-09-26
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-26
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-23
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-22
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/) - 2026-09-27
-* [La historia del tren Escachamatas a ritmo de Techno](https://www.larutadelagarnacha.es/noticia.php?ID=291) - 2026-09-27
-* [Berlin Cyberattack Exposes 1.4M Files on Dark Web](https://www.esecurityplanet.com/threats/news-berlin-cyberattack-rhysida-dark-web-emea/) - 2026-09-27
-* [Nashville Airport To Be Renamed After Dolly Parton](https://www.gatechecked.com/nashville-airport-to-be-renamed-after-dolly-parton-12383?ref=flightaware) - 2026-09-27
-* [Melocotón con vino.](https://asavecesunafoto.wordpress.com/2026/09/26/melocoton-con-vino/) - 2026-09-27
+* [Passwork NIS2 efficiency guide: Save your team hours before the 2026 audit - Help Net Security](https://www.helpnetsecurity.com/2026/09/22/passwork-nis2-compliance-guide/) - 2026-09-28
+* [Columnas, ventanas, bóvedas y cúpulas](https://www.flickr.com/photos/fernand0/55553693121/) - 2026-09-28
+* [Target Canada ERP failure: the $7B SAP disaster](https://meltingspot.io/en/blog/target-canada-erp-failure-7-billion-dollar-disaster) - 2026-09-28
+* [Meta bans ads for Virginia Woolf play in Spain because they relate to feminism](https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval) - 2026-09-28
+* [AI-Assisted WeChat Worm Risks 1 Billion Accounts](https://www.esecurityplanet.com/artificial-intelligence/news-ai-wechat-worm-billion-accounts-apac-china/) - 2026-09-28
 <!-- mastodon ends -->
 
 ---
