@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-28
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-27
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-27
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-29
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-29
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-28
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-28
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-09-26
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-23
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Passwork NIS2 efficiency guide: Save your team hours before the 2026 audit - Help Net Security](https://www.helpnetsecurity.com/2026/09/22/passwork-nis2-compliance-guide/) - 2026-09-28
-* [Columnas, ventanas, bóvedas y cúpulas](https://www.flickr.com/photos/fernand0/55553693121/) - 2026-09-28
-* [Target Canada ERP failure: the $7B SAP disaster](https://meltingspot.io/en/blog/target-canada-erp-failure-7-billion-dollar-disaster) - 2026-09-28
-* [Meta bans ads for Virginia Woolf play in Spain because they relate to feminism](https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval) - 2026-09-28
-* [AI-Assisted WeChat Worm Risks 1 Billion Accounts](https://www.esecurityplanet.com/artificial-intelligence/news-ai-wechat-worm-billion-accounts-apac-china/) - 2026-09-28
+* [FAA Deploys AI System to Cut Flight Delays at Washington-Area Airports](https://aeroxplorer.com/articles/faa-deploys-ai-system-to-cut-flight-delays-at-washingtonarea-airports.php) - 2026-09-29
+* [I Challenge Thee](https://lists.debian.org/debian-devel-announce/2026/08/msg00005.html) - 2026-09-29
+* [CISA review makes the case for eliminating vulnerability classes - Help Net Security](http://www.helpnetsecurity.com/2026/09/01/cisa-on-eliminating-recurring-security-weaknesses/%7Cwww.helpnetsecurity.com/2026/09/01/cisa-on-eliminating-recurring-security-weaknesses/) - 2026-09-29
+* [Rock band Muse lose social media handles to Meta’s new AI tool](https://www.independent.co.uk/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html) - 2026-09-29
+* [Después.](https://asavecesunafoto.wordpress.com/2026/09/28/despues/) - 2026-09-29
 <!-- mastodon ends -->
 
 ---
