@@ -14,13 +14,13 @@
 <!-- recent_releases starts -->
 ## repositories
 
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-30
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-29
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-29
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-28
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-29
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-29
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-29
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-09-26
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-22
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
@@ -48,6 +48,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [CSRF y go](https://fernand0.github.io/csrf-go/) - 2026-09-29
+
 * [Los atajos salen caros, también en defensa.](https://fernand0.github.io/robando-GPU/) - 2026-09-22
 
 * [Las IAs como apoyo en la ciberseguridad y algunas dificultades](https://fernand0.github.io/ia-soc/) - 2026-09-14
@@ -56,9 +58,9 @@
 
 * [La IA genera más fallos de seguridad y a más velocidad](https://fernand0.github.io/ai-codigo-vulnerable/) - 2026-08-10
 
-* [Inmutabilidad: control, reproducibilidad… ¿pagando un precio?](https://fernand0.github.io/linux-inmutable/) - 2026-08-04
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [La importancia de preparar buenos documentos en los proyectos](https://blog.elmundoesimperfecto.com/2026/09/29/arquitectura-programacion/) - 2026-09-29
 
 * [Informática: ¿programas o herramientas?](https://blog.elmundoesimperfecto.com/2026/09/22/programas-personales/) - 2026-09-22
 
@@ -67,19 +69,17 @@
 * [La ciberseguridad, las empresas y las consecuencias](https://blog.elmundoesimperfecto.com/2026/08/17/claves-negocios/) - 2026-08-17
 
 * [Copilotos vs asistentes: la IA, el conocimiento, los expertos y las ayudas](https://blog.elmundoesimperfecto.com/2026/08/10/ia-asistente-sustituto/) - 2026-08-10
-
-* [La soledad está suponiendo un problema en algunos países. Sobre todo si no es deseada.](https://blog.elmundoesimperfecto.com/2026/08/04/soledad/) - 2026-08-04
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [FAA Deploys AI System to Cut Flight Delays at Washington-Area Airports](https://aeroxplorer.com/articles/faa-deploys-ai-system-to-cut-flight-delays-at-washingtonarea-airports.php) - 2026-09-29
-* [I Challenge Thee](https://lists.debian.org/debian-devel-announce/2026/08/msg00005.html) - 2026-09-29
-* [CISA review makes the case for eliminating vulnerability classes - Help Net Security](http://www.helpnetsecurity.com/2026/09/01/cisa-on-eliminating-recurring-security-weaknesses/%7Cwww.helpnetsecurity.com/2026/09/01/cisa-on-eliminating-recurring-security-weaknesses/) - 2026-09-29
-* [Rock band Muse lose social media handles to Meta’s new AI tool](https://www.independent.co.uk/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html) - 2026-09-29
-* [Después.](https://asavecesunafoto.wordpress.com/2026/09/28/despues/) - 2026-09-29
+* [ShinyHunters tells The Reg: We hacked the FBI to 'protect our business'](https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250) - 2026-09-30
+* [File Notification Attacks](https://inoti.fyi/) - 2026-09-30
+* [El ciberataque a Renfe y Adif confirma lo que la IA llevaba meses avisando. 500GB de datos de clientes quedan al descubierto](https://www.xataka.com/seguridad/ciberataque-a-renfe-adif-confirma-que-ia-llevaba-meses-avisando-500gb-datos-clientes-quedan-al-descubierto) - 2026-09-30
+* [Inbox at Risk: Critical Roundcube Webmail Flaws Actively Exploited](https://www.secpod.com/learn/security-research/hackers-target-vulnerabilities-in-roundcube-webmail) - 2026-09-30
+* [Incendiado y replantado.](https://asavecesunafoto.wordpress.com/2026/09/29/incendiado-y-replantado/) - 2026-09-30
 <!-- mastodon ends -->
 
 ---
