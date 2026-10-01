@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-09-30
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-01
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-30
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-30
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-29
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-29
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-29
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-29
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-09-26
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [ShinyHunters tells The Reg: We hacked the FBI to 'protect our business'](https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250) - 2026-09-30
-* [File Notification Attacks](https://inoti.fyi/) - 2026-09-30
-* [El ciberataque a Renfe y Adif confirma lo que la IA llevaba meses avisando. 500GB de datos de clientes quedan al descubierto](https://www.xataka.com/seguridad/ciberataque-a-renfe-adif-confirma-que-ia-llevaba-meses-avisando-500gb-datos-clientes-quedan-al-descubierto) - 2026-09-30
-* [Inbox at Risk: Critical Roundcube Webmail Flaws Actively Exploited](https://www.secpod.com/learn/security-research/hackers-target-vulnerabilities-in-roundcube-webmail) - 2026-09-30
-* [Incendiado y replantado.](https://asavecesunafoto.wordpress.com/2026/09/29/incendiado-y-replantado/) - 2026-09-30
+* [9 Git Tips I Wish I Knew Earlier as a Software Engineer](https://medium.com/@tribal-scale/9-git-tips-i-wish-i-knew-earlier-as-a-software-engineer-b263fe5567f9) - 2026-10-01
+* [22 Essential apps I use daily — 2022](https://medium.com/@zartre/22-essential-apps-i-use-daily-2022-3ac6aa107ec1) - 2026-10-01
+* [The good future](https://medium.com/@jamestplunkett/the-good-future-d154eac8473c) - 2026-10-01
+* [Sigue intentándolo.](https://asavecesunafoto.wordpress.com/2026/09/30/sigue-intentandolo/) - 2026-10-01
+* [15 fundamental tips on REST API design](https://medium.com/@liams_o/15-fundamental-tips-on-rest-api-design-9a05bcd42920) - 2026-10-01
 <!-- mastodon ends -->
 
 ---
