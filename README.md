@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-01
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-09-30
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-09-30
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-02
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-01
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-01
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-29
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-29
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-09-26
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [9 Git Tips I Wish I Knew Earlier as a Software Engineer](https://medium.com/@tribal-scale/9-git-tips-i-wish-i-knew-earlier-as-a-software-engineer-b263fe5567f9) - 2026-10-01
-* [22 Essential apps I use daily — 2022](https://medium.com/@zartre/22-essential-apps-i-use-daily-2022-3ac6aa107ec1) - 2026-10-01
-* [The good future](https://medium.com/@jamestplunkett/the-good-future-d154eac8473c) - 2026-10-01
-* [Sigue intentándolo.](https://asavecesunafoto.wordpress.com/2026/09/30/sigue-intentandolo/) - 2026-10-01
-* [15 fundamental tips on REST API design](https://medium.com/@liams_o/15-fundamental-tips-on-rest-api-design-9a05bcd42920) - 2026-10-01
+* [Design Patterns for QA Automation: Build effective test solutions](https://medium.com/@dneprokos/design-patterns-for-qa-automation-build-effective-test-solutions-300718c4cb1f) - 2026-10-02
+* [The 9 books that completely changed the way I see the world](https://medium.com/@theo.seeds/the-9-books-that-completely-changed-the-way-i-see-the-world-6bd2314ad39c) - 2026-10-02
+* [Object Oriented Design Principles Cheat Sheet](https://senoritadeveloper.medium.com/object-oriented-design-principles-cheat-sheet-24e75a2289a1) - 2026-10-02
+* [Paseo por el canal.](https://asavecesunafoto.wordpress.com/2026/10/01/paseo-por-el-canal/) - 2026-10-02
+* [Backend Basics: RESTful API (API, REST, Methods, JSON, Examples)](https://medium.com/@erkinyilmaz9/backend-basics-restful-api-api-rest-methods-json-examples-429744ba0831) - 2026-10-02
 <!-- mastodon ends -->
 
 ---
