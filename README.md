@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-02
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-01
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-01
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-03
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-02
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-02
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-29
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-29
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-09-26
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Design Patterns for QA Automation: Build effective test solutions](https://medium.com/@dneprokos/design-patterns-for-qa-automation-build-effective-test-solutions-300718c4cb1f) - 2026-10-02
-* [The 9 books that completely changed the way I see the world](https://medium.com/@theo.seeds/the-9-books-that-completely-changed-the-way-i-see-the-world-6bd2314ad39c) - 2026-10-02
-* [Object Oriented Design Principles Cheat Sheet](https://senoritadeveloper.medium.com/object-oriented-design-principles-cheat-sheet-24e75a2289a1) - 2026-10-02
-* [Paseo por el canal.](https://asavecesunafoto.wordpress.com/2026/10/01/paseo-por-el-canal/) - 2026-10-02
-* [Backend Basics: RESTful API (API, REST, Methods, JSON, Examples)](https://medium.com/@erkinyilmaz9/backend-basics-restful-api-api-rest-methods-json-examples-429744ba0831) - 2026-10-02
+* [There's a new way to break RSA that's faster than anything we've seen before](https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/) - 2026-10-03
+* [New Attack Against RSA - Schneier on Security](https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html) - 2026-10-03
+* [Notificación Personas Afectadas](https://www.renfe.com/es/es/ayuda/notificacion-personas-afectadas) - 2026-10-03
+* [How IBM Turns Open Source Participation into Enterprise Value](https://openssf.org/blog/2026/09/25/how-does-ibm-turn-open-source-participation-into-enterprise-and-career-value/) - 2026-10-03
+* [Exposición 'Conspiranoia. Narrativas del complot' | Cultura y patrimonio](https://cultura.unizar.es/actividades/exposicion-conspiranoia-narrativas-del-complot) - 2026-10-02
 <!-- mastodon ends -->
 
 ---
