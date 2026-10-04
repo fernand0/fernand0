@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-03
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-02
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-04
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-03
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-03
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-29
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-29
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-09-26
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [There's a new way to break RSA that's faster than anything we've seen before](https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/) - 2026-10-03
-* [New Attack Against RSA - Schneier on Security](https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html) - 2026-10-03
-* [Notificación Personas Afectadas](https://www.renfe.com/es/es/ayuda/notificacion-personas-afectadas) - 2026-10-03
-* [How IBM Turns Open Source Participation into Enterprise Value](https://openssf.org/blog/2026/09/25/how-does-ibm-turn-open-source-participation-into-enterprise-and-career-value/) - 2026-10-03
-* [Exposición 'Conspiranoia. Narrativas del complot' | Cultura y patrimonio](https://cultura.unizar.es/actividades/exposicion-conspiranoia-narrativas-del-complot) - 2026-10-02
+* [AI Agents Are Now Emailing Me with Their Security Concerns - Schneier on Security](https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html) - 2026-10-04
+* [Why this month's Microsoft patch release is a doozy](https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/) - 2026-10-04
+* [Fake CAPTCHA scams: how “I’m not a robot” installs malware](https://www.malwarebytes.com/cybersecurity/basics/fake-captcha-scams) - 2026-10-04
+* [25 Years of Mass Surveillance Is Enough](https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough) - 2026-10-04
+* [En el bote.](https://asavecesunafoto.wordpress.com/2026/10/03/en-el-bote/) - 2026-10-03
 <!-- mastodon ends -->
 
 ---
