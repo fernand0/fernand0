@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-04
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-03
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-05
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-04
+* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-04
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-04
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-29
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-29
-* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-09-26
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [AI Agents Are Now Emailing Me with Their Security Concerns - Schneier on Security](https://www.schneier.com/blog/archives/2026/09/ai-agents-are-now-emailing-me-with-their-security-concerns.html) - 2026-10-04
-* [Why this month's Microsoft patch release is a doozy](https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/) - 2026-10-04
-* [Fake CAPTCHA scams: how “I’m not a robot” installs malware](https://www.malwarebytes.com/cybersecurity/basics/fake-captcha-scams) - 2026-10-04
-* [25 Years of Mass Surveillance Is Enough](https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough) - 2026-10-04
-* [En el bote.](https://asavecesunafoto.wordpress.com/2026/10/03/en-el-bote/) - 2026-10-03
+* [Diagram Style (Threat Model Thursday)](https://shostack.org/blog/diagram-style-threat-model-thursday/) - 2026-10-05
+* [Diagrams versus Models (Threat Model Thursday)](https://shostack.org/blog/diagrams-versus-models/) - 2026-10-05
+* [Millions of Comcast WiFi Routers Can Now Tell When You’re Moving Around the House](https://gizmodo.com/millions-of-comcast-wifi-routers-can-now-tell-when-youre-moving-around-the-house-2000800324) - 2026-10-05
+* [Leaked University Files Reveal How Russia Trains Hackers for Military Cyber Operations](https://gbhackers.com/leaked-university-files/) - 2026-10-05
+* [Ventanas, semicúpulas, columnas](https://www.flickr.com/photos/fernand0/55554079970/) - 2026-10-05
 <!-- mastodon ends -->
 
 ---
