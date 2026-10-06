@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-05
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-04
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-06
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-05
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-05
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-04
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-04
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-09-29
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-29
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Diagram Style (Threat Model Thursday)](https://shostack.org/blog/diagram-style-threat-model-thursday/) - 2026-10-05
-* [Diagrams versus Models (Threat Model Thursday)](https://shostack.org/blog/diagrams-versus-models/) - 2026-10-05
-* [Millions of Comcast WiFi Routers Can Now Tell When You’re Moving Around the House](https://gizmodo.com/millions-of-comcast-wifi-routers-can-now-tell-when-youre-moving-around-the-house-2000800324) - 2026-10-05
-* [Leaked University Files Reveal How Russia Trains Hackers for Military Cyber Operations](https://gbhackers.com/leaked-university-files/) - 2026-10-05
-* [Ventanas, semicúpulas, columnas](https://www.flickr.com/photos/fernand0/55554079970/) - 2026-10-05
+* [Is our water safe? Cyberattacks targeting US municipal systems on the rise](https://www.ksl.com/article/news/utah/science-and-tech/is-our-water-safe-cyberattacks-targeting-us-municipal-systems-on-the-rise/51628606) - 2026-10-06
+* [FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure](https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/) - 2026-10-06
+* [Lei el libro hace un montón de años y estaba pensando en volver a leerlo. Al ver esta adaptación de la mano de Monteys ni me lo](pensé) - 2026-10-06
+* [Libro. La conjura de los necios](https://fotografiasenmovimiento.wordpress.com/2026/10/06/libro-la-conjura-de-los-necios/) - 2026-10-06
+* [US government targets Cop City protester over phone operating system](https://www.theguardian.com/us-news/2026/jul/23/cop-city-protester-phone) - 2026-10-06
 <!-- mastodon ends -->
 
 ---
