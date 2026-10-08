@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-07
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-08
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-07
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-07
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-07
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-06
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-06
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-06
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-04
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-09-29
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
@@ -48,6 +48,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [¿Cómo validar a los proveedores de productos de seguridad que incluyen IA?](https://fernand0.github.io/guia-compra-ciberseguridad-ai/) - 2026-10-07
+
 * [CSRF y go](https://fernand0.github.io/csrf-go/) - 2026-09-29
 
 * [Los atajos salen caros, también en defensa.](https://fernand0.github.io/robando-GPU/) - 2026-09-22
@@ -56,9 +58,9 @@
 
 * [La venganza del empleado y las consecuencias](https://fernand0.github.io/venganza-consecuencias/) - 2026-08-17
 
-* [La IA genera más fallos de seguridad y a más velocidad](https://fernand0.github.io/ai-codigo-vulnerable/) - 2026-08-10
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [Redes sociales, algoritmos y ¿el valor de la web abierta?](https://blog.elmundoesimperfecto.com/2026/10/07/compasion-regulacion-educacion/) - 2026-10-07
 
 * [La importancia de preparar buenos documentos en los proyectos](https://blog.elmundoesimperfecto.com/2026/09/29/arquitectura-programacion/) - 2026-09-29
 
@@ -67,19 +69,17 @@
 * [Las clases y el trabajo asociado](https://blog.elmundoesimperfecto.com/2026/09/14/sobre-dar-clases/) - 2026-09-14
 
 * [La ciberseguridad, las empresas y las consecuencias](https://blog.elmundoesimperfecto.com/2026/08/17/claves-negocios/) - 2026-08-17
-
-* [Copilotos vs asistentes: la IA, el conocimiento, los expertos y las ayudas](https://blog.elmundoesimperfecto.com/2026/08/10/ia-asistente-sustituto/) - 2026-08-10
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [KDE and AI, and you, and me](https://pointieststick.com/2026/09/23/kde-and-ai-and-you-and-me/) - 2026-10-07
-* [California is banning public officials from making memecoins - Engadget](https://www.engadget.com/2271475/california-is-banning-public-officials-from-making-memecoins/) - 2026-10-07
-* [Mimbar, ventanas y lámparas](https://www.flickr.com/photos/fernand0/55553858499/) - 2026-10-07
-* [Mistral CEO says U.S. AI safety debate masks competitors’ 'negligence'](https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html) - 2026-10-07
-* [McDonald's is reportedly using AI to "dynamically" price its burgers - Engadget](https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers/) - 2026-10-07
+* [UK academic institutions are under assault by hackers](https://www.itpro.com/security/cyber-attacks/uk-academic-institutions-are-under-assault-by-hackers) - 2026-10-08
+* [Cartel con versos](https://www.flickr.com/photos/fernand0/55553858524/) - 2026-10-08
+* [Cyberattack hits University of Munich, potentially exposing student financial data](https://therecord.media/cyberattack-hits-university-of-munich-potentially-exposing-data) - 2026-10-08
+* [Microsoft anoints Rust as a 'Tier 1' internal language](https://www.theregister.com/devops/2026/09/11/microsoft-anoints-rust-as-a-tier-1-internal-language/5295732) - 2026-10-08
+* [The EU KIDS Act: Europe moves online child safety beyond social media bans | Freshfields](https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/the-eu-kids-act-europe-moves-online-child-safety-beyond-social-media-bans-102o1ld) - 2026-10-08
 <!-- mastodon ends -->
 
 ---
