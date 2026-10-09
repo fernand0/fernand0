@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-08
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-07
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-09
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-08
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-08
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-08
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-07
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-07
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-06
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-04
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [UK academic institutions are under assault by hackers](https://www.itpro.com/security/cyber-attacks/uk-academic-institutions-are-under-assault-by-hackers) - 2026-10-08
-* [Cartel con versos](https://www.flickr.com/photos/fernand0/55553858524/) - 2026-10-08
-* [Cyberattack hits University of Munich, potentially exposing student financial data](https://therecord.media/cyberattack-hits-university-of-munich-potentially-exposing-data) - 2026-10-08
-* [Microsoft anoints Rust as a 'Tier 1' internal language](https://www.theregister.com/devops/2026/09/11/microsoft-anoints-rust-as-a-tier-1-internal-language/5295732) - 2026-10-08
-* [The EU KIDS Act: Europe moves online child safety beyond social media bans | Freshfields](https://www.freshfields.com/en/our-thinking/blogs/technology-quotient/the-eu-kids-act-europe-moves-online-child-safety-beyond-social-media-bans-102o1ld) - 2026-10-08
+* [Ubuntu's Rustification Has a New Milestone! Coreutils Migration is Complete](https://itsfoss.com/news/ubuntu-rustification-coreutils-migration/) - 2026-10-09
+* [Ventanas, semicúpulas, nave, lámparas](https://www.flickr.com/photos/fernand0/55553796433/) - 2026-10-09
+* [CircuitPython Turbo: Go Blinka!](https://learn.adafruit.com/circuitpython-turbo) - 2026-10-09
+* [A Million Random Digits with 100,000 Normal Deviates : Rand Corporation, Rand Corporation:](http://Amazon.es) - 2026-10-09
+* [La magia de la informática corporativa.](Ay.) - 2026-10-09
 <!-- mastodon ends -->
 
 ---
