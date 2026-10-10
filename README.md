@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-09
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-10
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-09
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-09
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-08
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-08
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-08
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-04
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Ubuntu's Rustification Has a New Milestone! Coreutils Migration is Complete](https://itsfoss.com/news/ubuntu-rustification-coreutils-migration/) - 2026-10-09
-* [Ventanas, semicúpulas, nave, lámparas](https://www.flickr.com/photos/fernand0/55553796433/) - 2026-10-09
-* [CircuitPython Turbo: Go Blinka!](https://learn.adafruit.com/circuitpython-turbo) - 2026-10-09
-* [A Million Random Digits with 100,000 Normal Deviates : Rand Corporation, Rand Corporation:](http://Amazon.es) - 2026-10-09
-* [La magia de la informática corporativa.](Ay.) - 2026-10-09
+* [Los inicios creativos de Paco Roca en el cómic protagonizan la nueva exposición del Centro de Historias](https://www.europapress.es/aragon/noticia-inicios-creativos-paco-roca-comic-protagonizan-nueva-exposicion-centro-historias-20261003085955.html) - 2026-10-10
+* [‘The weaker he gets, the more dangerous he gets’: Trump lashes out as his power wanes](https://www.theguardian.com/news/ng-interactive/2026/sep/25/trump-lashes-out-un-fed-supreme-court) - 2026-10-10
+* [You Are No Longer Invited to Dinner](https://www.derekthompson.org/p/the-death-of-the-american-host) - 2026-10-10
+* [El Instituto Geográfico Nacional acaba de actualizar todos sus mapas de España a alta resolución y se pueden descargar gratis desde su web](https://www.xataka.com/magnet/piensas-que-mapas-papel-no-cosa-pasado-ign-acaba-actualizar-tres-sus-clasicos-puedes-descargarlos-gratis) - 2026-10-10
+* [Más financiación, menos burocracia y más formación científica, recetas de COSCE para revitalizar el sistema científico y tecnológico español | Cosce](https://cosce.org/mas-financiacion-menos-burocracia-para-impulsar-la-transferencia-de-conocimiento-y-mas-formacion-cientifica-recetas-de-cosce-para-revitalizar-el-sistema-cientifico-y-tecnologico-espanol/) - 2026-10-09
 <!-- mastodon ends -->
 
 ---
