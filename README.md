@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-10
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-09
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-09
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-08
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-11
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-11
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-10
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-10
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-04
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Los inicios creativos de Paco Roca en el cómic protagonizan la nueva exposición del Centro de Historias](https://www.europapress.es/aragon/noticia-inicios-creativos-paco-roca-comic-protagonizan-nueva-exposicion-centro-historias-20261003085955.html) - 2026-10-10
-* [‘The weaker he gets, the more dangerous he gets’: Trump lashes out as his power wanes](https://www.theguardian.com/news/ng-interactive/2026/sep/25/trump-lashes-out-un-fed-supreme-court) - 2026-10-10
-* [You Are No Longer Invited to Dinner](https://www.derekthompson.org/p/the-death-of-the-american-host) - 2026-10-10
-* [El Instituto Geográfico Nacional acaba de actualizar todos sus mapas de España a alta resolución y se pueden descargar gratis desde su web](https://www.xataka.com/magnet/piensas-que-mapas-papel-no-cosa-pasado-ign-acaba-actualizar-tres-sus-clasicos-puedes-descargarlos-gratis) - 2026-10-10
-* [Más financiación, menos burocracia y más formación científica, recetas de COSCE para revitalizar el sistema científico y tecnológico español | Cosce](https://cosce.org/mas-financiacion-menos-burocracia-para-impulsar-la-transferencia-de-conocimiento-y-mas-formacion-cientifica-recetas-de-cosce-para-revitalizar-el-sistema-cientifico-y-tecnologico-espanol/) - 2026-10-09
+* [IBM and Red Hat Remediate More Than 400 Previously Unknown Open Source Vulnerabilities](https://newsroom.ibm.com/2026-10-06-ibm-and-red-hat-remediate-more-than-400-previously-unknown-open-source-vulnerabilities) - 2026-10-11
+* [‘Absolute s–t’: EU’s Microsoft Teams alternative draws bad reviews from officials](https://www.politico.eu/article/eu-microsoft-teams-alternative-bad-reviews-element-pro/) - 2026-10-11
+* [Rust for CPython (Python Language Summit 2026) | Python Insider](https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/) - 2026-10-11
+* [El Progreso Matemático. Periódico de matemáticas puras y aplicadas (1891-1900)](https://www.unizar.es/actualidad/vernoticia_ng.php?id=99285) - 2026-10-11
+* [You notion account has been deleted. So far, so good... Creo que el servicio no era para](mí) - 2026-10-10
 <!-- mastodon ends -->
 
 ---
