@@ -12,23 +12,7 @@
 
 # Recent Contributions
 <!-- recent_releases starts -->
-## repositories
 
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-11
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-11
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-10
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-10
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-07
-* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-04
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
-* [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
-* [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
-* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
-
-## repositoriesContributedTo
-
-* [FIM-EINA-repositorio-material](https://github.com/ricardojrdez/FIM-EINA-repositorio-material),  Repositorio de fuentes del material de la asignatura de "Fundamentos de Informática" (Grado en Ingeniería Mecánica, EINA) - 2026-07-08
-* [AB](https://github.com/simber72/AB),  No description - 2026-07-02
 <!-- recent_releases ends -->
 
 # On my blogs
@@ -75,11 +59,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [IBM and Red Hat Remediate More Than 400 Previously Unknown Open Source Vulnerabilities](https://newsroom.ibm.com/2026-10-06-ibm-and-red-hat-remediate-more-than-400-previously-unknown-open-source-vulnerabilities) - 2026-10-11
-* [‘Absolute s–t’: EU’s Microsoft Teams alternative draws bad reviews from officials](https://www.politico.eu/article/eu-microsoft-teams-alternative-bad-reviews-element-pro/) - 2026-10-11
-* [Rust for CPython (Python Language Summit 2026) | Python Insider](https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/) - 2026-10-11
-* [El Progreso Matemático. Periódico de matemáticas puras y aplicadas (1891-1900)](https://www.unizar.es/actualidad/vernoticia_ng.php?id=99285) - 2026-10-11
-* [You notion account has been deleted. So far, so good... Creo que el servicio no era para](mí) - 2026-10-10
+* [Pronto van a ser las jornadas de GEOTURISMO como herramienta de desarrollo territorial](https://www.aragosaurus.com/jornadas-geoturismo-como-herramienta-de-desarrollo-territorial/) - 2026-10-12
+* [Dos fallos en LibreOffice y OpenOffice permiten ejecutar código al abrir hojas de cálculo sin avisos de macros - Una Al Día](https://unaaldia.hispasec.com/dos-fallos-en-libreoffice-y-openoffice-permiten-ejecutar-codigo-al-abrir-hojas-de-calculo-sin-avisos-de-macros/) - 2026-10-12
+* ['The Jobs Apocalypse Is Postponed. An AI Jobs Boom Is Here' - Slashdot](https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here) - 2026-10-12
+* [These teachers fight AI cheating with classes that force students to show they are learning](https://illuminem.com/illuminemvoices/summary-these-teachers-fight-ai-cheating-with-classes-that-force-students-to-show-they-are-learning) - 2026-10-12
+* [Dr. Zeleny Speaks Out on Measures to Keep AI Usage in Check in the Classroom](https://www.ubalt.edu/about/newsroom/ubaltnews-zeleny-speaks-out-on-ai-usage-in-classroom.cfm) - 2026-10-12
 <!-- mastodon ends -->
 
 ---
