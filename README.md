@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-14
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-13
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-13
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-12
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-12
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-12
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-04
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Margaret Hamilton, computing pioneer who led software development for the Apollo program, dies at 90](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) - 2026-10-13
-* [CINAIC 2027: reserva las fechas de la IX edición - CINAIC](https://cinaic.net/cinaic2027/cinaic-2027-reserva-las-fechas-de-la-ix-edicion/) - 2026-10-13
-* [SPUR Coalition | Rules, Standards & AI Infrastructure](https://www.spurcoalition.org/) - 2026-10-13
-* [Mass quarantine issued in Russia after unexplained death of plague researcher](https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/) - 2026-10-13
-* [Why you should mail your parents a Tailscale node | HackerNoon](https://hackernoon.com/why-you-should-mail-your-parents-a-tailscale-node) - 2026-10-13
+* [Designing the Front Door to Our Subscriptions](https://open.nytimes.com/designing-the-front-door-to-our-subscriptions-6bb2ed3f5338) - 2026-10-14
+* [AI safety requires more than just slowing our pace | Stuart Russell](https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements) - 2026-10-14
+* [GitHub - microsoft/mxc: Policy-driven, layered isolation and containment](https://github.com/microsoft/mxc) - 2026-10-14
+* [Medallón con caligrafía, galería superior y ventanas con mosaicos bizantinos](https://www.flickr.com/photos/fernand0/55553858729/) - 2026-10-13
+* [GitHub - microsoft/quicksand: Quickly sandbox your AI agent.](https://github.com/microsoft/quicksand) - 2026-10-13
 <!-- mastodon ends -->
 
 ---
