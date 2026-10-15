@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-14
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-13
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-14
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-14
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-12
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-04
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Designing the Front Door to Our Subscriptions](https://open.nytimes.com/designing-the-front-door-to-our-subscriptions-6bb2ed3f5338) - 2026-10-14
-* [AI safety requires more than just slowing our pace | Stuart Russell](https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements) - 2026-10-14
-* [GitHub - microsoft/mxc: Policy-driven, layered isolation and containment](https://github.com/microsoft/mxc) - 2026-10-14
-* [Medallón con caligrafía, galería superior y ventanas con mosaicos bizantinos](https://www.flickr.com/photos/fernand0/55553858729/) - 2026-10-13
-* [GitHub - microsoft/quicksand: Quickly sandbox your AI agent.](https://github.com/microsoft/quicksand) - 2026-10-13
+* [XV Foro de Ciberseguridad de RedIRIS](https://eventos.rediris.es/event/9/timetable/) - 2026-10-15
+* [Ventanas de la cúpula, pechinas y semicúpulas](https://www.flickr.com/photos/fernand0/55553796658/) - 2026-10-15
+* [Participa en la EU Code Week 2026 del 10 al 25 de octubre - Code INTEF](https://code.intef.es/noticias/participa-en-la-eu-code-week-2026-del-10-al-25-de-octubre/) - 2026-10-15
+* [Technovation | Building innovators for life](https://www.technovation.org/) - 2026-10-15
+* [Solo Shutdown FAQ | Solo Support](https://support.soloist.ai/doc/solo-shutdown-faq) - 2026-10-14
 <!-- mastodon ends -->
 
 ---
