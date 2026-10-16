@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-15
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-14
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-14
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-12
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-16
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-15
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-15
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-04
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [XV Foro de Ciberseguridad de RedIRIS](https://eventos.rediris.es/event/9/timetable/) - 2026-10-15
-* [Ventanas de la cúpula, pechinas y semicúpulas](https://www.flickr.com/photos/fernand0/55553796658/) - 2026-10-15
-* [Participa en la EU Code Week 2026 del 10 al 25 de octubre - Code INTEF](https://code.intef.es/noticias/participa-en-la-eu-code-week-2026-del-10-al-25-de-octubre/) - 2026-10-15
-* [Technovation | Building innovators for life](https://www.technovation.org/) - 2026-10-15
-* [Solo Shutdown FAQ | Solo Support](https://support.soloist.ai/doc/solo-shutdown-faq) - 2026-10-14
+* [AI Kill Switches Won’t Be Enough](https://mathbabe.org/2026/09/18/ai-kill-switches-wont-be-enough/) - 2026-10-16
+* [Privacy policies and modal logic](https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/) - 2026-10-16
+* [Pechinas y muros llenos de ventanas. Y lámpara.](https://www.flickr.com/photos/fernand0/55554080305/) - 2026-10-16
+* [Faster Fourier Transform](https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/) - 2026-10-16
+* [Un buen tipo, las veces que](coincidimos) - 2026-10-15
 <!-- mastodon ends -->
 
 ---
