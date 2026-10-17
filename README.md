@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-17
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-16
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-16
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-15
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-15
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-15
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-04
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [AI Kill Switches Won’t Be Enough](https://mathbabe.org/2026/09/18/ai-kill-switches-wont-be-enough/) - 2026-10-16
-* [Privacy policies and modal logic](https://www.johndcook.com/blog/2026/10/08/privacy-policies-and-modal-logic/) - 2026-10-16
-* [Pechinas y muros llenos de ventanas. Y lámpara.](https://www.flickr.com/photos/fernand0/55554080305/) - 2026-10-16
-* [Faster Fourier Transform](https://www.johndcook.com/blog/2026/10/07/faster-fourier-transform/) - 2026-10-16
-* [Un buen tipo, las veces que](coincidimos) - 2026-10-15
+* [The rise, fall, and rise of portable MP3 players](https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player) - 2026-10-17
+* [I Quit OpenAI Because Its Culture Is Broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/) - 2026-10-17
+* [The generation raised on sugar rations – and what their health reveals 70 years later](https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing) - 2026-10-16
+* [The generation raised on sugar rations – and what their health reveals 70 years later](https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing) - 2026-10-16
+* [Se escapa.](https://asavecesunafoto.wordpress.com/2026/10/16/se-escapa/) - 2026-10-16
 <!-- mastodon ends -->
 
 ---
