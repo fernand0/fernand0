@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-17
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-16
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-16
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-18
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-17
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-17
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-15
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-07
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-04
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [The rise, fall, and rise of portable MP3 players](https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player) - 2026-10-17
-* [I Quit OpenAI Because Its Culture Is Broken](https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/) - 2026-10-17
-* [The generation raised on sugar rations – and what their health reveals 70 years later](https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing) - 2026-10-16
-* [The generation raised on sugar rations – and what their health reveals 70 years later](https://www.theguardian.com/society/2026/oct/07/sugar-rations-health-blood-pressure-ageing) - 2026-10-16
-* [Se escapa.](https://asavecesunafoto.wordpress.com/2026/10/16/se-escapa/) - 2026-10-16
+* [14th OpenSky Symposium 2026](https://symposium.opensky-network.org/) - 2026-10-18
+* [La devaluación del sexenio universitario: de incentivo a la excelencia a escudo de supervivencia contributiva - Universidad, sí](https://www.universidadsi.es/la-devaluacion-del-sexenio-universitario-de-incentivo-a-la-excelencia-a-escudo-de-supervivencia-contributiva/) - 2026-10-18
+* [< https://alternativeto.net/news/2026/10/mozilla-launches-firefox-enterprise-with-on-premises-management-for-european-companies/](https://alternativeto.net/news/2026/10/mozilla-launches-firefox-enterprise-with-on-premises-management-for-european-companies/) - 2026-10-17
+* [En el chiringuito.](https://asavecesunafoto.wordpress.com/2026/10/17/en-el-chiringuito/) - 2026-10-17
+* [Swap Lectures with Homework](https://blog.tanyakhovanova.com/2026/09/swap-lectures-with-homework/) - 2026-10-17
 <!-- mastodon ends -->
 
 ---
