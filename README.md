@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-19
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-18
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-20
+* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-20
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-19
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-19
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-19
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-15
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-07
-* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-04
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
@@ -48,6 +48,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [¿Cuánto tiempo tu dominio será tuyo?](https://fernand0.github.io/la-ocupacion-de-dominios/) - 2026-10-19
+
 * [¿Cómo validar a los proveedores de productos de seguridad que incluyen IA?](https://fernand0.github.io/guia-compra-ciberseguridad-ai/) - 2026-10-07
 
 * [CSRF y go](https://fernand0.github.io/csrf-go/) - 2026-09-29
@@ -56,9 +58,9 @@
 
 * [Las IAs como apoyo en la ciberseguridad y algunas dificultades](https://fernand0.github.io/ia-soc/) - 2026-09-14
 
-* [La venganza del empleado y las consecuencias](https://fernand0.github.io/venganza-consecuencias/) - 2026-08-17
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [Los desarrolladores, su trabajo y algunas ideas sobre el futuro](https://blog.elmundoesimperfecto.com/2026/10/19/ia-trabajo/) - 2026-10-19
 
 * [Redes sociales, algoritmos y ¿el valor de la web abierta?](https://blog.elmundoesimperfecto.com/2026/10/07/compasion-regulacion-educacion/) - 2026-10-07
 
@@ -67,19 +69,17 @@
 * [Informática: ¿programas o herramientas?](https://blog.elmundoesimperfecto.com/2026/09/22/programas-personales/) - 2026-09-22
 
 * [Las clases y el trabajo asociado](https://blog.elmundoesimperfecto.com/2026/09/14/sobre-dar-clases/) - 2026-09-14
-
-* [La ciberseguridad, las empresas y las consecuencias](https://blog.elmundoesimperfecto.com/2026/08/17/claves-negocios/) - 2026-08-17
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [F-Droid 2.0: A New Chapter for Android Freedom | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/en/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) - 2026-10-19
-* [LukeW | The Convergence of Design](https://www.lukew.com/ff/2166/the-convergence-of-design) - 2026-10-19
-* [Cyberattack shuts down refrigerators at French supermarkets](https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/) - 2026-10-19
-* [Freeze the Controller, Defrost the Food: Uncovering Vulnerabilities in Danfoss Refrigeration Controllers](https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers) - 2026-10-18
-* [Paseo por Mojácar (pueblo y playa)](https://asavecesunafoto.wordpress.com/2026/10/18/paseo-por-mojacar-pueblo-y-playa/) - 2026-10-18
+* [Jean-Michel Jarre announces 50th anniversary edition of Oxygene](https://www.loudersound.com/music/albums/jean-michel-jarre-announces-50th-anniversary-editon-of-oxygene) - 2026-10-20
+* [Las dos escalas de la música en vivo: 45.000 personas en el Expo y una media estatal de 121 conciertos por sala medida en 2015](https://www.aragonmusical.com/2026/09/las-dos-escalas-de-la-musica-en-vivo-45-000-personas-en-el-expo-y-una-media-estatal-de-121-conciertos-por-sala-medida-en-2015/) - 2026-10-20
+* [Agarró.](https://asavecesunafoto.wordpress.com/2026/10/19/agarro/) - 2026-10-19
+* [¿Cuánto tiempo tu dominio será tuyo?](https://fernand0.github.io//la-ocupacion-de-dominios/) - 2026-10-19
+* [Comment reconnaître 5 plantes sauvages urbaines communes ?](https://www.tela-botanica.org/2026/09/comment-reconnaitre-5-plantes-sauvages-urbaines-communes/) - 2026-10-19
 <!-- mastodon ends -->
 
 ---
