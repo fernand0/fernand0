@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-22
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-21
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-21
-* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-20
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-20
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-20
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-21
+* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-21
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-21
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [‘The happiest time of life is as you get older’: can positive thinking help you age better?](https://www.theguardian.com/science/2026/may/03/getting-older-ageing-happiest-time-of-life) - 2026-10-21
-* [GitHub - ruc-datalab/EvoOntology: EvoOntology: A Self-Evolving Ontology Layer for Data Agents :gear: EvoOntology插件为Claude Code/Codex 建立&进化本体层](https://github.com/ruc-datalab/EvoOntology) - 2026-10-21
-* [The RTO tax is an estimated $6,700 per year for employees, analysis finds](https://www.hrdive.com/news/the-rto-tax-is-an-estimated-6700-per-year-for-employees/831597/) - 2026-10-21
-* [Excursión a Puente de Montañana](https://asavecesunafoto.wordpress.com/2026/10/20/excursion-a-puente-de-montanana/) - 2026-10-20
-* [](https://cincodias.elpais.com/mercados-financieros/2026-10-19/los-inversores-huyen-de-los-centros-de-datos-la-deuda-se-hunde-y-las-salidas-a-bolsa-se-cancelan.html) - 2026-10-20
+* [El Archivo Universitario de la Universidad de Zaragoza participa en la Fiesta de la Historia con la actividad "Los comercios y la Universidad en la Zaragoza de los años 20"](https://www.unizar.es/actualidad/vernoticia_ng.php?id=99449&amp;idh=13604&amp;pk_campaign=iunizar20261016&amp;pk_source=iunizar-personalunizar) - 2026-10-22
+* [SSL Automation & 90-Day Validity: Prepare for the Future](https://www.actalis.com/ssl-certificates-automation-lifecycle) - 2026-10-22
+* [Renfe y Aragón Emprende impulsan la innovación a bordo del Canfranero](https://www.vialibre-ffe.com/noticias.asp?not=50567) - 2026-10-22
+* [Michael Nyman Band & orquesta Chekara-The Upside-Down Violin - مجموعة مايكل نيمان و أوركسترا شقّارة.](https://youtu.be/xIde4FhxvEE) - 2026-10-21
+* [Renfe y Fundación Aragón Emprende suben el emprendimiento al Canfranero en un recorrido que conecta talento y territorio](https://trenlab.es/articulos/renfe-y-fundacion-aragon-emprende-suben-el-emprendimiento-al-canfranero-en-un-recorrido-que-conecta-talento-y-territorio) - 2026-10-21
 <!-- mastodon ends -->
 
 ---
