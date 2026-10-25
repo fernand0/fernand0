@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-24
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-23
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-23
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-25
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-24
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-24
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-21
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-21
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-19
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Simposio "La cultura que queremos para el Aragón del futuro" - Rolde](https://www.roldedeestudiosaragoneses.org/simposio-la-cultura-que-queremos-para-el-aragon-del-futuro) - 2026-10-24
-* [Elon Musk has made all of the world's yachts more valuable - Philip Greenspun’s Weblog](https://philip.greenspun.com/blog/2026/10/06/elon-musk-has-made-all-of-the-worlds-yachts-more-valuable/) - 2026-10-24
-* [Las puntas.](https://asavecesunafoto.wordpress.com/2026/10/23/las-puntas/) - 2026-10-23
-* [Tribuna del sultán](https://www.flickr.com/photos/fernand0/55554080515/) - 2026-10-23
-* [American Muscle Car Museum in Melbourne, Florida (Paging Bernie and AOC) - Philip Greenspun’s Weblog](https://philip.greenspun.com/blog/2026/10/09/american-muscle-car-museum-in-melbourne-florida-paging-bernie-and-aoc/) - 2026-10-23
+* [Mimbar](https://www.flickr.com/photos/fernand0/55553796933/) - 2026-10-25
+* [FEUZ | Microcredencial Universidad de Zaragoza - Geopolítica Aplicada a la Empresa](https://www.feuz.es/curso/microcredencial-universidad-de-zaragoza-geopolitica-aplicada-a-la-empresa-2/) - 2026-10-25
+* [Jornada Acelera Pyme: Ciberseguridad Industrial: Tu Fábrica Ya Está Conectada: ¿está Protegida? | COIIAR](https://coiiar.es/agenda/jornada-acelera-pyme-ciberseguridad-industrial-tu-fbrica-ya-est-conectada-est-protegida/) - 2026-10-24
+* [Visualize Regular Expressions With Marbles](https://hackaday.com/2026/10/20/visualize-regular-expressions-with-marbles/) - 2026-10-24
+* [En Motril.](https://asavecesunafoto.wordpress.com/2026/10/24/en-motril/) - 2026-10-24
 <!-- mastodon ends -->
 
 ---
