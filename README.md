@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-24
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-24
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-21
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-26
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-25
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-25
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-25
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-21
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Mimbar](https://www.flickr.com/photos/fernand0/55553796933/) - 2026-10-25
-* [FEUZ | Microcredencial Universidad de Zaragoza - Geopolítica Aplicada a la Empresa](https://www.feuz.es/curso/microcredencial-universidad-de-zaragoza-geopolitica-aplicada-a-la-empresa-2/) - 2026-10-25
-* [Jornada Acelera Pyme: Ciberseguridad Industrial: Tu Fábrica Ya Está Conectada: ¿está Protegida? | COIIAR](https://coiiar.es/agenda/jornada-acelera-pyme-ciberseguridad-industrial-tu-fbrica-ya-est-conectada-est-protegida/) - 2026-10-24
-* [Visualize Regular Expressions With Marbles](https://hackaday.com/2026/10/20/visualize-regular-expressions-with-marbles/) - 2026-10-24
-* [En Motril.](https://asavecesunafoto.wordpress.com/2026/10/24/en-motril/) - 2026-10-24
+* [Cifras y Letras y multimodalidad: cómo pensamos y comunicamos información numérica](https://www.unizar.es/actualidad/vernoticia_ng.php?id=99538&amp;idh=13610&amp;pk_campaign=iunizar20261021&amp;pk_source=iunizar-personalunizar) - 2026-10-26
+* [Laptop Stickers: Yay Or Nay?](https://brainbaking.com/post/2026/10/laptop-stickers-yay-or-nay/) - 2026-10-26
+* [Lugo rescata la memoria de más de un siglo de historia telefónica](https://historiatelefonia.com/2026/10/18/lugo-rescata-la-memoria-de-mas-de-un-siglo-de-historia-telefonica/) - 2026-10-26
+* [Galería con columnas decoradas](https://www.flickr.com/photos/fernand0/55552670147/) - 2026-10-26
+* [La Guardia Civil compra por 2,5 millones un sistema para acceder de forma remota a móviles Android y iPhone](https://www.eldigitaldealbacete.com/2026/10/19/la-guardia-civil-compra-por-25-millones-un-sistema-para-acceder-de-forma-remota-a-moviles-android-y-iphone/) - 2026-10-25
 <!-- mastodon ends -->
 
 ---
