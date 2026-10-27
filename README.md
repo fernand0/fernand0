@@ -14,16 +14,16 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-26
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-25
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-25
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-25
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-27
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-27
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-26
+* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-26
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-26
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-21
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-19
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
-* [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-08-11
 
 ## repositoriesContributedTo
 
@@ -48,6 +48,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [Una IA para generar un secuestro de información completo](https://fernand0.github.io/ransomware-ia/) - 2026-10-26
+
 * [¿Cuánto tiempo tu dominio será tuyo?](https://fernand0.github.io/la-ocupacion-de-dominios/) - 2026-10-19
 
 * [¿Cómo validar a los proveedores de productos de seguridad que incluyen IA?](https://fernand0.github.io/guia-compra-ciberseguridad-ai/) - 2026-10-07
@@ -56,9 +58,9 @@
 
 * [Los atajos salen caros, también en defensa.](https://fernand0.github.io/robando-GPU/) - 2026-09-22
 
-* [Las IAs como apoyo en la ciberseguridad y algunas dificultades](https://fernand0.github.io/ia-soc/) - 2026-09-14
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [En La Era de las Distros, hablando de las oficinas universitarias de software libre](https://blog.elmundoesimperfecto.com/2026/10/26/en-la-era-distros-oficinas-universitarias-software-libre/) - 2026-10-26
 
 * [Los desarrolladores, su trabajo y algunas ideas sobre el futuro](https://blog.elmundoesimperfecto.com/2026/10/19/ia-trabajo/) - 2026-10-19
 
@@ -67,19 +69,17 @@
 * [La importancia de preparar buenos documentos en los proyectos](https://blog.elmundoesimperfecto.com/2026/09/29/arquitectura-programacion/) - 2026-09-29
 
 * [Informática: ¿programas o herramientas?](https://blog.elmundoesimperfecto.com/2026/09/22/programas-personales/) - 2026-09-22
-
-* [Las clases y el trabajo asociado](https://blog.elmundoesimperfecto.com/2026/09/14/sobre-dar-clases/) - 2026-09-14
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Cifras y Letras y multimodalidad: cómo pensamos y comunicamos información numérica](https://www.unizar.es/actualidad/vernoticia_ng.php?id=99538&amp;idh=13610&amp;pk_campaign=iunizar20261021&amp;pk_source=iunizar-personalunizar) - 2026-10-26
-* [Laptop Stickers: Yay Or Nay?](https://brainbaking.com/post/2026/10/laptop-stickers-yay-or-nay/) - 2026-10-26
-* [Lugo rescata la memoria de más de un siglo de historia telefónica](https://historiatelefonia.com/2026/10/18/lugo-rescata-la-memoria-de-mas-de-un-siglo-de-historia-telefonica/) - 2026-10-26
-* [Galería con columnas decoradas](https://www.flickr.com/photos/fernand0/55552670147/) - 2026-10-26
-* [La Guardia Civil compra por 2,5 millones un sistema para acceder de forma remota a móviles Android y iPhone](https://www.eldigitaldealbacete.com/2026/10/19/la-guardia-civil-compra-por-25-millones-un-sistema-para-acceder-de-forma-remota-a-moviles-android-y-iphone/) - 2026-10-25
+* [Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/) - 2026-10-27
+* [Tribuna del muecín y columnas](https://www.flickr.com/photos/fernand0/55553859074/) - 2026-10-27
+* [Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date](https://research.meta.ai/blog/muse-spark-open) - 2026-10-27
+* [Keynote, Paris September 28 on Human AI Complementarity - THE INTERNET OF THINGS](https://theinternetofthings.eu/keynote-paris-september-28-on-human-ai-complementarity) - 2026-10-26
+* [Una IA para generar un secuestro de información completo](https://fernand0.github.io//ransomware-ia/) - 2026-10-26
 <!-- mastodon ends -->
 
 ---
