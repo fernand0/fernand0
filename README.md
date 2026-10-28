@@ -14,13 +14,13 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-27
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-27
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-26
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-28
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-28
+* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-28
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-27
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-27
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-26
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-26
-* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-21
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Cloudflare deploys protections against php2shell vulnerability](https://blog.cloudflare.com/php-vulnerabilities-waf-protection/) - 2026-10-27
-* [Tribuna del muecín y columnas](https://www.flickr.com/photos/fernand0/55553859074/) - 2026-10-27
-* [Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date](https://research.meta.ai/blog/muse-spark-open) - 2026-10-27
-* [Keynote, Paris September 28 on Human AI Complementarity - THE INTERNET OF THINGS](https://theinternetofthings.eu/keynote-paris-september-28-on-human-ai-complementarity) - 2026-10-26
-* [Una IA para generar un secuestro de información completo](https://fernand0.github.io//ransomware-ia/) - 2026-10-26
+* [Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores](https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/) - 2026-10-28
+* [Vista lateral](https://www.flickr.com/photos/fernand0/55554080695/) - 2026-10-28
+* [Cómo pedirle a una empresa todos los datos que tiene de ti: el derecho de acceso del RGPD paso a paso](https://wwwhatsnew.com/2026/10/19/derecho-acceso-rgpd-pedir-datos-empresa/) - 2026-10-28
+* [AMD Working On Ryzen Overclocking Driver For Linux](https://www.phoronix.com/news/AMD-AOD-Overclocking-Linux) - 2026-10-28
+* [PHP: News Archive - 2026](https://www.php.net/archive/2026.php) - 2026-10-27
 <!-- mastodon ends -->
 
 ---
