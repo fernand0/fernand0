@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-29
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-28
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-28
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-28
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-27
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-27
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-28
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-28
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-26
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Airbnb Hosts Are Furious They Can No Longer Make Guests Do Their Chores](https://www.wired.com/story/airbnb-hosts-are-furious-they-can-no-longer-make-guests-do-their-chores/) - 2026-10-28
-* [Vista lateral](https://www.flickr.com/photos/fernand0/55554080695/) - 2026-10-28
-* [Cómo pedirle a una empresa todos los datos que tiene de ti: el derecho de acceso del RGPD paso a paso](https://wwwhatsnew.com/2026/10/19/derecho-acceso-rgpd-pedir-datos-empresa/) - 2026-10-28
-* [AMD Working On Ryzen Overclocking Driver For Linux](https://www.phoronix.com/news/AMD-AOD-Overclocking-Linux) - 2026-10-28
-* [PHP: News Archive - 2026](https://www.php.net/archive/2026.php) - 2026-10-27
+* ["Apple engineer" builds GitHub AI torture chamber to inflict "pain and anguish" on models](https://www.machine.news/apple-engineer-builds-github-ai-torture-chamber-to-inflict-digital-pain-on-models/) - 2026-10-29
+* [Urna de mármol, luces y ventanas](https://www.flickr.com/photos/fernand0/55553797103/) - 2026-10-29
+* [The pros and cons of enabling Wi-Fi calling - Engadget](https://www.engadget.com/2273956/wifi-calling-pros-cons/) - 2026-10-29
+* [8.8 Million Impacted by Data Breach at Denmark’s Central Person Register](https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/) - 2026-10-29
+* [Hacienda retrasa Verifactu hasta octubre de 2028: el cuarto aplazamiento en tres años](https://wwwhatsnew.com/2026/10/06/hacienda-verifactu-octubre-2028-aplazamiento-factura-electronica-2026/) - 2026-10-28
 <!-- mastodon ends -->
 
 ---
