@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-29
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-30
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-29
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-29
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-28
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-28
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-28
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-28
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-26
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* ["Apple engineer" builds GitHub AI torture chamber to inflict "pain and anguish" on models](https://www.machine.news/apple-engineer-builds-github-ai-torture-chamber-to-inflict-digital-pain-on-models/) - 2026-10-29
-* [Urna de mármol, luces y ventanas](https://www.flickr.com/photos/fernand0/55553797103/) - 2026-10-29
-* [The pros and cons of enabling Wi-Fi calling - Engadget](https://www.engadget.com/2273956/wifi-calling-pros-cons/) - 2026-10-29
-* [8.8 Million Impacted by Data Breach at Denmark’s Central Person Register](https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/) - 2026-10-29
-* [Hacienda retrasa Verifactu hasta octubre de 2028: el cuarto aplazamiento en tres años](https://wwwhatsnew.com/2026/10/06/hacienda-verifactu-octubre-2028-aplazamiento-factura-electronica-2026/) - 2026-10-28
+* [HomeView Thoughts and Observations](https://daringfireball.net/2026/10/homeview_thoughts_and_observations) - 2026-10-30
+* [Realidad Empresa. Directivos en primera persona | Mobility City](https://www.mobilitycity.es/explora/actividades/realidad-empresa-directivos-en-primera-persona-zaragoza/) - 2026-10-30
+* [Header Accordions: QPACK amplification attacks against HTTP/3 servers - FoxIO | Cyber Innovation](https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers) - 2026-10-29
+* [Node.js October 2026 Security Update: 10 Vulnerabilities Patched Across 3 Release Lines](https://www.linuxcompatible.org/story/nodejs-october-2026-security-update-10-vulnerabilities-patched-across-3-release-lines/) - 2026-10-29
+* [Nuestro ex-geranio](https://asavecesunafoto.wordpress.com/2026/10/29/nuestro-ex-geranio/) - 2026-10-29
 <!-- mastodon ends -->
 
 ---
