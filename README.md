@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-30
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-29
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-29
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-28
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-10-31
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-30
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-30
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-30
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-28
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-26
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [HomeView Thoughts and Observations](https://daringfireball.net/2026/10/homeview_thoughts_and_observations) - 2026-10-30
-* [Realidad Empresa. Directivos en primera persona | Mobility City](https://www.mobilitycity.es/explora/actividades/realidad-empresa-directivos-en-primera-persona-zaragoza/) - 2026-10-30
-* [Header Accordions: QPACK amplification attacks against HTTP/3 servers - FoxIO | Cyber Innovation](https://foxio.io/blog/header-accordions-qpack-amplification-attacks-against-http-3-servers) - 2026-10-29
-* [Node.js October 2026 Security Update: 10 Vulnerabilities Patched Across 3 Release Lines](https://www.linuxcompatible.org/story/nodejs-october-2026-security-update-10-vulnerabilities-patched-across-3-release-lines/) - 2026-10-29
-* [Nuestro ex-geranio](https://asavecesunafoto.wordpress.com/2026/10/29/nuestro-ex-geranio/) - 2026-10-29
+* [Encuentros en el Museo: 30 años de la excavación de Tastavinsaurus, el dinosaurio aragonés dedicado al vino](https://www.unizar.es/actualidad/vernoticia_ng.php?id=99647) - 2026-10-31
+* [La Cátedra Geología y Sociedad de la Universidad de Zaragoza reúne a expertos para analizar el potencial del geoturismo como motor de desarrollo territorial](https://www.unizar.es/actualidad/vernoticia_ng.php?id=99643) - 2026-10-31
+* [Large language models can execute complete ransomware attacks autonomously, NYU Tandon research shows | NYU Tandon School of Engineering](https://engineering.nyu.edu/news/large-language-models-can-execute-complete-ransomware-attacks-autonomously-nyu-tandon-research) - 2026-10-31
+* [La frontera de Ceuta y Melilla en Google Maps lleva años siendo una línea de puntos. Ahora Bruselas decidirá si incumple la DSA](https://www.xataka.com/magnet/frontera-ceuta-melilla-google-maps-lleva-anos-siendo-linea-puntos-ahora-bruselas-decidira-incumple-dsa) - 2026-10-30
+* [Lo que se ve.](https://asavecesunafoto.wordpress.com/2026/10/30/lo-que-se-ve/) - 2026-10-30
 <!-- mastodon ends -->
 
 ---
