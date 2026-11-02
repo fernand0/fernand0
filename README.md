@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-01
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-10-31
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-10-31
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-10-31
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-02
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-01
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-01
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-01
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-28
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-26
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Designing for Kindness](https://www.instructure.com/resources/videos/designing-kindness) - 2026-11-01
-* [Can you ever really think what someone else is thinking? | Psyche Ideas](https://psyche.co/ideas/can-you-ever-really-think-what-someone-else-is-thinking) - 2026-11-01
-* [AudioQuest DragonFly Copper review](https://www.whathifi.com/hi-fi/dacs/audioquest-dragonfly-copper) - 2026-11-01
-* [Bankinter no funciona: los clientes no pueden acceder a sus cuentas](https://www.adslzone.net/noticias/fintech/bankinter-no-funciona-caida-clientes-cuentas/) - 2026-10-31
-* [AI-Generated Work Is Breaking the Links Between Degrees and Real Skills,](https://scienmag.com/ai-generated-work-is-breaking-the-links-between-degrees-and-real-skills-researchers-warn/) - 2026-10-31
+* [How AI replaced me](https://www.oaklandreviewofbooks.org/how-ai-replaced-me/) - 2026-11-02
+* [Mark Zuckerberg's new toy, Muse, is a parasite](https://www.sfgate.com/bayarea/article/mark-zuckerberg-muse-parasite-22468893.php) - 2026-11-02
+* [8 types of web applications and examples](https://www.hostinger.com/tutorials/types-of-web-applications/) - 2026-11-02
+* [Una mirada al uso de PHP en el sector público argentino](https://blog.segu-info.com.ar/2026/10/una-mirada-al-uso-de-php-en-el-sector.html) - 2026-11-02
+* [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/) - 2026-11-02
 <!-- mastodon ends -->
 
 ---
