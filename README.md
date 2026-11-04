@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-03
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-02
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-02
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-04
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-03
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-03
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-01
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-28
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [The Movement to Privatize Public Schools](https://tultican.com/2026/10/27/the-movement-to-privatize-public-schools/) - 2026-11-03
-* [What High School Debaters Have Really Been Learning About AI: You Won’t Even Believe it](http://stefanbauschard.substack.com/p/what-high-school-debaters-have-really%7Cstefanbauschard.substack.com/p/what-high-school-debaters-have-really) - 2026-11-03
-* [Researchers left a hidden message for rogue AI agents. Then the agents wrote back.](https://thenewstack.io/rogue-ai-agent-fleet-tencent/) - 2026-11-03
-* [Do Asynchronous Courses Need Synchronous Sessions to Succeed? - Online Learning Consortium](https://onlinelearningconsortium.org/olc-insights/2026/10/do-asynchronous-courses-need-synchronous-sessions-to-succeed/) - 2026-11-03
-* [Infestada.](https://asavecesunafoto.wordpress.com/2026/11/02/infestada/) - 2026-11-02
+* [The Seven Deadly Fediverse UX Sins: A Redemption Report Card - We Distribute](https://wedistribute.org/2026/04/the-seven-deadly-fediverse-ux-sins-a-redemption-report-card/) - 2026-11-04
+* [The Seven Deadly Fediverse UX Sins: A Redemption Report Card - We Distribute](https://wedistribute.org/2026/04/the-seven-deadly-fediverse-ux-sins-a-redemption-report-card/) - 2026-11-04
+* [VI Jornada de la Academia Joven de España 2026 | Academia Joven de España](https://academiajoven.es/proximos/vi-jornada-de-la-academia-joven-de-espana-2026/) - 2026-11-04
+* [Why Leaving Academia Feels Like Withdrawal (opinion)](https://www.insidehighered.com/opinion/career-advice/2026/10/12/why-leaving-academia-feels-withdrawal-opinion) - 2026-11-04
+* [Academic urban legends](https://journals.sagepub.com/doi/full/10.1177/0306312714535679) - 2026-11-04
 <!-- mastodon ends -->
 
 ---
