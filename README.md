@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-04
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-03
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-03
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-05
+* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-05
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-04
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-04
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-01
-* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-10-28
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-26
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [The Seven Deadly Fediverse UX Sins: A Redemption Report Card - We Distribute](https://wedistribute.org/2026/04/the-seven-deadly-fediverse-ux-sins-a-redemption-report-card/) - 2026-11-04
-* [The Seven Deadly Fediverse UX Sins: A Redemption Report Card - We Distribute](https://wedistribute.org/2026/04/the-seven-deadly-fediverse-ux-sins-a-redemption-report-card/) - 2026-11-04
-* [VI Jornada de la Academia Joven de España 2026 | Academia Joven de España](https://academiajoven.es/proximos/vi-jornada-de-la-academia-joven-de-espana-2026/) - 2026-11-04
-* [Why Leaving Academia Feels Like Withdrawal (opinion)](https://www.insidehighered.com/opinion/career-advice/2026/10/12/why-leaving-academia-feels-withdrawal-opinion) - 2026-11-04
-* [Academic urban legends](https://journals.sagepub.com/doi/full/10.1177/0306312714535679) - 2026-11-04
+* [Windham Hill 50th Anniversary: Concert & Conversations - Windham Hill Records](https://windhamhillrecords.com/2026/04/windham-hill-50th-anniversary-concert-conversations/) - 2026-11-05
+* [Twelve years of distributed SQLite – Philip O'Toole](https://philipotoole.com/twelve-years-of-distributed-sqlite/) - 2026-11-05
+* [North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History | TRM Labs](https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history) - 2026-11-05
+* [Acto de presentación y entrega del libro "50º Aniversario de la Primera Promoción de Ingeniería Industrial de Aragón" | Escuela de Ingeniería y Arquitectura](https://eina.unizar.es/noticia/acto-de-presentacion-y-entrega-del-libro-50o-aniversario-de-la-primera-promocion-de) - 2026-11-05
+* [About – Participedia](https://participedia.net/about) - 2026-11-05
 <!-- mastodon ends -->
 
 ---
