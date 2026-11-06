@@ -14,13 +14,13 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-05
+* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-06
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-06
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-05
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-04
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-04
-* [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-01
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-05
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-05
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-05
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-10-26
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
@@ -36,6 +36,8 @@
 <!-- blog starts -->
 ## [fernand0@dev.to (in English)](https://dev.to/fernand0)
 
+* [The Chatbot Bridge (Part 2)](https://dev.to/fernand0/the-chatbot-bridge-part-2-5jd) - 2026-11-05
+
 * [So, you want to vibecode another note taking app? (Part 1)](https://dev.to/fernand0/so-you-want-to-vibecode-another-note-taking-app-part-1-j2o) - 2026-05-03
 
 * [Links for 2026-03-12 (Testing RSS importing feature)](https://dev.to/fernand0/links-for-2026-03-12-testing-rss-importing-feature-58j6) - 2026-03-12
@@ -44,9 +46,9 @@
 
 * [So you would like to digitise your CD collection? (& Part 4)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-4-4kem) - 2025-04-08
 
-* [So you would like to digitise your CD collection? (Part 3)](https://dev.to/fernand0/so-you-would-like-to-digitise-your-cd-collection-part-3-505f) - 2025-03-09
-
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
+
+* [¿Quién arregla los proyectos que no mantiene nadie?](https://fernand0.github.io/mantenedore-ultimo-recurso/) - 2026-11-05
 
 * [Una IA para generar un secuestro de información completo](https://fernand0.github.io/ransomware-ia/) - 2026-10-26
 
@@ -56,9 +58,9 @@
 
 * [CSRF y go](https://fernand0.github.io/csrf-go/) - 2026-09-29
 
-* [Los atajos salen caros, también en defensa.](https://fernand0.github.io/robando-GPU/) - 2026-09-22
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [En Buenos Días Aragón hablando del ciberataque a los frigoríficos](https://blog.elmundoesimperfecto.com/2026/11/04/en-buenos-dias-aragon-frigorificos/) - 2026-11-04
 
 * [En La Era de las Distros, hablando de las oficinas universitarias de software libre](https://blog.elmundoesimperfecto.com/2026/10/26/en-la-era-distros-oficinas-universitarias-software-libre/) - 2026-10-26
 
@@ -67,19 +69,17 @@
 * [Redes sociales, algoritmos y ¿el valor de la web abierta?](https://blog.elmundoesimperfecto.com/2026/10/07/compasion-regulacion-educacion/) - 2026-10-07
 
 * [La importancia de preparar buenos documentos en los proyectos](https://blog.elmundoesimperfecto.com/2026/09/29/arquitectura-programacion/) - 2026-09-29
-
-* [Informática: ¿programas o herramientas?](https://blog.elmundoesimperfecto.com/2026/09/22/programas-personales/) - 2026-09-22
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Windham Hill 50th Anniversary: Concert & Conversations - Windham Hill Records](https://windhamhillrecords.com/2026/04/windham-hill-50th-anniversary-concert-conversations/) - 2026-11-05
-* [Twelve years of distributed SQLite – Philip O'Toole](https://philipotoole.com/twelve-years-of-distributed-sqlite/) - 2026-11-05
-* [North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History | TRM Labs](https://www.trmlabs.com/resources/blog/north-korea-steals-usd-6-36-billion-from-binance-in-the-largest-hack-in-history) - 2026-11-05
-* [Acto de presentación y entrega del libro "50º Aniversario de la Primera Promoción de Ingeniería Industrial de Aragón" | Escuela de Ingeniería y Arquitectura](https://eina.unizar.es/noticia/acto-de-presentacion-y-entrega-del-libro-50o-aniversario-de-la-primera-promocion-de) - 2026-11-05
-* [About – Participedia](https://participedia.net/about) - 2026-11-05
+* [How Britain Narrowly Escaped A Grid Blackout In June 2026](https://hackaday.com/2026/10/30/how-britain-narrowly-escaped-a-grid-blackout-in-june-2026/) - 2026-11-06
+* [Eugenio, el octogenario que suma 10 millones de seguidores recuperando oficios antiguos: “En 50 años hemos pasado de la Edad Media a un futuro incierto”](https://www.genbeta.com/actualidad/eugenio-octogenario-que-suma-10-millones-seguidores-recuperando-oficios-antiguos-50-anos-hemos-pasado-edad-media-a-futuro-incierto) - 2026-11-06
+* [Pedro, conductor de autobuses: "¿Quién decidió que el asiento del autobús debía parecer un fondo de pantalla de los años ochenta?"](https://www.genbeta.com/actualidad/pedro-conductor-autobuses-quien-decidio-que-asiento-autobus-debia-parecer-fondo-pantalla-anos-ochenta) - 2026-11-06
+* [Artificial Intelligence for Bonsai care (ChatGPT, Bonsai Master) - Philip Greenspun’s Weblog](https://philip.greenspun.com/blog/2026/10/03/artificial-intelligence-for-bonsai-care-chatgpt-bonsai-master/) - 2026-11-06
+* [Exclusive: The Professor Who Called To Abolish Business Schools Tells P&Q What He’d Build Instead](https://poetsandquants.com/2026/10/19/exclusive-the-professor-who-called-to-abolish-business-schools-tells-pq-what-hed-build-instead/) - 2026-11-06
 <!-- mastodon ends -->
 
 ---
