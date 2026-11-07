@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-07
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-06
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-06
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-06
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-06
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-05
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-05
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-05
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-05
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [How Britain Narrowly Escaped A Grid Blackout In June 2026](https://hackaday.com/2026/10/30/how-britain-narrowly-escaped-a-grid-blackout-in-june-2026/) - 2026-11-06
-* [Eugenio, el octogenario que suma 10 millones de seguidores recuperando oficios antiguos: “En 50 años hemos pasado de la Edad Media a un futuro incierto”](https://www.genbeta.com/actualidad/eugenio-octogenario-que-suma-10-millones-seguidores-recuperando-oficios-antiguos-50-anos-hemos-pasado-edad-media-a-futuro-incierto) - 2026-11-06
-* [Pedro, conductor de autobuses: "¿Quién decidió que el asiento del autobús debía parecer un fondo de pantalla de los años ochenta?"](https://www.genbeta.com/actualidad/pedro-conductor-autobuses-quien-decidio-que-asiento-autobus-debia-parecer-fondo-pantalla-anos-ochenta) - 2026-11-06
-* [Artificial Intelligence for Bonsai care (ChatGPT, Bonsai Master) - Philip Greenspun’s Weblog](https://philip.greenspun.com/blog/2026/10/03/artificial-intelligence-for-bonsai-care-chatgpt-bonsai-master/) - 2026-11-06
-* [Exclusive: The Professor Who Called To Abolish Business Schools Tells P&Q What He’d Build Instead](https://poetsandquants.com/2026/10/19/exclusive-the-professor-who-called-to-abolish-business-schools-tells-pq-what-hed-build-instead/) - 2026-11-06
+* [That Weird 7-Pin S-Video Port On Old Laptops](https://hackaday.com/2026/10/24/that-weird-7-pin-s-video-port-on-old-laptops/) - 2026-11-07
+* [Pushing Bluetooth Out To 12 Kilometers](https://hackaday.com/2026/10/24/pushing-bluetooth-out-to-12-kilometers/) - 2026-11-07
+* [The End of the Internet](https://stratechery.com/2026/the-end-of-the-internet/) - 2026-11-07
+* [Sarcófago selyúcida con inscripciones](https://www.flickr.com/photos/fernand0/55596791199/) - 2026-11-07
+* [How cocaine conquered the UK: in pubs, festivals and workplaces the drug has become an everyday habit](https://www.theguardian.com/society/ng-interactive/2026/oct/25/how-cocaine-conquered-the-uk-inside-britains-pubs-festivals-and-workplaces-the-drug-has-become-an-everyday-habit) - 2026-11-07
 <!-- mastodon ends -->
 
 ---
