@@ -14,14 +14,14 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-07
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-08
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-07
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-07
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-07
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-06
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-06
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-06
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-05
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-05
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-09-23
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
 
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [That Weird 7-Pin S-Video Port On Old Laptops](https://hackaday.com/2026/10/24/that-weird-7-pin-s-video-port-on-old-laptops/) - 2026-11-07
-* [Pushing Bluetooth Out To 12 Kilometers](https://hackaday.com/2026/10/24/pushing-bluetooth-out-to-12-kilometers/) - 2026-11-07
-* [The End of the Internet](https://stratechery.com/2026/the-end-of-the-internet/) - 2026-11-07
-* [Sarcófago selyúcida con inscripciones](https://www.flickr.com/photos/fernand0/55596791199/) - 2026-11-07
-* [How cocaine conquered the UK: in pubs, festivals and workplaces the drug has become an everyday habit](https://www.theguardian.com/society/ng-interactive/2026/oct/25/how-cocaine-conquered-the-uk-inside-britains-pubs-festivals-and-workplaces-the-drug-has-become-an-everyday-habit) - 2026-11-07
+* [Sarcófago periodo romano](https://www.flickr.com/photos/fernand0/55596791234/) - 2026-11-08
+* [Dear Software Makers](https://blog.jim-nielsen.com/2026/dear-software-makers/) - 2026-11-08
+* [The Pulse: Time to rethink software security because of AI?](https://newsletter.pragmaticengineer.com/p/the-pulse-time-to-rethink-software) - 2026-11-08
+* [The AI-Empowered Leader: How Tech Amplifies Human Agency](https://esheninger.blogspot.com/2026/11/the-ai-empowered-leader-how-tech.html) - 2026-11-08
+* ["If AI can do most of what we think an architect does, maybe we have defined the profession too narrowly"](https://www.dezeen.com/2026/10/29/ai-piers-taylor-opinion/) - 2026-11-07
 <!-- mastodon ends -->
 
 ---
