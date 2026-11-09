@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-08
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-07
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-09
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-08
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-08
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-07
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-07
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-06
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-05
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-05
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Sarcófago periodo romano](https://www.flickr.com/photos/fernand0/55596791234/) - 2026-11-08
-* [Dear Software Makers](https://blog.jim-nielsen.com/2026/dear-software-makers/) - 2026-11-08
-* [The Pulse: Time to rethink software security because of AI?](https://newsletter.pragmaticengineer.com/p/the-pulse-time-to-rethink-software) - 2026-11-08
-* [The AI-Empowered Leader: How Tech Amplifies Human Agency](https://esheninger.blogspot.com/2026/11/the-ai-empowered-leader-how-tech.html) - 2026-11-08
-* ["If AI can do most of what we think an architect does, maybe we have defined the profession too narrowly"](https://www.dezeen.com/2026/10/29/ai-piers-taylor-opinion/) - 2026-11-07
+* [< https://www.pnas.org/doi/10.1073/pnas.2206992119](https://www.pnas.org/doi/10.1073/pnas.2206992119) - 2026-11-09
+* [ICDSST 2027 - ICDSST 2027](https://icdsst2027.ewg-dss.com/) - 2026-11-09
+* [Tinajas](https://www.flickr.com/photos/fernand0/55596791244/) - 2026-11-09
+* [Schools Are Experimenting With AI With Little Evidence or Policy to Guide Them | KQED](https://www.kqed.org/mindshift/66673/schools-are-experimenting-with-ai-with-little-evidence-or-policy-to-guide-them) - 2026-11-09
+* [Keeping Up with AI When the Classroom Is the Frontier](https://marcwatkins.substack.com/p/keeping-up-with-ai-when-the-classroom) - 2026-11-09
 <!-- mastodon ends -->
 
 ---
