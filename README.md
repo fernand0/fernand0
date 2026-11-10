@@ -14,13 +14,13 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-09
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-08
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-08
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-10
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-09
+* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-09
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-09
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-07
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-06
-* [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-05
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-05
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
 * [err-notes](https://github.com/fernand0/err-notes),  A plugin to use another-note-taking-app from errbot - 2026-08-12
@@ -48,6 +48,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [Canales laterales: el ratón como sustituto del micrófono para espiar](https://fernand0.github.io/espionaje-auditivo/) - 2026-11-09
+
 * [¿Quién arregla los proyectos que no mantiene nadie?](https://fernand0.github.io/mantenedore-ultimo-recurso/) - 2026-11-05
 
 * [Una IA para generar un secuestro de información completo](https://fernand0.github.io/ransomware-ia/) - 2026-10-26
@@ -56,9 +58,9 @@
 
 * [¿Cómo validar a los proveedores de productos de seguridad que incluyen IA?](https://fernand0.github.io/guia-compra-ciberseguridad-ai/) - 2026-10-07
 
-* [CSRF y go](https://fernand0.github.io/csrf-go/) - 2026-09-29
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [Privacidad en situaciones donde no es tan evidente](https://blog.elmundoesimperfecto.com/2026/11/09/navegadores-aplicaciones/) - 2026-11-09
 
 * [En Buenos Días Aragón hablando del ciberataque a los frigoríficos](https://blog.elmundoesimperfecto.com/2026/11/04/en-buenos-dias-aragon-frigorificos/) - 2026-11-04
 
@@ -67,19 +69,17 @@
 * [Los desarrolladores, su trabajo y algunas ideas sobre el futuro](https://blog.elmundoesimperfecto.com/2026/10/19/ia-trabajo/) - 2026-10-19
 
 * [Redes sociales, algoritmos y ¿el valor de la web abierta?](https://blog.elmundoesimperfecto.com/2026/10/07/compasion-regulacion-educacion/) - 2026-10-07
-
-* [La importancia de preparar buenos documentos en los proyectos](https://blog.elmundoesimperfecto.com/2026/09/29/arquitectura-programacion/) - 2026-09-29
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [< https://www.pnas.org/doi/10.1073/pnas.2206992119](https://www.pnas.org/doi/10.1073/pnas.2206992119) - 2026-11-09
-* [ICDSST 2027 - ICDSST 2027](https://icdsst2027.ewg-dss.com/) - 2026-11-09
-* [Tinajas](https://www.flickr.com/photos/fernand0/55596791244/) - 2026-11-09
-* [Schools Are Experimenting With AI With Little Evidence or Policy to Guide Them | KQED](https://www.kqed.org/mindshift/66673/schools-are-experimenting-with-ai-with-little-evidence-or-policy-to-guide-them) - 2026-11-09
-* [Keeping Up with AI When the Classroom Is the Frontier](https://marcwatkins.substack.com/p/keeping-up-with-ai-when-the-classroom) - 2026-11-09
+* [Capitel con forma prismática](https://www.flickr.com/photos/fernand0/55596715128/) - 2026-11-10
+* [AI QA Testing | Code Simulation Per Release | PlayerZero](https://playerzero.ai/use-cases/qa) - 2026-11-10
+* [How to serve trillions of tokens for trillion-parameter coding agents | Modal Blog](https://modal.com/blog/trillion-tokens-trillion-parameters) - 2026-11-10
+* [Faster than earcut: triangulating 3.7M map polygons in 489 ms | GLOBUS](https://globus.software/blog/2026/10/16/cutting-map-polygons/) - 2026-11-10
+* [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) - 2026-11-10
 <!-- mastodon ends -->
 
 ---
