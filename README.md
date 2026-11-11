@@ -14,11 +14,11 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-10
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-09
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-11
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-10
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-10
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-09
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-09
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-07
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-06
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Capitel con forma prismática](https://www.flickr.com/photos/fernand0/55596715128/) - 2026-11-10
-* [AI QA Testing | Code Simulation Per Release | PlayerZero](https://playerzero.ai/use-cases/qa) - 2026-11-10
-* [How to serve trillions of tokens for trillion-parameter coding agents | Modal Blog](https://modal.com/blog/trillion-tokens-trillion-parameters) - 2026-11-10
-* [Faster than earcut: triangulating 3.7M map polygons in 489 ms | GLOBUS](https://globus.software/blog/2026/10/16/cutting-map-polygons/) - 2026-11-10
-* [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/) - 2026-11-10
+* [Why are good developers so wary of agentic development?](https://martinfowler.com/rachels-ramblings/good-devs-wary.html) - 2026-11-11
+* [When Software Meets Hardware](https://martinfowler.com/articles/software-meets-hardware.html) - 2026-11-11
+* [How good is your content, really? · Blog · Liip](https://www.liip.ch/en/blog/how-good-is-your-content-really) - 2026-11-11
+* [Jeffrey Zeldman Presents - The Day the Focus Died - glamorous](https://zeldman.com/2026/10/29/the-day-the-focus-died/) - 2026-11-11
+* [Flores violetas](https://asavecesunafoto.wordpress.com/2026/11/10/flores-violetas/) - 2026-11-10
 <!-- mastodon ends -->
 
 ---
