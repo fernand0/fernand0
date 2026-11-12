@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-11
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-10
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-10
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-12
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-11
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-11
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-11
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-09
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-07
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-06
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Why are good developers so wary of agentic development?](https://martinfowler.com/rachels-ramblings/good-devs-wary.html) - 2026-11-11
-* [When Software Meets Hardware](https://martinfowler.com/articles/software-meets-hardware.html) - 2026-11-11
-* [How good is your content, really? · Blog · Liip](https://www.liip.ch/en/blog/how-good-is-your-content-really) - 2026-11-11
-* [Jeffrey Zeldman Presents - The Day the Focus Died - glamorous](https://zeldman.com/2026/10/29/the-day-the-focus-died/) - 2026-11-11
-* [Flores violetas](https://asavecesunafoto.wordpress.com/2026/11/10/flores-violetas/) - 2026-11-10
+* [Aragón Business Summit 2026](https://event.meetmaps.com/aragonbusinesssummit26/es/info) - 2026-11-12
+* [X Congreso Nacional de Científicos Emprendedores](https://emprendedorescientificos.org/) - 2026-11-12
+* [AI coding agents generate more code, but not more software](https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/) - 2026-11-12
+* [‘I use AI to do the things that I’m bad at’: Linus Torvalds on why it works for him - ZDNET](https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/) - 2026-11-12
+* [Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb](https://www.bbc.com/news/articles/cw98z6qlyvg3o) - 2026-11-12
 <!-- mastodon ends -->
 
 ---
