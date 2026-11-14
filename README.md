@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-13
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-12
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-12
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-11
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-14
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-13
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-13
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-13
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-09
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-06
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [The Web Is More Than Enough, by Paul Ford](https://ftrain.com/aboard-the-web-is-more-than-enough) - 2026-11-13
-* [Inside GitHub's new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/) - 2026-11-13
-* [Don’t Build the Reusable Component Yet - Stack Overflow](https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet/) - 2026-11-13
-* [Living off the agent: The new tactic hijacking enterprise AI](https://thenewstack.io/agentic-ai-spy-game/) - 2026-11-13
-* [Early rogue AI agent activity and attempts to hack found on urlquery.net](https://transluce.org/agent-activity) - 2026-11-13
+* [What is it like to work when your co-workers are AI agents?](https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker) - 2026-11-14
+* [Freeze the Controller, Defrost the Food: Uncovering Vulnerabilities in Danfoss Refrigeration Controllers](https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers) - 2026-11-14
+* [The AI bubble could expose your deepest secrets](https://www.bbc.co.uk/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets) - 2026-11-14
+* [Do the Math: How We Took Over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai) - 2026-11-14
+* [Espinas y hojas.](https://asavecesunafoto.wordpress.com/2026/11/13/espinas-y-hojas/) - 2026-11-13
 <!-- mastodon ends -->
 
 ---
