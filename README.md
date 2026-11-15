@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-14
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-15
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-14
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-14
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-13
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-13
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-13
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-09
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-06
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [What is it like to work when your co-workers are AI agents?](https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker) - 2026-11-14
-* [Freeze the Controller, Defrost the Food: Uncovering Vulnerabilities in Danfoss Refrigeration Controllers](https://claroty.com/team82/research/freeze-the-controller-defrost-the-food-uncovering-vulnerabilities-in-danfoss-refrigeration-controllers) - 2026-11-14
-* [The AI bubble could expose your deepest secrets](https://www.bbc.co.uk/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets) - 2026-11-14
-* [Do the Math: How We Took Over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai) - 2026-11-14
-* [Espinas y hojas.](https://asavecesunafoto.wordpress.com/2026/11/13/espinas-y-hojas/) - 2026-11-13
+* [Nvidia launches probe after CEO Jensen Huang admits to affair with suspected spy](https://www.independent.co.uk/news/world/americas/nvidia-ceo-jensen-huang-affair-spy-investigation-b3081353.html) - 2026-11-15
+* [The cursed cruise: how the dream of never-ending luxury at sea became a nightmare](https://www.theguardian.com/news/ng-interactive/2026/oct/31/mv-odyssey-cruise-passengers-nightmare-stranded-cambodia) - 2026-11-15
+* [Touch and Glow](https://daringfireball.net/2026/11/touch_and_glow) - 2026-11-15
+* [“I Hate My Fucking Life Right Now”: A Night Out With DC Republicans as the Blue Wave Crashed Down](https://www.vanityfair.com/story/midterms-republican-watch-party-blue-wave) - 2026-11-15
+* [Fuente de abluciones](https://www.flickr.com/photos/fernand0/55651370565/) - 2026-11-14
 <!-- mastodon ends -->
 
 ---
