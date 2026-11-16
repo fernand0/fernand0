@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-15
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-14
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-14
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-16
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-15
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-15
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-13
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-09
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Nvidia launches probe after CEO Jensen Huang admits to affair with suspected spy](https://www.independent.co.uk/news/world/americas/nvidia-ceo-jensen-huang-affair-spy-investigation-b3081353.html) - 2026-11-15
-* [The cursed cruise: how the dream of never-ending luxury at sea became a nightmare](https://www.theguardian.com/news/ng-interactive/2026/oct/31/mv-odyssey-cruise-passengers-nightmare-stranded-cambodia) - 2026-11-15
-* [Touch and Glow](https://daringfireball.net/2026/11/touch_and_glow) - 2026-11-15
-* [“I Hate My Fucking Life Right Now”: A Night Out With DC Republicans as the Blue Wave Crashed Down](https://www.vanityfair.com/story/midterms-republican-watch-party-blue-wave) - 2026-11-15
-* [Fuente de abluciones](https://www.flickr.com/photos/fernand0/55651370565/) - 2026-11-14
+* [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/) - 2026-11-16
+* [Deno is joining Cloudflare | Deno](https://deno.com/blog/cloudflare) - 2026-11-16
+* [AI is mass decompiling games. That's both awesome and scary.](https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/) - 2026-11-16
+* [My obituary for programming "](http://dumbmatter.com) - 2026-11-16
+* [PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet | Wiz Blog](https://www.wiz.io/blog/php2shell-php-rce) - 2026-11-16
 <!-- mastodon ends -->
 
 ---
