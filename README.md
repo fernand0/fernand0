@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-16
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-15
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-15
-* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-13
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-17
+* [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-16
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-16
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-16
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-09
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-06
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [I'm still around.. I'm just not writing here](https://rachelbythebay.com/w/2026/10/08/idle/) - 2026-11-16
-* [Deno is joining Cloudflare | Deno](https://deno.com/blog/cloudflare) - 2026-11-16
-* [AI is mass decompiling games. That's both awesome and scary.](https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/) - 2026-11-16
-* [My obituary for programming "](http://dumbmatter.com) - 2026-11-16
-* [PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet | Wiz Blog](https://www.wiz.io/blog/php2shell-php-rce) - 2026-11-16
+* [Pinterest and Intel Take Open-Source Profiling to Internet Scale](https://www.infoq.com/news/2026/11/pinterest-intel-profiling/) - 2026-11-17
+* [Si dejamos que decida la IA, le estamos entregando la batuta.](https://navegapolis.com/website/releyendo-el-manifiesto-agil-ahora-que-la-ia-lo-hace-todo/) - 2026-11-17
+* [A self-hosted, AI-powered personal knowledge base.](https://www.opensourceprojects.dev/post/8ce4343b-30a6-41d0-910e-88c403cad36e) - 2026-11-17
+* [GitHub - trypostit/trypost: Open-source social media scheduler built for AI agents and the teams behind them. Create, schedule and publish posts to every network through MCP or the REST API, or write them yourself in a composer your team will love.](https://github.com/trypostit/trypost) - 2026-11-17
+* [TryPost: Open Source Buffer Alternative | OpenAltFinder](https://openaltfinder.com/tools/trypost) - 2026-11-17
 <!-- mastodon ends -->
 
 ---
