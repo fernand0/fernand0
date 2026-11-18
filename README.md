@@ -14,12 +14,12 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-17
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-18
+* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-17
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-17
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-17
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-16
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-16
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-16
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
-* [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-09
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-06
 * [another-note-taking-app](https://github.com/fernand0/another-note-taking-app),  Another note taking app - 2026-10-26
 * [manage-imap](https://github.com/fernand0/manage-imap),  A script for managing imap folders - 2026-09-10
@@ -48,6 +48,8 @@
 
 ## [fernand0@GitHub (in Spanish)](https://fernand0.github.io)
 
+* [Las URL y cómo las usan para confundir a los usuarios](https://fernand0.github.io/urls-ofuscacion/) - 2026-11-17
+
 * [Canales laterales: el ratón como sustituto del micrófono para espiar](https://fernand0.github.io/espionaje-auditivo/) - 2026-11-09
 
 * [¿Quién arregla los proyectos que no mantiene nadie?](https://fernand0.github.io/mantenedore-ultimo-recurso/) - 2026-11-05
@@ -56,9 +58,9 @@
 
 * [¿Cuánto tiempo tu dominio será tuyo?](https://fernand0.github.io/la-ocupacion-de-dominios/) - 2026-10-19
 
-* [¿Cómo validar a los proveedores de productos de seguridad que incluyen IA?](https://fernand0.github.io/guia-compra-ciberseguridad-ai/) - 2026-10-07
-
 ## [Bitácora de fernand0 (in Spanish)](https://blog.elmundoesimperfecto.com)
+
+* [La IA nos vuelve descuidados](https://blog.elmundoesimperfecto.com/2026/11/17/ia-descuidados/) - 2026-11-17
 
 * [Privacidad en situaciones donde no es tan evidente](https://blog.elmundoesimperfecto.com/2026/11/09/navegadores-aplicaciones/) - 2026-11-09
 
@@ -67,19 +69,17 @@
 * [En La Era de las Distros, hablando de las oficinas universitarias de software libre](https://blog.elmundoesimperfecto.com/2026/10/26/en-la-era-distros-oficinas-universitarias-software-libre/) - 2026-10-26
 
 * [Los desarrolladores, su trabajo y algunas ideas sobre el futuro](https://blog.elmundoesimperfecto.com/2026/10/19/ia-trabajo/) - 2026-10-19
-
-* [Redes sociales, algoritmos y ¿el valor de la web abierta?](https://blog.elmundoesimperfecto.com/2026/10/07/compasion-regulacion-educacion/) - 2026-10-07
 <!-- blog ends -->
 
 # Links published in my Mastodon and other social networks.
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Pinterest and Intel Take Open-Source Profiling to Internet Scale](https://www.infoq.com/news/2026/11/pinterest-intel-profiling/) - 2026-11-17
-* [Si dejamos que decida la IA, le estamos entregando la batuta.](https://navegapolis.com/website/releyendo-el-manifiesto-agil-ahora-que-la-ia-lo-hace-todo/) - 2026-11-17
-* [A self-hosted, AI-powered personal knowledge base.](https://www.opensourceprojects.dev/post/8ce4343b-30a6-41d0-910e-88c403cad36e) - 2026-11-17
-* [GitHub - trypostit/trypost: Open-source social media scheduler built for AI agents and the teams behind them. Create, schedule and publish posts to every network through MCP or the REST API, or write them yourself in a composer your team will love.](https://github.com/trypostit/trypost) - 2026-11-17
-* [TryPost: Open Source Buffer Alternative | OpenAltFinder](https://openaltfinder.com/tools/trypost) - 2026-11-17
+* [Pinterest Uses Event Time Watermarks to Finalize Petabyte Scale Data Partitions](https://www.infoq.com/news/2026/10/pinterest-event-time-partition/) - 2026-11-18
+* [Jornadas 18N: Día Internacional de las Personas LGBTQIA+ en STEM en el INMA y en la Facultad de Ciencias](https://www.unizar.es/actualidad/vernoticia_ng.php?id=100046) - 2026-11-18
+* [Agent Distraction- Google Developers Blog](https://developers.googleblog.com/agent-distraction/) - 2026-11-18
+* [A la vista del spam que llega a una de mis cuentas de correo más expuestas el tema del almacenamiento lleno es uno de los problemas de la vida de la](gente.) - 2026-11-18
+* [Así es la estrategia en Telegram de Shahid Kaveh, la unidad iraní a la que se atribuye el ciberataque contra refrigeradores en Francia](https://www.newtral.es/estrategia-telegram-shahid-kaveh-refrigeradores-francia/20261110/) - 2026-11-18
 <!-- mastodon ends -->
 
 ---
