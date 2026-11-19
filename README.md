@@ -14,10 +14,10 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-19
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-18
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-18
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-17
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-17
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-17
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-16
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
 * [manage-agenda](https://github.com/fernand0/manage-agenda),  A tool for adding entries on my Google Calendar from email messages - 2026-11-06
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Pinterest Uses Event Time Watermarks to Finalize Petabyte Scale Data Partitions](https://www.infoq.com/news/2026/10/pinterest-event-time-partition/) - 2026-11-18
-* [Jornadas 18N: Día Internacional de las Personas LGBTQIA+ en STEM en el INMA y en la Facultad de Ciencias](https://www.unizar.es/actualidad/vernoticia_ng.php?id=100046) - 2026-11-18
-* [Agent Distraction- Google Developers Blog](https://developers.googleblog.com/agent-distraction/) - 2026-11-18
-* [A la vista del spam que llega a una de mis cuentas de correo más expuestas el tema del almacenamiento lleno es uno de los problemas de la vida de la](gente.) - 2026-11-18
-* [Así es la estrategia en Telegram de Shahid Kaveh, la unidad iraní a la que se atribuye el ciberataque contra refrigeradores en Francia](https://www.newtral.es/estrategia-telegram-shahid-kaveh-refrigeradores-francia/20261110/) - 2026-11-18
+* [Jailbreaking my car's navigation system just so I can change the time | nns.ee](https://blog.nns.ee/2026/11/02/renault-hack/) - 2026-11-19
+* [Announcing NetBSD 11.1 (November 2, 2026)](https://netbsd.org/releases/formal-11/NetBSD-11.1.html) - 2026-11-19
+* [Why don't we run the taskbar and Task Manager at high priority, so they can remain responsive? - The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20261027-00/?p=112800/) - 2026-11-19
+* [XERJ Query-1: a neurosymbolic model that compiles prompts to verifiable search queries](https://xerj.org/blog/xerj-query-ai-model) - 2026-11-19
+* [Después del verano.](https://asavecesunafoto.wordpress.com/2026/11/18/despues-del-verano/) - 2026-11-19
 <!-- mastodon ends -->
 
 ---
