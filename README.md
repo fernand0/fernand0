@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-19
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-18
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-18
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-20
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-19
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-19
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-17
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-16
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Jailbreaking my car's navigation system just so I can change the time | nns.ee](https://blog.nns.ee/2026/11/02/renault-hack/) - 2026-11-19
-* [Announcing NetBSD 11.1 (November 2, 2026)](https://netbsd.org/releases/formal-11/NetBSD-11.1.html) - 2026-11-19
-* [Why don't we run the taskbar and Task Manager at high priority, so they can remain responsive? - The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20261027-00/?p=112800/) - 2026-11-19
-* [XERJ Query-1: a neurosymbolic model that compiles prompts to verifiable search queries](https://xerj.org/blog/xerj-query-ai-model) - 2026-11-19
-* [Después del verano.](https://asavecesunafoto.wordpress.com/2026/11/18/despues-del-verano/) - 2026-11-19
+* [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) - 2026-11-20
+* [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html) - 2026-11-20
+* [I can't believe PowerShell is actually good](https://www.spacebar.news/powershell-is-actually-good/) - 2026-11-20
+* [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) - 2026-11-20
+* [Alpine Linux con el kernel de NetBSD](https://wiki.alpinebsd.org/) - 2026-11-20
 <!-- mastodon ends -->
 
 ---
