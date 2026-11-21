@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-20
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-19
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-19
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-21
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-20
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-20
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-17
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-16
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition) - 2026-11-20
-* [examining the macOS gcc binary](https://zoey-on-github.github.io/blog/macgcc.html) - 2026-11-20
-* [I can't believe PowerShell is actually good](https://www.spacebar.news/powershell-is-actually-good/) - 2026-11-20
-* [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) - 2026-11-20
-* [Alpine Linux con el kernel de NetBSD](https://wiki.alpinebsd.org/) - 2026-11-20
+* [Phishing at the Front Desk: Usable Security in Luxury Hotels - Bentham's Gaze](https://www.benthamsgaze.org/2026/11/11/phishing-at-the-front-desk-usable-security-in-luxury-hotels/) - 2026-11-21
+* [Checking the source is not enough: I traced a number to a scientific paper and found a Teams meeting](https://jamiewatters.work/journey/epic-sepsis-model-accuracy) - 2026-11-21
+* [Microsoft's massive M365 outage stretches past 20 hours as its fixes keep failing](https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-20-hours-as-its-fixes-keep-failing/5309609) - 2026-11-21
+* [Inauguración Red ALUMNI - EINA](https://www.unizar.es/actualidad/vernoticia_ng.php?id=100116) - 2026-11-21
+* [How the decimal place-value number system conquered Europe](https://thonyc.wordpress.com/2026/11/04/how-the-decimal-place-value-number-system-conquered-europe/) - 2026-11-21
 <!-- mastodon ends -->
 
 ---
