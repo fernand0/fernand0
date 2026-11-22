@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-21
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-20
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-20
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-22
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-21
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-21
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-17
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-16
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Phishing at the Front Desk: Usable Security in Luxury Hotels - Bentham's Gaze](https://www.benthamsgaze.org/2026/11/11/phishing-at-the-front-desk-usable-security-in-luxury-hotels/) - 2026-11-21
-* [Checking the source is not enough: I traced a number to a scientific paper and found a Teams meeting](https://jamiewatters.work/journey/epic-sepsis-model-accuracy) - 2026-11-21
-* [Microsoft's massive M365 outage stretches past 20 hours as its fixes keep failing](https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-20-hours-as-its-fixes-keep-failing/5309609) - 2026-11-21
-* [Inauguración Red ALUMNI - EINA](https://www.unizar.es/actualidad/vernoticia_ng.php?id=100116) - 2026-11-21
-* [How the decimal place-value number system conquered Europe](https://thonyc.wordpress.com/2026/11/04/how-the-decimal-place-value-number-system-conquered-europe/) - 2026-11-21
+* [Merging with diff3 - The If Works](https://blog.jcoglan.com/2017/05/08/merging-with-diff3/) - 2026-11-22
+* [Why merges fail and what can be done about it - The If Works](https://blog.jcoglan.com/2017/06/19/why-merges-fail-and-what-can-be-done-about-it/) - 2026-11-22
+* [Myers' Diff Algorithm: A Powerful Tool for Efficient Sequence Comparison](https://www.jsdiff.com/docs/myers-diff-algorithm.html) - 2026-11-22
+* [How a Developer Endpoint Became the Path to Binance’s $6.3B Heist - Palo Alto Networks Blog](https://www.paloaltonetworks.com/blog/security-operations/how-a-developer-endpoint-became-the-path-to-binances-6-3b-heist/) - 2026-11-22
+* [The end of Maga as we know it](https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it) - 2026-11-22
 <!-- mastodon ends -->
 
 ---
