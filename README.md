@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-23
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-22
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-22
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-24
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-23
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-23
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-17
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-16
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Inside Deutsche Bank: la filtración de 15 millones de archivos desvela los secretos y escándalos del gigante financiero mundial](https://www.eldiario.es/economia/inside-deutsche-bank-filtracion-15-millones-archivos-desvela-secretos-escandalos-gigante-financiero-mundial_1_13669007.html) - 2026-11-23
-* [Seven Shades of Shadow AI: A 2026 Field Guide for Pragmatists](https://chuvakin.blogspot.com/2026/11/seven-shades-of-shadow-ai-2026-field.html) - 2026-11-23
-* [Hiding Behind AI](https://www.lighthousereports.com/investigation/hiding-behind-ai/) - 2026-11-23
-* [Man Says Meta's Muse AI Gave His Home Address Out to Strangers](https://futurism.com/artificial-intelligence/metas-muse-ai-giving-users-home-addresses) - 2026-11-23
-* [Opposition deepfake video of Spanish PM’s wife sparks outrage before election](https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election) - 2026-11-23
+* [FEMMAZ IV EDICIÓN](https://www.femmaz.com/) - 2026-11-24
+* [Programa SIE HUESCA -](https://www.siehuesca.es/programa-sie2021/) - 2026-11-24
+* [Android Security Patch Levels: How to Check Yours](https://www.esecurityplanet.com/security/news-android-security-patch-levels-explained/) - 2026-11-24
+* [Chrome’s Incognito mode has a security blind spot, but Google is plugging the hole now](https://www.digitaltrends.com/computing/chromes-incognito-mode-has-a-security-blind-spot-but-google-is-plugging-the-hole-now/) - 2026-11-24
+* [Researcher Finds 100-Plus Flaws in UK Government Code](https://www.esecurityplanet.com/threats/news-government-code-security-flaws-emea-uk/) - 2026-11-24
 <!-- mastodon ends -->
 
 ---
