@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-24
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-23
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-23
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-25
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-24
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-24
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-17
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-16
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [FEMMAZ IV EDICIÓN](https://www.femmaz.com/) - 2026-11-24
-* [Programa SIE HUESCA -](https://www.siehuesca.es/programa-sie2021/) - 2026-11-24
-* [Android Security Patch Levels: How to Check Yours](https://www.esecurityplanet.com/security/news-android-security-patch-levels-explained/) - 2026-11-24
-* [Chrome’s Incognito mode has a security blind spot, but Google is plugging the hole now](https://www.digitaltrends.com/computing/chromes-incognito-mode-has-a-security-blind-spot-but-google-is-plugging-the-hole-now/) - 2026-11-24
-* [Researcher Finds 100-Plus Flaws in UK Government Code](https://www.esecurityplanet.com/threats/news-government-code-security-flaws-emea-uk/) - 2026-11-24
+* [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html) - 2026-11-25
+* [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html) - 2026-11-25
+* [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html) - 2026-11-25
+* [Máquina de escribir Erika](https://www.flickr.com/photos/fernand0/55650945856/) - 2026-11-25
+* [US National Security Agency's classified communications network NSANet down: Report](https://www.aninews.in/news/world/us/us-national-security-agencys-classified-communications-network-nsanet-down-report20261117213821/) - 2026-11-25
 <!-- mastodon ends -->
 
 ---
