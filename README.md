@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-25
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-24
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-24
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-26
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-25
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-25
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-17
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-16
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html) - 2026-11-25
-* [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html) - 2026-11-25
-* [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html) - 2026-11-25
-* [Máquina de escribir Erika](https://www.flickr.com/photos/fernand0/55650945856/) - 2026-11-25
-* [US National Security Agency's classified communications network NSANet down: Report](https://www.aninews.in/news/world/us/us-national-security-agencys-classified-communications-network-nsanet-down-report20261117213821/) - 2026-11-25
+* [Microsoft 365 Outage Cause: Windows Bug and Recovery Failures](https://www.esecurityplanet.com/news/news-microsoft-365-outage-windows-bug-recovery/) - 2026-11-26
+* [A Substack experiment](https://drummernews.substack.com/p/a-substack-experiment) - 2026-11-26
+* [Máquinas de escribir portátiles](https://www.flickr.com/photos/fernand0/55651371075/) - 2026-11-26
+* [Publicar en Threads e Instagram desde WordPress | Blogpocket](https://blogpocket.es/articulo/publicar-threads-instagram-wordpress-api/) - 2026-11-26
+* [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html) - 2026-11-26
 <!-- mastodon ends -->
 
 ---
