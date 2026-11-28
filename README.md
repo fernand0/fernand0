@@ -14,9 +14,9 @@
 <!-- recent_releases starts -->
 ## repositories
 
-* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-27
-* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-26
-* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-26
+* [botElectrico](https://github.com/fernand0/botElectrico),  Bot para ir mostrando si estamos en hora valle, punta, plana.... - 2026-11-28
+* [linkblog](https://github.com/fernand0/linkblog),  A vibe-coded linkblog based on social networks publications. - 2026-11-27
+* [fernand0](https://github.com/fernand0/fernand0),  Autoupdating readme.  - 2026-11-27
 * [fernand0.github.io](https://github.com/fernand0/fernand0.github.io),  A simple, elegant & full featured Jekyll theme. - 2026-11-17
 * [socialModules](https://github.com/fernand0/socialModules),  Several modules to write and read in several social netwoks and content sites. - 2026-11-16
 * [scripts](https://github.com/fernand0/scripts),  Programitas cortos que utilizo para teclear menos en la terminal. - 2026-11-09
@@ -75,11 +75,11 @@
 
 <!-- mastodon starts -->
 ## [Links published in my social networks](https://mastodon.social/@fernand0)
-* [One Hundred Gratuitous Case Fans? We’re Fans Of This.](https://hackaday.com/2026/11/20/one-hundred-gratuitous-case-fans-were-fans-of-this/) - 2026-11-27
-* [Máquinas de escribir](https://www.flickr.com/photos/fernand0/55651371125/) - 2026-11-27
-* [Reparación dispositivos electrónicos - Café Repair - | Escuela de Ingeniería y Arquitectura](https://eina.unizar.es/noticia/reparacion-dispositivos-electronicos-cafe-repair) - 2026-11-27
-* [myF5](https://my.f5.com/manage/s/article/K000162416) - 2026-11-27
-* [Paper | Watching the Watchers](https://watchingthewatchers.github.io/watchingthewatchers/paper.html) - 2026-11-27
+* [Lo que aprendí cuando dije que cambiar la contraseña cada 90 días no sirve](https://carrero.es/cambiar-contrasena-90-dias-no-protege/) - 2026-11-28
+* [III JORNADAS: - "ARAGÓN: LA AUTONOMÍA EN LA ERA DIGITAL" (SESIÓN DE 25 DE NOVIEMBRE DE 2026) | Fundacion Manuel Gimenez Abad](https://www.fundacionmgimenezabad.es/actividades/iii-jornadas-aragon-la-autonomia-en-la-era-digital-sesion-de-25-de-noviembre-de-2026) - 2026-11-28
+* [Lámparas](https://www.flickr.com/photos/fernand0/55651147434/) - 2026-11-28
+* [Libro. La tercera guerra mundial](https://fotografiasenmovimiento.wordpress.com/2026/11/28/libro-la-tercera-guerra-mundial/) - 2026-11-28
+* [Microsoft Azure flaw exploited to steal customers' API credentials](https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/) - 2026-11-28
 <!-- mastodon ends -->
 
 ---
